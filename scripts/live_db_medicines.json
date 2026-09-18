@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "fefb6ce8-d380-407e-af03-709d3fe462d8",
+    "slug": "paracetamol",
+    "generic_name": "Paracetamol",
+    "display_name": "Paracetamol (Acetaminophen)",
+    "active_ingredient": "Paracetamol",
+    "salt": "Paracetamol",
+    "category": "Pain & Fever",
+    "verification_status": "verified"
+  },
+  {
+    "id": "cdfddd11-5b2b-42e1-ad39-ba09eeecf21b",
+    "slug": "ibuprofen",
+    "generic_name": "Ibuprofen",
+    "display_name": "Ibuprofen",
+    "active_ingredient": "Ibuprofen",
+    "salt": "Ibuprofen",
+    "category": "Pain & Fever",
+    "verification_status": "verified"
+  },
+  {
+    "id": "1625e7cb-00f6-4875-95c5-4c9f25e49dbb",
+    "slug": "diclofenac",
+    "generic_name": "Diclofenac",
+    "display_name": "Diclofenac",
+    "active_ingredient": "Diclofenac",
+    "salt": "Diclofenac sodium / potassium",
+    "category": "Pain & Fever",
+    "verification_status": "verified"
+  },
+  {
+    "id": "2ab01c08-1cd3-408a-94dc-0c351c27926a",
+    "slug": "naproxen",
+    "generic_name": "Naproxen",
+    "display_name": "Naproxen",
+    "active_ingredient": "Naproxen",
+    "salt": "Naproxen sodium",
+    "category": "Pain & Fever",
+    "verification_status": "verified"
+  },
+  {
+    "id": "ea5d3a22-d1eb-42f5-bc3c-89fff47ad381",
+    "slug": "amoxicillin",
+    "generic_name": "Amoxicillin",
+    "display_name": "Amoxicillin",
+    "active_ingredient": "Amoxicillin",
+    "salt": "Amoxicillin trihydrate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "d643f589-932f-4e10-9ba9-62ecc9dbc960",
+    "slug": "amoxicillin-clavulanic-acid",
+    "generic_name": "Amoxicillin + Clavulanic Acid",
+    "display_name": "Amoxicillin + Clavulanic Acid (Co-amoxiclav)",
+    "active_ingredient": "Amoxicillin, Clavulanic acid",
+    "salt": "Amoxicillin trihydrate + Potassium clavulanate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "18227fbe-9276-4d36-abac-ae6a2ca962d2",
+    "slug": "azithromycin",
+    "generic_name": "Azithromycin",
+    "display_name": "Azithromycin",
+    "active_ingredient": "Azithromycin",
+    "salt": "Azithromycin dihydrate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "e9a6149a-ec37-446c-a5e8-42131445c225",
+    "slug": "doxycycline",
+    "generic_name": "Doxycycline",
+    "display_name": "Doxycycline",
+    "active_ingredient": "Doxycycline",
+    "salt": "Doxycycline hyclate / monohydrate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "34bc92a8-091f-4a94-85ee-7015677fc395",
+    "slug": "cefixime",
+    "generic_name": "Cefixime",
+    "display_name": "Cefixime",
+    "active_ingredient": "Cefixime",
+    "salt": "Cefixime trihydrate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "8479fe00-9e6e-4c3e-9560-8ea208cc4349",
+    "slug": "ceftriaxone",
+    "generic_name": "Ceftriaxone",
+    "display_name": "Ceftriaxone",
+    "active_ingredient": "Ceftriaxone",
+    "salt": "Ceftriaxone sodium",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "b71dfafe-8abe-4cf8-ac40-7162b69890e4",
+    "slug": "metronidazole",
+    "generic_name": "Metronidazole",
+    "display_name": "Metronidazole",
+    "active_ingredient": "Metronidazole",
+    "salt": "Metronidazole",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "74ef0987-9f92-49c9-8645-fbb4599876ed",
+    "slug": "omeprazole",
+    "generic_name": "Omeprazole",
+    "display_name": "Omeprazole",
+    "active_ingredient": "Omeprazole",
+    "salt": "Omeprazole",
+    "category": "Acidity & GERD",
+    "verification_status": "verified"
+  },
+  {
+    "id": "8ef23cad-842d-4c7e-8418-02ad4e3383ce",
+    "slug": "pantoprazole",
+    "generic_name": "Pantoprazole",
+    "display_name": "Pantoprazole",
+    "active_ingredient": "Pantoprazole",
+    "salt": "Pantoprazole sodium",
+    "category": "Acidity & GERD",
+    "verification_status": "verified"
+  },
+  {
+    "id": "4d6b410b-0c2c-4044-bb74-3e034f0c685a",
+    "slug": "ondansetron",
+    "generic_name": "Ondansetron",
+    "display_name": "Ondansetron",
+    "active_ingredient": "Ondansetron",
+    "salt": "Ondansetron hydrochloride",
+    "category": "Vomiting & Nausea",
+    "verification_status": "verified"
+  },
+  {
+    "id": "bfe08f32-b8f5-41e7-978c-35d77228d650",
+    "slug": "cetirizine",
+    "generic_name": "Cetirizine",
+    "display_name": "Cetirizine",
+    "active_ingredient": "Cetirizine",
+    "salt": "Cetirizine dihydrochloride",
+    "category": "Allergy",
+    "verification_status": "verified"
+  },
+  {
+    "id": "dd667454-6407-4557-bd7b-c5e9b6c8d1e1",
+    "slug": "loratadine",
+    "generic_name": "Loratadine",
+    "display_name": "Loratadine",
+    "active_ingredient": "Loratadine",
+    "salt": "Loratadine",
+    "category": "Allergy",
+    "verification_status": "verified"
+  },
+  {
+    "id": "1b863c01-ed09-4f6f-b66d-3aab15cc6552",
+    "slug": "salbutamol",
+    "generic_name": "Salbutamol",
+    "display_name": "Salbutamol (Albuterol)",
+    "active_ingredient": "Salbutamol",
+    "salt": "Salbutamol sulphate",
+    "category": "Asthma & COPD",
+    "verification_status": "verified"
+  },
+  {
+    "id": "9b9c4665-37b7-4d8f-829d-bfc0a0ed183a",
+    "slug": "metformin",
+    "generic_name": "Metformin",
+    "display_name": "Metformin",
+    "active_ingredient": "Metformin",
+    "salt": "Metformin hydrochloride",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "0d75ccc4-37a6-4bb6-87c1-3c29d9edfefd",
+    "slug": "glimepiride",
+    "generic_name": "Glimepiride",
+    "display_name": "Glimepiride",
+    "active_ingredient": "Glimepiride",
+    "salt": "Glimepiride",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "e3aa7b24-c39c-4af2-ae98-8c50729fa971",
+    "slug": "amlodipine",
+    "generic_name": "Amlodipine",
+    "display_name": "Amlodipine",
+    "active_ingredient": "Amlodipine",
+    "salt": "Amlodipine besylate",
+    "category": "Blood Pressure",
+    "verification_status": "verified"
+  },
+  {
+    "id": "f0eae62e-dd32-4c3c-9413-7b86dcb24f5d",
+    "slug": "losartan",
+    "generic_name": "Losartan",
+    "display_name": "Losartan",
+    "active_ingredient": "Losartan",
+    "salt": "Losartan potassium",
+    "category": "Blood Pressure",
+    "verification_status": "verified"
+  },
+  {
+    "id": "97ee4bde-7a9d-43a7-9286-0bcab5809e2b",
+    "slug": "telmisartan",
+    "generic_name": "Telmisartan",
+    "display_name": "Telmisartan",
+    "active_ingredient": "Telmisartan",
+    "salt": "Telmisartan",
+    "category": "Blood Pressure",
+    "verification_status": "verified"
+  },
+  {
+    "id": "4a842194-44d2-4153-abe9-8540a8d5f61c",
+    "slug": "atorvastatin",
+    "generic_name": "Atorvastatin",
+    "display_name": "Atorvastatin",
+    "active_ingredient": "Atorvastatin",
+    "salt": "Atorvastatin calcium",
+    "category": "Cholesterol",
+    "verification_status": "verified"
+  },
+  {
+    "id": "e070830f-d3f3-4a7a-adb9-bb365c607346",
+    "slug": "rosuvastatin",
+    "generic_name": "Rosuvastatin",
+    "display_name": "Rosuvastatin",
+    "active_ingredient": "Rosuvastatin",
+    "salt": "Rosuvastatin calcium",
+    "category": "Cholesterol",
+    "verification_status": "verified"
+  },
+  {
+    "id": "bf45cfb8-eeaf-4df1-bbea-a751e72c3bcd",
+    "slug": "levothyroxine",
+    "generic_name": "Levothyroxine",
+    "display_name": "Levothyroxine",
+    "active_ingredient": "Levothyroxine",
+    "salt": "Levothyroxine sodium",
+    "category": "Thyroid",
+    "verification_status": "verified"
+  },
+  {
+    "id": "ac5fbe3d-07b5-4768-bc11-60a4b530fd25",
+    "slug": "furosemide",
+    "generic_name": "Furosemide",
+    "display_name": "Furosemide (Frusemide)",
+    "active_ingredient": "Furosemide",
+    "salt": "Furosemide",
+    "category": "Heart",
+    "verification_status": "verified"
+  },
+  {
+    "id": "956bb130-891a-48c7-98ca-260b286d84c4",
+    "slug": "aspirin",
+    "generic_name": "Aspirin",
+    "display_name": "Aspirin (Acetylsalicylic Acid)",
+    "active_ingredient": "Acetylsalicylic acid",
+    "salt": "Acetylsalicylic acid",
+    "category": "Heart",
+    "verification_status": "verified"
+  },
+  {
+    "id": "bb0c1209-dd6b-4496-903c-3d3b11d21667",
+    "slug": "clopidogrel",
+    "generic_name": "Clopidogrel",
+    "display_name": "Clopidogrel",
+    "active_ingredient": "Clopidogrel",
+    "salt": "Clopidogrel bisulphate",
+    "category": "Heart",
+    "verification_status": "verified"
+  },
+  {
+    "id": "c9cc0ec9-dd2c-44cc-87f9-1394df0ab771",
+    "slug": "aceclofenac",
+    "generic_name": "Aceclofenac",
+    "display_name": "Aceclofenac",
+    "active_ingredient": "Aceclofenac",
+    "salt": "Aceclofenac",
+    "category": "Pain & Fever",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "9c235b52-8c0a-43be-94a8-2fbbbdc4e235",
+    "slug": "mefenamic-acid",
+    "generic_name": "Mefenamic acid",
+    "display_name": "Mefenamic acid",
+    "active_ingredient": "Mefenamic acid",
+    "salt": "Mefenamic acid",
+    "category": "Pain & Fever",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "a6baee01-b44f-4a3d-ae8a-9c8dc39f1d02",
+    "slug": "etoricoxib",
+    "generic_name": "Etoricoxib",
+    "display_name": "Etoricoxib",
+    "active_ingredient": "Etoricoxib",
+    "salt": "Etoricoxib",
+    "category": "Pain & Fever",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "586688f3-612a-4ecf-bc6c-754511430ee9",
+    "slug": "tramadol",
+    "generic_name": "Tramadol",
+    "display_name": "Tramadol",
+    "active_ingredient": "Tramadol",
+    "salt": "Tramadol hydrochloride",
+    "category": "Pain & Fever",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "9f01c151-f46d-46fb-a72f-a9b1b92ca358",
+    "slug": "morphine",
+    "generic_name": "Morphine",
+    "display_name": "Morphine",
+    "active_ingredient": "Morphine",
+    "salt": "Morphine sulphate",
+    "category": "Pain & Fever",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "4939b3d5-6c6f-4696-80da-328c8078b480",
+    "slug": "ampicillin",
+    "generic_name": "Ampicillin",
+    "display_name": "Ampicillin",
+    "active_ingredient": "Ampicillin",
+    "salt": "Ampicillin sodium / trihydrate",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "6704fc06-667f-4034-9462-6db9c0caf0a1",
+    "slug": "cefalexin",
+    "generic_name": "Cefalexin",
+    "display_name": "Cefalexin (Cephalexin)",
+    "active_ingredient": "Cefalexin",
+    "salt": "Cefalexin monohydrate",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "aa41237e-290e-418c-ba18-785a65d219d2",
+    "slug": "cefuroxime",
+    "generic_name": "Cefuroxime",
+    "display_name": "Cefuroxime",
+    "active_ingredient": "Cefuroxime",
+    "salt": "Cefuroxime axetil (oral) / sodium (injection)",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "f76613b7-0da0-44ea-abe8-7d00a82a594e",
+    "slug": "clarithromycin",
+    "generic_name": "Clarithromycin",
+    "display_name": "Clarithromycin",
+    "active_ingredient": "Clarithromycin",
+    "salt": "Clarithromycin",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "9594349a-d382-4d43-bb0a-76a57cdb261d",
+    "slug": "ciprofloxacin",
+    "generic_name": "Ciprofloxacin",
+    "display_name": "Ciprofloxacin",
+    "active_ingredient": "Ciprofloxacin",
+    "salt": "Ciprofloxacin hydrochloride",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "f916a56f-9026-4fe6-b4e2-8224e0b8b3f5",
+    "slug": "levofloxacin",
+    "generic_name": "Levofloxacin",
+    "display_name": "Levofloxacin",
+    "active_ingredient": "Levofloxacin",
+    "salt": "Levofloxacin hemihydrate",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "925f7844-b819-40d5-b710-799e782f3eca",
+    "slug": "co-trimoxazole",
+    "generic_name": "Co-trimoxazole",
+    "display_name": "Co-trimoxazole (Trimethoprim + Sulfamethoxazole)",
+    "active_ingredient": "Trimethoprim and sulfamethoxazole",
+    "salt": "Trimethoprim 80 mg + sulfamethoxazole 400 mg (standard strength)",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "ec284dea-21e6-4e3e-98f5-84e24f094da0",
+    "slug": "nitrofurantoin",
+    "generic_name": "Nitrofurantoin",
+    "display_name": "Nitrofurantoin",
+    "active_ingredient": "Nitrofurantoin",
+    "salt": "Nitrofurantoin (macrocrystals)",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "e8e69821-fcb5-4aae-aa37-9622c4acddb6",
+    "slug": "rifampicin",
+    "generic_name": "Rifampicin",
+    "display_name": "Rifampicin (Rifampin)",
+    "active_ingredient": "Rifampicin",
+    "salt": "Rifampicin",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "c3eec6c5-ba64-4772-9580-434e4e688bac",
+    "slug": "isoniazid",
+    "generic_name": "Isoniazid",
+    "display_name": "Isoniazid",
+    "active_ingredient": "Isoniazid",
+    "salt": "Isoniazid",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "a6dcb300-35ce-48af-859d-e8702ce350a7",
+    "slug": "gentamicin",
+    "generic_name": "Gentamicin",
+    "display_name": "Gentamicin",
+    "active_ingredient": "Gentamicin",
+    "salt": "Gentamicin sulphate",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "e9f7e395-0d0e-474a-86bd-55b40491dfb7",
+    "slug": "tinidazole",
+    "generic_name": "Tinidazole",
+    "display_name": "Tinidazole",
+    "active_ingredient": "Tinidazole",
+    "salt": "Tinidazole",
+    "category": "Antibiotics",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "b5a7f93d-82b5-46e6-9700-db4e25a7172a",
+    "slug": "albendazole",
+    "generic_name": "Albendazole",
+    "display_name": "Albendazole",
+    "active_ingredient": "Albendazole",
+    "salt": "Albendazole",
+    "category": "Deworming",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "156b0311-c968-4339-93b8-365d7ce721e0",
+    "slug": "ivermectin",
+    "generic_name": "Ivermectin",
+    "display_name": "Ivermectin",
+    "active_ingredient": "Ivermectin",
+    "salt": "Ivermectin",
+    "category": "Deworming",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "2774cf88-9230-424d-84ba-eca4da702224",
+    "slug": "hydroxychloroquine",
+    "generic_name": "Hydroxychloroquine",
+    "display_name": "Hydroxychloroquine",
+    "active_ingredient": "Hydroxychloroquine",
+    "salt": "Hydroxychloroquine sulphate",
+    "category": "Immunity & Autoimmune",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "f9a7cc7c-1bb6-44fb-a8d0-e547d67d0b81",
+    "slug": "fluconazole",
+    "generic_name": "Fluconazole",
+    "display_name": "Fluconazole",
+    "active_ingredient": "Fluconazole",
+    "salt": "Fluconazole",
+    "category": "Fungal Infections",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "d280122b-2ed8-4f4b-85fe-b9ffb3ab0885",
+    "slug": "acyclovir",
+    "generic_name": "Aciclovir",
+    "display_name": "Aciclovir (Acyclovir)",
+    "active_ingredient": "Aciclovir",
+    "salt": "Aciclovir sodium (injection)",
+    "category": "Viral Infections",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "3e88302b-47aa-4714-9d1d-8d99d7bcb671",
+    "slug": "oseltamivir",
+    "generic_name": "Oseltamivir",
+    "display_name": "Oseltamivir",
+    "active_ingredient": "Oseltamivir",
+    "salt": "Oseltamivir phosphate",
+    "category": "Viral Infections",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "9348496a-b555-45a6-b4f9-06c1634128ee",
+    "slug": "famotidine",
+    "generic_name": "Famotidine",
+    "display_name": "Famotidine",
+    "active_ingredient": "Famotidine",
+    "salt": "Famotidine",
+    "category": "Acidity & GERD",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "049bde27-5ea1-4ff9-a4ac-7632af8ee5f0",
+    "slug": "rabeprazole",
+    "generic_name": "Rabeprazole",
+    "display_name": "Rabeprazole",
+    "active_ingredient": "Rabeprazole",
+    "salt": "Rabeprazole sodium",
+    "category": "Acidity & GERD",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "d3f3984a-8772-4987-adce-df4c7623d363",
+    "slug": "domperidone",
+    "generic_name": "Domperidone",
+    "display_name": "Domperidone",
+    "active_ingredient": "Domperidone",
+    "salt": "Domperidone maleate",
+    "category": "Vomiting & Nausea",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "7564376d-d6ad-4e54-8e0c-fce5cde539dd",
+    "slug": "metoclopramide",
+    "generic_name": "Metoclopramide",
+    "display_name": "Metoclopramide",
+    "active_ingredient": "Metoclopramide",
+    "salt": "Metoclopramide hydrochloride",
+    "category": "Vomiting & Nausea",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "c8733feb-3f01-4509-86d4-ba2c6f197fc3",
+    "slug": "loperamide",
+    "generic_name": "Loperamide",
+    "display_name": "Loperamide",
+    "active_ingredient": "Loperamide",
+    "salt": "Loperamide hydrochloride",
+    "category": "Diarrhoea",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "85c7e34c-5c16-4523-a67c-1f5ee1d37a3c",
+    "slug": "lactulose",
+    "generic_name": "Lactulose",
+    "display_name": "Lactulose",
+    "active_ingredient": "Lactulose",
+    "salt": "Lactulose",
+    "category": "Constipation",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "6383bbd4-6442-4ea3-82af-9911f3c5983f",
+    "slug": "sucralfate",
+    "generic_name": "Sucralfate",
+    "display_name": "Sucralfate",
+    "active_ingredient": "Sucralfate",
+    "salt": "Sucralfate (aluminium sucrose sulphate)",
+    "category": "Acidity & GERD",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "22e2de13-c1a2-4fbd-8f3b-935352f32417",
+    "slug": "levocetirizine",
+    "generic_name": "Levocetirizine",
+    "display_name": "Levocetirizine",
+    "active_ingredient": "Levocetirizine",
+    "salt": "Levocetirizine dihydrochloride",
+    "category": "Allergy",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "3754597c-21fe-426f-be37-b8b8f876b1fc",
+    "slug": "fexofenadine",
+    "generic_name": "Fexofenadine",
+    "display_name": "Fexofenadine",
+    "active_ingredient": "Fexofenadine",
+    "salt": "Fexofenadine hydrochloride",
+    "category": "Allergy",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "c8221e81-57c2-4435-9b53-a9526df59053",
+    "slug": "chlorpheniramine",
+    "generic_name": "Chlorpheniramine",
+    "display_name": "Chlorpheniramine maleate",
+    "active_ingredient": "Chlorpheniramine",
+    "salt": "Chlorpheniramine maleate",
+    "category": "Allergy",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "1912866c-a9f4-4d3c-8cd6-67a85c205927",
+    "slug": "montelukast",
+    "generic_name": "Montelukast",
+    "display_name": "Montelukast",
+    "active_ingredient": "Montelukast",
+    "salt": "Montelukast sodium",
+    "category": "Asthma & COPD",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "a2a1c21c-4fca-4777-a316-072ff9e08b80",
+    "slug": "budesonide",
+    "generic_name": "Budesonide",
+    "display_name": "Budesonide",
+    "active_ingredient": "Budesonide",
+    "salt": "Budesonide",
+    "category": "Asthma & COPD",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "37c140cb-4123-4545-9442-86b59870e4b5",
+    "slug": "ipratropium",
+    "generic_name": "Ipratropium bromide",
+    "display_name": "Ipratropium bromide",
+    "active_ingredient": "Ipratropium bromide",
+    "salt": "Ipratropium bromide",
+    "category": "Asthma & COPD",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "2ed12fbc-f7a3-4f19-b499-cc8d46ed90c1",
+    "slug": "dextromethorphan",
+    "generic_name": "Dextromethorphan",
+    "display_name": "Dextromethorphan",
+    "active_ingredient": "Dextromethorphan",
+    "salt": "Dextromethorphan hydrobromide",
+    "category": "Cough & Cold",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "04999c0c-3b86-4c2d-9c5a-596e01d65096",
+    "slug": "gliclazide",
+    "generic_name": "Gliclazide",
+    "display_name": "Gliclazide",
+    "active_ingredient": "Gliclazide",
+    "salt": "Gliclazide",
+    "category": "Diabetes",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "06151f46-f8f2-47a0-a2c7-affd85d61cfd",
+    "slug": "sitagliptin",
+    "generic_name": "Sitagliptin",
+    "display_name": "Sitagliptin",
+    "active_ingredient": "Sitagliptin",
+    "salt": "Sitagliptin phosphate",
+    "category": "Diabetes",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "4548342d-fabb-4d70-aceb-d5806059976f",
+    "slug": "dapagliflozin",
+    "generic_name": "Dapagliflozin",
+    "display_name": "Dapagliflozin",
+    "active_ingredient": "Dapagliflozin",
+    "salt": "Dapagliflozin propanediol",
+    "category": "Diabetes",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "521475e2-31f8-465b-8533-caadedb0ffa5",
+    "slug": "pioglitazone",
+    "generic_name": "Pioglitazone",
+    "display_name": "Pioglitazone",
+    "active_ingredient": "Pioglitazone",
+    "salt": "Pioglitazone hydrochloride",
+    "category": "Diabetes",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "1ee6d0ac-594b-404d-8a8b-95de6cd77e2b",
+    "slug": "regular-human-insulin",
+    "generic_name": "Regular human insulin",
+    "display_name": "Regular human insulin (soluble insulin)",
+    "active_ingredient": "Human insulin",
+    "salt": "Human insulin (rDNA origin)",
+    "category": "Diabetes",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "a4836ff1-8083-493d-a2df-aa4068e8a8b6",
+    "slug": "carbimazole",
+    "generic_name": "Carbimazole",
+    "display_name": "Carbimazole",
+    "active_ingredient": "Carbimazole",
+    "salt": "Carbimazole",
+    "category": "Thyroid",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "39a17feb-bfb3-4e15-b42d-be43d037b1f1",
+    "slug": "prednisolone",
+    "generic_name": "Prednisolone",
+    "display_name": "Prednisolone",
+    "active_ingredient": "Prednisolone",
+    "salt": "Prednisolone (base or sodium phosphate)",
+    "category": "Immunity & Autoimmune",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "f6311fcf-2c41-4381-a859-200294f6956a",
+    "slug": "dexamethasone",
+    "generic_name": "Dexamethasone",
+    "display_name": "Dexamethasone",
+    "active_ingredient": "Dexamethasone",
+    "salt": "Dexamethasone sodium phosphate",
+    "category": "Immunity & Autoimmune",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "5ebce608-5421-49e3-b3d7-fbd73a574f76",
+    "slug": "enalapril",
+    "generic_name": "Enalapril",
+    "display_name": "Enalapril",
+    "active_ingredient": "Enalapril",
+    "salt": "Enalapril maleate",
+    "category": "Blood Pressure",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "21ad0c2f-060f-43e6-a944-c4ffb651e757",
+    "slug": "ramipril",
+    "generic_name": "Ramipril",
+    "display_name": "Ramipril",
+    "active_ingredient": "Ramipril",
+    "salt": "Ramipril",
+    "category": "Blood Pressure",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "87e81f58-d7d8-4eea-a9d5-fbf6239e1c02",
+    "slug": "valsartan",
+    "generic_name": "Valsartan",
+    "display_name": "Valsartan",
+    "active_ingredient": "Valsartan",
+    "salt": "Valsartan",
+    "category": "Blood Pressure",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "e4a2371c-086b-4933-8c15-412bb4b34b60",
+    "slug": "nifedipine",
+    "generic_name": "Nifedipine",
+    "display_name": "Nifedipine",
+    "active_ingredient": "Nifedipine",
+    "salt": "Nifedipine",
+    "category": "Blood Pressure",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "d020926d-ff53-449a-8435-2a91f05848b7",
+    "slug": "atenolol",
+    "generic_name": "Atenolol",
+    "display_name": "Atenolol",
+    "active_ingredient": "Atenolol",
+    "salt": "Atenolol",
+    "category": "Blood Pressure",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "b5bf353e-b38f-4750-9126-acd9341ea1c7",
+    "slug": "metoprolol",
+    "generic_name": "Metoprolol",
+    "display_name": "Metoprolol",
+    "active_ingredient": "Metoprolol",
+    "salt": "Metoprolol succinate (ER) / tartrate (IR)",
+    "category": "Heart",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "2bbadd64-72ef-4365-bb25-e8b43174c162",
+    "slug": "propranolol",
+    "generic_name": "Propranolol",
+    "display_name": "Propranolol",
+    "active_ingredient": "Propranolol",
+    "salt": "Propranolol hydrochloride",
+    "category": "Heart",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "b73a0ca1-772b-460f-93e2-0421404c3945",
+    "slug": "carvedilol",
+    "generic_name": "Carvedilol",
+    "display_name": "Carvedilol",
+    "active_ingredient": "Carvedilol",
+    "salt": "Carvedilol",
+    "category": "Heart",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "48958fb7-453a-453a-91f0-152af6fdee7f",
+    "slug": "hydrochlorothiazide",
+    "generic_name": "Hydrochlorothiazide",
+    "display_name": "Hydrochlorothiazide",
+    "active_ingredient": "Hydrochlorothiazide",
+    "salt": "Hydrochlorothiazide",
+    "category": "Blood Pressure",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "a57dadc1-7120-47c9-9642-aab1666c7a2e",
+    "slug": "spironolactone",
+    "generic_name": "Spironolactone",
+    "display_name": "Spironolactone",
+    "active_ingredient": "Spironolactone",
+    "salt": "Spironolactone",
+    "category": "Heart",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "810cdf75-4a9b-41c0-9d5d-e483064a9699",
+    "slug": "warfarin",
+    "generic_name": "Warfarin",
+    "display_name": "Warfarin",
+    "active_ingredient": "Warfarin",
+    "salt": "Warfarin sodium",
+    "category": "Blood Thinners",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "f11bcb10-5fd5-486b-8c2e-5d5687139744",
+    "slug": "enoxaparin",
+    "generic_name": "Enoxaparin",
+    "display_name": "Enoxaparin",
+    "active_ingredient": "Enoxaparin",
+    "salt": "Enoxaparin sodium",
+    "category": "Blood Thinners",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "bcc95ac7-73b2-4c9f-83ce-6e2f83495600",
+    "slug": "simvastatin",
+    "generic_name": "Simvastatin",
+    "display_name": "Simvastatin",
+    "active_ingredient": "Simvastatin",
+    "salt": "Simvastatin",
+    "category": "Cholesterol",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "3c9c27a7-25b6-4d62-ab46-abfdb2bbf549",
+    "slug": "fenofibrate",
+    "generic_name": "Fenofibrate",
+    "display_name": "Fenofibrate",
+    "active_ingredient": "Fenofibrate",
+    "salt": "Fenofibrate",
+    "category": "Cholesterol",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "d491dfeb-9da9-4c67-8a93-b52b0b46ca29",
+    "slug": "digoxin",
+    "generic_name": "Digoxin",
+    "display_name": "Digoxin",
+    "active_ingredient": "Digoxin",
+    "salt": "Digoxin",
+    "category": "Heart",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "a4ca74f5-1adc-432c-b433-86c3e21dbd6c",
+    "slug": "phenytoin",
+    "generic_name": "Phenytoin",
+    "display_name": "Phenytoin",
+    "active_ingredient": "Phenytoin",
+    "salt": "Phenytoin sodium",
+    "category": "Epilepsy",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "22447a71-ca52-47d6-a91f-f42ea491b240",
+    "slug": "carbamazepine",
+    "generic_name": "Carbamazepine",
+    "display_name": "Carbamazepine",
+    "active_ingredient": "Carbamazepine",
+    "salt": "Carbamazepine",
+    "category": "Epilepsy",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "a60afaf2-38fb-402b-a338-839883f90b93",
+    "slug": "sodium-valproate",
+    "generic_name": "Sodium valproate",
+    "display_name": "Sodium valproate (Valproic acid)",
+    "active_ingredient": "Valproate",
+    "salt": "Sodium valproate / valproic acid",
+    "category": "Epilepsy",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "939c2d4b-0acb-4ab9-a40b-6855c6640b5d",
+    "slug": "levetiracetam",
+    "generic_name": "Levetiracetam",
+    "display_name": "Levetiracetam",
+    "active_ingredient": "Levetiracetam",
+    "salt": "Levetiracetam",
+    "category": "Epilepsy",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "fbbcdc89-090f-45fb-9521-256bc6476bfe",
+    "slug": "diazepam",
+    "generic_name": "Diazepam",
+    "display_name": "Diazepam",
+    "active_ingredient": "Diazepam",
+    "salt": "Diazepam",
+    "category": "Anxiety & Sleep",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "cb35d764-2e3d-44b8-914d-f1ee91a2a9d5",
+    "slug": "amitriptyline",
+    "generic_name": "Amitriptyline",
+    "display_name": "Amitriptyline",
+    "active_ingredient": "Amitriptyline",
+    "salt": "Amitriptyline hydrochloride",
+    "category": "Mental Health",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "4fc8f59f-56d1-4743-8ca5-d5f73c0b0766",
+    "slug": "fluoxetine",
+    "generic_name": "Fluoxetine",
+    "display_name": "Fluoxetine",
+    "active_ingredient": "Fluoxetine",
+    "salt": "Fluoxetine hydrochloride",
+    "category": "Mental Health",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "40e883c2-cc1b-43db-953c-abe7f3eb3014",
+    "slug": "sertraline",
+    "generic_name": "Sertraline",
+    "display_name": "Sertraline",
+    "active_ingredient": "Sertraline",
+    "salt": "Sertraline hydrochloride",
+    "category": "Mental Health",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "d212d7ec-f72a-413d-8467-60e9f709e8e1",
+    "slug": "allopurinol",
+    "generic_name": "Allopurinol",
+    "display_name": "Allopurinol",
+    "active_ingredient": "Allopurinol",
+    "salt": "Allopurinol",
+    "category": "Gout",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "b0e4f577-b3ef-4d4e-b7d1-70328d77aeef",
+    "slug": "ferrous-sulfate",
+    "generic_name": "Ferrous sulphate",
+    "display_name": "Ferrous sulphate (Iron)",
+    "active_ingredient": "Ferrous sulphate",
+    "salt": "Ferrous sulphate (dried)",
+    "category": "Anaemia & Vitamins",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "4beeeb8f-2dab-40e7-8503-6331fd35c7ff",
+    "slug": "folic-acid",
+    "generic_name": "Folic acid",
+    "display_name": "Folic acid (Vitamin B9)",
+    "active_ingredient": "Folic acid",
+    "salt": "Folic acid",
+    "category": "Anaemia & Vitamins",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "6aa596e4-fd12-428e-843f-e171faf9b84f",
+    "slug": "tamsulosin",
+    "generic_name": "Tamsulosin",
+    "display_name": "Tamsulosin",
+    "active_ingredient": "Tamsulosin",
+    "salt": "Tamsulosin hydrochloride",
+    "category": "Prostate & Urinary",
+    "verification_status": "under_review"
+  },
+  {
+    "id": "17d822a2-7cd4-42eb-a541-f5fe76b4cc55",
+    "slug": "meloxicam",
+    "generic_name": "Meloxicam",
+    "display_name": "Meloxicam",
+    "active_ingredient": "Meloxicam",
+    "salt": "Meloxicam",
+    "category": "Pain & Inflammation",
+    "verification_status": "verified"
+  },
+  {
+    "id": "6b418e37-bc28-49b0-8970-d919a6cbacb0",
+    "slug": "ketorolac",
+    "generic_name": "Ketorolac",
+    "display_name": "Ketorolac",
+    "active_ingredient": "Ketorolac tromethamine",
+    "salt": "Tromethamine",
+    "category": "Pain & Inflammation",
+    "verification_status": "verified"
+  },
+  {
+    "id": "55b66c74-eed6-45fd-93bb-eeff27f0e0db",
+    "slug": "indomethacin",
+    "generic_name": "Indomethacin",
+    "display_name": "Indomethacin",
+    "active_ingredient": "Indomethacin",
+    "salt": "Indomethacin",
+    "category": "Pain & Inflammation",
+    "verification_status": "verified"
+  },
+  {
+    "id": "a5d5126f-c8f9-4e85-b0ba-bfae9edb0310",
+    "slug": "piroxicam",
+    "generic_name": "Piroxicam",
+    "display_name": "Piroxicam",
+    "active_ingredient": "Piroxicam",
+    "salt": "Piroxicam",
+    "category": "Pain & Inflammation",
+    "verification_status": "verified"
+  },
+  {
+    "id": "0e423589-aad0-44c3-a04f-04860c190e07",
+    "slug": "celecoxib",
+    "generic_name": "Celecoxib",
+    "display_name": "Celecoxib",
+    "active_ingredient": "Celecoxib",
+    "salt": "Celecoxib",
+    "category": "Pain & Inflammation",
+    "verification_status": "verified"
+  },
+  {
+    "id": "ae7e7a4d-743b-47b8-8766-2f71ca95b315",
+    "slug": "tapentadol",
+    "generic_name": "Tapentadol",
+    "display_name": "Tapentadol",
+    "active_ingredient": "Tapentadol",
+    "salt": "Tapentadol hydrochloride",
+    "category": "Pain & Inflammation",
+    "verification_status": "verified"
+  },
+  {
+    "id": "20fdff34-b11f-4bee-a1d2-64ad2e577404",
+    "slug": "esomeprazole",
+    "generic_name": "Esomeprazole",
+    "display_name": "Esomeprazole",
+    "active_ingredient": "Esomeprazole",
+    "salt": "Esomeprazole magnesium / sodium",
+    "category": "Acidity & GERD",
+    "verification_status": "verified"
+  },
+  {
+    "id": "30117acd-9953-4f12-98e6-948143f0401e",
+    "slug": "itopride",
+    "generic_name": "Itopride",
+    "display_name": "Itopride",
+    "active_ingredient": "Itopride",
+    "salt": "Itopride hydrochloride",
+    "category": "Gastrointestinal",
+    "verification_status": "verified"
+  },
+  {
+    "id": "6ee7fe89-86af-46a9-b33b-e2ef33aaff12",
+    "slug": "bisacodyl",
+    "generic_name": "Bisacodyl",
+    "display_name": "Bisacodyl",
+    "active_ingredient": "Bisacodyl",
+    "salt": "Bisacodyl",
+    "category": "Gastrointestinal",
+    "verification_status": "verified"
+  },
+  {
+    "id": "77bf323f-be74-48ad-abb3-8f0c9638aa40",
+    "slug": "mesalazine",
+    "generic_name": "Mesalazine",
+    "display_name": "Mesalazine (5-ASA)",
+    "active_ingredient": "Mesalazine",
+    "salt": "5-aminosalicylic acid",
+    "category": "Gastrointestinal",
+    "verification_status": "verified"
+  },
+  {
+    "id": "ceb7c8e8-b8a5-43a8-b454-061c96eb491e",
+    "slug": "prochlorperazine",
+    "generic_name": "Prochlorperazine",
+    "display_name": "Prochlorperazine",
+    "active_ingredient": "Prochlorperazine",
+    "salt": "Prochlorperazine maleate",
+    "category": "Antiemetics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "6b433d35-8ffa-4837-aea8-1e4b9b2dc81e",
+    "slug": "aprepitant",
+    "generic_name": "Aprepitant",
+    "display_name": "Aprepitant",
+    "active_ingredient": "Aprepitant",
+    "salt": "Aprepitant",
+    "category": "Antiemetics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "8d0427e0-8b35-4fef-8f7c-1d871aad0a40",
+    "slug": "desloratadine",
+    "generic_name": "Desloratadine",
+    "display_name": "Desloratadine",
+    "active_ingredient": "Desloratadine",
+    "salt": "Desloratadine",
+    "category": "Allergy",
+    "verification_status": "verified"
+  },
+  {
+    "id": "9d8f4b7c-404e-462f-bd49-370f80d7a995",
+    "slug": "hydroxyzine",
+    "generic_name": "Hydroxyzine",
+    "display_name": "Hydroxyzine",
+    "active_ingredient": "Hydroxyzine",
+    "salt": "Hydroxyzine hydrochloride / pamoate",
+    "category": "Allergy",
+    "verification_status": "verified"
+  },
+  {
+    "id": "8b922020-e5eb-40c3-baf7-49f530d247e1",
+    "slug": "promethazine",
+    "generic_name": "Promethazine",
+    "display_name": "Promethazine",
+    "active_ingredient": "Promethazine",
+    "salt": "Promethazine hydrochloride / theoclate",
+    "category": "Allergy",
+    "verification_status": "verified"
+  },
+  {
+    "id": "11f3fd1c-5aea-4f55-b199-483a192db6f1",
+    "slug": "terbutaline",
+    "generic_name": "Terbutaline",
+    "display_name": "Terbutaline",
+    "active_ingredient": "Terbutaline",
+    "salt": "Terbutaline sulfate",
+    "category": "Respiratory",
+    "verification_status": "verified"
+  },
+  {
+    "id": "7bc374bb-b92f-4145-a88f-b84e8d5fb8e3",
+    "slug": "formoterol",
+    "generic_name": "Formoterol",
+    "display_name": "Formoterol",
+    "active_ingredient": "Formoterol",
+    "salt": "Formoterol fumarate",
+    "category": "Respiratory",
+    "verification_status": "verified"
+  },
+  {
+    "id": "32dbb69f-4a25-4af2-b7e0-51ab92ee0eb8",
+    "slug": "salmeterol",
+    "generic_name": "Salmeterol",
+    "display_name": "Salmeterol",
+    "active_ingredient": "Salmeterol",
+    "salt": "Salmeterol xinafoate",
+    "category": "Respiratory",
+    "verification_status": "verified"
+  },
+  {
+    "id": "4bda9fa9-68d4-4c42-920c-0d90d4c24fa9",
+    "slug": "tiotropium",
+    "generic_name": "Tiotropium",
+    "display_name": "Tiotropium",
+    "active_ingredient": "Tiotropium",
+    "salt": "Tiotropium bromide",
+    "category": "Respiratory",
+    "verification_status": "verified"
+  },
+  {
+    "id": "8923af96-12b1-4cf0-9f93-a5f881b5ab83",
+    "slug": "fluticasone",
+    "generic_name": "Fluticasone",
+    "display_name": "Fluticasone",
+    "active_ingredient": "Fluticasone propionate / furoate",
+    "salt": "Propionate / furoate",
+    "category": "Respiratory",
+    "verification_status": "verified"
+  },
+  {
+    "id": "a987f7db-2198-4a3c-8a40-e952acecfa73",
+    "slug": "theophylline",
+    "generic_name": "Theophylline",
+    "display_name": "Theophylline",
+    "active_ingredient": "Theophylline",
+    "salt": "Anhydrous theophylline",
+    "category": "Respiratory",
+    "verification_status": "verified"
+  },
+  {
+    "id": "a7666425-b63f-462a-a8d2-e59ff5dd1e38",
+    "slug": "acetylcysteine",
+    "generic_name": "Acetylcysteine",
+    "display_name": "Acetylcysteine (NAC)",
+    "active_ingredient": "Acetylcysteine",
+    "salt": "N-acetylcysteine",
+    "category": "Respiratory",
+    "verification_status": "verified"
+  },
+  {
+    "id": "29f9bff4-2eef-45ae-9a27-a8f438f99988",
+    "slug": "penicillin-v",
+    "generic_name": "Phenoxymethylpenicillin",
+    "display_name": "Penicillin V",
+    "active_ingredient": "Phenoxymethylpenicillin",
+    "salt": "Potassium salt",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "c00bfce8-d8f2-424a-978e-454c48e497e4",
+    "slug": "flucloxacillin",
+    "generic_name": "Flucloxacillin",
+    "display_name": "Flucloxacillin",
+    "active_ingredient": "Flucloxacillin",
+    "salt": "Sodium salt",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "02006a95-ce6c-4253-9d70-97264fc2e40f",
+    "slug": "piperacillin",
+    "generic_name": "Piperacillin",
+    "display_name": "Piperacillin",
+    "active_ingredient": "Piperacillin",
+    "salt": "Sodium salt",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "a077f072-7c9c-4845-aa41-413ac22e0192",
+    "slug": "piperacillin-tazobactam",
+    "generic_name": "Piperacillin + Tazobactam",
+    "display_name": "Piperacillin + Tazobactam",
+    "active_ingredient": "Piperacillin; Tazobactam",
+    "salt": "Piperacillin sodium + tazobactam sodium",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "3165ee6f-64d3-4df5-b456-c69aa0b5b807",
+    "slug": "cefpodoxime",
+    "generic_name": "Cefpodoxime",
+    "display_name": "Cefpodoxime",
+    "active_ingredient": "Cefpodoxime proxetil",
+    "salt": "Proxetil ester",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "08626be6-6b8a-472c-a75a-21478517ec16",
+    "slug": "cefoperazone",
+    "generic_name": "Cefoperazone",
+    "display_name": "Cefoperazone",
+    "active_ingredient": "Cefoperazone",
+    "salt": "Sodium salt",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "f8984cac-406e-419c-b287-0e4ce26ddefa",
+    "slug": "cefoperazone-sulbactam",
+    "generic_name": "Cefoperazone + Sulbactam",
+    "display_name": "Cefoperazone + Sulbactam",
+    "active_ingredient": "Cefoperazone; Sulbactam",
+    "salt": "Cefoperazone sodium + sulbactam sodium",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "e33baf2d-da2d-4c4c-9487-52b82140d141",
+    "slug": "meropenem",
+    "generic_name": "Meropenem",
+    "display_name": "Meropenem",
+    "active_ingredient": "Meropenem",
+    "salt": "Meropenem trihydrate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "4a15f267-13f7-44a1-b890-292182a64caf",
+    "slug": "imipenem-cilastatin",
+    "generic_name": "Imipenem + Cilastatin",
+    "display_name": "Imipenem + Cilastatin",
+    "active_ingredient": "Imipenem; Cilastatin",
+    "salt": "Imipenem monohydrate + cilastatin sodium",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "17851265-fa80-4cb6-9d4a-6a3ca38ac3c2",
+    "slug": "erythromycin",
+    "generic_name": "Erythromycin",
+    "display_name": "Erythromycin",
+    "active_ingredient": "Erythromycin",
+    "salt": "Stearate / estolate / ethylsuccinate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "3c68710a-6fa9-4457-9f18-45e30196b1dd",
+    "slug": "clindamycin",
+    "generic_name": "Clindamycin",
+    "display_name": "Clindamycin",
+    "active_ingredient": "Clindamycin",
+    "salt": "Hydrochloride / phosphate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "9c1c69d5-2c73-44e4-9b95-4557b03dcd0c",
+    "slug": "linezolid",
+    "generic_name": "Linezolid",
+    "display_name": "Linezolid",
+    "active_ingredient": "Linezolid",
+    "salt": "Linezolid",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "59f5d1c6-37c9-4760-8df7-bfa0973e62ca",
+    "slug": "amikacin",
+    "generic_name": "Amikacin",
+    "display_name": "Amikacin",
+    "active_ingredient": "Amikacin",
+    "salt": "Sulfate",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "ffbfb2b1-062f-42a0-a535-632bb48873a3",
+    "slug": "fosfomycin",
+    "generic_name": "Fosfomycin",
+    "display_name": "Fosfomycin",
+    "active_ingredient": "Fosfomycin",
+    "salt": "Trometamol / calcium",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "74fe6e36-9a45-46e9-aa40-ba031c47ab07",
+    "slug": "vancomycin",
+    "generic_name": "Vancomycin",
+    "display_name": "Vancomycin",
+    "active_ingredient": "Vancomycin",
+    "salt": "Hydrochloride",
+    "category": "Antibiotics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "be0ea179-0450-499b-a99c-2fa6c25970f8",
+    "slug": "itraconazole",
+    "generic_name": "Itraconazole",
+    "display_name": "Itraconazole",
+    "active_ingredient": "Itraconazole",
+    "salt": "Itraconazole",
+    "category": "Antifungals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "982e2d87-c214-479e-b93c-9cae57eb651d",
+    "slug": "ketoconazole",
+    "generic_name": "Ketoconazole",
+    "display_name": "Ketoconazole",
+    "active_ingredient": "Ketoconazole",
+    "salt": "Ketoconazole",
+    "category": "Antifungals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "7c0e8936-2be5-4eb8-97a4-5bff988c078f",
+    "slug": "terbinafine",
+    "generic_name": "Terbinafine",
+    "display_name": "Terbinafine",
+    "active_ingredient": "Terbinafine",
+    "salt": "Hydrochloride",
+    "category": "Antifungals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "0a37664d-e63a-46eb-9c11-e449c9167df0",
+    "slug": "clotrimazole",
+    "generic_name": "Clotrimazole",
+    "display_name": "Clotrimazole",
+    "active_ingredient": "Clotrimazole",
+    "salt": "Clotrimazole",
+    "category": "Antifungals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "efc3ea75-bc50-43c8-a1ea-db3d0c35cd50",
+    "slug": "miconazole",
+    "generic_name": "Miconazole",
+    "display_name": "Miconazole",
+    "active_ingredient": "Miconazole",
+    "salt": "Nitrate",
+    "category": "Antifungals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "4297bdfd-93ef-4dfd-966f-4729a7acddbc",
+    "slug": "amphotericin-b",
+    "generic_name": "Amphotericin B",
+    "display_name": "Amphotericin B",
+    "active_ingredient": "Amphotericin B",
+    "salt": "Deoxycholate / liposomal",
+    "category": "Antifungals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "18d57ceb-47b8-4139-8748-d60be302e492",
+    "slug": "valacyclovir",
+    "generic_name": "Valacyclovir",
+    "display_name": "Valacyclovir",
+    "active_ingredient": "Valacyclovir",
+    "salt": "Hydrochloride",
+    "category": "Antivirals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "f095a855-61cb-4814-b4cd-ff0ad3b219eb",
+    "slug": "tenofovir",
+    "generic_name": "Tenofovir",
+    "display_name": "Tenofovir",
+    "active_ingredient": "Tenofovir disoproxil fumarate / alafenamide",
+    "salt": "Disoproxil fumarate / alafenamide",
+    "category": "Antivirals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "072bdcd8-500b-45bb-aea1-b461170ddab4",
+    "slug": "entecavir",
+    "generic_name": "Entecavir",
+    "display_name": "Entecavir",
+    "active_ingredient": "Entecavir",
+    "salt": "Entecavir monohydrate",
+    "category": "Antivirals",
+    "verification_status": "verified"
+  },
+  {
+    "id": "b09161f9-0a5e-4b8c-8228-c4560040552c",
+    "slug": "secnidazole",
+    "generic_name": "Secnidazole",
+    "display_name": "Secnidazole",
+    "active_ingredient": "Secnidazole",
+    "salt": "Secnidazole",
+    "category": "Antiparasitics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "e249008e-f1bf-4cec-98e2-a107096801f9",
+    "slug": "mebendazole",
+    "generic_name": "Mebendazole",
+    "display_name": "Mebendazole",
+    "active_ingredient": "Mebendazole",
+    "salt": "Mebendazole",
+    "category": "Antiparasitics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "eb9f7891-28cf-4362-938d-48d4ff052568",
+    "slug": "nitazoxanide",
+    "generic_name": "Nitazoxanide",
+    "display_name": "Nitazoxanide",
+    "active_ingredient": "Nitazoxanide",
+    "salt": "Nitazoxanide",
+    "category": "Antiparasitics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "880a410a-9de1-4d0c-adfe-6c0e61004f13",
+    "slug": "permethrin",
+    "generic_name": "Permethrin",
+    "display_name": "Permethrin",
+    "active_ingredient": "Permethrin",
+    "salt": "Permethrin",
+    "category": "Antiparasitics",
+    "verification_status": "verified"
+  },
+  {
+    "id": "62fd0fd0-b3ad-49da-9102-8aaa8b03214a",
+    "slug": "vildagliptin",
+    "generic_name": "Vildagliptin",
+    "display_name": "Vildagliptin",
+    "active_ingredient": "Vildagliptin",
+    "salt": "Vildagliptin",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "e3c4cb38-1f8c-45f6-a109-0993b8fda912",
+    "slug": "linagliptin",
+    "generic_name": "Linagliptin",
+    "display_name": "Linagliptin",
+    "active_ingredient": "Linagliptin",
+    "salt": "Linagliptin",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "78b34290-5a0a-4d2a-a27f-c3c1f79edc9b",
+    "slug": "empagliflozin",
+    "generic_name": "Empagliflozin",
+    "display_name": "Empagliflozin",
+    "active_ingredient": "Empagliflozin",
+    "salt": "Empagliflozin",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "038d25d0-7e35-4559-97f4-ac7851e753a5",
+    "slug": "canagliflozin",
+    "generic_name": "Canagliflozin",
+    "display_name": "Canagliflozin",
+    "active_ingredient": "Canagliflozin",
+    "salt": "Canagliflozin",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "0fb339b8-3a6e-4c6f-b731-ce69e16d7ef9",
+    "slug": "repaglinide",
+    "generic_name": "Repaglinide",
+    "display_name": "Repaglinide",
+    "active_ingredient": "Repaglinide",
+    "salt": "Repaglinide",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "ba596823-fe4a-4e4b-b7a4-223a6e01a75a",
+    "slug": "acarbose",
+    "generic_name": "Acarbose",
+    "display_name": "Acarbose",
+    "active_ingredient": "Acarbose",
+    "salt": "Acarbose",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "aedd50dd-ca7d-45c6-b349-541e0120c65a",
+    "slug": "insulin-glargine",
+    "generic_name": "Insulin glargine",
+    "display_name": "Insulin Glargine",
+    "active_ingredient": "Insulin glargine",
+    "salt": "Recombinant human insulin analogue",
+    "category": "Diabetes",
+    "verification_status": "verified"
+  },
+  {
+    "id": "4dd39f33-3b2f-40f0-8acb-d4359a74af21",
+    "slug": "lisinopril",
+    "generic_name": "Lisinopril",
+    "display_name": "Lisinopril",
+    "active_ingredient": "Lisinopril",
+    "salt": "Lisinopril dihydrate",
+    "category": "Cardiovascular",
+    "verification_status": "verified"
+  },
+  {
+    "id": "050e4a8c-3704-420e-a417-f8f81a43ae8e",
+    "slug": "olmesartan",
+    "generic_name": "Olmesartan",
+    "display_name": "Olmesartan",
+    "active_ingredient": "Olmesartan medoxomil",
+    "salt": "Medoxomil",
+    "category": "Cardiovascular",
+    "verification_status": "verified"
+  },
+  {
+    "id": "77b2c98d-a5f5-4557-bb6e-c351433be904",
+    "slug": "bisoprolol",
+    "generic_name": "Bisoprolol",
+    "display_name": "Bisoprolol",
+    "active_ingredient": "Bisoprolol fumarate",
+    "salt": "Fumarate",
+    "category": "Cardiovascular",
+    "verification_status": "verified"
+  },
+  {
+    "id": "dfae7bf2-4f7a-49c3-9778-3c99cb61eec9",
+    "slug": "diltiazem",
+    "generic_name": "Diltiazem",
+    "display_name": "Diltiazem",
+    "active_ingredient": "Diltiazem",
+    "salt": "Hydrochloride",
+    "category": "Cardiovascular",
+    "verification_status": "verified"
+  },
+  {
+    "id": "fff45d4f-bb1f-4881-8bc6-6e8e7a2f4e11",
+    "slug": "verapamil",
+    "generic_name": "Verapamil",
+    "display_name": "Verapamil",
+    "active_ingredient": "Verapamil",
+    "salt": "Hydrochloride",
+    "category": "Cardiovascular",
+    "verification_status": "verified"
+  },
+  {
+    "id": "82a37825-a5bf-4037-b809-d194a9512baf",
+    "slug": "chlorthalidone",
+    "generic_name": "Chlorthalidone",
+    "display_name": "Chlorthalidone",
+    "active_ingredient": "Chlorthalidone",
+    "salt": "Chlorthalidone",
+    "category": "Cardiovascular",
+    "verification_status": "verified"
+  },
+  {
+    "id": "d161904e-030f-450c-995d-6c336c01d6d0",
+    "slug": "torsemide",
+    "generic_name": "Torsemide",
+    "display_name": "Torsemide (Torasemide)",
+    "active_ingredient": "Torsemide",
+    "salt": "Torsemide",
+    "category": "Cardiovascular",
+    "verification_status": "verified"
+  }
+]

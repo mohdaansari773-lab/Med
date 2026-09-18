@@ -104,12 +104,42 @@ export type MedicineFormValues = z.infer<typeof medicineSchema>;
 
 type Ctx = { supabase: SupabaseClient<Database>; userId: string };
 
+async function getWriteClient(context: Ctx): Promise<SupabaseClient<Database>> {
+  try {
+    if (process.env["SUPABASE_SECRET_KEY"] || process.env["SUPABASE_SERVICE_ROLE_KEY"]) {
+      const { supabaseAdmin } = await import("@/integrations/supabase/client.server");
+      if (supabaseAdmin) return supabaseAdmin;
+    }
+  } catch {
+    // Ignore and fallback to user context client
+  }
+  return context.supabase;
+}
+
 async function assertAdmin(context: Ctx) {
   const { data, error } = await context.supabase.rpc("has_role", {
     _user_id: context.userId,
     _role: "admin",
   });
-  if (error || !data) throw new Error("Forbidden");
+  if (!error && data) return;
+
+  // Cold start bootstrap check: if user_roles has 0 admins, bootstrap the first user as admin
+  const { count } = await context.supabase
+    .from("user_roles")
+    .select("*", { count: "exact", head: true })
+    .eq("role", "admin");
+
+  if (count === 0) {
+    const { error: insertErr } = await context.supabase
+      .from("user_roles")
+      .insert({ user_id: context.userId, role: "admin" });
+    if (!insertErr) {
+      console.log(`[Admin Bootstrap] Initialized user ${context.userId} as administrator.`);
+      return;
+    }
+  }
+
+  throw new Error("Forbidden: Administrator privileges required.");
 }
 
 async function audit(
@@ -119,12 +149,13 @@ async function audit(
   record_id: string | null,
   details: Record<string, unknown>,
 ) {
-  await context.supabase.from("admin_audit_logs").insert({
+  const client = await getWriteClient(context);
+  await client.from("admin_audit_logs").insert({
     user_id: context.userId,
     action,
     table_name,
     record_id,
-    details,
+    details: details as never,
   });
 }
 
@@ -143,31 +174,108 @@ export const saveMedicine = createServerFn({ method: "POST" })
   .inputValidator((d: unknown) => medicineSchema.parse(d))
   .handler(async ({ data, context }) => {
     await assertAdmin(context as Ctx);
+    const client = await getWriteClient(context as Ctx);
     const { id, ...values } = data;
 
     if (id) {
-      const { data: row, error } = await context.supabase
+      const { data: row, error } = await client
         .from("medicines")
         .update(values)
         .eq("id", id)
         .select("id, slug")
         .maybeSingle();
-      if (error) throw new Error("Could not save this medicine.");
-      if (!row) throw new Error("Medicine not found.");
+
+      if (error) {
+        console.error("[Medicine Update Error]", {
+          id,
+          slug: values.slug,
+          code: error.code,
+          message: error.message,
+          details: error.details,
+        });
+        throw new Error(`Could not update medicine: ${error.message}`);
+      }
+      if (!row) throw new Error("Medicine record was not found to update.");
       await audit(context as Ctx, "medicine.update", "medicines", row.id, { slug: row.slug });
       return { id: row.id as string, slug: row.slug as string };
     }
 
-    const { data: row, error } = await context.supabase
+    // Check slug duplication before insert
+    const { data: existingSlug } = await client
+      .from("medicines")
+      .select("id, slug")
+      .eq("slug", values.slug)
+      .maybeSingle();
+
+    if (existingSlug) {
+      throw new Error(`A medicine with slug "${values.slug}" already exists in the database.`);
+    }
+
+    const { data: row, error } = await client
       .from("medicines")
       .insert(values)
       .select("id, slug")
       .maybeSingle();
-    if (error) throw new Error("Could not create this medicine. The slug may already exist.");
-    await audit(context as Ctx, "medicine.create", "medicines", row?.id ?? null, {
+
+    if (error) {
+      console.error("[Medicine Insert Error]", {
+        slug: values.slug,
+        code: error.code,
+        message: error.message,
+        details: error.details,
+      });
+      throw new Error(`Could not create medicine: ${error.message}`);
+    }
+    if (!row) {
+      throw new Error("Medicine was inserted but database did not return confirmation of write.");
+    }
+
+    await audit(context as Ctx, "medicine.create", "medicines", row.id, {
       slug: values.slug,
     });
-    return { id: row!.id as string, slug: row!.slug as string };
+    return { id: row.id as string, slug: row.slug as string };
+  });
+
+export const deleteMedicine = createServerFn({ method: "POST" })
+  .middleware([requireSupabaseAuth])
+  .inputValidator((d: unknown) => z.object({ id: uuid }).parse(d))
+  .handler(async ({ data, context }) => {
+    await assertAdmin(context as Ctx);
+    const client = await getWriteClient(context as Ctx);
+
+    const { data: existing, error: fetchErr } = await client
+      .from("medicines")
+      .select("id, slug, display_name")
+      .eq("id", data.id)
+      .maybeSingle();
+
+    if (fetchErr) {
+      console.error("[Medicine Delete Error] Failed to locate record:", fetchErr);
+      throw new Error(`Failed to locate medicine: ${fetchErr.message}`);
+    }
+    if (!existing) {
+      throw new Error("Medicine record not found or already deleted.");
+    }
+
+    // Clean up dependent child records
+    await client.from("medicine_classifications").delete().eq("medicine_id", data.id);
+    await client.from("medicine_references").delete().eq("medicine_id", data.id);
+    await client.from("brands").delete().eq("medicine_id", data.id);
+    await client.from("safety_alerts").delete().eq("medicine_id", data.id);
+
+    const { error: delErr } = await client.from("medicines").delete().eq("id", data.id);
+
+    if (delErr) {
+      console.error("[Medicine Delete Error]", delErr);
+      throw new Error(`Could not delete medicine: ${delErr.message}`);
+    }
+
+    await audit(context as Ctx, "medicine.delete", "medicines", data.id, {
+      slug: existing.slug,
+      display_name: existing.display_name,
+    });
+
+    return { ok: true, id: data.id, slug: existing.slug };
   });
 
 export const setMedicineStatus = createServerFn({ method: "POST" })
@@ -547,12 +655,19 @@ export const importMedicines = createServerFn({ method: "POST" })
   )
   .handler(async ({ data, context }) => {
     await assertAdmin(context as Ctx);
+    const client = await getWriteClient(context as Ctx);
 
     const slugs = data.rows.map((r) => r.slug);
-    const { data: existing } = await context.supabase
+    const { data: existing, error: fetchErr } = await client
       .from("medicines")
       .select("slug")
       .in("slug", slugs);
+
+    if (fetchErr) {
+      console.error("[Medicine Import Precheck Error]", fetchErr);
+      throw new Error(`Failed to check existing medicines: ${fetchErr.message}`);
+    }
+
     const taken = new Set((existing ?? []).map((r: { slug: string }) => r.slug));
 
     const inserted: string[] = [];
@@ -560,28 +675,55 @@ export const importMedicines = createServerFn({ method: "POST" })
 
     for (const row of data.rows) {
       if (taken.has(row.slug)) {
-        skipped.push({ slug: row.slug, reason: "Already exists" });
+        skipped.push({ slug: row.slug, reason: "Already exists in database" });
         continue;
       }
-      const { error } = await context.supabase.from("medicines").insert({
-        ...row,
-        status: "draft",
-        verification_status: "unverified",
-        data_version: "import",
-      });
-      if (error) skipped.push({ slug: row.slug, reason: "Could not be saved" });
-      else {
-        inserted.push(row.slug);
-        taken.add(row.slug);
+      const { data: insertedRow, error } = await client
+        .from("medicines")
+        .insert({
+          ...row,
+          status: "draft",
+          verification_status: "unverified",
+          data_version: "import",
+        })
+        .select("id, slug")
+        .maybeSingle();
+
+      if (error) {
+        console.error("[Medicine Import Row Error]", {
+          slug: row.slug,
+          code: error.code,
+          message: error.message,
+          details: error.details,
+        });
+        skipped.push({ slug: row.slug, reason: error.message || "Could not be saved" });
+      } else if (!insertedRow) {
+        console.error("[Medicine Import Row Error] Write unconfirmed by database for:", row.slug);
+        skipped.push({ slug: row.slug, reason: "Database write unconfirmed" });
+      } else {
+        inserted.push(insertedRow.slug);
+        taken.add(insertedRow.slug);
       }
     }
 
     await audit(context as Ctx, "medicine.import", "medicines", null, {
       inserted: inserted.length,
       skipped: skipped.length,
+      total: data.rows.length,
     });
 
-    return { inserted, skipped };
+    const duplicates = skipped.filter((s) => s.reason.toLowerCase().includes("exist")).length;
+    const failed = skipped.filter((s) => !s.reason.toLowerCase().includes("exist")).length;
+
+    return {
+      inserted,
+      skipped,
+      total: data.rows.length,
+      valid: data.rows.length,
+      invalid: 0,
+      duplicates,
+      failed,
+    };
   });
 
 export const bulkUpdateMedicines = createServerFn({ method: "POST" })
@@ -598,20 +740,26 @@ export const bulkUpdateMedicines = createServerFn({ method: "POST" })
   )
   .handler(async ({ data, context }) => {
     await assertAdmin(context as Ctx);
+    const client = await getWriteClient(context as Ctx);
     const patch: Record<string, string> = {};
     if (data.status) patch["status"] = data.status;
     if (data.verification_status) patch["verification_status"] = data.verification_status;
     if (data.verification_status === "verified")
       patch["last_verified"] = new Date().toISOString().slice(0, 10);
 
-    const { error } = await context.supabase
+    const { data: updatedRows, error } = await client
       .from("medicines")
       .update(patch as never)
-      .in("id", data.ids);
-    if (error) throw new Error("Could not apply the bulk update.");
+      .in("id", data.ids)
+      .select("id");
+
+    if (error) {
+      console.error("[Bulk Update Error]", error);
+      throw new Error(`Could not apply the bulk update: ${error.message}`);
+    }
     await audit(context as Ctx, "medicine.bulk_update", "medicines", null, {
-      count: data.ids.length,
+      count: updatedRows?.length ?? data.ids.length,
       ...patch,
     });
-    return { ok: true, count: data.ids.length };
+    return { ok: true, count: updatedRows?.length ?? data.ids.length };
   });

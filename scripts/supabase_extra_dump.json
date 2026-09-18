@@ -1,0 +1,946 @@
+{
+  "flashcards": [
+    {
+      "id": "f73ac887-90a2-4b63-bd70-7ec160a20000",
+      "question": "What is the antidote for paracetamol overdose?",
+      "answer": "N-acetylcysteine",
+      "topic": "Emergency",
+      "difficulty": "easy",
+      "medicine_id": "fefb6ce8-d380-407e-af03-709d3fe462d8",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "3ed7dfe5-e00d-4d60-b347-8576766b6f97",
+      "question": "What does clavulanic acid add to amoxicillin?",
+      "answer": "Beta-lactamase inhibition, protecting amoxicillin from breakdown",
+      "topic": "Mechanism",
+      "difficulty": "easy",
+      "medicine_id": "d643f589-932f-4e10-9ba9-62ecc9dbc960",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "b13ecb2d-c0c5-49cc-95e4-7c204aa162f7",
+      "question": "Why is doxycycline avoided in pregnancy and young children?",
+      "answer": "Risk of tooth discolouration and effects on developing bone",
+      "topic": "Safety",
+      "difficulty": "easy",
+      "medicine_id": "e9a6149a-ec37-446c-a5e8-42131445c225",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "42a7e934-19b9-4ecf-b47a-bb3da19cfa8d",
+      "question": "What must be strictly avoided with metronidazole?",
+      "answer": "Alcohol, due to a disulfiram-like reaction",
+      "topic": "Safety",
+      "difficulty": "easy",
+      "medicine_id": "b71dfafe-8abe-4cf8-ac40-7162b69890e4",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "42fd2e4d-6e04-4804-a56a-dded286c19cb",
+      "question": "What is the main mechanism of omeprazole?",
+      "answer": "Irreversible inhibition of the gastric H+/K+-ATPase (proton pump)",
+      "topic": "Mechanism",
+      "difficulty": "easy",
+      "medicine_id": "74ef0987-9f92-49c9-8645-fbb4599876ed",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "0bf7bfc0-f214-42b7-9cce-bebcc4e1ab85",
+      "question": "Why is ondansetron used cautiously in cardiac patients?",
+      "answer": "It can prolong the QT interval",
+      "topic": "Safety",
+      "difficulty": "medium",
+      "medicine_id": "4d6b410b-0c2c-4044-bb74-3e034f0c685a",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "ec04b3cf-e610-4282-bf7f-18b9c16c293d",
+      "question": "What is the mechanism of salbutamol?",
+      "answer": "Beta-2 adrenoceptor agonism relaxing bronchial smooth muscle",
+      "topic": "Mechanism",
+      "difficulty": "easy",
+      "medicine_id": "1b863c01-ed09-4f6f-b66d-3aab15cc6552",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "1c5bb549-8793-4300-9b31-03e834bf1c3c",
+      "question": "How is metformin eliminated?",
+      "answer": "Excreted unchanged by the kidneys; it is not metabolised",
+      "topic": "ADME",
+      "difficulty": "medium",
+      "medicine_id": "9b9c4665-37b7-4d8f-829d-bfc0a0ed183a",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "9abf65f5-3280-4807-98bd-3607c549dd39",
+      "question": "What is the classic dose-related adverse effect of amlodipine?",
+      "answer": "Ankle oedema",
+      "topic": "Adverse Effects",
+      "difficulty": "easy",
+      "medicine_id": "e3aa7b24-c39c-4af2-ae98-8c50729fa971",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "91dd157e-f51e-4394-8de7-84791c4a96c6",
+      "question": "Which class does losartan belong to?",
+      "answer": "ARB \u2014 Angiotensin II receptor blocker",
+      "topic": "Drug Classes",
+      "difficulty": "easy",
+      "medicine_id": "f0eae62e-dd32-4c3c-9413-7b86dcb24f5d",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "494f1bac-9b8b-4ee7-a381-8d0f59bdcbad",
+      "question": "Which ARB has the longest half-life?",
+      "answer": "Telmisartan, about 24 hours",
+      "topic": "Pharmacokinetics",
+      "difficulty": "medium",
+      "medicine_id": "97ee4bde-7a9d-43a7-9286-0bcab5809e2b",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "9f955fe4-896a-4bec-8422-bd1c44ecdd57",
+      "question": "When should levothyroxine be taken?",
+      "answer": "On an empty stomach, 30-60 minutes before breakfast",
+      "topic": "Counselling",
+      "difficulty": "easy",
+      "medicine_id": "bf45cfb8-eeaf-4df1-bbea-a751e72c3bcd",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "fda3ebb1-c57a-497d-ba9e-a283016d1c47",
+      "question": "Which electrolyte must be monitored with furosemide?",
+      "answer": "Potassium (hypokalaemia risk)",
+      "topic": "Monitoring",
+      "difficulty": "easy",
+      "medicine_id": "ac5fbe3d-07b5-4768-bc11-60a4b530fd25",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "d8bdc773-794c-46ab-92b7-fc5978425a1a",
+      "question": "How long does the antiplatelet effect of aspirin last?",
+      "answer": "7-10 days, the lifespan of the platelet, because COX-1 inhibition is irreversible",
+      "topic": "Pharmacodynamics",
+      "difficulty": "medium",
+      "medicine_id": "956bb130-891a-48c7-98ca-260b286d84c4",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "fce6d0c9-427a-4084-a4ab-9c9adeb606a2",
+      "question": "Which enzyme activates clopidogrel?",
+      "answer": "CYP2C19 in the liver",
+      "topic": "ADME",
+      "difficulty": "medium",
+      "medicine_id": "bb0c1209-dd6b-4496-903c-3d3b11d21667",
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.165523+00:00"
+    },
+    {
+      "id": "dbdd4c53-0dd8-446a-bf65-8a9f20fd7b33",
+      "question": "What does ADME stand for?",
+      "answer": "Absorption, Distribution, Metabolism, Excretion",
+      "topic": "ADME",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.4139+00:00"
+    },
+    {
+      "id": "62eb0d9a-1a7c-4c61-b2ca-0576e5527cf4",
+      "question": "Define bioavailability.",
+      "answer": "The fraction of an administered dose that reaches the systemic circulation unchanged",
+      "topic": "Pharmacokinetics",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.4139+00:00"
+    },
+    {
+      "id": "d1e66b72-b673-4d7d-bce3-4fda7a5b3342",
+      "question": "Define half-life.",
+      "answer": "The time taken for the plasma concentration of a drug to fall by half",
+      "topic": "Pharmacokinetics",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.4139+00:00"
+    },
+    {
+      "id": "8160cba0-41e7-4602-ae01-34898af2f9be",
+      "question": "What does the suffix -prazole indicate?",
+      "answer": "Proton pump inhibitor",
+      "topic": "Suffixes",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.4139+00:00"
+    },
+    {
+      "id": "89fd7e2b-c75d-4dc8-9008-9f496114c454",
+      "question": "What does the suffix -pril indicate?",
+      "answer": "ACE inhibitor",
+      "topic": "Suffixes",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.4139+00:00"
+    },
+    {
+      "id": "eb0f43ea-2cb4-4006-98f5-13f66268dc4d",
+      "question": "Pharmacokinetics vs pharmacodynamics?",
+      "answer": "Pharmacokinetics is what the body does to the drug; pharmacodynamics is what the drug does to the body",
+      "topic": "Concepts",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "class_id": null,
+      "created_at": "2026-08-18T16:52:03.4139+00:00"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "id": "6320918f-8d6c-42da-8475-e7b0d49ec36e",
+      "question": "Losartan belongs to which drug class?",
+      "question_type": "mcq",
+      "options": [
+        "ACE inhibitor",
+        "ARB",
+        "Beta blocker",
+        "Calcium channel blocker"
+      ],
+      "correct_answer": "ARB",
+      "explanation": "Losartan blocks the angiotensin II AT1 receptor. The -sartan suffix is a memory aid for ARBs.",
+      "topic": "Drug Classes",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "468c6ca7-7299-41af-a656-163744cbdd93",
+      "question": "Which medicine is the usual first-line oral therapy in type 2 diabetes?",
+      "question_type": "mcq",
+      "options": [
+        "Glimepiride",
+        "Metformin",
+        "Insulin glargine",
+        "Amlodipine"
+      ],
+      "correct_answer": "Metformin",
+      "explanation": "Metformin is weight neutral, does not intrinsically cause hypoglycaemia and has strong long-term evidence.",
+      "topic": "Pharmacology",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "b279e5d7-2805-4188-be08-cf92037cb871",
+      "question": "The antidote for paracetamol overdose is:",
+      "question_type": "mcq",
+      "options": [
+        "Naloxone",
+        "Flumazenil",
+        "N-acetylcysteine",
+        "Atropine"
+      ],
+      "correct_answer": "N-acetylcysteine",
+      "explanation": "N-acetylcysteine replenishes glutathione, which detoxifies the reactive metabolite NAPQI.",
+      "topic": "Emergency",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "f2a13514-f3cf-47af-aaeb-56366d4151f0",
+      "question": "Which suffix usually indicates a proton pump inhibitor?",
+      "question_type": "mcq",
+      "options": [
+        "-sartan",
+        "-prazole",
+        "-olol",
+        "-statin"
+      ],
+      "correct_answer": "-prazole",
+      "explanation": "Omeprazole, pantoprazole and rabeprazole are proton pump inhibitors.",
+      "topic": "Medical Terms",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "d822f37b-b52a-439d-8179-f448e842c01b",
+      "question": "Metformin is mainly eliminated by:",
+      "question_type": "mcq",
+      "options": [
+        "Hepatic metabolism",
+        "Renal excretion unchanged",
+        "Biliary excretion after conjugation",
+        "Exhalation"
+      ],
+      "correct_answer": "Renal excretion unchanged",
+      "explanation": "Metformin is not metabolised; renal impairment therefore raises the risk of accumulation.",
+      "topic": "ADME",
+      "difficulty": "medium",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "496cc099-6342-40fb-8abb-01687dd0ee44",
+      "question": "Which adverse effect is characteristic of amlodipine?",
+      "question_type": "mcq",
+      "options": [
+        "Dry cough",
+        "Ankle oedema",
+        "Hyperkalaemia",
+        "Bradycardia"
+      ],
+      "correct_answer": "Ankle oedema",
+      "explanation": "Dihydropyridine calcium channel blockers cause dose-related peripheral oedema.",
+      "topic": "Pharmacology",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "d6e3f232-e52e-4fdf-8fab-bd0de61703ed",
+      "question": "Doxycycline should generally be avoided in:",
+      "question_type": "mcq",
+      "options": [
+        "Adults with pneumonia",
+        "Pregnancy",
+        "Acne",
+        "Rickettsial infection"
+      ],
+      "correct_answer": "Pregnancy",
+      "explanation": "Tetracyclines affect developing teeth and bone.",
+      "topic": "Pharmacology",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "28cc6d59-099a-46e2-979a-974a97a847b7",
+      "question": "Aspirin's antiplatelet effect lasts about:",
+      "question_type": "mcq",
+      "options": [
+        "4 hours",
+        "24 hours",
+        "7-10 days",
+        "30 days"
+      ],
+      "correct_answer": "7-10 days",
+      "explanation": "COX-1 inhibition in platelets is irreversible, so the effect lasts the platelet lifespan.",
+      "topic": "Pharmacodynamics",
+      "difficulty": "medium",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "75859b92-94a7-4eaa-a505-31a51b611fe2",
+      "question": "Which PPI is usually preferred alongside clopidogrel?",
+      "question_type": "mcq",
+      "options": [
+        "Omeprazole",
+        "Esomeprazole",
+        "Pantoprazole",
+        "Lansoprazole"
+      ],
+      "correct_answer": "Pantoprazole",
+      "explanation": "Pantoprazole has less CYP2C19 inhibition, so it interferes less with clopidogrel activation.",
+      "topic": "Interactions",
+      "difficulty": "hard",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "179d2300-0765-4b48-8378-0cc97b3c5ac1",
+      "question": "Bioavailability refers to:",
+      "question_type": "mcq",
+      "options": [
+        "How fast a drug is excreted",
+        "The fraction of the dose reaching systemic circulation unchanged",
+        "The volume the drug distributes into",
+        "The strength of receptor binding"
+      ],
+      "correct_answer": "The fraction of the dose reaching systemic circulation unchanged",
+      "explanation": "It is a key absorption parameter within ADME.",
+      "topic": "ADME",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "31960b97-b2e0-4f21-84e9-566f8c54d6f6",
+      "question": "Metronidazole must not be taken with:",
+      "question_type": "mcq",
+      "options": [
+        "Milk",
+        "Alcohol",
+        "Vitamin C",
+        "Paracetamol"
+      ],
+      "correct_answer": "Alcohol",
+      "explanation": "A disulfiram-like reaction can occur with flushing, nausea and vomiting.",
+      "topic": "Safety",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "b664b9d4-32f6-48e6-b0ad-8e648cc139dd",
+      "question": "Pharmacodynamics is best described as:",
+      "question_type": "mcq",
+      "options": [
+        "What the body does to the drug",
+        "What the drug does to the body",
+        "How a drug is manufactured",
+        "How a drug is stored"
+      ],
+      "correct_answer": "What the drug does to the body",
+      "explanation": "Pharmacokinetics is the reverse: what the body does to the drug.",
+      "topic": "Concepts",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "9d091507-17a8-4ce8-8cb4-e626a37af8bd",
+      "question": "Salbutamol acts on which receptor?",
+      "question_type": "mcq",
+      "options": [
+        "Beta-1",
+        "Beta-2",
+        "Alpha-1",
+        "Muscarinic"
+      ],
+      "correct_answer": "Beta-2",
+      "explanation": "Beta-2 agonism relaxes bronchial smooth muscle.",
+      "topic": "Mechanism",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "e87e1fa4-32ea-43d0-af25-d0e2ae111ce1",
+      "question": "Levothyroxine is best taken:",
+      "question_type": "mcq",
+      "options": [
+        "With breakfast",
+        "On an empty stomach before breakfast",
+        "With calcium tablets",
+        "At bedtime with milk"
+      ],
+      "correct_answer": "On an empty stomach before breakfast",
+      "explanation": "Food, calcium and iron reduce absorption.",
+      "topic": "Counselling",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "8ab5b911-356d-4287-b893-5fbc6282aa4d",
+      "question": "Which class does azithromycin belong to?",
+      "question_type": "mcq",
+      "options": [
+        "Beta-lactam",
+        "Macrolide",
+        "Tetracycline",
+        "Fluoroquinolone"
+      ],
+      "correct_answer": "Macrolide",
+      "explanation": "Azithromycin binds the 50S ribosomal subunit.",
+      "topic": "Drug Classes",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "def2918f-8f39-414a-ba01-d43d02289047",
+      "question": "Furosemide acts on which part of the nephron?",
+      "question_type": "mcq",
+      "options": [
+        "Proximal tubule",
+        "Thick ascending limb of the loop of Henle",
+        "Distal convoluted tubule",
+        "Collecting duct"
+      ],
+      "correct_answer": "Thick ascending limb of the loop of Henle",
+      "explanation": "It inhibits the Na-K-2Cl co-transporter there.",
+      "topic": "Pharmacology",
+      "difficulty": "medium",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "0766fcab-8c31-4572-a763-fe7fab38af1c",
+      "question": "Statins inhibit which enzyme?",
+      "question_type": "mcq",
+      "options": [
+        "HMG-CoA reductase",
+        "Cyclo-oxygenase",
+        "ACE",
+        "Xanthine oxidase"
+      ],
+      "correct_answer": "HMG-CoA reductase",
+      "explanation": "This is the rate-limiting step of hepatic cholesterol synthesis.",
+      "topic": "Mechanism",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "2149d599-07b2-412d-90ec-ea3ed0d83d1b",
+      "question": "Ondansetron blocks which receptor?",
+      "question_type": "mcq",
+      "options": [
+        "Dopamine D2",
+        "Histamine H1",
+        "Serotonin 5-HT3",
+        "Muscarinic M1"
+      ],
+      "correct_answer": "Serotonin 5-HT3",
+      "explanation": "It acts on vagal afferents and the chemoreceptor trigger zone.",
+      "topic": "Mechanism",
+      "difficulty": "medium",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "320c0a8e-ca3d-4926-b625-6ea2d1f0c967",
+      "question": "ACE inhibitors commonly cause which distinctive adverse effect?",
+      "question_type": "mcq",
+      "options": [
+        "Ankle oedema",
+        "Dry cough",
+        "Hair loss",
+        "Tinnitus"
+      ],
+      "correct_answer": "Dry cough",
+      "explanation": "Bradykinin accumulation is the usual explanation; ARBs avoid this.",
+      "topic": "Pharmacology",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    },
+    {
+      "id": "48afdf99-fbee-4761-9b58-164fef0991d9",
+      "question": "Which statement about drug-name suffixes is correct?",
+      "question_type": "true_false",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False",
+      "explanation": "Suffixes are memory aids only; exceptions exist and the actual record must always be checked. (Statement: suffixes are absolute classification rules.)",
+      "topic": "Medical Terms",
+      "difficulty": "easy",
+      "medicine_id": null,
+      "created_at": "2026-08-18T16:52:03.660955+00:00"
+    }
+  ],
+  "suffix_patterns": [
+    {
+      "id": "60eccffe-4dba-44af-9383-a5da15890e97",
+      "suffix": "-pril",
+      "meaning": "Many ACE inhibitors",
+      "class_hint": "ACE Inhibitors",
+      "examples": [
+        "Enalapril",
+        "Ramipril",
+        "Lisinopril"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "75c7cb59-9c91-48f9-883a-2fd6d90a50bd",
+      "suffix": "-sartan",
+      "meaning": "Angiotensin II receptor blockers",
+      "class_hint": "ARB",
+      "examples": [
+        "Losartan",
+        "Telmisartan",
+        "Valsartan"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "2209fd49-245f-41b7-801a-18fcd869d268",
+      "suffix": "-olol",
+      "meaning": "Many beta blockers",
+      "class_hint": "Beta Blockers",
+      "examples": [
+        "Atenolol",
+        "Metoprolol",
+        "Propranolol"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "6c52fd4d-c70c-4774-b7f3-398ff6bb7c1a",
+      "suffix": "-statin",
+      "meaning": "Statins",
+      "class_hint": "Statins",
+      "examples": [
+        "Atorvastatin",
+        "Rosuvastatin",
+        "Simvastatin"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "2dcf61bf-8316-4f9d-a26e-7c8170bad94a",
+      "suffix": "-prazole",
+      "meaning": "Proton pump inhibitors",
+      "class_hint": "PPI",
+      "examples": [
+        "Omeprazole",
+        "Pantoprazole",
+        "Rabeprazole"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "941c6f72-e35e-4d2a-8f45-e10b58db488a",
+      "suffix": "-cillin",
+      "meaning": "Many penicillin antibiotics",
+      "class_hint": "Beta-lactams",
+      "examples": [
+        "Amoxicillin",
+        "Ampicillin",
+        "Cloxacillin"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "74c863e2-86dd-4e0d-966c-4a820daac722",
+      "suffix": "-floxacin",
+      "meaning": "Fluoroquinolones",
+      "class_hint": "Fluoroquinolones",
+      "examples": [
+        "Ciprofloxacin",
+        "Levofloxacin",
+        "Ofloxacin"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "8c4ccf86-1e8c-4ed7-9c32-8bc887ea7f99",
+      "suffix": "-tidine",
+      "meaning": "H2 receptor antagonists",
+      "class_hint": "H2 blockers",
+      "examples": [
+        "Ranitidine",
+        "Famotidine"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "2fd52df4-0dd0-4e13-a953-7e48ddd1e5e4",
+      "suffix": "-caine",
+      "meaning": "Many local anaesthetics",
+      "class_hint": "Local anaesthetics",
+      "examples": [
+        "Lignocaine",
+        "Bupivacaine"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "d31a17a3-5f22-4bec-b3bb-d1ecebfb8876",
+      "suffix": "-dipine",
+      "meaning": "Dihydropyridine calcium channel blockers",
+      "class_hint": "CCB",
+      "examples": [
+        "Amlodipine",
+        "Nifedipine"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "a2fb8e6e-309f-4dbc-a2d1-f10c3eb79431",
+      "suffix": "-setron",
+      "meaning": "5-HT3 antagonist antiemetics",
+      "class_hint": "Antiemetics",
+      "examples": [
+        "Ondansetron",
+        "Granisetron"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "e60c8d09-e767-4136-829f-ada383b38ac1",
+      "suffix": "-terol",
+      "meaning": "Beta-2 agonist bronchodilators",
+      "class_hint": "Bronchodilators",
+      "examples": [
+        "Salbutamol (albuterol)",
+        "Formoterol"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "70c76ebd-f33a-426d-a8aa-3ad2fabf8e3a",
+      "suffix": "-thromycin",
+      "meaning": "Macrolide antibiotics",
+      "class_hint": "Macrolides",
+      "examples": [
+        "Azithromycin",
+        "Clarithromycin"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "513e1f90-48c4-4162-8de7-188f94951180",
+      "suffix": "-cycline",
+      "meaning": "Tetracycline antibiotics",
+      "class_hint": "Tetracyclines",
+      "examples": [
+        "Doxycycline",
+        "Minocycline"
+      ],
+      "note": "Memory aid only; exceptions exist."
+    },
+    {
+      "id": "5b375472-6b98-454f-8572-4ee51f58874e",
+      "suffix": "-gliptin",
+      "meaning": "DPP-4 inhibitor",
+      "class_hint": "DPP-4 Inhibitors",
+      "examples": [
+        "Sitagliptin"
+      ],
+      "note": "Weight neutral, low hypoglycaemia risk alone."
+    },
+    {
+      "id": "79e5123f-a5ff-4f2f-ba14-9231d03e7780",
+      "suffix": "-gliflozin",
+      "meaning": "SGLT2 inhibitor",
+      "class_hint": "SGLT2 Inhibitors",
+      "examples": [
+        "Dapagliflozin"
+      ],
+      "note": "Genital infections and sick-day rules matter."
+    },
+    {
+      "id": "d5d6449e-d479-443a-9f0a-22edd3025ad8",
+      "suffix": "-glitazone",
+      "meaning": "Thiazolidinedione",
+      "class_hint": "Thiazolidinediones",
+      "examples": [
+        "Pioglitazone"
+      ],
+      "note": "Fluid retention and heart failure risk."
+    },
+    {
+      "id": "c0aa5c3f-f1bb-47d1-a105-924e75b82b54",
+      "suffix": "-lukast",
+      "meaning": "Leukotriene receptor antagonist",
+      "class_hint": "Leukotriene Antagonists",
+      "examples": [
+        "Montelukast"
+      ],
+      "note": "Not for acute attacks; watch mood changes."
+    },
+    {
+      "id": "2d602cd6-80cc-488f-a308-dd772df063f7",
+      "suffix": "-azepam",
+      "meaning": "Benzodiazepine",
+      "class_hint": "Benzodiazepines",
+      "examples": [
+        "Diazepam",
+        "Alprazolam"
+      ],
+      "note": "Dependence with prolonged use."
+    },
+    {
+      "id": "7fa2fbb2-ea47-4a23-8fa1-56e9b817b866",
+      "suffix": "-bendazole",
+      "meaning": "Benzimidazole anthelmintic",
+      "class_hint": "Anthelmintics",
+      "examples": [
+        "Albendazole",
+        "Mebendazole"
+      ],
+      "note": "Single-dose therapy for many gut worms."
+    },
+    {
+      "id": "fec5df95-1fa4-4a8b-bd3a-1c5f7540e254",
+      "suffix": "-vir",
+      "meaning": "Antiviral agent",
+      "class_hint": "Antivirals",
+      "examples": [
+        "Aciclovir",
+        "Oseltamivir"
+      ],
+      "note": "Start early for best benefit."
+    },
+    {
+      "id": "fd3acafa-b89a-4769-8dd4-c3b5857df72d",
+      "suffix": "-parin",
+      "meaning": "Heparin anticoagulant",
+      "class_hint": "Anticoagulants",
+      "examples": [
+        "Enoxaparin"
+      ],
+      "note": "Mainly anti-factor Xa activity."
+    },
+    {
+      "id": "81ef0889-3a74-4410-a1ec-0aa0f21af826",
+      "suffix": "-fibrate",
+      "meaning": "Fibrate lipid-lowering agent",
+      "class_hint": "Fibrates",
+      "examples": [
+        "Fenofibrate"
+      ],
+      "note": "Mainly lowers triglycerides."
+    },
+    {
+      "id": "fd433cb5-0caa-4abc-b935-fea56b1245d1",
+      "suffix": "-osin",
+      "meaning": "Alpha-1 blocker",
+      "class_hint": "Alpha Blockers",
+      "examples": [
+        "Tamsulosin"
+      ],
+      "note": "Postural hypotension and floppy iris syndrome."
+    }
+  ],
+  "mnemonics": [
+    {
+      "id": "993cea61-7e25-4605-94ba-eec83c1d1848",
+      "title": "ARBs end in -sartan",
+      "content": "Losartan, Valsartan, Telmisartan, Candesartan, Olmesartan",
+      "explanation": "All block the angiotensin II AT1 receptor.",
+      "medicine_id": null,
+      "class_id": "2b9f5d41-c4c5-41fb-b9cb-67c2bf49e4d5",
+      "created_at": "2026-08-18T16:52:03.908289+00:00"
+    },
+    {
+      "id": "e7e41b24-a0ed-4d0b-a900-5ff7c3a0ef94",
+      "title": "PPIs end in -prazole",
+      "content": "Omeprazole, Pantoprazole, Rabeprazole, Esomeprazole",
+      "explanation": "All irreversibly block the gastric proton pump.",
+      "medicine_id": null,
+      "class_id": "92696c93-07f2-4898-94a5-d5391b2488d0",
+      "created_at": "2026-08-18T16:52:03.908289+00:00"
+    },
+    {
+      "id": "4087b7ba-d8b4-46ec-93e7-3e001a55b198",
+      "title": "Statins end in -statin",
+      "content": "Atorvastatin, Rosuvastatin, Simvastatin",
+      "explanation": "All inhibit HMG-CoA reductase.",
+      "medicine_id": null,
+      "class_id": "940bcacf-0a74-43b0-96ad-4df302caf186",
+      "created_at": "2026-08-18T16:52:03.908289+00:00"
+    },
+    {
+      "id": "7ac0c53d-c4bb-4228-ba64-7459953f6144",
+      "title": "CCBs end in -dipine",
+      "content": "Amlodipine, Nifedipine, Felodipine",
+      "explanation": "Dihydropyridine calcium channel blockers; ankle oedema is the clue.",
+      "medicine_id": null,
+      "class_id": "c4291a4a-b504-4870-8ffa-2aab6ee7f374",
+      "created_at": "2026-08-18T16:52:03.908289+00:00"
+    }
+  ],
+  "dosages": [],
+  "safety_alerts": [],
+  "drug_interactions": [
+    {
+      "id": "472cc434-35e4-4cbd-aa30-f075136e4af0",
+      "medicine_a_id": "956bb130-891a-48c7-98ca-260b286d84c4",
+      "medicine_b_id": "cdfddd11-5b2b-42e1-ad39-ba09eeecf21b",
+      "severity": "moderate",
+      "description": "Ibuprofen can reduce the cardioprotective antiplatelet effect of low-dose aspirin.",
+      "mechanism": "Competition for the COX-1 acetylation site on platelets.",
+      "clinical_significance": "May reduce cardiovascular protection when used regularly together.",
+      "professional_consideration": "Where both are needed, timing separation or an alternative analgesic is often considered.",
+      "reference_id": null,
+      "verified": true
+    },
+    {
+      "id": "ed1d20e7-11e9-4d8e-b53f-66c41af42455",
+      "medicine_a_id": "bb0c1209-dd6b-4496-903c-3d3b11d21667",
+      "medicine_b_id": "74ef0987-9f92-49c9-8645-fbb4599876ed",
+      "severity": "major",
+      "description": "Omeprazole reduces conversion of clopidogrel to its active metabolite.",
+      "mechanism": "CYP2C19 inhibition by omeprazole.",
+      "clinical_significance": "Reduced antiplatelet effect with possible increased thrombotic risk.",
+      "professional_consideration": "Pantoprazole is commonly preferred when a PPI is required with clopidogrel.",
+      "reference_id": null,
+      "verified": true
+    },
+    {
+      "id": "5473b778-77c8-40e1-a90e-2d467ad7e4eb",
+      "medicine_a_id": "9b9c4665-37b7-4d8f-829d-bfc0a0ed183a",
+      "medicine_b_id": "ac5fbe3d-07b5-4768-bc11-60a4b530fd25",
+      "severity": "moderate",
+      "description": "Diuretic-induced dehydration can precipitate metformin accumulation.",
+      "mechanism": "Reduced renal clearance of metformin during volume depletion.",
+      "clinical_significance": "Increased risk of lactic acidosis in dehydration or acute illness.",
+      "professional_consideration": "Renal function monitoring and sick-day guidance are standard practice.",
+      "reference_id": null,
+      "verified": true
+    },
+    {
+      "id": "39d57ba6-3519-4879-a28c-a5327eb50d95",
+      "medicine_a_id": "f0eae62e-dd32-4c3c-9413-7b86dcb24f5d",
+      "medicine_b_id": "cdfddd11-5b2b-42e1-ad39-ba09eeecf21b",
+      "severity": "moderate",
+      "description": "NSAIDs can reduce the antihypertensive effect of ARBs and impair renal function.",
+      "mechanism": "Prostaglandin inhibition reduces renal perfusion and sodium excretion.",
+      "clinical_significance": "Blood pressure rise and risk of acute kidney injury, especially with a diuretic.",
+      "professional_consideration": "Renal function and blood pressure monitoring are advised.",
+      "reference_id": null,
+      "verified": true
+    },
+    {
+      "id": "8e9556f6-3f61-401e-aa06-46903bf5bf25",
+      "medicine_a_id": "bf45cfb8-eeaf-4df1-bbea-a751e72c3bcd",
+      "medicine_b_id": "74ef0987-9f92-49c9-8645-fbb4599876ed",
+      "severity": "moderate",
+      "description": "Reduced gastric acidity can decrease levothyroxine absorption.",
+      "mechanism": "Higher gastric pH reduces dissolution and absorption.",
+      "clinical_significance": "Possible rise in TSH and reduced control of hypothyroidism.",
+      "professional_consideration": "TSH monitoring after starting or stopping the PPI is advised.",
+      "reference_id": null,
+      "verified": true
+    },
+    {
+      "id": "7a8c345b-eada-40df-b660-6e4c45e4a7e5",
+      "medicine_a_id": "4a842194-44d2-4153-abe9-8540a8d5f61c",
+      "medicine_b_id": "18227fbe-9276-4d36-abac-ae6a2ca962d2",
+      "severity": "moderate",
+      "description": "Macrolides may increase statin exposure and myopathy risk.",
+      "mechanism": "Inhibition of CYP3A4 and transporter-mediated clearance.",
+      "clinical_significance": "Increased risk of muscle symptoms and rarely rhabdomyolysis.",
+      "professional_consideration": "Muscle symptom review during concurrent therapy is advised.",
+      "reference_id": null,
+      "verified": true
+    },
+    {
+      "id": "4786519e-8edc-4037-9ea2-3f0aa43034ae",
+      "medicine_a_id": "956bb130-891a-48c7-98ca-260b286d84c4",
+      "medicine_b_id": "bb0c1209-dd6b-4496-903c-3d3b11d21667",
+      "severity": "moderate",
+      "description": "Combined antiplatelet therapy increases bleeding risk.",
+      "mechanism": "Additive inhibition of platelet function by two different pathways.",
+      "clinical_significance": "Higher bleeding risk; the combination is nonetheless indicated in specific cardiac situations.",
+      "professional_consideration": "Duration of dual therapy is determined by the treating specialist.",
+      "reference_id": null,
+      "verified": true
+    }
+  ]
+}

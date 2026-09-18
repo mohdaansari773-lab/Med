@@ -7,8 +7,10 @@ import type { Database } from "@/integrations/supabase/types";
  * inventing it. Read-only, publishable key, RLS applies as anon.
  */
 function client() {
-  const key = process.env["SUPABASE_PUBLISHABLE_KEY"]!;
-  return createClient<Database>(process.env["SUPABASE_URL"]!, key, {
+  const key = (process.env["SUPABASE_PUBLISHABLE_KEY"] ||
+    process.env["VITE_SUPABASE_PUBLISHABLE_KEY"])!;
+  const url = (process.env["SUPABASE_URL"] || process.env["VITE_SUPABASE_URL"])!;
+  return createClient<Database>(url, key, {
     auth: { persistSession: false, autoRefreshToken: false },
     global: {
       fetch: (input, init) => {
@@ -45,7 +47,7 @@ export async function retrieveContext(topic: string): Promise<string> {
       .from("medicines")
       .select("*")
       .or(`generic_name.ilike.${like},display_name.ilike.${like},salt.ilike.${like}`)
-      .eq("status", "published")
+      .in("status", ["published", "active"])
       .limit(3),
     sb.from("drug_classes").select("*").ilike("name", like).limit(3),
     sb

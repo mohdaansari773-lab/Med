@@ -23,74 +23,17 @@ async function callAiAssistant(
   system: string,
   user: string,
 ): Promise<{ text?: string; ok: boolean; errorMessage?: string }> {
-  const geminiKey = process.env["GEMINI_API_KEY"];
-  const lovableKey = process.env["LOVABLE_API_KEY"];
-
-  if (geminiKey) {
-    try {
-      const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${geminiKey}`;
-      const res = await fetch(url, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          systemInstruction: { parts: [{ text: system }] },
-          contents: [{ role: "user", parts: [{ text: user }] }],
-        }),
-      });
-      if (res.status === 429) {
-        return {
-          ok: false,
-          errorMessage: "Too many requests just now. Please try again in a moment.",
-        };
-      }
-      if (!res.ok) {
-        return { ok: false, errorMessage: "The assistant is unavailable." };
-      }
-      const json = (await res.json()) as {
-        candidates?: { content?: { parts?: { text?: string }[] } }[];
-      };
-      const text = json.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
-      return text
-        ? { text, ok: true }
-        : { ok: false, errorMessage: "No response could be generated." };
-    } catch {
-      return { ok: false, errorMessage: "The assistant could not be reached." };
-    }
+  try {
+    const { generateGeminiContent } = await import("./gemini.server");
+    return await generateGeminiContent({
+      systemInstruction: system,
+      prompt: user,
+      temperature: 0.2,
+    });
+  } catch (error) {
+    console.error("[AI Function Handler Error]", error);
+    return { ok: false, errorMessage: "The explanation assistant could not be reached." };
   }
-
-  if (lovableKey) {
-    try {
-      const res = await fetch("https://ai.gateway.lovable.dev/v1/chat/completions", {
-        method: "POST",
-        headers: { Authorization: `Bearer ${lovableKey}`, "Content-Type": "application/json" },
-        body: JSON.stringify({
-          model: "google/gemini-3.5-flash",
-          messages: [
-            { role: "system", content: system },
-            { role: "user", content: user },
-          ],
-        }),
-      });
-      if (res.status === 429) {
-        return {
-          ok: false,
-          errorMessage: "Too many requests just now. Please try again in a moment.",
-        };
-      }
-      if (!res.ok) {
-        return { ok: false, errorMessage: "The assistant is unavailable." };
-      }
-      const json = (await res.json()) as { choices?: { message?: { content?: string } }[] };
-      const text = json.choices?.[0]?.message?.content?.trim();
-      return text
-        ? { text, ok: true }
-        : { ok: false, errorMessage: "No response could be generated." };
-    } catch {
-      return { ok: false, errorMessage: "The assistant could not be reached." };
-    }
-  }
-
-  return { ok: false, errorMessage: "The assistant is not available right now." };
 }
 
 export const explainTopic = createServerFn({ method: "POST" })

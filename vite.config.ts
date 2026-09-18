@@ -6,10 +6,41 @@
 // You can pass additional config via defineConfig({ vite: { ... }, etc... }) if needed.
 import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
+const silenceDirectivesPlugin = () => ({
+  name: "silence-directives",
+  onLog(level: string, log: { code?: string; message?: string }): boolean | undefined {
+    if (
+      log.code === "MODULE_LEVEL_DIRECTIVE" ||
+      log.message?.includes("use client") ||
+      log.message?.includes("MODULE_LEVEL_DIRECTIVE")
+    ) {
+      return false;
+    }
+    return undefined;
+  },
+});
+
 export default defineConfig({
   tanstackStart: {
     // Redirect TanStack Start's bundled server entry to src/server.ts (our SSR error wrapper).
     // nitro/vite builds from this
     server: { entry: "server" },
+  },
+  vite: {
+    plugins: [silenceDirectivesPlugin()],
+    build: {
+      rollupOptions: {
+        onwarn(warning, defaultHandler) {
+          if (
+            warning.code === "MODULE_LEVEL_DIRECTIVE" ||
+            (typeof warning.message === "string" &&
+              warning.message.includes("MODULE_LEVEL_DIRECTIVE"))
+          ) {
+            return;
+          }
+          defaultHandler(warning);
+        },
+      },
+    },
   },
 });
