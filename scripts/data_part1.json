@@ -1,0 +1,570 @@
+[
+  {
+    "slug": "cloxacillin",
+    "generic_name": "Cloxacillin",
+    "display_name": "Cloxacillin Sodium",
+    "active_ingredient": "Cloxacillin sodium",
+    "salt": "Cloxacillin sodium",
+    "category": "Antibiotics",
+    "description": "A semi-synthetic penicillinase-resistant isoxazolyl penicillin active against penicillinase-producing staphylococci, used for MSSA skin, soft tissue, and respiratory tract infections.",
+    "strengths": [
+      "250 mg",
+      "500 mg",
+      "250 mg vial",
+      "500 mg vial"
+    ],
+    "dosage_forms": [
+      "Capsule",
+      "Powder for Injection",
+      "Oral Solution"
+    ],
+    "routes": [
+      "Oral",
+      "Intramuscular",
+      "Intravenous"
+    ],
+    "mechanism_of_action": "Binds to penicillin-binding proteins (PBPs), inhibiting the transpeptidation step of peptidoglycan synthesis; bulky isoxazolyl side chain prevents degradation by staphylococcal beta-lactamase.",
+    "pharmacodynamics": "Time-dependent bactericidal action against methicillin-sensitive Staphylococcus aureus (MSSA) and Streptococcus species; inactive against MRSA and Enterococcus.",
+    "absorption": "Incompletely absorbed (approx. 50%); food significantly impairs absorption (take 1 hour before or 2 hours after meals).",
+    "distribution": "Diffuses into synovial, pleural, and bone fluids; poor CSF penetration in the absence of inflamed meninges; 94% bound to albumin.",
+    "metabolism": "Partially metabolized in the liver (approx. 20-30%) to active and inactive metabolites.",
+    "excretion": "Eliminated in urine by tubular secretion and glomerular filtration (approx. 40-60% unchanged); significant biliary excretion.",
+    "bioavailability": "Approximately 50% (fasting)",
+    "half_life": "0.5 to 1 hour",
+    "protein_binding": "94%",
+    "onset": "Oral peak in 1 to 2 hours",
+    "duration": "6 hours",
+    "indications": [
+      "Infections caused by penicillinase-producing staphylococci (MSSA)",
+      "Skin and soft tissue infections (boils, cellulitis, impetigo)",
+      "Staphylococcal osteomyelitis and septic arthritis",
+      "Infective endocarditis due to MSSA"
+    ],
+    "contraindications": [
+      "Hypersensitivity to cloxacillin, penicillins, or cephalosporins",
+      "History of cholestatic jaundice or hepatic dysfunction with isoxazolyl penicillins"
+    ],
+    "warnings": [
+      "Must be taken on an empty stomach to avoid severe absorption loss",
+      "Cholestatic jaundice and hepatitis may occur (especially with prolonged therapy)",
+      "Severe anaphylaxis in penicillin-allergic patients"
+    ],
+    "common_adverse_effects": [
+      "Nausea",
+      "Diarrhoea",
+      "Epigastric discomfort",
+      "Rash",
+      "Heartburn"
+    ],
+    "serious_adverse_effects": [
+      "Severe anaphylactic shock",
+      "Drug-induced cholestatic jaundice / hepatitis",
+      "Pseudomembranous colitis (C. difficile)",
+      "Interstitial nephritis"
+    ],
+    "drug_interactions": [
+      "Probenecid (blocks renal tubular secretion, increasing cloxacillin levels)",
+      "Warfarin (may alter INR)",
+      "Methotrexate (decreases clearance)"
+    ],
+    "monitoring": [
+      "Hepatic transaminases in courses >10 days",
+      "Renal function and complete blood count",
+      "Clinical resolution of skin lesions"
+    ],
+    "pregnancy": "Category B; widely considered safe in pregnancy when clinically indicated.",
+    "lactation": "Excreted in low levels in breast milk; compatible with breastfeeding.",
+    "pediatric": "Approved in children; dose calculated by weight (50-100 mg/kg/day divided every 6 hours).",
+    "geriatric": "Age-related renal decline requires monitoring; no primary adjustment if hepatic function normal.",
+    "renal": "Dose reduction needed only in severe renal failure (CrCl < 10 mL/min) due to secondary biliary clearance.",
+    "hepatic": "Contraindicated in patients with a history of cloxacillin-induced cholestatic jaundice.",
+    "advantages": [
+      "Resistant to staphylococcal penicillinase enzymes (unlike penicillin G or ampicillin)",
+      "Effective oral and parenteral option for confirmed MSSA infections",
+      "Dual renal and biliary excretion limits toxicity in renal disease"
+    ],
+    "disadvantages": [
+      "Completely inactive against MRSA",
+      "Must be taken on an empty stomach due to severe food-dependent absorption reduction"
+    ],
+    "key_points": [
+      "First-line for penicillinase-producing staphylococcal skin infections (MSSA)",
+      "Always take 1 hour before or 2 hours after meals on an empty stomach"
+    ],
+    "memory_trick": "CLOX-acillin: CLOCKS MSSA staph; Check empty stomach.",
+    "key_suffix": "-cillin",
+    "pronunciation_en": "klox-a-SIL-in",
+    "pronunciation_hi": "\u0915\u094d\u0932\u094b\u0915\u094d\u0938\u093e-\u0938\u093f\u0932\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "oxacillin",
+    "generic_name": "Oxacillin",
+    "display_name": "Oxacillin Sodium",
+    "active_ingredient": "Oxacillin sodium",
+    "salt": "Oxacillin sodium",
+    "category": "Antibiotics",
+    "description": "A parenteral penicillinase-resistant isoxazolyl penicillin indicated for severe systemic methicillin-susceptible Staphylococcus aureus (MSSA) infections including bacteremia, endocarditis, and osteomyelitis.",
+    "strengths": [
+      "500 mg vial",
+      "1 g vial",
+      "2 g vial"
+    ],
+    "dosage_forms": [
+      "Powder for Solution for Injection"
+    ],
+    "routes": [
+      "Intramuscular",
+      "Intravenous"
+    ],
+    "mechanism_of_action": "Inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs), causing cell wall weakening and osmotic lysis; stable against staphylococcal beta-lactamases.",
+    "pharmacodynamics": "Time-dependent bactericidal killing against MSSA and Streptococcus pneumoniae/pyogenes; inactive against MRSA, Enterococci, and Gram-negative bacilli.",
+    "absorption": "Administered parenterally (IM or IV infusion); 100% bioavailable.",
+    "distribution": "Distributes into pericardial fluid, bone, and pleural fluid; does not cross non-inflamed meninges; 90-94% bound to plasma albumin.",
+    "metabolism": "Metabolized partially in the liver to active and inactive metabolites; undergoes substantial biliary excretion.",
+    "excretion": "Excreted in urine via glomerular filtration and tubular secretion (approx. 40-50%) and in bile (approx. 20-30%).",
+    "bioavailability": "100% (IV)",
+    "half_life": "0.5 to 0.7 hours",
+    "protein_binding": "92%",
+    "onset": "Immediate peak upon IV infusion",
+    "duration": "4 to 6 hours",
+    "indications": [
+      "Severe systemic infections caused by penicillinase-producing staphylococci",
+      "MSSA bacteremia and sepsis",
+      "MSSA infective endocarditis (standard first-line therapy)",
+      "Staphylococcal osteomyelitis and septic arthritis",
+      "Complicated skin and skin structure infections"
+    ],
+    "contraindications": [
+      "Hypersensitivity to oxacillin, penicillins, or other beta-lactams",
+      "History of oxacillin-induced hepatitis"
+    ],
+    "warnings": [
+      "Hepatotoxicity: elevated serum transaminases and hepatitis can occur (more frequent than with cefazolin)",
+      "Hypersensitivity / anaphylactic reactions",
+      "Clostridioides difficile-associated diarrhoea"
+    ],
+    "common_adverse_effects": [
+      "Phlebitis at infusion site",
+      "Elevated AST and ALT",
+      "Nausea",
+      "Diarrhoea",
+      "Rash"
+    ],
+    "serious_adverse_effects": [
+      "Anaphylactic shock",
+      "Drug-induced hepatitis / cholestatic jaundice",
+      "Acute interstitial nephritis",
+      "Neutropenia (with prolonged high-dose therapy >2 weeks)"
+    ],
+    "drug_interactions": [
+      "Probenecid (prolongs serum half-life)",
+      "Aminoglycosides (synergistic against MSSA, but must not be mixed in same IV bag)",
+      "Methotrexate (increased methotrexate toxicity)"
+    ],
+    "monitoring": [
+      "Serum AST, ALT, and alkaline phosphatase weekly during high-dose therapy",
+      "Complete blood count with differential weekly for neutropenia",
+      "Renal function tests"
+    ],
+    "pregnancy": "Category B; safe during pregnancy for severe MSSA infections.",
+    "lactation": "Excreted in low levels in breast milk; compatible with breastfeeding.",
+    "pediatric": "Weight-based dosing in pediatric patients (100-200 mg/kg/day IV divided every 6 hours).",
+    "geriatric": "Monitor renal and hepatic parameters; adjust based on clinical response.",
+    "renal": "No dose adjustment required in mild to moderate renal impairment; in severe renal failure with hepatic impairment, reduce dose.",
+    "hepatic": "Dose reduction and close liver enzyme monitoring required in patients with severe preexisting liver disease.",
+    "advantages": [
+      "First-line gold standard bactericidal agent for MSSA endocarditis and bacteremia",
+      "Does not require renal dose adjustments in mild-to-moderate impairment due to biliary elimination",
+      "Rapid bacterial clearance in deep MSSA abscesses"
+    ],
+    "disadvantages": [
+      "High rate of chemical phlebitis requiring dedicated central line or frequent IV site rotation",
+      "Requires frequent dosing (every 4 hours IV)"
+    ],
+    "key_points": [
+      "Gold standard IV drug for methicillin-susceptible Staphylococcus aureus (MSSA) bacteremia",
+      "Rotate IV sites or use a central line due to risk of vein irritation (phlebitis)"
+    ],
+    "memory_trick": "OXA-cillin: Out-maneuvers Staph beta-lactamase; eXcellent for MSSA bacteremia.",
+    "key_suffix": "-cillin",
+    "pronunciation_en": "ox-a-SIL-in",
+    "pronunciation_hi": "\u0911\u0915\u094d\u0938\u093e-\u0938\u093f\u0932\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "benzathine-penicillin",
+    "generic_name": "Benzathine Penicillin G",
+    "display_name": "Benzathine Penicillin G (Penicillin G Benzathine)",
+    "active_ingredient": "Benzathine penicillin G",
+    "salt": "Benzathine penicillin G",
+    "category": "Antibiotics",
+    "description": "An ultra-long-acting repository intramuscular penicillin that releases penicillin G over 3 to 4 weeks, serving as the global first-line curative therapy for syphilis and secondary prophylaxis of rheumatic fever.",
+    "strengths": [
+      "600,000 units vial",
+      "1,200,000 units (1.2 MU) vial",
+      "2,400,000 units (2.4 MU) vial"
+    ],
+    "dosage_forms": [
+      "Sterile Suspension for Deep IM Injection"
+    ],
+    "routes": [
+      "Intramuscular"
+    ],
+    "mechanism_of_action": "Slowly releases penicillin G from the deep intramuscular depot; penicillin G binds to bacterial PBPs, inhibiting cross-linking of peptidoglycan chains, resulting in bacterial lysis.",
+    "pharmacodynamics": "Low but sustained bactericidal serum concentrations maintained for 21 to 28 days; exquisitely lethal against Treponema pallidum and Streptococcus pyogenes (Group A beta-hemolytic Streptococcus).",
+    "absorption": "Administered exclusively by deep intramuscular injection; extremely slow absorption from depot site over 1 to 4 weeks.",
+    "distribution": "Distributes into extracellular fluid, placenta, and tissues; does NOT achieve therapeutic levels in the central nervous system (not indicated for neurosyphilis); 60% protein bound.",
+    "metabolism": "Minimal hepatic metabolism.",
+    "excretion": "Excreted slowly by the kidneys via tubular secretion as active penicillin G over 3 to 4 weeks.",
+    "bioavailability": "Depot release ensures 100% systemic bio-availability over 3-4 weeks",
+    "half_life": "Depot elimination half-life is 14 to 30 days",
+    "protein_binding": "60%",
+    "onset": "Serum levels detectable within 1 to 2 hours, sustained for 21-28 days",
+    "duration": "3 to 4 weeks",
+    "indications": [
+      "Syphilis (primary, secondary, early latent: single 2.4 MU dose; late latent: 2.4 MU weekly for 3 doses)",
+      "Prophylaxis of rheumatic fever (1.2 MU every 3 to 4 weeks)",
+      "Streptococcal pharyngitis (single injection treatment)",
+      "Yaws and pinta eradication"
+    ],
+    "contraindications": [
+      "Hypersensitivity to penicillin or procaine",
+      "NEVER ADMINISTER INTRAVENOUSLY (causes fatal cardiorespiratory arrest and emboli)"
+    ],
+    "warnings": [
+      "Black box warning: FOR DEEP INTRAMUSCULAR USE ONLY; inadvertent IV administration causes fatal cardiac arrest and permanent neurovascular damage (Hoign\u00e9 syndrome / Nicolau syndrome)",
+      "Jarisch-Herxheimer reaction (fever, chills, headache, hypotension) within 24 hours of treating syphilis",
+      "Skin allergy testing recommended in suspected allergy"
+    ],
+    "common_adverse_effects": [
+      "Severe localized pain at intramuscular injection site",
+      "Jarisch-Herxheimer reaction (in syphilis patients)",
+      "Fever",
+      "Fatigue",
+      "Urticaria"
+    ],
+    "serious_adverse_effects": [
+      "Fatal pulmonary embolism / cardiac arrest if accidentally injected IV",
+      "Severe anaphylactic shock",
+      "Nicolau syndrome (livedoid dermatitis and tissue necrosis from arterial injection)"
+    ],
+    "drug_interactions": [
+      "Probenecid (prolongs serum penicillin levels)",
+      "Bacteriostatic antibiotics (tetracyclines - may antagonize bactericidal action)",
+      "Methotrexate"
+    ],
+    "monitoring": [
+      "Prior history of penicillin allergy before every dose",
+      "Monitor for 30 minutes post-injection for acute anaphylaxis",
+      "VDRL / RPR titers at 3, 6, 12, and 24 months post-syphilis therapy"
+    ],
+    "pregnancy": "Category B; drug of choice and ONLY proven curative treatment for syphilis in pregnant women (prevents congenital syphilis).",
+    "lactation": "Excreted in low levels in breast milk; compatible with breastfeeding.",
+    "pediatric": "Single dose of 600,000 units (for children <27 kg) for rheumatic fever prophylaxis and streptococcal tonsillitis.",
+    "geriatric": "Assess injection site muscle mass; use appropriate needle gauge (18-20G) to prevent depot clogging.",
+    "renal": "Dosing interval may be extended in severe renal failure, but depot clearance is predominantly slow dissolution.",
+    "hepatic": "No dosage adjustment required.",
+    "advantages": [
+      "Single-dose curative therapy for primary, secondary, and early latent syphilis",
+      "Monthly deep IM injection guarantees 100% compliance for rheumatic fever prophylaxis",
+      "Only therapy proven to prevent congenital syphilis in pregnancy"
+    ],
+    "disadvantages": [
+      "STRICTLY CONTRAINDICATED VIA IV: IV injection is immediately fatal",
+      "Deep intramuscular injection is painful and causes local muscle tenderness"
+    ],
+    "key_points": [
+      "CRITICAL SAFETY RULE: For deep INTRAMUSCULAR injection ONLY; NEVER inject IV",
+      "Single 2.4 million unit dose cures early syphilis and prevents congenital syphilis in pregnancy"
+    ],
+    "memory_trick": "BENZATHINE: Binds to Extracellular Non-vascular muscle; Zero IV allowed (FATAL); Syphilis savior.",
+    "key_suffix": "-cillin",
+    "pronunciation_en": "BEN-za-theen pen-i-SIL-in",
+    "pronunciation_hi": "\u092c\u0947\u0902\u091c\u093c\u093e\u0925\u0940\u0928 \u092a\u0947\u0928\u093f\u0938\u093f\u0932\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "benzylpenicillin",
+    "generic_name": "Benzylpenicillin (Penicillin G Sodium/Potassium)",
+    "display_name": "Penicillin G Sodium / Potassium",
+    "active_ingredient": "Benzylpenicillin sodium",
+    "salt": "Benzylpenicillin sodium",
+    "category": "Antibiotics",
+    "description": "A natural parenteral penicillin with high intrinsic potency against sensitive streptococci, Neisseria meningitidis, Treponema pallidum (neurosyphilis), and clostridial infections.",
+    "strengths": [
+      "1,000,000 units (1 MU) vial",
+      "5,000,000 units (5 MU) vial"
+    ],
+    "dosage_forms": [
+      "Powder for Solution for Injection"
+    ],
+    "routes": [
+      "Intravenous",
+      "Intramuscular"
+    ],
+    "mechanism_of_action": "Binds to penicillin-binding proteins (PBPs), inhibiting transpeptidase enzymes that cross-link peptidoglycan polymers in bacterial cell walls, triggering autolysins and osmotic cell death.",
+    "pharmacodynamics": "Potent concentration-dependent and time-dependent bactericidal activity against Streptococcus pneumoniae, Streptococcus pyogenes, Neisseria meningitidis, Treponema pallidum, and Clostridium perfringens.",
+    "absorption": "Inactivated by gastric acid (oral bioavailability negligible); administered exclusively IV or IM.",
+    "distribution": "Distributes into synovial, pericardial, and pleural fluids; penetrates inflamed meninges in bacterial meningitis (CSF levels approx. 5-10% of serum); 60% bound to plasma albumin.",
+    "metabolism": "Metabolized in the liver (approx. 20-30%) to penicilloic acid; minimal CYP involvement.",
+    "excretion": "Excreted rapidly by the kidneys through active tubular secretion (approx. 90%) and glomerular filtration (approx. 10%).",
+    "bioavailability": "100% (IV)",
+    "half_life": "30 to 50 minutes (prolonged in neonates and severe renal failure to 4-10 hours)",
+    "protein_binding": "60%",
+    "onset": "Immediate upon IV infusion",
+    "duration": "4 to 6 hours",
+    "indications": [
+      "Neurosyphilis and ocular syphilis (18 to 24 million units IV daily for 10-14 days)",
+      "Meningococcal meningitis due to Neisseria meningitidis",
+      "Severe streptococcal pneumonia and bacteremia",
+      "Infective endocarditis caused by viridans group streptococci (combined with gentamicin)",
+      "Gas gangrene (Clostridium perfringens) and tetanus (Clostridium tetani)",
+      "Actinomycosis"
+    ],
+    "contraindications": [
+      "Hypersensitivity to penicillin G or any beta-lactam antibiotic"
+    ],
+    "warnings": [
+      "Electrolyte overload: 1 million units of potassium penicillin contains 1.7 mEq K+; 1 million units of sodium penicillin contains 2.0 mEq Na+ (risk in heart/renal failure)",
+      "Neurotoxicity (seizures, encephalopathy, myoclonus) with high doses in renal impairment",
+      "Severe anaphylaxis"
+    ],
+    "common_adverse_effects": [
+      "Phlebitis at infusion site",
+      "Mild diarrhoea",
+      "Electrolyte shifts (hypokalemia or hyperkalemia)",
+      "Urticaria"
+    ],
+    "serious_adverse_effects": [
+      "Severe life-threatening anaphylactic shock",
+      "Penicillin-induced encephalopathy / myoclonic seizures (in renal failure)",
+      "Severe hemolytic anaemia",
+      "Clostridioides difficile colitis"
+    ],
+    "drug_interactions": [
+      "Probenecid (blocks tubular secretion, doubling penicillin G serum levels)",
+      "Aminoglycosides (synergistic bactericidal action in endocarditis; infuse separately)",
+      "Methotrexate"
+    ],
+    "monitoring": [
+      "Serum electrolytes (sodium and potassium) in patients receiving high-dose therapy (>10-20 MU daily)",
+      "Renal function (BUN/creatinine) to adjust dosing interval",
+      "Signs of neurotoxicity (twitching, myoclonus)"
+    ],
+    "pregnancy": "Category B; drug of choice for neurosyphilis and Group B streptococcal sepsis in pregnancy.",
+    "lactation": "Excreted in low concentrations in breast milk; compatible with breastfeeding.",
+    "pediatric": "Dosed by units/kg/day (100,000 to 250,000 units/kg/day IV divided every 4-6 hours); monitor renal clearance.",
+    "geriatric": "High risk of neurotoxicity and electrolyte shifts due to decreased GFR; reduce dose and monitor mental status.",
+    "renal": "Dose reduction mandatory: if CrCl 30-50 mL/min, give full dose q6h; if CrCl 10-30 mL/min, give full dose q8-12h; if CrCl < 10 mL/min, give full dose q12-18h.",
+    "hepatic": "No primary dosage adjustment required in hepatic disease.",
+    "advantages": [
+      "First-line treatment of choice for neurosyphilis with proven neurological cures",
+      "Superb bactericidal potency against Group A/B streptococci and Neisseria meningitidis",
+      "Unmatched safety profile outside of allergy"
+    ],
+    "disadvantages": [
+      "Must be dosed frequently (every 4 hours IV) due to short 30-minute half-life",
+      "High electrolyte load in massive doses (potassium or sodium toxicity risk)"
+    ],
+    "key_points": [
+      "Drug of choice for neurosyphilis (18-24 MU daily continuous IV or divided q4h)",
+      "Watch for electrolyte toxicity: massive doses carry high sodium or potassium loads"
+    ],
+    "memory_trick": "BENZYL-penicillin: Backbone for Neurosyphilis, Zero oral absorption, Yields seizures if renal clearance drops.",
+    "key_suffix": "-cillin",
+    "pronunciation_en": "BEN-zil-pen-i-SIL-in",
+    "pronunciation_hi": "\u092c\u0947\u0902\u091c\u093c\u093f\u0932-\u092a\u0947\u0928\u093f\u0938\u093f\u0932\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "cefotetan",
+    "generic_name": "Cefotetan",
+    "display_name": "Cefotetan Disodium",
+    "active_ingredient": "Cefotetan disodium",
+    "salt": "Cefotetan disodium",
+    "category": "Antibiotics",
+    "description": "A second-generation cephamycin antibiotic with potent anaerobic activity against Bacteroides fragilis, used for surgical prophylaxis and mixed pelvic and intra-abdominal infections.",
+    "strengths": [
+      "1 g vial",
+      "2 g vial"
+    ],
+    "dosage_forms": [
+      "Powder for Solution for Injection"
+    ],
+    "routes": [
+      "Intravenous",
+      "Intramuscular"
+    ],
+    "mechanism_of_action": "Binds to penicillin-binding proteins (PBPs), inhibiting bacterial cell wall synthesis; 7-alpha-methoxy group on the beta-lactam ring confers extreme stability against beta-lactamases produced by anaerobic bacteria.",
+    "pharmacodynamics": "Broad bactericidal action against aerobic Gram-negative bacilli, Streptococcus, and importantly anaerobes (Bacteroides fragilis, Prevotella, and Peptostreptococcus).",
+    "absorption": "Administered parenterally (IV or IM); 100% bioavailable.",
+    "distribution": "Distributes into peritoneal fluid, pelvic tissues, gallbladder, and skin; poor CSF penetration; 88% bound to plasma proteins.",
+    "metabolism": "Not significantly metabolized in the liver (approx. 10% converted to a tautomer with similar antibacterial activity).",
+    "excretion": "Excreted primarily unchanged in urine via glomerular filtration and tubular secretion (approx. 50-80%); remaining eliminated in bile.",
+    "bioavailability": "100% (IV)",
+    "half_life": "3 to 4.6 hours (longer than cefoxitin, allowing twice-daily dosing)",
+    "protein_binding": "88%",
+    "onset": "Immediate upon IV infusion",
+    "duration": "12 hours (dosed every 12 hours)",
+    "indications": [
+      "Surgical antibiotic prophylaxis (colorectal surgery, abdominal/vaginal hysterectomy, cesarean section)",
+      "Pelvic inflammatory disease (PID - combined with doxycycline)",
+      "Intra-abdominal infections (peritonitis, diverticulitis, appendicitis)",
+      "Gynecological infections (endometritis, pelvic cellulitis)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to cefotetan, cephalosporins, or cephamycins",
+      "History of cephalosporin-associated hemolytic anaemia"
+    ],
+    "warnings": [
+      "Contains an N-methylthiotetrazole (NMTT) side chain: risk of hypoprothrombinemia, coagulopathy, and bleeding (vitamin K deficiency)",
+      "Disulfiram-like ethanol reaction with alcohol ingestion (nausea, vomiting, flushing, tachycardia)",
+      "Clostridioides difficile colitis"
+    ],
+    "common_adverse_effects": [
+      "Diarrhoea",
+      "Nausea",
+      "Injection site thrombophlebitis",
+      "Hypoprothrombinemia",
+      "Eosinophilia"
+    ],
+    "serious_adverse_effects": [
+      "Severe bleeding / coagulopathy due to NMTT-mediated vitamin K inhibition",
+      "Disulfiram-like ethanol reaction",
+      "Severe hemolytic anaemia",
+      "Anaphylaxis"
+    ],
+    "drug_interactions": [
+      "Alcohol / ethanol (severe disulfiram-like reaction; avoid alcohol during and for 72 hours post-therapy)",
+      "Oral anticoagulants / warfarin (prolonged prothrombin time and major bleeding risk)",
+      "Aminoglycosides (additive nephrotoxicity)"
+    ],
+    "monitoring": [
+      "Prothrombin time (PT/INR) in patients on prolonged courses or with nutritional deficits (supplement with vitamin K)",
+      "Renal function tests",
+      "Stool frequency for C. difficile"
+    ],
+    "pregnancy": "Category B; used safely for surgical prophylaxis in cesarean section and pelvic procedures.",
+    "lactation": "Excreted in human milk in low concentrations; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy established in children for intra-abdominal infections and prophylaxis (20-40 mg/kg q12h).",
+    "geriatric": "Dose reduction required if renal clearance is impaired; monitor PT/INR.",
+    "renal": "Dose adjustment based on CrCl: if CrCl 30-50 mL/min, give usual dose q24h or half dose q12h; if CrCl 10-30 mL/min, give half dose q24h; if CrCl < 10 mL/min, give quarter dose q24h.",
+    "hepatic": "No dosage adjustment required in hepatic disease.",
+    "advantages": [
+      "Potent anaerobic coverage against Bacteroides fragilis without needing metronidazole",
+      "Longer half-life than cefoxitin allows convenient 12-hourly dosing",
+      "Single preoperative dose provides reliable coverage for colorectal and pelvic surgeries"
+    ],
+    "disadvantages": [
+      "NMTT side chain causes hypoprothrombinemia, bleeding, and severe disulfiram reaction with alcohol",
+      "High rate of C. difficile colitis"
+    ],
+    "key_points": [
+      "Covers anaerobes (Bacteroides fragilis) for pelvic and abdominal infections",
+      "Warn patients to avoid all alcohol (severe disulfiram reaction due to NMTT side chain)"
+    ],
+    "memory_trick": "CEFO-TETAN: Cephamycin for Pelvic/Abdominal anaerobes; NMTT side chain causes Bleeding & Hangover.",
+    "key_suffix": "-tetan",
+    "pronunciation_en": "sef-oh-TEE-tan",
+    "pronunciation_hi": "\u0938\u0947\u092b\u093c\u094b-\u091f\u0940\u091f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "cefoxitin",
+    "generic_name": "Cefoxitin",
+    "display_name": "Cefoxitin Sodium",
+    "active_ingredient": "Cefoxitin sodium",
+    "salt": "Cefoxitin sodium",
+    "category": "Antibiotics",
+    "description": "A classical parenteral cephamycin with high beta-lactamase resistance and anaerobic efficacy against Bacteroides fragilis, used for surgical prophylaxis and pelvic inflammatory disease.",
+    "strengths": [
+      "1 g vial",
+      "2 g vial"
+    ],
+    "dosage_forms": [
+      "Powder for Solution for Injection"
+    ],
+    "routes": [
+      "Intravenous",
+      "Intramuscular"
+    ],
+    "mechanism_of_action": "Binds to penicillin-binding proteins (PBPs), causing bacterial cell wall synthesis inhibition; 7-alpha-methoxy group provides extreme resistance to inactivation by Gram-negative and anaerobic beta-lactamases.",
+    "pharmacodynamics": "Bactericidal against aerobic Gram-negative bacilli (E. coli, Klebsiella), Gram-positive cocci, and anaerobes (Bacteroides fragilis, Clostridium species); does NOT contain the NMTT side chain (no hypoprothrombinemia).",
+    "absorption": "Administered exclusively parenterally (IV or deep IM); 100% bioavailable.",
+    "distribution": "Widely distributed into pleural, peritoneal, synovial, and ascitic fluids; minimal CSF penetration; 65-80% bound to plasma proteins.",
+    "metabolism": "Metabolized in small amounts (approx. 2-5%) to inactive descarbamylcefoxitin.",
+    "excretion": "Excreted rapidly and primarily unchanged in urine via active tubular secretion (approx. 85%) and glomerular filtration.",
+    "bioavailability": "100% (IV)",
+    "half_life": "45 to 60 minutes",
+    "protein_binding": "70%",
+    "onset": "Immediate upon IV infusion",
+    "duration": "6 to 8 hours (requires dosing every 6-8 hours)",
+    "indications": [
+      "Surgical prophylaxis in colorectal, appendectomy, gynecological, and clean-contaminated procedures",
+      "Pelvic inflammatory disease (PID - combined with oral doxycycline as CDC first-line parenteral regimen)",
+      "Intra-abdominal infections (peritonitis, intra-abdominal abscesses)",
+      "Diabetic foot infections involving mixed aerobes and anaerobes"
+    ],
+    "contraindications": [
+      "Hypersensitivity to cefoxitin or cephalosporins/cephamycins"
+    ],
+    "warnings": [
+      "Short half-life necessitates intraoperative redosing for surgical procedures lasting >2-3 hours",
+      "Induces chromosomal AmpC beta-lactamases in Enterobacter species (avoid in Enterobacter infections)",
+      "Clostridioides difficile colitis"
+    ],
+    "common_adverse_effects": [
+      "Local thrombophlebitis",
+      "Diarrhoea",
+      "Nausea",
+      "Maculopapular rash",
+      "Eosinophilia"
+    ],
+    "serious_adverse_effects": [
+      "Severe anaphylactic reactions",
+      "Pseudomembranous colitis (C. difficile)",
+      "Acute interstitial nephritis",
+      "Leukopenia / thrombocytopenia (rare)"
+    ],
+    "drug_interactions": [
+      "Probenecid (significantly blocks tubular secretion, increasing serum cefoxitin levels)",
+      "Aminoglycosides (additive nephrotoxicity risk)"
+    ],
+    "monitoring": [
+      "Renal function tests (BUN and creatinine)",
+      "Complete blood count with differential in courses >10 days",
+      "Inspection of peripheral IV sites for phlebitis"
+    ],
+    "pregnancy": "Category B; first-line CDC-recommended parenteral regimen for pelvic inflammatory disease in pregnancy.",
+    "lactation": "Excreted in low levels in breast milk; compatible with breastfeeding.",
+    "pediatric": "Approved in children 3 months and older (80-160 mg/kg/day divided every 4-6 hours).",
+    "geriatric": "Renal function declines with age; adjust dose and interval accordingly.",
+    "renal": "Dose reduction required: if CrCl 30-50 mL/min, give 1-2 g q8-12h; if CrCl 10-29 mL/min, give 1-2 g q12-24h; if CrCl < 10 mL/min, give 0.5-1 g q24-48h.",
+    "hepatic": "No dosage adjustment required in hepatic impairment.",
+    "advantages": [
+      "First-line CDC-recommended parenteral regimen for pelvic inflammatory disease (PID)",
+      "Does NOT contain the NMTT side chain (no bleeding or disulfiram reaction, unlike cefotetan)",
+      "Excellent anaerobic coverage for abdominal and gynecological surgery"
+    ],
+    "disadvantages": [
+      "Short half-life requires dosing every 6 to 8 hours (or intraoperative redosing during long surgeries)",
+      "Strong inducer of AmpC beta-lactamases in Enterobacter, Serratia, and Citrobacter"
+    ],
+    "key_points": [
+      "CDC first-line inpatient treatment for pelvic inflammatory disease (PID + doxycycline)",
+      "Safe anaerobic coverage without bleeding complications because it lacks the NMTT ring"
+    ],
+    "memory_trick": "CEFOX-itin: Classic Emergency Cephamycin for Female pelvic inflammatory disease (PID); No NMTT.",
+    "key_suffix": "-oxitin",
+    "pronunciation_en": "se-FOX-i-tin",
+    "pronunciation_hi": "\u0938\u0947\u092b\u093c\u094b\u0915\u094d\u0938\u093f-\u091f\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  }
+]

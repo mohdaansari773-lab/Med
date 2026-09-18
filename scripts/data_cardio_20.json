@@ -1,0 +1,1931 @@
+[
+  {
+    "slug": "sotalol",
+    "generic_name": "Sotalol",
+    "display_name": "Sotalol Hydrochloride",
+    "active_ingredient": "Sotalol hydrochloride",
+    "salt": "Sotalol hydrochloride",
+    "category": "Cardiovascular",
+    "description": "A non-selective beta-blocker with Class III antiarrhythmic potassium channel-blocking properties, used for ventricular arrhythmias and maintaining sinus rhythm in atrial fibrillation.",
+    "strengths": [
+      "40 mg",
+      "80 mg",
+      "160 mg"
+    ],
+    "dosage_forms": [
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "D- and L-isomers block beta-1 and beta-2 adrenergic receptors; D-isomer selectively blocks rapid delayed rectifier potassium current (IKr), prolonging myocardial action potential duration and effective refractory period.",
+    "pharmacodynamics": "Slows heart rate, decreases AV nodal conduction velocity, and prolongs ventricular refractory periods; carries high dose-dependent risk of Torsades de pointes.",
+    "absorption": "Rapidly and completely absorbed (>90%); absorption reduced by 20% by food (especially dairy/calcium).",
+    "distribution": "Widely distributed; does not cross blood-brain barrier significantly; zero plasma protein binding (0%).",
+    "metabolism": "Not metabolized by the liver; excreted completely unaltered by the kidneys.",
+    "excretion": "Excreted entirely unchanged in urine via glomerular filtration (>80-90%).",
+    "bioavailability": "90% to 100%",
+    "half_life": "12 hours (prolonged significantly in renal failure)",
+    "protein_binding": "0%",
+    "onset": "1 to 2 hours",
+    "duration": "12 hours (dosed twice daily)",
+    "indications": [
+      "Maintenance of normal sinus rhythm in patients with symptomatic atrial fibrillation or flutter",
+      "Treatment of documented life-threatening ventricular tachyarrhythmias (sustained VT)"
+    ],
+    "contraindications": [
+      "Baseline QTc interval > 450 ms",
+      "Severe bradycardia (<50 bpm)",
+      "Second- or third-degree AV block without pacemaker",
+      "CrCl < 40 mL/min for AF indication",
+      "Bronchial asthma",
+      "Cardiogenic shock"
+    ],
+    "warnings": [
+      "Black box warning: Must be initiated in a facility with continuous cardiac monitoring and resuscitation capabilities for at least 3 days",
+      "Proarrhythmic risk: Torsades de pointes occurs in 2-4% (highest in females, hypokalemia, renal dysfunction)",
+      "Dose strictly based on creatinine clearance"
+    ],
+    "common_adverse_effects": [
+      "Bradycardia",
+      "Fatigue",
+      "Dyspnea",
+      "Dizziness",
+      "Nausea",
+      "Headache"
+    ],
+    "serious_adverse_effects": [
+      "Torsades de pointes / polymorphic ventricular tachycardia",
+      "Complete heart block",
+      "Severe symptomatic bradycardia",
+      "Acute bronchospasm"
+    ],
+    "drug_interactions": [
+      "QT-prolonging drugs (amiodarone, macrolides, fluoroquinolones - avoid)",
+      "Potassium-depleting diuretics (hypokalemia increases Torsades risk)",
+      "Diltiazem / verapamil (severe bradycardia)"
+    ],
+    "monitoring": [
+      "Continuous ECG monitoring for at least 3 days during initiation or dose increase",
+      "Calculate QTc interval before every dose (discontinue if QTc > 500 ms)",
+      "Serum potassium and magnesium (maintain K+ > 4.0 mEq/L, Mg2+ > 2.0 mg/dL)",
+      "Serum creatinine"
+    ],
+    "pregnancy": "Category B; crosses placenta; causes fetal bradycardia; use only if benefit justifies risk.",
+    "lactation": "Excreted in high concentrations in breast milk; breastfeeding not recommended.",
+    "pediatric": "Approved in children with dose adjusted for body surface area.",
+    "geriatric": "Higher risk of proarrhythmia due to age-related decline in GFR; start at 80 mg daily.",
+    "renal": "Strict dose titration based on CrCl: CrCl 40-59 mL/min: q24h; CrCl < 40 mL/min: contraindicated for AF; if VT, dose q36-48h.",
+    "hepatic": "No dosage adjustment required (not metabolized by the liver).",
+    "advantages": [
+      "Dual Class II (beta-blocker) and Class III (potassium channel blocker) antiarrhythmic efficacy",
+      "High oral bioavailability (100%) and zero hepatic metabolism",
+      "Proven efficacy for maintaining sinus rhythm in recurrent atrial fibrillation"
+    ],
+    "disadvantages": [
+      "High risk of Torsades de pointes requires mandatory 3-day inpatient cardiac telemetry for initiation",
+      "Eliminated 100% by kidneys; toxic accumulation occurs in renal failure"
+    ],
+    "key_points": [
+      "Must be started in the hospital under 3 days of telemetry monitoring",
+      "Stop the drug immediately if QTc exceeds 500 ms or increases by >60 ms over baseline"
+    ],
+    "memory_trick": "SOTALOL: Slows AV node; QT prolongation triggers Torsades; Always hospitalize for initiation; Leaves via kidneys unchanged.",
+    "key_suffix": "-olol",
+    "pronunciation_en": "SOE-ta-lol",
+    "pronunciation_hi": "\u0938\u094b\u091f\u093e-\u0932\u094b\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "pindolol",
+    "generic_name": "Pindolol",
+    "display_name": "Pindolol",
+    "active_ingredient": "Pindolol",
+    "salt": "Pindolol",
+    "category": "Cardiovascular",
+    "description": "A non-selective beta-adrenergic blocker with potent intrinsic sympathomimetic activity (ISA), lowering blood pressure with minimal resting bradycardia or metabolic suppression.",
+    "strengths": [
+      "5 mg",
+      "10 mg"
+    ],
+    "dosage_forms": [
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Partial agonist at beta-1 and beta-2 adrenergic receptors (intrinsic sympathomimetic activity - ISA); competitively blocks catecholamines during exercise/stress while providing low-level basal receptor stimulation at rest.",
+    "pharmacodynamics": "Reduces peripheral vascular resistance and systemic blood pressure without causing marked resting bradycardia, cardiac depression, or lipid elevation.",
+    "absorption": "Rapidly and completely absorbed (approx. 90-100%); peak plasma levels in 1 to 2 hours; food has no effect.",
+    "distribution": "Widely distributed into tissues; crosses blood-brain barrier; 40-50% bound to plasma proteins.",
+    "metabolism": "Metabolized extensively in the liver (approx. 60-65%) to inactive hydroxylated and glucuronide metabolites.",
+    "excretion": "Excreted in urine (approx. 35-40% as unchanged parent drug, remainder as metabolites).",
+    "bioavailability": "Approximately 90%",
+    "half_life": "3 to 4 hours",
+    "protein_binding": "40% to 50%",
+    "onset": "1 to 2 hours",
+    "duration": "12 to 24 hours",
+    "indications": [
+      "Essential hypertension in patients prone to excessive resting bradycardia",
+      "Mild to moderate angina pectoris"
+    ],
+    "contraindications": [
+      "Bronchial asthma or severe chronic obstructive pulmonary disease",
+      "Severe cardiogenic shock or overt decompensated heart failure",
+      "Second- or third-degree heart block"
+    ],
+    "warnings": [
+      "Avoid abrupt cessation (taper over 1-2 weeks)",
+      "May worsen angina or precipitate arrhythmias if withdrawn suddenly",
+      "Caution in peripheral vascular disease"
+    ],
+    "common_adverse_effects": [
+      "Insomnia / vivid dreams",
+      "Dizziness",
+      "Fatigue",
+      "Muscle cramps",
+      "Nausea"
+    ],
+    "serious_adverse_effects": [
+      "Heart failure exacerbation",
+      "Severe bronchospasm in asthmatics",
+      "Rebound hypertension upon sudden discontinuation"
+    ],
+    "drug_interactions": [
+      "Verapamil, diltiazem (additive negative dromotropic effects)",
+      "NSAIDs (blunt blood pressure lowering)",
+      "Digitalis glycosides"
+    ],
+    "monitoring": [
+      "Blood pressure and resting heart rate",
+      "Assessment for sleep disturbances and bronchospasm"
+    ],
+    "pregnancy": "Category B; use with caution; beta-blockers may decrease placental perfusion.",
+    "lactation": "Excreted in breast milk; compatible with close infant heart rate monitoring.",
+    "pediatric": "Safety and efficacy not established in pediatric patients.",
+    "geriatric": "Initiate with 5 mg daily; excellent tolerability in seniors prone to bradycardia.",
+    "renal": "No dosage adjustment required in mild to moderate renal disease; balance of renal and hepatic clearance.",
+    "hepatic": "Dose reduction may be required in severe hepatic cirrhosis.",
+    "advantages": [
+      "Intrinsic sympathomimetic activity prevents excessive resting bradycardia (ideal for patients with low baseline heart rate)",
+      "Neutral effect on plasma triglycerides and HDL cholesterol",
+      "Does not cause severe peripheral coldness compared to pure beta-blockers"
+    ],
+    "disadvantages": [
+      "Not cardioprotective post-myocardial infarction (pure beta-blockers without ISA preferred)",
+      "Can cause sleep disturbances and insomnia due to CNS penetration"
+    ],
+    "key_points": [
+      "Beta-blocker with partial agonist activity (ISA) that does not drop resting heart rate excessively",
+      "Ideal for hypertensive patients whose heart rate is already in the 50s"
+    ],
+    "memory_trick": "PINDO-lol: Partial Intrinsic agonist; Normalizes BP without Dropping resting heart rate excessively.",
+    "key_suffix": "-olol",
+    "pronunciation_en": "PIN-doe-lol",
+    "pronunciation_hi": "\u092a\u093f\u0928\u094d\u0921\u094b-\u0932\u094b\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "fosinopril",
+    "generic_name": "Fosinopril",
+    "display_name": "Fosinopril Sodium",
+    "active_ingredient": "Fosinopril sodium",
+    "salt": "Fosinopril sodium",
+    "category": "Cardiovascular",
+    "description": "A phosphinic acid-containing ACE inhibitor prodrug characterized by dual, compensatory hepatic and renal elimination, eliminating the need for dose reductions in renal impairment.",
+    "strengths": [
+      "10 mg",
+      "20 mg",
+      "40 mg"
+    ],
+    "dosage_forms": [
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Hydrolyzed in the liver and gastrointestinal mucosa to fosinoprilat, which competitively inhibits angiotensin-converting enzyme (ACE), blocking conversion of angiotensin I to angiotensin II and preventing bradykinin degradation.",
+    "pharmacodynamics": "Reduces systemic vascular resistance and blood pressure without reflex tachycardia; improves cardiac output in heart failure; demonstrates unique 50:50 compensatory hepatobiliary and renal clearance.",
+    "absorption": "Slowly and incomently absorbed (approx. 36%); peak fosinoprilat in 3 hours; food delays absorption slightly.",
+    "distribution": "High protein binding (>99% for fosinoprilat, primarily albumin); low volume of distribution.",
+    "metabolism": "Rapidly and completely cleaved by mucosal and hepatic esterases to active fosinoprilat; no cytochrome P450 involvement.",
+    "excretion": "Eliminated equally by hepatic/biliary excretion (approx. 50%) and renal excretion (approx. 50%); in renal failure, biliary clearance increases compensatory up to 100%.",
+    "bioavailability": "Approximately 36%",
+    "half_life": "12 hours (effective biological half-life of fosinoprilat)",
+    "protein_binding": ">99%",
+    "onset": "1 hour (peak effect in 2 to 6 hours)",
+    "duration": "24 hours",
+    "indications": [
+      "Essential hypertension in adults and pediatric patients \u22656 years",
+      "Congestive heart failure (adjunct to diuretics and digitalis)",
+      "Proteinuric chronic kidney disease"
+    ],
+    "contraindications": [
+      "History of ACE inhibitor-associated or hereditary angioedema",
+      "Pregnancy (all trimesters)",
+      "Concomitant aliskiren in diabetic patients",
+      "Concomitant sacubitril/valsartan (36h washout required)"
+    ],
+    "warnings": [
+      "Black box warning: Fetal toxicity and death if used during pregnancy; discontinue immediately upon pregnancy confirmation",
+      "Angioedema of head and neck",
+      "Hyperkalemia and acute hypotension in salt/volume depleted patients",
+      "Dry persistent cough"
+    ],
+    "common_adverse_effects": [
+      "Dry cough",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Nausea",
+      "Hyperkalemia"
+    ],
+    "serious_adverse_effects": [
+      "Fatal airway angioedema",
+      "Acute renal failure in bilateral renal artery stenosis",
+      "Severe symptomatic hypotension"
+    ],
+    "drug_interactions": [
+      "Potassium-sparing diuretics, potassium supplements (hyperkalemia)",
+      "NSAIDs (impair antihypertensive effect and renal function)",
+      "Lithium (increases lithium toxicity)"
+    ],
+    "monitoring": [
+      "Serum creatinine and potassium at baseline and periodically",
+      "Blood pressure",
+      "Monitor for persistent cough"
+    ],
+    "pregnancy": "Strictly contraindicated (Category D); fetotoxic; causes neonatal skull hypoplasia, renal failure, and death.",
+    "lactation": "Excreted in low levels in milk; avoid breastfeeding.",
+    "pediatric": "Approved for pediatric hypertension in children 6 to 16 years (weight-adjusted dosing).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "NO DOSE ADJUSTMENT REQUIRED in any degree of renal impairment (unique compensatory hepatobiliary clearance).",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment (compensatory renal elimination).",
+    "advantages": [
+      "Unique compensatory dual elimination: if kidneys fail, liver clears it; if liver fails, kidneys clear it",
+      "No dose adjustment required across the entire spectrum of chronic kidney disease",
+      "Phosphinic acid structure provides smooth 24-hour blood pressure control"
+    ],
+    "disadvantages": [
+      "Dry persistent ACE inhibitor cough in 10-15% of patients",
+      "Risk of angioedema"
+    ],
+    "key_points": [
+      "Safest ACE inhibitor for kidney failure: zero dose adjustment required because the liver compensates 50:50",
+      "Take once daily in the morning with or without food"
+    ],
+    "memory_trick": "FOSINO-pril: Failsafe dual clearance (50% Liver, 50% Kidney); Outstanding Safety In Nephropathy.",
+    "key_suffix": "-pril",
+    "pronunciation_en": "foe-SIN-oh-pril",
+    "pronunciation_hi": "\u092b\u093c\u094b\u0938\u093f\u0928\u094b-\u092a\u094d\u0930\u093f\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "quinapril",
+    "generic_name": "Quinapril",
+    "display_name": "Quinapril Hydrochloride",
+    "active_ingredient": "Quinapril hydrochloride",
+    "salt": "Quinapril hydrochloride",
+    "category": "Cardiovascular",
+    "description": "A lipophilic bicyclic prodrug ACE inhibitor with high vascular tissue ACE affinity and endothelial protective actions, used for hypertension and heart failure.",
+    "strengths": [
+      "5 mg",
+      "10 mg",
+      "20 mg",
+      "40 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "De-esterified in the liver to active quinaprilat, a potent competitive inhibitor of angiotensin-converting enzyme (ACE); exhibits extremely high affinity and binding to tissue-bound ACE in vascular endothelium.",
+    "pharmacodynamics": "Suppresses tissue and circulating angiotensin II, reduces systemic vascular resistance, preserves renal blood flow, and improves arterial compliance and endothelial dysfunction.",
+    "absorption": "Rapidly absorbed (approx. 60%); peak quinapril in 1 hour; conversion to quinaprilat yields peak levels in 2 hours; high-fat meals reduce absorption by 25-30%.",
+    "distribution": "Widely distributed into vascular tissue; quinaprilat is 97% bound to plasma proteins.",
+    "metabolism": "Extensively hydrolyzed in the liver to active quinaprilat and minor inactive diketopiperazine metabolites.",
+    "excretion": "Excreted in urine (approx. 61%, primarily as quinaprilat) and faeces (approx. 37%).",
+    "bioavailability": "Approximately 60% absorbed; active quinaprilat bioavailability is 38%",
+    "half_life": "Parent 1 hour; active quinaprilat effective half-life 3 hours (terminal dissociation half-life 25 hours)",
+    "protein_binding": "97%",
+    "onset": "1 hour",
+    "duration": "24 hours",
+    "indications": [
+      "Essential hypertension",
+      "Congestive heart failure (adjunct therapy in NYHA Class II-IV)",
+      "Hypertension with vascular endothelial dysfunction"
+    ],
+    "contraindications": [
+      "History of ACE inhibitor-induced or idiopathic angioedema",
+      "Pregnancy (all trimesters)",
+      "Concomitant sacubitril/valsartan or aliskiren in diabetics"
+    ],
+    "warnings": [
+      "Black box warning: Fetal toxicity; strictly contraindicated in pregnancy",
+      "Life-threatening angioedema of face and larynx",
+      "Hyperkalemia and first-dose hypotension",
+      "Persistent dry cough"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Dizziness",
+      "Dry persistent cough",
+      "Fatigue",
+      "Hyperkalemia"
+    ],
+    "serious_adverse_effects": [
+      "Severe angioedema",
+      "Acute renal failure",
+      "Severe hypotension / syncope",
+      "Agranulocytosis (rare)"
+    ],
+    "drug_interactions": [
+      "Potassium supplements, spironolactone (hyperkalemia risk)",
+      "NSAIDs (blunt hypotensive effect)",
+      "Tetracycline antibiotics (quinapril tablets contain magnesium carbonate excipient which chelates tetracyclines)"
+    ],
+    "monitoring": [
+      "Serum creatinine and eGFR at baseline and periodically",
+      "Serum potassium",
+      "Blood pressure"
+    ],
+    "pregnancy": "Category D; strictly contraindicated in pregnancy due to severe fetotoxicity and neonatal death.",
+    "lactation": "Excreted in breast milk; avoid breastfeeding.",
+    "pediatric": "Safety and efficacy not established in pediatric patients.",
+    "geriatric": "Initiate with 5-10 mg daily; titrate carefully based on renal function.",
+    "renal": "Dose reduction required if CrCl < 60 mL/min: CrCl 30-60 mL/min: start at 5 mg daily; CrCl 10-30 mL/min: start at 2.5 mg daily; CrCl < 10 mL/min: insufficient data.",
+    "hepatic": "No dosage adjustment required in hepatic disease.",
+    "advantages": [
+      "Highest vascular tissue ACE binding affinity among classical ACE inhibitors, maximizing endothelial protection",
+      "Rapid onset of action with consistent 24-hour hemodynamic benefits",
+      "Proven reduction in left ventricular mass and arterial stiffness"
+    ],
+    "disadvantages": [
+      "Class-wide dry hacking cough",
+      "Magnesium excipient in tablets interacts with tetracycline antibiotics"
+    ],
+    "key_points": [
+      "Potent tissue ACE inhibitor with strong vascular endothelial benefits",
+      "Note that the tablet contains magnesium: separate from tetracycline antibiotics by 2 hours"
+    ],
+    "memory_trick": "QUIN-april: Quick-acting; Utmost In affinity for tissue-bound Vascular ACE; Inhibits Endothelial breakdown.",
+    "key_suffix": "-pril",
+    "pronunciation_en": "KWIN-a-pril",
+    "pronunciation_hi": "\u0915\u094d\u0935\u093f\u0928\u093e-\u092a\u094d\u0930\u093f\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "trandolapril",
+    "generic_name": "Trandolapril",
+    "display_name": "Trandolapril",
+    "active_ingredient": "Trandolapril",
+    "salt": "Trandolapril",
+    "category": "Cardiovascular",
+    "description": "An ultra-lipophilic, long-acting non-sulfhydryl ACE inhibitor prodrug proven in the TRACE trial to significantly reduce mortality, sudden cardiac death, and progression to severe heart failure post-MI.",
+    "strengths": [
+      "1 mg",
+      "2 mg",
+      "4 mg"
+    ],
+    "dosage_forms": [
+      "Capsule"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Bioactivated in the liver by ester cleavage to trandolaprilat, an exceptionally potent, slow-dissociating competitive inhibitor of ACE with high tissue affinity; blocks angiotensin II formation and promotes bradykinin-mediated vasodilation.",
+    "pharmacodynamics": "Reduces left ventricular dilatation and myocardial remodeling; significantly reduces all-cause mortality and sudden death in patients with left ventricular systolic dysfunction following acute myocardial infarction (TRACE trial).",
+    "absorption": "Rapidly absorbed (approx. 40-60%); peak trandolapril in 0.5-1 hour; peak trandolaprilat in 4 to 10 hours; food does not alter AUC.",
+    "distribution": "Highly lipophilic; penetrates deep into cardiac and vascular tissues; trandolaprilat is 80-94% bound to plasma proteins.",
+    "metabolism": "Extensively hydrolyzed in the liver to active trandolaprilat and inactive glucuronides; not dependent on CYP enzymes.",
+    "excretion": "Excreted in faeces (approx. 66%) via biliary elimination and urine (approx. 33%).",
+    "bioavailability": "Trandolapril 40-60%; absolute bioavailability of active trandolaprilat is 70%",
+    "half_life": "Trandolapril 1 hour; active trandolaprilat terminal half-life 16 to 24 hours (tissue retention up to 96 hours)",
+    "protein_binding": "80% to 94%",
+    "onset": "1 to 2 hours",
+    "duration": "24 hours",
+    "indications": [
+      "Essential hypertension (alone or combined with verapamil as Tarka)",
+      "Post-myocardial infarction left ventricular dysfunction (TRACE trial: LVEF \u226435%)",
+      "Stable chronic heart failure"
+    ],
+    "contraindications": [
+      "History of angioedema related to ACE inhibitors",
+      "Pregnancy (all trimesters)",
+      "Concomitant sacubitril/valsartan or aliskiren in diabetics"
+    ],
+    "warnings": [
+      "Black box warning: Fetal toxicity; discontinue immediately when pregnancy detected",
+      "Angioedema of airway",
+      "Hyperkalemia and hypotension in salt-depleted patients",
+      "Dry cough"
+    ],
+    "common_adverse_effects": [
+      "Dizziness",
+      "Dry cough",
+      "Headache",
+      "Fatigue",
+      "Hyperkalemia"
+    ],
+    "serious_adverse_effects": [
+      "Fatal angioedema",
+      "Severe acute hypotension / shock",
+      "Acute kidney injury in renal artery stenosis"
+    ],
+    "drug_interactions": [
+      "Potassium-sparing diuretics, potassium supplements (severe hyperkalemia)",
+      "NSAIDs (renal decline and loss of BP control)",
+      "Lithium (lithium toxicity)"
+    ],
+    "monitoring": [
+      "Serum creatinine and eGFR at baseline and within 2 weeks",
+      "Serum potassium levels",
+      "Blood pressure sitting and standing"
+    ],
+    "pregnancy": "Strictly contraindicated (Category D); fetotoxic; causes oligohydramnios and neonatal skull defects.",
+    "lactation": "Excretion in human milk unknown; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy not established in pediatric patients.",
+    "geriatric": "Initiate with 0.5 to 1 mg once daily; titrate cautiously.",
+    "renal": "If CrCl < 30 mL/min, initiate at 0.5 mg once daily; titrate up to maximum 2 mg daily.",
+    "hepatic": "Initiate at 0.5 mg once daily in patients with hepatic cirrhosis.",
+    "advantages": [
+      "Proven post-MI mortality reduction (TRACE trial: 22% reduction in overall mortality, 24% reduction in sudden death)",
+      "Ultra-long biological half-life provides true once-daily 24-hour hemodynamic protection",
+      "High lipophilicity provides deep cardiac tissue penetration"
+    ],
+    "disadvantages": [
+      "Class-wide dry cough in up to 15% of patients",
+      "Requires slow titration post-myocardial infarction"
+    ],
+    "key_points": [
+      "Proven to reduce sudden cardiac death and mortality after heart attacks (TRACE trial)",
+      "Take once daily in the morning; start at 0.5-1 mg and titrate up to 4 mg"
+    ],
+    "memory_trick": "TRANDO-lapril: TRACE trial proven; Transcends mortality After Myocardial Infarction; Deep cardiac tissue binding.",
+    "key_suffix": "-pril",
+    "pronunciation_en": "tran-DOE-la-pril",
+    "pronunciation_hi": "\u091f\u094d\u0930\u0948\u0902\u0921\u094b\u0932\u093e-\u092a\u094d\u0930\u093f\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "benazepril",
+    "generic_name": "Benazepril",
+    "display_name": "Benazepril Hydrochloride",
+    "active_ingredient": "Benazepril hydrochloride",
+    "salt": "Benazepril hydrochloride",
+    "category": "Cardiovascular",
+    "description": "A potent non-sulfhydryl ACE inhibitor prodrug proven to slow the progression of chronic renal insufficiency in non-diabetic kidney disease (AIPRI trial).",
+    "strengths": [
+      "5 mg",
+      "10 mg",
+      "20 mg",
+      "40 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Cleaved by hepatic esterases to active benazeprilat, which competitively inhibits ACE, preventing conversion of angiotensin I to angiotensin II and reducing sympathetic outflow and aldosterone production.",
+    "pharmacodynamics": "Decreases systemic vascular resistance, reduces intraglomerular capillary pressure, and slows the progression of chronic renal disease and proteinuria (AIPRI trial).",
+    "absorption": "Rapidly absorbed (at least 37%); peak benazepril in 0.5 to 1 hour; peak benazeprilat in 1 to 2 hours; food delays absorption slightly but does not decrease extent.",
+    "distribution": "Widely distributed; benazeprilat is 95% bound to human plasma proteins.",
+    "metabolism": "Extensively bioactivated in the liver by ester cleavage to benazeprilat; minor glucuronidation.",
+    "excretion": "Benazeprilat is eliminated primarily by renal excretion (approx. 80%) and biliary excretion (approx. 20%).",
+    "bioavailability": "Approximately 37% absorbed; active benazeprilat bioavailability is approx. 28%",
+    "half_life": "Parent benazepril 0.6 hours; active benazeprilat effective half-life 10 to 11 hours (terminal half-life 22 hours)",
+    "protein_binding": "95%",
+    "onset": "1 hour",
+    "duration": "24 hours",
+    "indications": [
+      "Essential hypertension in adults and children \u22656 years",
+      "Chronic kidney disease with proteinuria (AIPRI trial: slows renal decline in non-diabetic CKD)",
+      "Congestive heart failure adjunct"
+    ],
+    "contraindications": [
+      "History of ACE inhibitor-associated angioedema",
+      "Pregnancy (all trimesters)",
+      "Concomitant sacubitril/valsartan or aliskiren in diabetics"
+    ],
+    "warnings": [
+      "Black box warning: Fetal toxicity; discontinue immediately if pregnancy occurs",
+      "Angioedema of face, lips, glottis",
+      "Hyperkalemia and acute renal failure in bilateral renal artery stenosis",
+      "Dry persistent cough"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Dizziness",
+      "Dry cough",
+      "Somnolence",
+      "Postural lightheadedness",
+      "Hyperkalemia"
+    ],
+    "serious_adverse_effects": [
+      "Airway angioedema",
+      "Severe acute hypotension",
+      "Acute renal failure",
+      "Stevens-Johnson syndrome (rare)"
+    ],
+    "drug_interactions": [
+      "Potassium supplements, potassium-sparing diuretics (severe hyperkalemia)",
+      "NSAIDs (blunt BP reduction, acute renal failure)",
+      "Lithium"
+    ],
+    "monitoring": [
+      "Serum creatinine and eGFR at baseline and within 1-2 weeks",
+      "Serum potassium",
+      "Urinary protein-to-creatinine ratio (monitors CKD benefit)"
+    ],
+    "pregnancy": "Category D; strictly contraindicated in pregnancy; causes fetal renal dysgenesis and death.",
+    "lactation": "Excreted in low levels in breast milk; compatible with caution.",
+    "pediatric": "Approved for children 6 to 16 years (weight-adjusted dosing: 0.1 to 0.6 mg/kg once daily).",
+    "geriatric": "Initiate with 5-10 mg daily; monitor renal function.",
+    "renal": "If CrCl < 30 mL/min, initiate with 5 mg once daily; titrate up to maximum 40 mg daily.",
+    "hepatic": "No dosage adjustment required in hepatic impairment.",
+    "advantages": [
+      "Proven to slow the progression of chronic renal failure in non-diabetic kidney disease (AIPRI trial)",
+      "Available in proven synergistic fixed-dose combination with amlodipine (Lotrel)",
+      "Consistent 24-hour trough-to-peak control"
+    ],
+    "disadvantages": [
+      "Dry persistent cough",
+      "Requires dose reduction in advanced renal failure"
+    ],
+    "key_points": [
+      "Excellent ACE inhibitor for slowing kidney disease progression (AIPRI trial)",
+      "Take once daily; check potassium and creatinine within 2 weeks of starting"
+    ],
+    "memory_trick": "BENAZE-pril: Beneficial Effect on Non-diabetic Albuminuric renal disease (AIPRI trial); Avoid In Pregnancy.",
+    "key_suffix": "-pril",
+    "pronunciation_en": "ben-AY-ze-pril",
+    "pronunciation_hi": "\u092c\u0947\u0928\u093e\u091c\u093c\u0947-\u092a\u094d\u0930\u093f\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "irbesartan",
+    "generic_name": "Irbesartan",
+    "display_name": "Irbesartan",
+    "active_ingredient": "Irbesartan",
+    "salt": "Irbesartan",
+    "category": "Cardiovascular",
+    "description": "A potent, non-peptide AT1-receptor blocker with insurmountable binding and high oral bioavailability (60-80%), proven to halt the progression of diabetic nephropathy (IDNT and IRMA-2 trials).",
+    "strengths": [
+      "75 mg",
+      "150 mg",
+      "300 mg"
+    ],
+    "dosage_forms": [
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively and insurmountably blocks angiotensin II type 1 (AT1) receptors in vascular smooth muscle and the adrenal gland, blocking angiotensin II-mediated vasoconstriction and aldosterone synthesis.",
+    "pharmacodynamics": "Lowers systemic vascular resistance, reduces blood pressure, and reduces intraglomerular pressure, significantly slowing the doubling of serum creatinine, end-stage renal disease, and proteinuria in type 2 diabetic nephropathy.",
+    "absorption": "Rapidly and well absorbed; peak plasma concentration in 1.5 to 2 hours; high oral bioavailability (60-80%); absorption is completely unaffected by food.",
+    "distribution": "Apparent volume of distribution approx. 53 to 93 L; highly bound to plasma proteins (approx. 90%), predominantly albumin.",
+    "metabolism": "Metabolized in the liver by CYP2C9 via oxidation and glucuronidation; no active circulating metabolites (parent drug accounts for >80% of circulating radioactivity).",
+    "excretion": "Eliminated by both biliary/fecal excretion (approx. 80%) and renal excretion (approx. 20%).",
+    "bioavailability": "60% to 80% (highest oral bioavailability among classical ARBs)",
+    "half_life": "11 to 15 hours",
+    "protein_binding": "90%",
+    "onset": "1 to 2 hours",
+    "duration": "24 hours",
+    "indications": [
+      "Essential hypertension in adults",
+      "Diabetic nephropathy in patients with type 2 diabetes and hypertension (IDNT and IRMA-2 trials: proven renoprotection)",
+      "Microalbuminuria in hypertensive type 2 diabetic patients"
+    ],
+    "contraindications": [
+      "Hypersensitivity to irbesartan",
+      "Pregnancy (all trimesters)",
+      "Concomitant use with aliskiren in patients with diabetes mellitus"
+    ],
+    "warnings": [
+      "Black box warning: Fetal toxicity; discontinue immediately when pregnancy is detected",
+      "Hyperkalemia (especially in diabetics with renal impairment)",
+      "Hypotension in volume- or salt-depleted patients",
+      "Renal artery stenosis risk"
+    ],
+    "common_adverse_effects": [
+      "Dizziness",
+      "Fatigue",
+      "Hyperkalemia",
+      "Diarrhoea",
+      "Musculoskeletal pain"
+    ],
+    "serious_adverse_effects": [
+      "Acute kidney injury / worsening renal failure",
+      "Severe hyperkalemia (>5.5 mEq/L)",
+      "Angioedema (rare compared to ACE inhibitors)"
+    ],
+    "drug_interactions": [
+      "Potassium supplements, potassium-sparing diuretics (hyperkalemia)",
+      "NSAIDs (impair antihypertensive and renoprotective effects)",
+      "Lithium (increases lithium levels)",
+      "CYP2C9 inducers/inhibitors"
+    ],
+    "monitoring": [
+      "Serum potassium and serum creatinine at baseline, 2 weeks, and periodically",
+      "Urinary albumin excretion rate",
+      "Blood pressure"
+    ],
+    "pregnancy": "Black box warning: Strictly contraindicated throughout pregnancy (causes fetal renal failure, skull hypoplasia, and death).",
+    "lactation": "Excreted in animal milk; avoid breastfeeding.",
+    "pediatric": "Safety and efficacy not established in pediatric patients under 6 years.",
+    "geriatric": "Initiate at 75-150 mg daily; titrate up to 300 mg daily for renal protection.",
+    "renal": "No dosage adjustment required in any degree of renal impairment (including hemodialysis).",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Gold standard renoprotective ARB proven in landmark IDNT and IRMA-2 trials to prevent dialysis in diabetic kidney disease",
+      "Highest oral bioavailability (60-80%) of any classical ARB, ensuring consistent absorption unaffected by food",
+      "Dual renal and biliary excretion eliminates the need for renal dose adjustment"
+    ],
+    "disadvantages": [
+      "Strictly contraindicated in pregnancy",
+      "Requires full 300 mg daily dose for maximal diabetic kidney protection"
+    ],
+    "key_points": [
+      "Drug of choice for diabetic kidney disease with protein in the urine (IDNT trial)",
+      "Target dose for kidney protection is 300 mg once daily (taken with or without food)"
+    ],
+    "memory_trick": "IRBE-sartan: Invaluable Renoprotection in Both Early and late Diabetic nephropathy (IDNT trial).",
+    "key_suffix": "-sartan",
+    "pronunciation_en": "ir-be-SAR-tan",
+    "pronunciation_hi": "\u0907\u0930\u092c\u0947-\u0938\u093e\u0930\u091f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "eprosartan",
+    "generic_name": "Eprosartan",
+    "display_name": "Eprosartan Mesylate",
+    "active_ingredient": "Eprosartan mesylate",
+    "salt": "Eprosartan mesylate",
+    "category": "Cardiovascular",
+    "description": "A non-biphenyl, non-tetrazole AT1-receptor blocker with dual postsynaptic AT1 and presynaptic sympathoinhibitory properties, effective for isolated systolic hypertension and stroke prevention (MOSES trial).",
+    "strengths": [
+      "400 mg",
+      "600 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Competitively and selectively blocks AT1 receptors postsynaptically, preventing angiotensin II vasoconstriction; uniquely blocks presynaptic AT1 receptors on sympathetic nerve terminals, inhibiting norepinephrine release and sympathetic tone.",
+    "pharmacodynamics": "Reduces peripheral vascular resistance and systemic blood pressure; reduces cardiovascular events and recurrent stroke in hypertensive patients with prior cerebrovascular events (MOSES trial).",
+    "absorption": "Rapidly absorbed; peak plasma concentrations in 1 to 2 hours; absolute oral bioavailability approx. 13% due to limited absorption; take consistently with or without food.",
+    "distribution": "Low volume of distribution (approx. 13 L); highly bound to plasma proteins (approx. 98%).",
+    "metabolism": "Minimal hepatic metabolism (<2%); does not utilize or inhibit cytochrome P450 enzymes.",
+    "excretion": "Excreted predominantly unchanged in faeces (approx. 90% via biliary route) and urine (approx. 7%).",
+    "bioavailability": "Approximately 13%",
+    "half_life": "5 to 9 hours",
+    "protein_binding": "98%",
+    "onset": "1 to 2 hours (peak effect in 2 to 3 weeks)",
+    "duration": "24 hours",
+    "indications": [
+      "Essential hypertension (alone or in combination with other antihypertensives)",
+      "Hypertension in patients with a history of stroke or transient ischemic attack (MOSES trial)",
+      "Isolated systolic hypertension"
+    ],
+    "contraindications": [
+      "Hypersensitivity to eprosartan",
+      "Pregnancy (all trimesters)",
+      "Concomitant aliskiren in diabetic patients"
+    ],
+    "warnings": [
+      "Black box warning: Fetal toxicity; discontinue immediately upon pregnancy confirmation",
+      "Hyperkalemia and hypotension in salt-depleted patients",
+      "Bilateral renal artery stenosis precautions"
+    ],
+    "common_adverse_effects": [
+      "Upper respiratory tract infection",
+      "Headache",
+      "Dizziness",
+      "Fatigue",
+      "Nausea"
+    ],
+    "serious_adverse_effects": [
+      "Acute renal failure",
+      "Severe symptomatic hypotension",
+      "Hyperkalemia",
+      "Angioedema (rare)"
+    ],
+    "drug_interactions": [
+      "Potassium supplements, potassium-sparing diuretics (additive hyperkalemia risk)",
+      "NSAIDs (reduce antihypertensive efficacy)",
+      "Lithium"
+    ],
+    "monitoring": [
+      "Serum potassium and creatinine at baseline and periodically",
+      "Blood pressure sitting and standing"
+    ],
+    "pregnancy": "Black box warning: Strictly contraindicated in pregnancy (severe fetotoxicity, oligohydramnios, neonatal death).",
+    "lactation": "Excreted in animal milk; avoid breastfeeding.",
+    "pediatric": "Safety and efficacy not established in pediatric patients.",
+    "geriatric": "Start at 600 mg once daily in elderly patients; well tolerated in isolated systolic hypertension.",
+    "renal": "No dosage adjustment required in mild to moderate renal failure; in severe renal failure (CrCl < 30 mL/min), maximum dose is 600 mg daily.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Dual mechanism: blocks postsynaptic vascular AT1 receptors AND presynaptic sympathetic nerve terminals, lowering stress-induced sympathetic spikes",
+      "Non-biphenyl, non-tetrazole structure free of CYP450 drug interactions",
+      "Proven secondary stroke reduction in the MOSES trial"
+    ],
+    "disadvantages": [
+      "Low oral bioavailability (13%)",
+      "Twice-daily dosing occasionally required for full 24-hour control at lower doses"
+    ],
+    "key_points": [
+      "Blocks both angiotensin II and excess sympathetic nerve adrenaline release",
+      "Proven to reduce recurrent strokes in hypertensive patients (MOSES trial)"
+    ],
+    "memory_trick": "EPRO-sartan: Extended Protection from Recurrent Occlusive stroke (MOSES trial); Presynaptic sympathetic block.",
+    "key_suffix": "-sartan",
+    "pronunciation_en": "ep-roe-SAR-tan",
+    "pronunciation_hi": "\u090f\u092a\u094d\u0930\u094b-\u0938\u093e\u0930\u091f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "azilsartan",
+    "generic_name": "Azilsartan",
+    "display_name": "Azilsartan Medoxomil",
+    "active_ingredient": "Azilsartan medoxomil",
+    "salt": "Azilsartan medoxomil",
+    "category": "Cardiovascular",
+    "description": "An advanced ester prodrug ARB with the tightest, longest-lasting AT1-receptor binding kinetics in its class, delivering superior 24-hour blood pressure reduction compared to valsartan and olmesartan.",
+    "strengths": [
+      "40 mg",
+      "80 mg"
+    ],
+    "dosage_forms": [
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Rapidly hydrolyzed by esterases in the gastrointestinal tract and liver to active azilsartan; binds with exceptional affinity and an extremely slow dissociation rate to the AT1 receptor, providing insurmountable and sustained receptor blockade.",
+    "pharmacodynamics": "Produces significantly greater reductions in 24-hour ambulatory, clinic, and nocturnal systolic blood pressure than maximal doses of valsartan (320 mg) and olmesartan (40 mg); promotes vascular remodeling and endothelial nitric oxide release.",
+    "absorption": "Rapidly converted to active azilsartan during absorption; peak plasma concentration in 1.5 to 3 hours; 60% oral bioavailability; unaffected by food.",
+    "distribution": "Volume of distribution approx. 16 L; highly bound to human plasma proteins (>99%, primarily albumin).",
+    "metabolism": "Metabolized in the liver primarily by CYP2C9 to an inactive metabolite M-II (O-dealkylation), and to a lesser extent by carboxylesterases to M-I (decarboxylation).",
+    "excretion": "Excreted in faeces (approx. 55%) and urine (approx. 42%, with approx. 15% as unchanged active azilsartan).",
+    "bioavailability": "Approximately 60%",
+    "half_life": "11 to 13 hours (receptor dissociation half-life is substantially longer)",
+    "protein_binding": ">99%",
+    "onset": "1 to 2 hours",
+    "duration": "24 hours",
+    "indications": [
+      "Essential hypertension in adults (40 to 80 mg once daily)",
+      "Resistant hypertension (in combination with chlorthalidone as Edarbyclor)",
+      "Hypertension with elevated nocturnal or morning blood pressure surge"
+    ],
+    "contraindications": [
+      "Hypersensitivity to azilsartan medoxomil",
+      "Pregnancy (all trimesters)",
+      "Concomitant use of aliskiren in patients with diabetes"
+    ],
+    "warnings": [
+      "Black box warning: Fetal toxicity; discontinue immediately when pregnancy is detected",
+      "Hypotension in volume- or salt-depleted patients (correct volume before initiating)",
+      "Hyperkalemia and renal impairment in bilateral renal artery stenosis"
+    ],
+    "common_adverse_effects": [
+      "Dizziness",
+      "Diarrhoea",
+      "Fatigue",
+      "Asthenia",
+      "Nausea",
+      "Headache"
+    ],
+    "serious_adverse_effects": [
+      "Acute kidney injury / elevation in serum creatinine",
+      "Severe symptomatic hypotension / syncope",
+      "Hyperkalemia (>5.5 mEq/L)",
+      "Angioedema (rare)"
+    ],
+    "drug_interactions": [
+      "Potassium-sparing diuretics, potassium supplements (hyperkalemia risk)",
+      "NSAIDs (blunt BP reduction, acute renal failure)",
+      "Lithium",
+      "CYP2C9 inhibitors/inducers"
+    ],
+    "monitoring": [
+      "Serum creatinine and eGFR at baseline and periodically",
+      "Serum potassium levels",
+      "24-hour ambulatory or home blood pressure monitoring"
+    ],
+    "pregnancy": "Black box warning: Strictly contraindicated in pregnancy (causes fetal hypotension, skull hypoplasia, and fetal demise).",
+    "lactation": "Excreted in animal milk; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy not established in pediatric patients.",
+    "geriatric": "No initial dose adjustment required in elderly patients; monitor for orthostatic dizziness.",
+    "renal": "No dosage adjustment required in mild, moderate, or severe renal impairment or hemodialysis.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment; not studied in severe cirrhosis.",
+    "advantages": [
+      "Most potent 24-hour blood pressure reduction in the ARB class, superior to valsartan 320 mg and olmesartan 40 mg in head-to-head trials",
+      "Exceptionally slow receptor dissociation provides sustained blood pressure control through the vulnerable morning surge period",
+      "Zero dose adjustment needed across all stages of renal disease"
+    ],
+    "disadvantages": [
+      "Significantly higher cost than generic telmisartan or losartan",
+      "Strictly contraindicated in pregnancy"
+    ],
+    "key_points": [
+      "Strongest blood pressure-lowering ARB on the market (superior to valsartan and olmesartan)",
+      "Take once daily in the morning (40 mg or 80 mg) with or without food"
+    ],
+    "memory_trick": "AZIL-sartan: Absolute Zenith In Lowering blood pressure; Tightest AT1 binding; Zero morning surge.",
+    "key_suffix": "-sartan",
+    "pronunciation_en": "a-ZIL-sar-tan",
+    "pronunciation_hi": "\u0905\u091c\u093c\u093f\u0932-\u0938\u093e\u0930\u091f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "lercanidipine",
+    "generic_name": "Lercanidipine",
+    "display_name": "Lercanidipine Hydrochloride",
+    "active_ingredient": "Lercanidipine hydrochloride",
+    "salt": "Lercanidipine hydrochloride",
+    "category": "Cardiovascular",
+    "description": "A highly lipophilic, third-generation dihydropyridine calcium channel blocker that integrates into the cell membrane lipid bilayer, providing smooth 24-hour vasodilation with minimal pedal oedema.",
+    "strengths": [
+      "10 mg",
+      "20 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Inhibits transmembrane calcium influx through L-type calcium channels in vascular smooth muscle; high lipophilicity causes it to dissolve in the membrane lipid bilayer, creating a local drug reservoir that diffuses slowly to receptor sites.",
+    "pharmacodynamics": "Produces gradual, sustained peripheral arterial vasodilation without triggering reflex sympathetic activation or tachycardia; significantly lower incidence of dependent ankle oedema compared to amlodipine.",
+    "absorption": "Completely absorbed from GI tract; undergoes substantial hepatic first-pass metabolism; peak plasma level in 1.5 to 3 hours; high-fat meals increase absorption 3- to 4-fold (take 15 minutes before meals).",
+    "distribution": "Extensively distributed into vascular tissue; highly bound to plasma proteins (>98%).",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 to inactive metabolites; no active parent drug excreted.",
+    "excretion": "Excreted predominantly as inactive metabolites in urine (approx. 50%) and faeces (approx. 50%).",
+    "bioavailability": "Approximately 10% (fasting); increased significantly with meals",
+    "half_life": "8 to 10 hours in plasma; membrane lipid reservoir duration exceeds 24 hours",
+    "protein_binding": ">98%",
+    "onset": "2 to 3 hours",
+    "duration": "24 hours",
+    "indications": [
+      "Mild to moderate essential hypertension",
+      "Hypertension in patients who develop unacceptable ankle oedema on amlodipine",
+      "Isolated systolic hypertension in the elderly"
+    ],
+    "contraindications": [
+      "Hypersensitivity to lercanidipine or dihydropyridines",
+      "Severe left ventricular outflow obstruction (aortic stenosis)",
+      "Unstable angina or within 1 month of myocardial infarction",
+      "Severe renal (eGFR < 30 mL/min) or severe hepatic impairment",
+      "Co-administration with strong CYP3A4 inhibitors"
+    ],
+    "warnings": [
+      "Must be taken at least 15 minutes before meals (food drastically increases bioavailability)",
+      "Avoid grapefruit juice (inhibits CYP3A4 metabolism)",
+      "Gradually titrate dose"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Facial flushing",
+      "Dizziness",
+      "Palpitations (rare)",
+      "Peripheral oedema (much less than amlodipine)"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypotension / syncope",
+      "Paradoxical angina in severe coronary artery disease",
+      "Hepatotoxicity"
+    ],
+    "drug_interactions": [
+      "Strong CYP3A4 inhibitors (ketoconazole, itraconazole, clarithromycin - strictly contraindicated)",
+      "Cyclosporine (increases levels of both drugs - avoid)",
+      "Grapefruit juice (significantly elevates lercanidipine levels)",
+      "Anticonvulsants (inducers decrease efficacy)"
+    ],
+    "monitoring": [
+      "Blood pressure sitting and standing",
+      "Heart rate",
+      "Inspection of ankles for pedal oedema"
+    ],
+    "pregnancy": "Contraindicated in pregnancy; animal studies demonstrate embryotoxicity and delayed labor.",
+    "lactation": "Contraindicated during breastfeeding; high lipophilicity suggests excretion into breast milk.",
+    "pediatric": "Safety and efficacy not established in children under 18 years.",
+    "geriatric": "Initiate at 10 mg once daily; titrate cautiously; well tolerated in elderly hypertensives.",
+    "renal": "Use with caution in moderate renal impairment; contraindicated if eGFR < 30 mL/min.",
+    "hepatic": "Contraindicated in severe hepatic impairment; start at 10 mg in moderate liver disease.",
+    "advantages": [
+      "Significantly lower incidence of ankle pedal oedema compared to amlodipine (up to 50% fewer oedema dropouts)",
+      "Lipophilic membrane reservoir provides smooth 24-hour blood pressure reduction without reflex tachycardia",
+      "Renoprotective profile in hypertensive nephrosclerosis"
+    ],
+    "disadvantages": [
+      "Bioavailability is heavily dependent on meals (must be taken 15 minutes before meals)",
+      "Strictly contraindicated with strong CYP3A4 inhibitors and in severe renal/hepatic impairment"
+    ],
+    "key_points": [
+      "Best alternative to amlodipine when patients suffer from swollen feet and ankles",
+      "Always take 15 minutes before breakfast; avoid grapefruit juice"
+    ],
+    "memory_trick": "LERCA-nidipine: Lipophilic Embedding in cell membrane; Reduces Calf Ankle-oedema.",
+    "key_suffix": "-dipine",
+    "pronunciation_en": "ler-ka-NI-di-peen",
+    "pronunciation_hi": "\u0932\u0947\u0930\u0915\u093e-\u0928\u093f\u0921\u093f\u092a\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "felodipine",
+    "generic_name": "Felodipine",
+    "display_name": "Felodipine",
+    "active_ingredient": "Felodipine",
+    "salt": "Felodipine",
+    "category": "Cardiovascular",
+    "description": "A second-generation dihydropyridine calcium channel blocker with exceptional vascular selectivity (100:1 vascular to cardiac smooth muscle ratio), used once daily in extended-release form for hypertension and angina.",
+    "strengths": [
+      "2.5 mg ER",
+      "5 mg ER",
+      "10 mg ER"
+    ],
+    "dosage_forms": [
+      "Extended-Release Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively blocks voltage-gated L-type calcium channels in vascular smooth muscle cells, inhibiting calcium influx and causing arteriolar dilation; has 100-fold higher selectivity for vascular smooth muscle than myocardial tissue.",
+    "pharmacodynamics": "Reduces systemic vascular resistance and blood pressure without exerting negative inotropic effects on myocardial contractility; does not impair AV nodal conduction; causes mild natriuresis and diuresis without reflex renin stimulation.",
+    "absorption": "Completely absorbed from GI tract; extended-release tablet provides smooth 24-hour plasma concentrations; extensive hepatic first-pass metabolism yields approx. 15% bioavailability; food does not affect bioavailability.",
+    "distribution": "Apparent volume of distribution approx. 10 L/kg; extensively bound to plasma proteins (>99%, primarily albumin).",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 to inactive pyridine and carboxylic acid metabolites; no active metabolites.",
+    "excretion": "Excreted in urine (approx. 70% as inactive metabolites) and faeces (approx. 10%); less than 0.5% unchanged in urine.",
+    "bioavailability": "Approximately 15% (extended-release)",
+    "half_life": "11 to 16 hours",
+    "protein_binding": ">99%",
+    "onset": "2 to 5 hours (extended release)",
+    "duration": "24 hours",
+    "indications": [
+      "Essential hypertension (alone or combined with beta-blockers or ACE inhibitors)",
+      "Stable chronic angina pectoris",
+      "Hypertension in elderly patients with isolated systolic hypertension"
+    ],
+    "contraindications": [
+      "Hypersensitivity to felodipine or dihydropyridine calcium channel blockers",
+      "Cardiogenic shock or severe aortic stenosis",
+      "Unstable angina or acute myocardial infarction"
+    ],
+    "warnings": [
+      "Peripheral dependent oedema (dose-dependent precapillary vasodilation)",
+      "Avoid grapefruit juice (massively increases felodipine bioavailability and hypotension)",
+      "Gingival hyperplasia with prolonged therapy (maintain good oral hygiene)",
+      "Do NOT crush or chew extended-release tablets"
+    ],
+    "common_adverse_effects": [
+      "Peripheral oedema (ankle swelling)",
+      "Headache",
+      "Facial flushing",
+      "Dizziness",
+      "Palpitations"
+    ],
+    "serious_adverse_effects": [
+      "Severe symptomatic hypotension / syncope",
+      "Paradoxical worsening of angina in severe obstructive CAD",
+      "Severe gingival enlargement"
+    ],
+    "drug_interactions": [
+      "Grapefruit juice (drastically inhibits intestinal CYP3A4, doubling felodipine levels; avoid completely)",
+      "CYP3A4 inhibitors (cimetidine, erythromycin, ketoconazole - increase felodipine exposure)",
+      "CYP3A4 inducers (carbamazepine, phenytoin, rifampin - reduce efficacy)"
+    ],
+    "monitoring": [
+      "Blood pressure and heart rate",
+      "Inspection of lower extremities for pedal oedema",
+      "Dental examination for gingival hyperplasia"
+    ],
+    "pregnancy": "Category C; teratogenic in animal studies; avoid during pregnancy unless benefit clearly outweighs risk.",
+    "lactation": "Excreted in human milk; compatible with caution or alternative agent.",
+    "pediatric": "Safety and efficacy not established in pediatric patients.",
+    "geriatric": "Initiate at 2.5 mg ER once daily; elderly patients exhibit higher plasma levels due to decreased clearance.",
+    "renal": "No dosage adjustment required in renal impairment or hemodialysis.",
+    "hepatic": "Initiate with 2.5 mg once daily in patients with hepatic impairment (metabolized by CYP3A4).",
+    "advantages": [
+      "100-fold vascular selectivity ensures safe blood pressure reduction without depressing heart muscle pump function",
+      "True 24-hour extended-release formulation provides consistent blood pressure control",
+      "Safe in patients with asthma, diabetes, and gout"
+    ],
+    "disadvantages": [
+      "High rate of ankle pedal oedema at higher doses (10 mg ER)",
+      "Severe food interaction with grapefruit juice"
+    ],
+    "key_points": [
+      "Take once daily in the morning; swallow whole and never crush or chew the tablet",
+      "Never drink grapefruit juice while taking felodipine"
+    ],
+    "memory_trick": "FELO-dipine: Fully Extended 24h release; Leaves Myocardium alone (100:1 vascular selectivity); Outlaw Grapefruit.",
+    "key_suffix": "-dipine",
+    "pronunciation_en": "fe-LOE-di-peen",
+    "pronunciation_hi": "\u092b\u093c\u0947\u0932\u094b-\u0921\u093f\u092a\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "nitrendipine",
+    "generic_name": "Nitrendipine",
+    "display_name": "Nitrendipine",
+    "active_ingredient": "Nitrendipine",
+    "salt": "Nitrendipine",
+    "category": "Cardiovascular",
+    "description": "A classical dihydropyridine calcium channel blocker proven in the landmark Syst-Eur trial to reduce stroke by 42% and vascular dementia by 50% in elderly patients with isolated systolic hypertension.",
+    "strengths": [
+      "10 mg",
+      "20 mg"
+    ],
+    "dosage_forms": [
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Inhibits L-type calcium channel current in vascular smooth muscle, decreasing intracellular calcium availability and producing arteriolar vasodilation and reduced total peripheral resistance.",
+    "pharmacodynamics": "Reduces systolic and diastolic blood pressure, improves arterial compliance, and preserves cerebral blood flow; landmark Syst-Eur trial proved a 42% reduction in stroke and a 50% reduction in vascular dementia in seniors.",
+    "absorption": "Rapidly absorbed (approx. 80%); extensive hepatic first-pass metabolism limits bioavailability to 10-20%; peak plasma level in 1 to 2 hours.",
+    "distribution": "Widely distributed; 98% bound to plasma albumin.",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 via oxidation to inactive metabolites.",
+    "excretion": "Excreted predominantly in urine (approx. 75% as metabolites) and faeces (approx. 10%).",
+    "bioavailability": "10% to 20%",
+    "half_life": "8 to 12 hours",
+    "protein_binding": "98%",
+    "onset": "1 to 2 hours",
+    "duration": "12 to 24 hours",
+    "indications": [
+      "Isolated systolic hypertension in elderly patients (Syst-Eur trial proven)",
+      "Essential hypertension in adults",
+      "Prevention of cerebrovascular events in senior hypertensives"
+    ],
+    "contraindications": [
+      "Hypersensitivity to nitrendipine or dihydropyridines",
+      "Severe cardiogenic shock or advanced aortic stenosis",
+      "Unstable angina"
+    ],
+    "warnings": [
+      "Peripheral oedema and flushing",
+      "Avoid grapefruit juice (CYP3A4 inhibition)",
+      "Dose reduction in hepatic cirrhosis"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Facial flushing",
+      "Peripheral oedema",
+      "Palpitations",
+      "Dizziness"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypotension",
+      "Paradoxical myocardial ischemia",
+      "Allergic hepatitis (rare)"
+    ],
+    "drug_interactions": [
+      "CYP3A4 inhibitors (ketoconazole, erythromycin - increase levels)",
+      "CYP3A4 inducers (rifampin, carbamazepine)",
+      "Beta-blockers (synergistic hypotensive effect)"
+    ],
+    "monitoring": [
+      "Blood pressure sitting and standing",
+      "Cognitive evaluation in elderly patients",
+      "Ankle inspection for oedema"
+    ],
+    "pregnancy": "Avoid in pregnancy; insufficient human safety data; use labetalol or nifedipine.",
+    "lactation": "Excreted in breast milk in trace amounts; avoid breastfeeding.",
+    "pediatric": "Safety and efficacy not established in children.",
+    "geriatric": "First-line agent in elderly patients with isolated systolic hypertension (Syst-Eur trial demonstrated 42% stroke reduction).",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Dose reduction required in severe hepatic impairment (start at 5-10 mg daily).",
+    "advantages": [
+      "Landmark Syst-Eur trial proven: 42% reduction in stroke and 50% reduction in dementia in elderly patients",
+      "Mild intrinsic natriuretic action reduces the need for high-dose diuretics",
+      "Preserves cerebral blood flow in senior hypertensives"
+    ],
+    "disadvantages": [
+      "Short half-life may require twice-daily dosing in some patients",
+      "High incidence of flushing and ankle oedema"
+    ],
+    "key_points": [
+      "Proven to cut stroke risk by 42% and dementia risk by 50% in elderly patients (Syst-Eur trial)",
+      "Take once or twice daily with water; avoid grapefruit juice"
+    ],
+    "memory_trick": "NITREN-dipine: Notable In The Reduction of Elderly Neurological events (stroke & dementia - Syst-Eur).",
+    "key_suffix": "-dipine",
+    "pronunciation_en": "nye-TREN-di-peen",
+    "pronunciation_hi": "\u0928\u093e\u0907\u091f\u094d\u0930\u0947\u0928-\u0921\u093f\u092a\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "metolazone",
+    "generic_name": "Metolazone",
+    "display_name": "Metolazone",
+    "active_ingredient": "Metolazone",
+    "salt": "Metolazone",
+    "category": "Cardiovascular",
+    "description": "A potent quinazoline-sulfonamide diuretic that acts on the proximal and distal tubules, uniquely retaining efficacy even in advanced renal failure (eGFR < 30 mL/min) and creating massive synergy with loop diuretics.",
+    "strengths": [
+      "2.5 mg",
+      "5 mg"
+    ],
+    "dosage_forms": [
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Inhibits sodium and chloride reabsorption in the cortical diluting segment of the distal convoluted tubule and proximal tubule; unique quinazoline structure allows it to remain active at low glomerular filtration rates.",
+    "pharmacodynamics": "Produces potent natriuresis, chloruresis, and diuresis; when combined with loop diuretics (furosemide/torsemide), creates 'sequential nephron blockade', overcoming refractory diuretic resistance in severe heart failure and nephrotic syndrome.",
+    "absorption": "Slowly and incompletely absorbed (approx. 65%); peak plasma concentration in 2 to 4 hours; bioavailability varies significantly between formulations.",
+    "distribution": "Distributes into extracellular water and erythrocytes; 95% bound to plasma proteins.",
+    "metabolism": "Minimal hepatic metabolism; not cleared by CYP450 enzymes.",
+    "excretion": "Excreted predominantly unchanged in urine via active secretion (approx. 80-90%); remainder eliminated in bile.",
+    "bioavailability": "Approximately 65%",
+    "half_life": "8 to 14 hours (terminal half-life prolonged up to 20 hours)",
+    "protein_binding": "95%",
+    "onset": "Diuresis begins within 1 hour; peak effect in 2 to 4 hours",
+    "duration": "12 to 24 hours",
+    "indications": [
+      "Diuretic resistance in congestive heart failure (sequential nephron blockade combined with loop diuretics)",
+      "Oedema associated with renal disease, including nephrotic syndrome and chronic renal failure (eGFR < 30 mL/min)",
+      "Essential hypertension (second-line add-on)"
+    ],
+    "contraindications": [
+      "Anuria",
+      "Hepatic coma or pre-coma",
+      "Known hypersensitivity to metolazone or sulfonamides",
+      "Severe uncorrected electrolyte depletion (hypokalemia, hyponatremia)"
+    ],
+    "warnings": [
+      "PROFOUND ELECTROLYTE COLLAPSE: Sequential nephron blockade with loop diuretics can produce massive volume depletion, life-threatening hypokalemia (<2.5 mEq/L), and acute renal failure within 48 hours (monitor daily in hospital)",
+      "Hyperuricemia and acute gout precipitation",
+      "Hyperglycemia in diabetics"
+    ],
+    "common_adverse_effects": [
+      "Hypokalemia (very common)",
+      "Hyponatremia",
+      "Hypochloremic alkalosis",
+      "Dizziness / orthostatic hypotension",
+      "Hyperuricemia"
+    ],
+    "serious_adverse_effects": [
+      "Life-threatening hypokalemic cardiac arrhythmias",
+      "Severe volume depletion / circulatory shock",
+      "Acute kidney injury",
+      "Stevens-Johnson syndrome"
+    ],
+    "drug_interactions": [
+      "Loop diuretics (furosemide, bumetanide, torsemide - dramatic synergistic diuresis; start with tiny 2.5 mg metolazone doses)",
+      "Digoxin (hypokalemia massively increases digitalis toxicity and arrhythmias)",
+      "Lithium (decreases lithium clearance, causing toxicity)",
+      "NSAIDs"
+    ],
+    "monitoring": [
+      "Serum electrolytes (potassium, sodium, chloride) daily during combination therapy",
+      "BUN and serum creatinine daily during acute diuresis",
+      "Daily weight and strict fluid balance",
+      "Blood pressure"
+    ],
+    "pregnancy": "Category B; diuretics are generally avoided in pregnancy due to maternal hypovolemia and placental insufficiency.",
+    "lactation": "Excreted in breast milk; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "Extreme sensitivity to volume depletion; start with 2.5 mg every other day or twice weekly.",
+    "renal": "EFFECTIVE IN SEVERE RENAL FAILURE (eGFR < 30 mL/min), unlike traditional thiazide diuretics; monitor electrolytes closely.",
+    "hepatic": "Use with extreme caution; minor electrolyte shifts can precipitate hepatic encephalopathy.",
+    "advantages": [
+      "Uniquely effective at low GFR (eGFR < 30 mL/min) where traditional thiazides fail completely",
+      "Gold standard booster for loop diuretic resistance in refractory heart failure (sequential nephron blockade)",
+      "Long 24-hour duration of action"
+    ],
+    "disadvantages": [
+      "Massive risk of life-threatening hypokalemia and dehydration when combined with loop diuretics",
+      "Requires hospital-level daily electrolyte monitoring during initiation"
+    ],
+    "key_points": [
+      "Secret weapon for refractory fluid overload: pairs with furosemide to overcome diuretic resistance",
+      "DANGER: Can cause massive potassium loss; check potassium and kidney function within 48 hours"
+    ],
+    "memory_trick": "METOLA-zone: Magnificent Extra-strength Tubule Overload Lifter; Active in Low GFR; Beware Potassium.",
+    "key_suffix": "-zone",
+    "pronunciation_en": "me-TOE-la-zone",
+    "pronunciation_hi": "\u092e\u0947\u091f\u094b\u0932\u093e-\u091c\u093c\u094b\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "acetazolamide",
+    "generic_name": "Acetazolamide",
+    "display_name": "Acetazolamide",
+    "active_ingredient": "Acetazolamide",
+    "salt": "Acetazolamide",
+    "category": "Cardiovascular",
+    "description": "A prototypical carbonic anhydrase inhibitor that blocks bicarbonate reabsorption in the proximal tubule, used for acute mountain sickness, glaucoma, metabolic alkalosis, and idiopathic intracranial hypertension.",
+    "strengths": [
+      "250 mg",
+      "500 mg SR",
+      "500 mg IV vial"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Extended-Release Capsule",
+      "Powder for Injection"
+    ],
+    "routes": [
+      "Oral",
+      "Intravenous"
+    ],
+    "mechanism_of_action": "Non-competitively and reversibly inhibits carbonic anhydrase (predominantly CA-II and CA-IV) in the renal proximal tubule, ciliary body of the eye, and choroid plexus; blocks H+ ion exchange for Na+, promoting urinary excretion of bicarbonate, sodium, potassium, and water.",
+    "pharmacodynamics": "Produces hyperchloremic metabolic acidosis, stimulating central chemoreceptors to increase ventilation (countering periodic breathing at high altitude); decreases aqueous humor production (lowers IOP) and reduces CSF production.",
+    "absorption": "Rapidly and well absorbed from GI tract (approx. 90-100%); peak plasma concentrations in 1 to 3 hours (oral tablet).",
+    "distribution": "Concentrates heavily in erythrocytes and renal cortex (binds to carbonic anhydrase); crosses blood-brain barrier and placenta; 90-95% bound to plasma proteins.",
+    "metabolism": "Not metabolized by the liver; excreted unaltered by the kidneys.",
+    "excretion": "Excreted entirely unchanged in urine via tubular secretion and filtration (approx. 90-100% within 24 hours).",
+    "bioavailability": "90% to 100%",
+    "half_life": "6 to 9 hours (tablets); 12 hours (sustained release)",
+    "protein_binding": "90% to 95%",
+    "onset": "Oral: 1 to 1.5 hours; IV: 2 minutes",
+    "duration": "Oral: 8 to 12 hours; IV: 4 to 5 hours",
+    "indications": [
+      "Prevention and treatment of acute mountain sickness (AMS / altitude sickness: 125-250 mg BID starting 24h before ascent)",
+      "Open-angle glaucoma and acute angle-closure glaucoma (lowers intraocular pressure)",
+      "Idiopathic intracranial hypertension (pseudotumor cerebri)",
+      "Severe metabolic alkalosis (restores bicarbonate excretion)",
+      "Absence seizures (refractory adjuvant)"
+    ],
+    "contraindications": [
+      "Severe hypersensitivity to acetazolamide or sulfonamides",
+      "Severe renal impairment (eGFR < 10 mL/min)",
+      "Severe hepatic disease / cirrhosis (induces hepatic encephalopathy by preventing ammonia clearance)",
+      "Marked hypokalemia or hyponatremia",
+      "Chronic non-congestive closed-angle glaucoma",
+      "Hyperchloremic acidosis"
+    ],
+    "warnings": [
+      "Hyperchloremic metabolic acidosis and severe hypokalemia",
+      "Sulfonamide allergy cross-reactivity (Stevens-Johnson syndrome, blood dyscrasias)",
+      "Calcium phosphate kidney stones (due to reduced urinary citrate and alkaline urine)",
+      "Drowsiness and paresthesias in extremities"
+    ],
+    "common_adverse_effects": [
+      "Paresthesias (numbness and tingling in fingers, toes, and lips - very common)",
+      "Dysgeusia (carbonated drinks taste flat/metallic due to tongue carbonic anhydrase inhibition)",
+      "Polyuria",
+      "Fatigue",
+      "Dizziness",
+      "Anorexia"
+    ],
+    "serious_adverse_effects": [
+      "Severe hyperchloremic metabolic acidosis",
+      "Aplastic anaemia / agranulocytosis",
+      "Stevens-Johnson syndrome / TEN",
+      "Calcium phosphate nephrolithiasis",
+      "Hepatic encephalopathy in cirrhotics"
+    ],
+    "drug_interactions": [
+      "High-dose aspirin / salicylates (severe toxicity: metabolic acidosis causes aspirin to enter brain)",
+      "Lithium (increases lithium excretion, reducing efficacy)",
+      "Topiramate (additive carbonic anhydrase inhibition and stone risk)",
+      "Quinidine, amphetamines"
+    ],
+    "monitoring": [
+      "Serum electrolytes (potassium, bicarbonate) at baseline and periodically",
+      "Complete blood counts (screen for bone marrow suppression)",
+      "Urinalysis for crystals / stone formation"
+    ],
+    "pregnancy": "Category C; teratogenic in animal models; avoid during first trimester; use for altitude sickness only if clearly needed.",
+    "lactation": "Excreted in breast milk in low concentrations; compatible with caution.",
+    "pediatric": "Approved in children for glaucoma and epilepsy (8 to 30 mg/kg/day divided every 8 hours).",
+    "geriatric": "Higher risk of metabolic acidosis and hypokalemia; reduce dose based on eGFR.",
+    "renal": "Dose adjustment required based on eGFR: eGFR 10-50 mL/min: dose every 12 hours; eGFR < 10 mL/min: contraindicated.",
+    "hepatic": "Strictly contraindicated in severe hepatic disease (triggers ammonia-mediated hepatic coma).",
+    "advantages": [
+      "Gold standard preventive drug for acute mountain sickness (AMS) and high-altitude pulmonary/cerebral oedema",
+      "Rapidly lowers intraocular pressure in acute glaucoma emergencies",
+      "Corrects metabolic alkalosis in ICU patients with COPD"
+    ],
+    "disadvantages": [
+      "Characteristic tingling in fingers/toes and makes soda/carbonated beverages taste flat",
+      "Risk of calcium kidney stones and metabolic acidosis"
+    ],
+    "key_points": [
+      "Start 125 mg twice daily 24 hours before climbing above 8,000 feet to prevent altitude sickness",
+      "Tell patients that tingling in fingers and flat-tasting soda are normal, harmless side effects"
+    ],
+    "memory_trick": "ACETA-ZOLAMIDE: Altitude sickness Altitude climb; Carbonic anhydrase block; Eyes (glaucoma); Tingling toes; Acidosis.",
+    "key_suffix": "-zolamide",
+    "pronunciation_en": "a-see-ta-ZOLE-a-mide",
+    "pronunciation_hi": "\u090f\u0938\u093f\u091f\u093e-\u091c\u093c\u094b\u0932\u093e\u092e\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "isosorbide-mononitrate",
+    "generic_name": "Isosorbide Mononitrate (ISMN)",
+    "display_name": "Isosorbide Mononitrate Sustained Release",
+    "active_ingredient": "Isosorbide mononitrate",
+    "salt": "Isosorbide mononitrate",
+    "category": "Cardiovascular",
+    "description": "An active organic nitrate vasodilator with 100% oral bioavailability and zero hepatic first-pass metabolism, providing predictable long-term prophylaxis for stable coronary artery disease.",
+    "strengths": [
+      "20 mg",
+      "30 mg SR",
+      "60 mg SR"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Sustained-Release Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Denitrated intracellularly in vascular smooth muscle to release nitric oxide (NO); NO stimulates soluble guanylyl cyclase, increasing cyclic GMP (cGMP), leading to dephosphorylation of myosin light chains and marked venodilation.",
+    "pharmacodynamics": "Dilates systemic veins (reducing venous return, preload, and left ventricular wall tension) and epicardial coronary arteries, substantially decreasing myocardial oxygen demand; does NOT develop tolerance when an eccentric dosing schedule is used.",
+    "absorption": "Rapidly and completely absorbed from GI tract; 100% absolute oral bioavailability; zero hepatic first-pass metabolism; food does not affect absorption.",
+    "distribution": "Apparent volume of distribution approx. 0.6 L/kg; minimal plasma protein binding (<5%).",
+    "metabolism": "Metabolized in the liver by denitration to inactive isosorbide and by glucuronidation to isosorbide mononitrate glucuronide.",
+    "excretion": "Excreted almost entirely in urine as inactive metabolites (approx. 93%); less than 2% unchanged in urine.",
+    "bioavailability": "100% (predictable, unlike isosorbide dinitrate)",
+    "half_life": "5 hours (immediate release); extended release delivers therapeutic levels over 12 hours with a mandatory 12-hour nitrate-free interval",
+    "protein_binding": "<5%",
+    "onset": "Immediate release: 30 to 60 minutes; SR: 2 to 4 hours",
+    "duration": "Immediate release: 6 to 8 hours; SR: 12 to 14 hours",
+    "indications": [
+      "Prophylaxis of chronic stable angina pectoris (coronary artery disease)",
+      "Adjunct therapy in chronic congestive heart failure (combined with hydralazine)",
+      "Secondary prevention in post-myocardial infarction angina"
+    ],
+    "contraindications": [
+      "Concurrent use of phosphodiesterase-5 (PDE5) inhibitors (sildenafil, tadalafil, vardenafil - FATAL HYPOTENSION)",
+      "Concurrent use of soluble guanylyl cyclase stimulators (riociguat)",
+      "Severe hypotension (systolic BP < 90 mmHg) or severe hypovolemia",
+      "Hypertrophic obstructive cardiomyopathy (HOCM)",
+      "Constrictive pericarditis or cardiac tamponade"
+    ],
+    "warnings": [
+      "FATAL INTERACTION WITH PDE5 INHIBITORS: Co-administration with sildenafil or tadalafil can cause catastrophic, refractory circulatory collapse and fatal myocardial infarction",
+      "NITRATE TOLERANCE: Continuous 24-hour exposure causes complete loss of antianginal efficacy; a mandatory 10- to 12-hour nitrate-free interval every day is required",
+      "Severe nitrate headache during initial days (treat with paracetamol; do not stop therapy)"
+    ],
+    "common_adverse_effects": [
+      "Throbbing headache (very common during first 1-2 weeks)",
+      "Flushing",
+      "Dizziness / postural hypotension",
+      "Weakness",
+      "Nausea"
+    ],
+    "serious_adverse_effects": [
+      "Severe refractory hypotension / syncope",
+      "Paradoxical bradycardia",
+      "Precipitation of myocardial ischemia from reflex tachycardia in severe CAD"
+    ],
+    "drug_interactions": [
+      "PDE5 inhibitors (sildenafil within 24h, tadalafil within 48h - STRICTLY CONTRAINDICATED)",
+      "Riociguat (contraindicated)",
+      "Alcohol (severe orthostatic hypotension and syncope)",
+      "Antihypertensives (additive hypotension)"
+    ],
+    "monitoring": [
+      "Blood pressure and heart rate sitting and standing",
+      "Frequency of angina episodes and sublingual nitroglycerin use",
+      "Compliance with the nitrate-free interval"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if clearly needed and benefits justify potential fetal risks.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy not established in pediatric patients.",
+    "geriatric": "Higher risk of orthostatic dizziness and falls; start with 30 mg SR once daily in the morning.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "100% oral bioavailability with zero first-pass metabolism guarantees predictable antianginal blood levels",
+      "Once-daily extended-release tablet (taken in morning) automatically provides the required overnight nitrate-free window to prevent tolerance",
+      "Proven reduction in angina frequency and exercise tolerance"
+    ],
+    "disadvantages": [
+      "Throbbing nitrate headache occurs in up to 50% during initiation",
+      "Strictly contraindicated with Viagra/Cialis (lethal hypotension)"
+    ],
+    "key_points": [
+      "Take once daily in the MORNING so the body has an overnight 'nitrate-free' window to prevent tolerance",
+      "NEVER take with sildenafil (Viagra) or tadalafil (Cialis)\u2014combination can be fatal"
+    ],
+    "memory_trick": "ISMN: 100% Bioavailable; Single Morning dose; Mandatory 12h nitrate-free window; No PDE5 inhibitors.",
+    "key_suffix": "-nitrate",
+    "pronunciation_en": "eye-soe-SOR-bide mon-oh-NYE-trate",
+    "pronunciation_hi": "\u0906\u0907\u0938\u094b\u0938\u094b\u0930\u092c\u093e\u0907\u0921 \u092e\u094b\u0928\u094b\u0928\u093e\u0907\u091f\u094d\u0930\u0947\u091f",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "isosorbide-dinitrate",
+    "generic_name": "Isosorbide Dinitrate (ISDN)",
+    "display_name": "Isosorbide Dinitrate",
+    "active_ingredient": "Isosorbide dinitrate",
+    "salt": "Isosorbide dinitrate",
+    "category": "Cardiovascular",
+    "description": "An organic nitrate vasodilator used sublingually for acute angina relief and orally combined with hydralazine (BiDil) to significantly reduce mortality in Black patients with heart failure (A-HeFT trial).",
+    "strengths": [
+      "5 mg sublingual",
+      "10 mg",
+      "20 mg",
+      "40 mg SR"
+    ],
+    "dosage_forms": [
+      "Sublingual Tablet",
+      "Immediate-Release Tablet",
+      "Sustained-Release Tablet"
+    ],
+    "routes": [
+      "Sublingual",
+      "Oral"
+    ],
+    "mechanism_of_action": "Releases free nitric oxide in vascular smooth muscle, stimulating guanylyl cyclase to produce cGMP; selectively dilates venous capacitance vessels to decrease preload, and dilates large epicardial coronary arteries.",
+    "pharmacodynamics": "Relieves acute myocardial ischemia; combined with hydralazine, provides nitric oxide donation while hydralazine prevents nitrate tolerance and scavenges free radicals (A-HeFT trial mortality reduction in African Americans).",
+    "absorption": "Sublingual: rapidly absorbed into systemic circulation (peak in 10-15 minutes); Oral: heavily metabolized by hepatic first-pass (bioavailability 20-25%).",
+    "distribution": "Widely distributed; active metabolites 5-ISMN and 2-ISMN distribute to vascular tissues; <28% protein bound.",
+    "metabolism": "Extensively metabolized in the liver to two active metabolites: isosorbide-5-mononitrate (5-ISMN, longer-acting) and isosorbide-2-mononitrate (2-ISMN).",
+    "excretion": "Excreted in urine (approx. 80-90% as glucuronide metabolites and free mononitrates).",
+    "bioavailability": "Sublingual: 40-50%; Oral: 20-25% (due to high hepatic first-pass clearance)",
+    "half_life": "Parent ISDN: 1 hour; active 5-ISMN metabolite: 5 hours",
+    "protein_binding": "<28%",
+    "onset": "Sublingual: 2 to 5 minutes; Oral: 20 to 40 minutes",
+    "duration": "Sublingual: 1 to 2 hours; Oral: 4 to 6 hours",
+    "indications": [
+      "Treatment and prevention of acute angina pectoris (sublingual formulation)",
+      "Adjunct treatment of heart failure with reduced ejection fraction in Black patients, combined with hydralazine (A-HeFT trial: 43% reduction in mortality)",
+      "Chronic angina prophylaxis (oral formulation)"
+    ],
+    "contraindications": [
+      "Concurrent use of PDE5 inhibitors (sildenafil, tadalafil - LETHAL HYPOTENSION)",
+      "Severe hypotension (systolic BP < 90 mmHg)",
+      "Severe hypovolemia or cardiogenic shock",
+      "Constrictive pericarditis and cardiac tamponade"
+    ],
+    "warnings": [
+      "Fatal hypotension with PDE5 inhibitors (sildenafil within 24h, tadalafil within 48h)",
+      "Nitrate tolerance: require 14-hour nitrate-free interval for chronic oral dosing (e.g., dose at 7 AM, 12 PM, 5 PM, none overnight)",
+      "Severe throbbing nitrate headache"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Lightheadedness",
+      "Flushing",
+      "Postural hypotension",
+      "Tachycardia"
+    ],
+    "serious_adverse_effects": [
+      "Severe life-threatening hypotension / syncope",
+      "Paradoxical bradycardia",
+      "Reflex myocardial ischemia"
+    ],
+    "drug_interactions": [
+      "PDE5 inhibitors (sildenafil, tadalafil, vardenafil - contraindicated)",
+      "Riociguat (contraindicated)",
+      "Alcohol (severe hypotension)",
+      "Antihypertensives"
+    ],
+    "monitoring": [
+      "Blood pressure and heart rate",
+      "Angina attack frequency",
+      "Compliance with TID eccentric schedule (7 AM, 12 PM, 5 PM)"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if clearly needed.",
+    "lactation": "Excretion in human milk unknown; use caution.",
+    "pediatric": "Safety and efficacy not established in pediatric patients.",
+    "geriatric": "Start at lowest dose (5-10 mg TID); high risk of orthostatic falls.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Dose titration required in severe hepatic cirrhosis (reduced first-pass clearance elevates ISDN levels).",
+    "advantages": [
+      "Sublingual form acts within 2 to 5 minutes for acute angina relief",
+      "Landmark A-HeFT trial proven: combined with hydralazine, cuts heart failure mortality by 43% in Black patients",
+      "Cost-effective, established cardiovascular therapy"
+    ],
+    "disadvantages": [
+      "Low and erratic oral bioavailability compared to isosorbide mononitrate",
+      "Requires complex TID eccentric dosing (7 AM - 12 PM - 5 PM) to prevent tolerance"
+    ],
+    "key_points": [
+      "Sublingual tablet dissolves under the tongue in 2 minutes for chest pain relief",
+      "If taking oral tablets 3 times daily, space them at 7 AM, 12 PM, and 5 PM so night is nitrate-free"
+    ],
+    "memory_trick": "ISDN: Immediate Sublingual Dissolution for Need; Needs nitrate-free night; Never mix with PDE5 inhibitors.",
+    "key_suffix": "-nitrate",
+    "pronunciation_en": "eye-soe-SOR-bide dye-NYE-trate",
+    "pronunciation_hi": "\u0906\u0907\u0938\u094b\u0938\u094b\u0930\u092c\u093e\u0907\u0921 \u0921\u093e\u0907\u0928\u093e\u0907\u091f\u094d\u0930\u0947\u091f",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "nitroglycerin",
+    "generic_name": "Nitroglycerin (Glyceryl Trinitrate - GTN)",
+    "display_name": "Nitroglycerin (Glyceryl Trinitrate)",
+    "active_ingredient": "Nitroglycerin",
+    "salt": "Nitroglycerin",
+    "category": "Cardiovascular",
+    "description": "The foundational rapid-acting organic nitrate vasodilator used sublingually for immediate termination of acute angina attacks and intravenously for acute heart failure, pulmonary oedema, and hypertensive emergencies.",
+    "strengths": [
+      "0.4 mg (400 mcg) sublingual tablet",
+      "0.4 mg/metered dose sublingual spray",
+      "5 mg/mL (5 mL, 10 mL IV ampoules)",
+      "2.5 mg, 6.5 mg sustained release",
+      "5 mg/24h, 10 mg/24h transdermal patch",
+      "2% ointment"
+    ],
+    "dosage_forms": [
+      "Sublingual Tablet",
+      "Sublingual Aerosol Spray",
+      "Solution for Injection / Infusion",
+      "Transdermal Patch",
+      "Topical Ointment"
+    ],
+    "routes": [
+      "Sublingual",
+      "Intravenous",
+      "Transdermal",
+      "Topical"
+    ],
+    "mechanism_of_action": "Denitrated in vascular smooth muscle by mitochondrial aldehyde dehydrogenase (ALDH-2) to release nitric oxide (NO); stimulates guanylyl cyclase, increasing intracellular cGMP and causing profound venous dilation, lowering preload and ventricular wall stress; dilates coronary collaterals.",
+    "pharmacodynamics": "Rapidly aborts acute myocardial ischemia within 1 to 3 minutes; decreases left ventricular end-diastolic pressure and pulmonary capillary wedge pressure, relieving acute cardiogenic pulmonary oedema.",
+    "absorption": "Sublingual: rapidly and completely absorbed through oral mucosa directly into systemic circulation (bypasses hepatic first-pass); Oral swallowed: >99% destroyed by hepatic first-pass metabolism (bioavailability <1%).",
+    "distribution": "Widely distributed; volume of distribution approx. 3 L/kg; 60% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized by red blood cell and liver glutathione-dependent organic nitrate reductase into dinitrate and mononitrate metabolites with much lower vasodilator activity.",
+    "excretion": "Excreted in urine as inactive glucuronide conjugates.",
+    "bioavailability": "Sublingual: approx. 40%; Transdermal: 75%; Oral: <1%",
+    "half_life": "1 to 4 minutes (ultra-short half-life enables minute-to-minute IV titration)",
+    "protein_binding": "60%",
+    "onset": "Sublingual: 1 to 3 minutes; IV: immediate (1 to 2 minutes); Transdermal: 30 to 60 minutes",
+    "duration": "Sublingual: 20 to 30 minutes; IV: 3 to 5 minutes after stopping infusion; Patch: 12 hours (remove for 12h daily)",
+    "indications": [
+      "Immediate relief of acute angina pectoris attacks (0.4 mg sublingual tablet or spray every 5 minutes up to 3 doses)",
+      "Prophylaxis of angina taken 5 to 10 minutes prior to physical exertion or emotional stress",
+      "Acute decompensated heart failure with pulmonary oedema (IV continuous infusion)",
+      "Unstable angina and acute myocardial infarction (IV infusion)",
+      "Hypertensive emergency with acute left ventricular failure"
+    ],
+    "contraindications": [
+      "Concurrent use of PDE5 inhibitors (sildenafil/vardenafil within 24 hours, tadalafil within 48 hours - LETHAL HYPOTENSION)",
+      "Severe hypotension (systolic BP < 90 mmHg or >30 mmHg below baseline)",
+      "Severe bradycardia (<50 bpm) or marked tachycardia (>100 bpm in absence of heart failure)",
+      "Right ventricular myocardial infarction (inferior MI with RV involvement - profound drop in preload precipitates cardiogenic shock)",
+      "Increased intracranial pressure or cerebral hemorrhage",
+      "Severe aortic stenosis or obstructive cardiomyopathy"
+    ],
+    "warnings": [
+      "CRITICAL RULE: Never administer in suspected RIGHT VENTRICULAR INFARCTION (leads to catastrophic shock due to preload dependence)",
+      "FATAL INTERACTION WITH PDE5 INHIBITORS (Viagra/Cialis)",
+      "Call emergency medical services (ambulance) if chest pain is not relieved or worsens 5 minutes after the first sublingual dose",
+      "Transdermal patches must be removed for 10-12 hours daily (usually at bedtime) to avoid complete nitrate tolerance",
+      "Glass bottles and non-PVC infusion tubing required for IV infusion (absorbs into regular PVC plastic bags)"
+    ],
+    "common_adverse_effects": [
+      "Throbbing headache (very common)",
+      "Facial flushing",
+      "Dizziness / lightheadedness",
+      "Postural hypotension",
+      "Reflex tachycardia"
+    ],
+    "serious_adverse_effects": [
+      "Severe catastrophic circulatory collapse / refractory shock",
+      "Paradoxical bradycardia and syncope",
+      "Severe methemoglobinemia (rare with high-dose prolonged IV infusions)"
+    ],
+    "drug_interactions": [
+      "Phosphodiesterase-5 inhibitors (sildenafil, tadalafil, vardenafil - ABSOLUTELY CONTRAINDICATED)",
+      "Riociguat (contraindicated)",
+      "Alcohol (severe hypotension)",
+      "Antihypertensives, beta-blockers, calcium channel blockers (additive hypotension)"
+    ],
+    "monitoring": [
+      "Blood pressure and heart rate before and 5 minutes after each sublingual dose",
+      "Continuous arterial pressure and telemetry during IV infusion",
+      "Keep sublingual tablets in original amber glass bottle tightly capped (evaporates and loses potency in plastic pillboxes)"
+    ],
+    "pregnancy": "Category C; widely used in maternal hypertensive emergencies and acute pulmonary oedema with close fetal monitoring.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy established in pediatric intensive care for afterload reduction (0.5-5 mcg/kg/min IV).",
+    "geriatric": "Extreme susceptibility to orthostatic hypotension and syncope; patient must always sit down before taking sublingual dose.",
+    "renal": "No dosage adjustment required in renal failure.",
+    "hepatic": "No dosage adjustment required in hepatic disease.",
+    "advantages": [
+      "World standard first-line emergency rescue medication for acute angina attacks, relieving pain within 1 to 3 minutes",
+      "Minute-to-minute titratability via IV infusion makes it the premier agent for acute cardiogenic pulmonary oedema",
+      "Multiple delivery routes (sublingual tablets, spray, transdermal patch, IV)"
+    ],
+    "disadvantages": [
+      "Volatile drug: sublingual tablets lose potency rapidly if exposed to air, moisture, or plastic pillboxes",
+      "Continuous exposure causes total nitrate tolerance within 24-48 hours",
+      "Contraindicated in right ventricular infarction"
+    ],
+    "key_points": [
+      "Sit down before taking sublingual nitroglycerin to prevent fainting; dissolve under the tongue without swallowing",
+      "If chest pain persists 5 minutes after the first dose, CALL AN AMBULANCE immediately before taking a second dose",
+      "Keep tablets in the original amber glass bottle; replace every 6 months after opening"
+    ],
+    "memory_trick": "NITRO-glycerin: Number 1 In Terminating angina Rapidly; Outlawed in Right-ventricular MI; Sit down before dosing.",
+    "key_suffix": "-glycerin",
+    "pronunciation_en": "nye-troe-GLIS-er-in",
+    "pronunciation_hi": "\u0928\u093e\u0907\u091f\u094d\u0930\u094b-\u0917\u094d\u0932\u093f\u0938\u0930\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "nicorandil",
+    "generic_name": "Nicorandil",
+    "display_name": "Nicorandil",
+    "active_ingredient": "Nicorandil",
+    "salt": "Nicorandil",
+    "category": "Cardiovascular",
+    "description": "A dual-action potassium channel opener and organic nitrate donor that provides balanced arterial and venous dilation without developing nitrate tolerance, proven to reduce major coronary events (IONA study).",
+    "strengths": [
+      "5 mg",
+      "10 mg"
+    ],
+    "dosage_forms": [
+      "Scored Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Dual mechanism: opens ATP-sensitive potassium channels (K-ATP) in arterial smooth muscle causing hyperpolarization and arteriolar dilation (reduces afterload and mimics ischemic preconditioning), AND contains a nitrate moiety that donates nitric oxide (NO) causing venodilation (reduces preload) and coronary vasodilation.",
+    "pharmacodynamics": "Improves coronary collateral blood flow, reduces myocardial oxygen demand, prevents myocardial stunning, and confers ischemic preconditioning; does NOT develop classical nitrate tolerance (IONA study: 17% reduction in major coronary events).",
+    "absorption": "Rapidly and completely absorbed from GI tract (approx. 75-80% bioavailability); peak plasma concentration in 30 to 60 minutes; unaffected by food.",
+    "distribution": "Apparent volume of distribution approx. 1.0 to 1.4 L/kg; low plasma protein binding (approx. 25%).",
+    "metabolism": "Extensively metabolized in the liver mainly by denitration into inactive nicotinamide and subsequent incorporation into NAD/NADP pathways.",
+    "excretion": "Excreted predominantly in urine (approx. 20% as metabolites within 24 hours); less than 1% unchanged drug.",
+    "bioavailability": "75% to 80%",
+    "half_life": "1 hour (effective therapeutic duration 12 hours)",
+    "protein_binding": "25%",
+    "onset": "30 to 60 minutes",
+    "duration": "12 hours (dosed twice daily)",
+    "indications": [
+      "Prevention and long-term treatment of chronic stable angina pectoris (second-line add-on to beta-blockers/CCBs)",
+      "Refractory angina pectoris when conventional therapies are insufficient or contraindicated",
+      "Microvascular angina"
+    ],
+    "contraindications": [
+      "Concurrent use of phosphodiesterase-5 (PDE5) inhibitors (sildenafil, tadalafil - FATAL HYPOTENSION)",
+      "Concurrent use of soluble guanylyl cyclase stimulators (riociguat)",
+      "Severe hypotension or cardiogenic shock",
+      "Acute pulmonary oedema"
+    ],
+    "warnings": [
+      "GASTROINTESTINAL AND CUTANEOUS ULCERATION: Nicorandil can cause severe, refractory, persistent aphthous ulcers in the mouth, stomach, small intestine, colon, anus, and cornea; ulcers DO NOT HEAL until nicorandil is completely discontinued",
+      "Risk of intestinal perforation and severe GI bleeding from ulcers",
+      "Headache during first week of therapy"
+    ],
+    "common_adverse_effects": [
+      "Headache (very common during initial therapy, diminishes over time)",
+      "Dizziness",
+      "Cutaneous flushing",
+      "Nausea",
+      "Mouth ulcers"
+    ],
+    "serious_adverse_effects": [
+      "Severe gastrointestinal ulceration / intestinal perforation",
+      "Refractory anal and perianal ulceration",
+      "Corneal ulceration",
+      "Severe hypotension"
+    ],
+    "drug_interactions": [
+      "PDE5 inhibitors (sildenafil, tadalafil - strictly contraindicated due to lethal hypotension)",
+      "Riociguat (contraindicated)",
+      "Corticosteroids, NSAIDs, or aspirin (greatly increase risk of severe GI ulceration and perforation)",
+      "Antihypertensives (additive blood pressure lowering)"
+    ],
+    "monitoring": [
+      "Careful inspection for persistent mouth ulcers, skin ulcers, or perianal ulceration (stop drug immediately if found)",
+      "Complete blood count and stool for occult blood",
+      "Blood pressure sitting and standing"
+    ],
+    "pregnancy": "Avoid in pregnancy; insufficient human safety data; use only if potential benefit justifies potential risk.",
+    "lactation": "Excretion in breast milk unknown; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "Initiate at 5 mg twice daily; titrate up to 10-20 mg twice daily.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in hepatic disease.",
+    "advantages": [
+      "Dual-action potassium channel opener and nitric oxide donor providing comprehensive preload and afterload reduction",
+      "Does not develop classical nitrate tolerance",
+      "Proven 17% reduction in major coronary events in chronic angina (IONA trial)"
+    ],
+    "disadvantages": [
+      "Causes refractory gastrointestinal and mucosal ulceration that only resolves after stopping the drug",
+      "Strictly contraindicated with PDE5 inhibitors"
+    ],
+    "key_points": [
+      "Dual-action antianginal that opens potassium channels and releases nitric oxide",
+      "STOP THE DRUG IMMEDIATELY if you develop persistent mouth ulcers, stomach pain, or anal sores"
+    ],
+    "memory_trick": "NICOR-andil: Nitrate and K-channel opener; Increases collateral flow; Caution: Causes Cavity/mouth ulcers.",
+    "key_suffix": "-andil",
+    "pronunciation_en": "nye-KOR-an-dil",
+    "pronunciation_hi": "\u0928\u093f\u0915\u094b\u0930\u093e-\u0928\u094d\u0921\u093f\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "ranolazine",
+    "generic_name": "Ranolazine",
+    "display_name": "Ranolazine Extended-Release",
+    "active_ingredient": "Ranolazine",
+    "salt": "Ranolazine",
+    "category": "Cardiovascular",
+    "description": "A first-in-class late inward sodium current (INa-late) inhibitor that reduces intracellular calcium overload in ischemic cardiomyocytes, improving myocardial perfusion without lowering heart rate or blood pressure.",
+    "strengths": [
+      "500 mg ER",
+      "1000 mg ER"
+    ],
+    "dosage_forms": [
+      "Extended-Release Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively inhibits the late inward sodium current (late INa) in ischemic myocardial cells, preventing sodium accumulation, reversing reverse Na+/Ca2+ exchange, and attenuating intracellular calcium overload; reduces diastolic wall tension and mechanical compression of microvascular coronary vessels.",
+    "pharmacodynamics": "Improves myocardial perfusion during diastole and reduces anginal symptoms and nitrate consumption without reducing heart rate, inotropic contractility, or systemic blood pressure; causes mild dose-dependent QTc prolongation.",
+    "absorption": "Variable absorption; 73% systemic availability of extended-release tablet; peak plasma concentration in 2 to 5 hours; food does not affect absorption.",
+    "distribution": "Apparent volume of distribution approx. 85 to 180 L; 62% bound to human plasma proteins (predominantly alpha-1 acid glycoprotein).",
+    "metabolism": "Extensively metabolized in the liver (>80%) primarily by CYP3A4, and to a lesser extent by CYP2D6; multiple metabolites.",
+    "excretion": "Excreted in urine (approx. 75%, with <5% unchanged) and faeces (approx. 25%).",
+    "bioavailability": "Approximately 73% (extended release)",
+    "half_life": "7 hours",
+    "protein_binding": "62%",
+    "onset": "Steady state reached within 3 days",
+    "duration": "12 hours (dosed twice daily)",
+    "indications": [
+      "Chronic stable angina pectoris refractory to or intolerant of first-line agents (beta-blockers, CCBs, nitrates)",
+      "Angina in patients with baseline bradycardia or low blood pressure who cannot tolerate heart-rate lowering medications",
+      "Microvascular angina"
+    ],
+    "contraindications": [
+      "Preexisting clinically significant QTc prolongation (congenital long QT syndrome)",
+      "Severe hepatic impairment (Child-Pugh Class C)",
+      "Concurrent use of strong CYP3A4 inhibitors (ketoconazole, clarithromycin) or inducers (rifampin, carbamazepine, St. John's wort)"
+    ],
+    "warnings": [
+      "Dose-dependent QTc prolongation (mean increase of 6 ms at 1000 mg BID; risk of Torsades de pointes in susceptible patients)",
+      "Acute renal failure reported in patients with severe renal impairment (eGFR < 30 mL/min)",
+      "Do not crush, break, or chew extended-release tablets"
+    ],
+    "common_adverse_effects": [
+      "Dizziness",
+      "Constipation (very common)",
+      "Headache",
+      "Nausea",
+      "Asthenia"
+    ],
+    "serious_adverse_effects": [
+      "Torsades de pointes / ventricular arrhythmias (rare)",
+      "Acute renal failure (in patients with preexisting severe renal disease)",
+      "Syncope"
+    ],
+    "drug_interactions": [
+      "Strong CYP3A4 inhibitors (ketoconazole, clarithromycin - contraindicated)",
+      "Moderate CYP3A4 inhibitors (diltiazem, verapamil, fluconazole - limit ranolazine to 500 mg BID)",
+      "Strong CYP3A4 inducers (rifampin, phenytoin - contraindicated)",
+      "P-glycoprotein substrates (ranolazine increases digoxin levels; reduce digoxin by 50%)",
+      "Simvastatin (do not exceed 20 mg simvastatin daily)"
+    ],
+    "monitoring": [
+      "Baseline and periodic ECG to assess QTc interval (especially when combining with other drugs)",
+      "Renal function (BUN and creatinine) in patients with eGFR < 60 mL/min",
+      "Frequency of weekly angina attacks"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if potential benefit justifies potential risk.",
+    "lactation": "Excretion in human milk unknown; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "No dosage adjustment required based on age alone; monitor for constipation and dizziness.",
+    "renal": "If eGFR < 60 mL/min, monitor renal function and discontinue if acute renal failure occurs; contraindicated if eGFR < 30 mL/min.",
+    "hepatic": "Contraindicated in severe hepatic cirrhosis; dose reduction in moderate impairment.",
+    "advantages": [
+      "Relieves chronic angina WITHOUT lowering heart rate or blood pressure, making it ideal for patients with baseline bradycardia or borderline hypotension",
+      "Does not cause erectile dysfunction, bronchospasm, or fatigue",
+      "Improves glycemic control (modest 0.5-0.7% HbA1c reduction in diabetic patients)"
+    ],
+    "disadvantages": [
+      "High incidence of constipation",
+      "Prolongs the QTc interval by 6 ms, requiring baseline ECG and drug interaction screening",
+      "High acquisition cost"
+    ],
+    "key_points": [
+      "Antianginal medication that does NOT lower your heart rate or blood pressure",
+      "Swallow extended-release tablets whole; do not chew or crush; take twice daily"
+    ],
+    "memory_trick": "RANOL-azine: Reduces Acute Na+ Overload; Leaves heart-rate and BP unchanged; Beware QTc & Constipation.",
+    "key_suffix": "-azine",
+    "pronunciation_en": "ra-NOE-la-zeen",
+    "pronunciation_hi": "\u0930\u093e\u0928\u094b\u0932\u093e-\u091c\u093c\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "trimetazidine",
+    "generic_name": "Trimetazidine",
+    "display_name": "Trimetazidine Modified Release",
+    "active_ingredient": "Trimetazidine dihydrochloride",
+    "salt": "Trimetazidine dihydrochloride",
+    "category": "Cardiovascular",
+    "description": "A cellular anti-ischemic metabolic agent that shifts myocardial energy metabolism from fatty acid oxidation to glucose oxidation, protecting cardiomyocytes against ischemia without hemodynamic effects.",
+    "strengths": [
+      "20 mg",
+      "35 mg MR",
+      "80 mg OD"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Modified-Release Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively inhibits mitochondrial long-chain 3-ketoacyl-CoA thiolase (3-KAT), suppressing fatty acid beta-oxidation; shifts cellular energy production toward glucose oxidation, which requires less oxygen per ATP molecule produced, optimizing cardiomyocyte energy during ischemia.",
+    "pharmacodynamics": "Maintains intracellular ATP levels, preserves cellular ionic homeostasis (prevents intracellular calcium and sodium overload), and limits acidosis during myocardial ischemia without altering heart rate, blood pressure, or coronary blood flow.",
+    "absorption": "Rapidly absorbed from GI tract; modified-release (MR) formulation provides peak levels in 5 hours; food does not affect bioavailability.",
+    "distribution": "Widely distributed into tissues; low protein binding (approx. 16%); volume of distribution approx. 4.8 L/kg.",
+    "metabolism": "Minimal hepatic metabolism; excreted predominantly unaltered.",
+    "excretion": "Excreted predominantly unchanged in urine via glomerular filtration (approx. 60%).",
+    "bioavailability": "Approximately 90%",
+    "half_life": "6 hours (immediate release); 7 to 12 hours (modified release)",
+    "protein_binding": "16%",
+    "onset": "1 to 2 hours",
+    "duration": "12 hours (35 mg MR dosed twice daily)",
+    "indications": [
+      "Add-on therapy for the symptomatic treatment of chronic stable angina pectoris in patients inadequately controlled by or intolerant of first-line antianginal therapies",
+      "Adjuvant therapy in ischemic cardiomyopathy"
+    ],
+    "contraindications": [
+      "Parkinson's disease, parkinsonism, tremors, restless legs syndrome, and other movement disorders",
+      "Severe renal impairment (creatinine clearance < 30 mL/min)",
+      "Known hypersensitivity to trimetazidine"
+    ],
+    "warnings": [
+      "PARKINSONIAN SYMPTOMS: Can cause or aggravate parkinsonian symptoms (tremor, rigidity, bradykinesia, gait instability), especially in elderly patients; symptoms are usually reversible upon discontinuation",
+      "Must be discontinued permanently if movement disorders develop",
+      "Not indicated for acute angina attacks"
+    ],
+    "common_adverse_effects": [
+      "Dizziness",
+      "Headache",
+      "Abdominal pain",
+      "Diarrhoea",
+      "Dyspepsia",
+      "Nausea",
+      "Pruritus / rash"
+    ],
+    "serious_adverse_effects": [
+      "Drug-induced parkinsonism / extrapyramidal symptoms",
+      "Agranulocytosis / thrombocytopenia (rare)",
+      "Severe gait instability and falls"
+    ],
+    "drug_interactions": [
+      "No clinically significant pharmacokinetic cytochrome P450 interactions reported",
+      "Additive CNS effects with dopamine antagonists"
+    ],
+    "monitoring": [
+      "Regular screening for movement disorders (tremor, slow movements, gait unsteadiness)",
+      "Renal function (creatinine clearance) at baseline and annually",
+      "Angina attack frequency"
+    ],
+    "pregnancy": "Avoid during pregnancy due to limited human safety data.",
+    "lactation": "Excretion in breast milk unknown; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy in children under 18 years not established.",
+    "geriatric": "Higher risk of drug-induced parkinsonism and falls in senior patients; monitor closely for resting tremor.",
+    "renal": "Dose reduction required: if CrCl 30-60 mL/min, reduce dose by 50% (give 35 mg MR once daily in the morning); contraindicated if CrCl < 30 mL/min.",
+    "hepatic": "No dosage adjustment required in hepatic disease.",
+    "advantages": [
+      "Pure metabolic cytoprotective mechanism that optimizes oxygen efficiency without affecting heart rate or blood pressure",
+      "Can be combined safely with any hemodynamic antianginal (beta-blockers, CCBs, nitrates)",
+      "Reduces myocardial injury during angioplasty and cardiac surgery"
+    ],
+    "disadvantages": [
+      "Risk of drug-induced Parkinson's symptoms (tremor, gait freezing) in elderly patients",
+      "Not approved in the United States (extensively used in Europe, Asia, and India)"
+    ],
+    "key_points": [
+      "Metabolic heart protector that makes heart muscle use oxygen more efficiently",
+      "Stop the medication and inform your doctor immediately if you notice finger tremors or walking stiffness"
+    ],
+    "memory_trick": "TRIMETA-zidine: Thiolase (3-KAT) Inhibitor; Metabolic Energy optimizer; Tremor/Parkinson risk.",
+    "key_suffix": "-zidine",
+    "pronunciation_en": "trye-MET-a-zi-deen",
+    "pronunciation_hi": "\u091f\u094d\u0930\u093e\u0907\u092e\u0947\u091f\u093e-\u091c\u093c\u093f\u0921\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  }
+]

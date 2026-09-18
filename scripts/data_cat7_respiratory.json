@@ -1,0 +1,1854 @@
+[
+  {
+    "slug": "indacaterol",
+    "generic_name": "Indacaterol",
+    "display_name": "Indacaterol Maleate Inhalation Powder",
+    "active_ingredient": "Indacaterol maleate",
+    "salt": "Indacaterol maleate",
+    "category": "Respiratory",
+    "description": "An ultra-long-acting beta-2 adrenergic agonist (ultra-LABA) providing fast-onset (5 minutes) and 24-hour bronchodilation for once-daily maintenance therapy in COPD.",
+    "strengths": [
+      "75 mcg",
+      "150 mcg",
+      "300 mcg inhalation capsules"
+    ],
+    "dosage_forms": [
+      "Dry Powder Inhaler (DPI) Capsule"
+    ],
+    "routes": [
+      "Inhalation"
+    ],
+    "mechanism_of_action": "Selective agonist at beta-2 adrenergic receptors on bronchial smooth muscle; stimulates intracellular adenylate cyclase to convert ATP to cAMP, activating protein kinase A (PKA); reduces intracellular calcium and induces profound bronchial relaxation.",
+    "pharmacodynamics": "Produces rapid bronchodilation within 5 minutes of inhalation that persists for a full 24 hours; improves FEV1, reduces lung hyperinflation, relieves dyspnea, and reduces COPD exacerbations.",
+    "absorption": "Inhaled fraction absorbed rapidly from lung tissue; swallowed fraction undergoes extensive first-pass metabolism; systemic bioavailability approx. 43%.",
+    "distribution": "Widely distributed into lung tissue; volume of distribution approx. 2,557 L; 95% bound to human plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver primarily by UGT1A1 (glucuronidation) and CYP3A4 (hydroxylation).",
+    "excretion": "Excreted predominantly in faeces (approx. 85% via biliary excretion); approx. 10% in urine as metabolites and unchanged drug.",
+    "bioavailability": "Approximately 43%",
+    "half_life": "40 to 52 hours (supports true once-daily dosing)",
+    "protein_binding": "95%",
+    "onset": "Fast onset: within 5 minutes",
+    "duration": "24 hours (once daily)",
+    "indications": [
+      "Long-term once-daily maintenance bronchodilator treatment of airflow limitation in patients with Chronic Obstructive Pulmonary Disease (COPD)",
+      "Combined with glycopyrronium (Ultibro Breezhaler) for dual LABA/LAMA COPD maintenance"
+    ],
+    "contraindications": [
+      "Asthma without concomitant inhaled corticosteroid (LABA monotherapy black box warning)",
+      "Known hypersensitivity to indacaterol or lactose (capsule carrier)"
+    ],
+    "warnings": [
+      "Black box warning: LABA monotherapy in asthma increases the risk of asthma-related death (MUST ALWAYS BE COMBINED WITH AN INHALED STEROID IN ASTHMA; approved primarily for COPD)",
+      "Paradoxical bronchospasm: may cause acute, life-threatening bronchospasm immediately after inhalation (treat with short-acting SABA)",
+      "Cardiovascular effects: tachycardia, palpitations, hypertension, and arrhythmias in susceptible patients"
+    ],
+    "common_adverse_effects": [
+      "Nasopharyngitis / upper respiratory tract infection",
+      "Cough (transient post-inhalation cough in up to 15-20%, resolving in seconds)",
+      "Headache",
+      "Muscle spasms",
+      "Tremor"
+    ],
+    "serious_adverse_effects": [
+      "Paradoxical bronchospasm (immediate, life-threatening)",
+      "Hypokalemia / hyperglycemia",
+      "Cardiac arrhythmias / atrial fibrillation / QT prolongation"
+    ],
+    "drug_interactions": [
+      "Beta-blockers (cardioselective and non-selective - antagonize bronchodilator effect and may cause bronchospasm)",
+      "Strong CYP3A4 inhibitors (ketoconazole, erythromycin - modestly increase indacaterol exposure)",
+      "QT-prolonging drugs (hypokalemia and additive QT prolongation)"
+    ],
+    "monitoring": [
+      "Spirometry (FEV1 and FVC) at baseline and periodic follow-up",
+      "Inhalation technique verification (ensure patient pierces capsule and inhales forcefully)",
+      "Serum potassium and blood glucose in high-risk patients"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if potential benefit justifies potential risk.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy in pediatric patients under 18 years not established.",
+    "geriatric": "No dosage adjustment required in elderly patients.",
+    "renal": "No dosage adjustment required in any degree of renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Ultra-fast 5-minute onset combined with a true 24-hour duration of action in a single daily inhalation",
+      "Exceptional affinity and 24-fold higher beta-2 selectivity than formoterol",
+      "Significantly reduces COPD exacerbations and improves quality of life"
+    ],
+    "disadvantages": [
+      "Transient cough immediately after inhaling the dry powder (lasts 10-15 seconds; warn patient)",
+      "Capsule must be loaded into the Breezhaler device, requiring good manual dexterity"
+    ],
+    "key_points": [
+      "Inhale one capsule once daily at the same time every day using the Breezhaler device",
+      "Do NOT swallow the capsule; a brief 10-second cough right after inhaling is harmless"
+    ],
+    "memory_trick": "INDA-caterol: Instant 5-minute onset; Non-stop 24-hour bronchodilation; Daily single dose; Asthma monotherapy outlawed.",
+    "key_suffix": "-caterol",
+    "pronunciation_en": "in-da-KA-ter-ol",
+    "pronunciation_hi": "\u0907\u0928\u094d\u0921\u093e-\u0915\u0948\u091f\u0947\u0930\u094b\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "vilanterol",
+    "generic_name": "Vilanterol",
+    "display_name": "Vilanterol Trifenatate (in Breo / Anoro Ellipta)",
+    "active_ingredient": "Vilanterol trifenatate",
+    "salt": "Vilanterol trifenatate",
+    "category": "Respiratory",
+    "description": "An ultra-long-acting beta-2 agonist (ultra-LABA) with 24-hour bronchodilation, co-formulated with fluticasone furoate (Breo) or umeclidinium (Anoro) in the once-daily Ellipta dry powder inhaler.",
+    "strengths": [
+      "25 mcg (co-formulated with fluticasone furoate or umeclidinium)"
+    ],
+    "dosage_forms": [
+      "Dry Powder Inhaler (Ellipta)"
+    ],
+    "routes": [
+      "Inhalation"
+    ],
+    "mechanism_of_action": "Highly selective, long-acting beta-2 adrenergic receptor agonist; stimulates intracellular adenylate cyclase, elevating cyclic AMP; relaxes bronchial smooth muscle and inhibits release of inflammatory mediators from mast cells.",
+    "pharmacodynamics": "Produces sustained 24-hour bronchodilation with a rapid onset (within 10-15 minutes); significantly improves trough FEV1 and reduces annual rate of moderate-to-severe COPD and asthma exacerbations.",
+    "absorption": "Oral inhalation delivers drug directly to the bronchial tree; swallowed portion is extensively metabolized; absolute oral bioavailability of vilanterol is <1%; total systemic bioavailability approx. 27%.",
+    "distribution": "Widely distributed into lung tissue; volume of distribution at steady state approx. 165 L; 94% bound to human plasma proteins.",
+    "metabolism": "Rapidly and extensively metabolized by CYP3A4 to inactive metabolites; virtually zero circulating parent drug after systemic absorption.",
+    "excretion": "Excreted in urine (approx. 70%) and faeces (approx. 30%) as inactive metabolites.",
+    "bioavailability": "Approximately 27% (inhaled fraction)",
+    "half_life": "11 hours in plasma (supports true 24-hour pharmacodynamic duration)",
+    "protein_binding": "94%",
+    "onset": "10 to 15 minutes",
+    "duration": "24 hours (once daily in Ellipta device)",
+    "indications": [
+      "Maintenance treatment of Chronic Obstructive Pulmonary Disease (COPD - combined with umeclidinium or fluticasone furoate)",
+      "Maintenance treatment of Asthma in patients aged 12 years and older (ALWAYS combined with fluticasone furoate - Breo Ellipta)"
+    ],
+    "contraindications": [
+      "Primary treatment of status asthmaticus or acute episodes of asthma/COPD requiring intensive measures",
+      "Asthma monotherapy without an inhaled corticosteroid (LABA black box warning)",
+      "Severe hypersensitivity to milk proteins (contains lactose)"
+    ],
+    "warnings": [
+      "Always co-formulated with an inhaled corticosteroid (fluticasone furoate) for asthma to eliminate LABA monotherapy mortality risk",
+      "Paradoxical bronchospasm: discontinue immediately if bronchospasm occurs",
+      "Cardiovascular effects: tachycardia, arrhythmias, and hypertension",
+      "Rinse mouth with water without swallowing after inhalation (when combined with steroid)"
+    ],
+    "common_adverse_effects": [
+      "Nasopharyngitis",
+      "Upper respiratory tract infection",
+      "Headache",
+      "Candidiasis of mouth and throat (due to fluticasone component)",
+      "Dysphonia (hoarseness)"
+    ],
+    "serious_adverse_effects": [
+      "Paradoxical bronchospasm (immediate)",
+      "Cardiac arrhythmias / atrial fibrillation / tachycardia",
+      "Hypokalemia / hyperglycemia"
+    ],
+    "drug_interactions": [
+      "Strong CYP3A4 inhibitors (ketoconazole, ritonavir, clarithromycin - increase systemic vilanterol levels; monitor heart rate)",
+      "Beta-adrenergic receptor blockers (antagonize bronchodilation; may provoke severe bronchospasm)",
+      "Non-potassium sparing diuretics (additive hypokalemia)"
+    ],
+    "monitoring": [
+      "FEV1 and clinical symptom scores",
+      "Oral cavity inspection for thrush (oral candidiasis)",
+      "Heart rate and blood pressure"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if potential benefit justifies potential risk.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Approved for asthma in adolescents 12 years and older (Breo Ellipta 100/25 mcg).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment; monitor in severe cirrhosis.",
+    "advantages": [
+      "True once-daily 24-hour ultra-LABA paired with fluticasone furoate in the user-friendly Ellipta inhaler",
+      "Rapid onset within 15 minutes",
+      "Extensively cleared by CYP3A4, resulting in low systemic exposure and excellent cardiac safety"
+    ],
+    "disadvantages": [
+      "Available only in fixed-dose combinations (Breo Ellipta, Anoro Ellipta, Trelegy Ellipta); not sold as monotherapy",
+      "Must rinse mouth after use to prevent oral thrush"
+    ],
+    "key_points": [
+      "Inhale one puff once daily at the exact same time every day",
+      "Rinse your mouth with water and spit it out after inhaling to prevent mouth infections"
+    ],
+    "memory_trick": "VILAN-terol: Versatile Inhaled LABA; All-day 24h control; Never used alone in asthma (Breo Ellipta).",
+    "key_suffix": "-terol",
+    "pronunciation_en": "vil-AN-ter-ol",
+    "pronunciation_hi": "\u0935\u093f\u0932\u0948\u0928-\u091f\u0947\u0930\u0949\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "olodaterol",
+    "generic_name": "Olodaterol",
+    "display_name": "Olodaterol Inhalation Solution (Striverdi Respimat)",
+    "active_ingredient": "Olodaterol hydrochloride",
+    "salt": "Olodaterol hydrochloride",
+    "category": "Respiratory",
+    "description": "A once-daily ultra-long-acting beta-2 agonist delivered via the propellant-free Respimat Soft Mist Inhaler, providing 24-hour bronchodilation for COPD.",
+    "strengths": [
+      "2.5 mcg per actuation (dose = 2 puffs = 5 mcg)"
+    ],
+    "dosage_forms": [
+      "Inhalation Solution (Respimat Soft Mist Inhaler)"
+    ],
+    "routes": [
+      "Inhalation"
+    ],
+    "mechanism_of_action": "Highly selective and potent beta-2 adrenergic receptor agonist; binds with high affinity to human beta-2 receptors (241-fold higher selectivity over beta-1); stimulates adenylate cyclase, elevating cAMP and relaxing airway smooth muscle.",
+    "pharmacodynamics": "Provides rapid bronchodilation within 5 minutes that lasts for over 24 hours; Respimat Soft Mist generation produces a slow-moving, long-lasting aerosol plume that maximizes deep lung deposition and minimizes oropharyngeal impaction.",
+    "absorption": "Inhaled fraction rapidly absorbed through lungs; swallowed portion poorly bioavailable; total systemic bioavailability is approx. 30%.",
+    "distribution": "Widely distributed; volume of distribution approx. 1,110 L; 60% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized by glucuronidation (UGT2B7, UGT1A1, UGT1A9) and O-demethylation by CYP2C9 and CYP2C8.",
+    "excretion": "Excreted predominantly in faeces (approx. 53%) and urine (approx. 38% as metabolites); unchanged drug accounts for <5% in urine.",
+    "bioavailability": "Approximately 30%",
+    "half_life": "45 hours (terminal elimination half-life)",
+    "protein_binding": "60%",
+    "onset": "Within 5 minutes",
+    "duration": "24 hours (2 actuations once daily)",
+    "indications": [
+      "Long-term, once-daily maintenance bronchodilator treatment of airflow limitation in patients with Chronic Obstructive Pulmonary Disease (COPD)",
+      "Combined with tiotropium (Spiolto Respimat) for dual bronchodilator therapy"
+    ],
+    "contraindications": [
+      "All LABAs are contraindicated in patients with asthma without the use of a long-term asthma controller medication (black box warning)",
+      "Hypersensitivity to olodaterol"
+    ],
+    "warnings": [
+      "Black box warning: Asthma-related death risk with LABA monotherapy (indicated ONLY for COPD, not asthma)",
+      "Respimat Soft Mist Inhaler: requires slow, deep inhalation while pressing dose-release button",
+      "Cardiovascular effects: tachycardia, palpitations, arrhythmias",
+      "Paradoxical bronchospasm"
+    ],
+    "common_adverse_effects": [
+      "Nasopharyngitis",
+      "Upper respiratory tract infection",
+      "Bronchitis",
+      "Cough",
+      "Dizziness",
+      "Rash"
+    ],
+    "serious_adverse_effects": [
+      "Paradoxical bronchospasm",
+      "Tachyarrhythmias / atrial fibrillation",
+      "Hypokalemia / hyperglycemia"
+    ],
+    "drug_interactions": [
+      "Beta-blockers (antagonize bronchodilation; avoid non-selective beta-blockers)",
+      "Adrenergic agonists (additive sympathetic stimulation)",
+      "Diuretics (additive risk of hypokalemia)"
+    ],
+    "monitoring": [
+      "FEV1 and COPD assessment test (CAT) scores",
+      "Respimat inhalation technique verification at every visit",
+      "Heart rate and ECG in patients with cardiovascular disease"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if potential benefit justifies potential risk.",
+    "lactation": "Excreted in animal milk in low amounts; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "No dosage adjustment required in elderly patients.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Respimat Soft Mist Inhaler creates a slow-moving cloud that requires less inspiratory effort than dry powder inhalers, ideal for weak or severe COPD patients",
+      "Rapid 5-minute onset with sustained 24-hour bronchodilation",
+      "Clean metabolic profile independent of CYP3A4"
+    ],
+    "disadvantages": [
+      "Propellant-free Respimat device requires proper assembly and turning (TOP technique: Turn, Open, Press)",
+      "Indicated only for COPD; not approved for asthma"
+    ],
+    "key_points": [
+      "Take 2 puffs once daily at the same time every day using the Respimat Soft Mist Inhaler",
+      "Breathe in slowly and deeply when you press the button; the gentle mist lasts over 1 second"
+    ],
+    "memory_trick": "OLODA-terol: Once-daily LABA for Obstruction; Delivered via Aerosol mist (Respimat); 24-hour action.",
+    "key_suffix": "-terol",
+    "pronunciation_en": "oh-loe-DA-ter-ol",
+    "pronunciation_hi": "\u0913\u0932\u094b\u0921\u0948-\u091f\u0947\u0930\u0949\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "glycopyrronium",
+    "generic_name": "Glycopyrronium (Glycopyrrolate)",
+    "display_name": "Glycopyrronium Inhalation Powder / Injection",
+    "active_ingredient": "Glycopyrronium bromide",
+    "salt": "Glycopyrronium bromide",
+    "category": "Respiratory",
+    "description": "A quaternary ammonium long-acting muscarinic antagonist (LAMA) with fast onset and high M3-receptor selectivity, used as once-daily maintenance for COPD and parenterally to reduce secretions.",
+    "strengths": [
+      "50 mcg inhalation capsule (Seebri Breezhaler)",
+      "0.2 mg/mL IV/IM vial",
+      "1 mg, 2 mg oral tablets"
+    ],
+    "dosage_forms": [
+      "Inhalation Powder",
+      "Solution for Injection",
+      "Oral Tablet"
+    ],
+    "routes": [
+      "Inhalation",
+      "Intravenous",
+      "Intramuscular",
+      "Oral"
+    ],
+    "mechanism_of_action": "Quaternary ammonium antimuscarinic agent; competitively and reversibly blocks muscarinic M3 receptors on airway smooth muscle cells, inhibiting acetylcholine-induced bronchoconstriction; dissociates significantly faster from M2 receptors than M3 receptors, ensuring prolonged bronchodilation without tachycardia.",
+    "pharmacodynamics": "Produces rapid and sustained 24-hour bronchodilation, improves trough FEV1, reduces lung hyperinflation and air trapping, and significantly decreases moderate-to-severe COPD exacerbations; parenterally reduces salivation, tracheobronchial secretions, and gastric acidity.",
+    "absorption": "Inhaled fraction rapidly absorbed through lungs; systemic bioavailability from inhalation is approx. 40%; quaternary ammonium structure prevents significant GI absorption of swallowed drug (<5%).",
+    "distribution": "Confined primarily to the extracellular fluid; volume of distribution approx. 400 L; quaternary charge prevents crossing the blood-brain barrier; 38-44% protein bound.",
+    "metabolism": "Minimally metabolized in the liver (approx. 10-15%) via hydroxylation by CYP2D6 and CYP3A4.",
+    "excretion": "Excreted predominantly unchanged in urine via active tubular secretion (approx. 60-70% of systemic dose); remainder in bile/faeces.",
+    "bioavailability": "Approximately 40% (inhaled)",
+    "half_life": "13 to 24 hours in plasma; biological M3 dissociation half-life is 6.1 hours (sustains 24-hour bronchodilation)",
+    "protein_binding": "38% to 44%",
+    "onset": "Fast onset: within 5 minutes of inhalation",
+    "duration": "24 hours (once daily in Breezhaler)",
+    "indications": [
+      "Maintenance bronchodilator treatment to relieve symptoms in adult patients with Chronic Obstructive Pulmonary Disease (COPD)",
+      "Dual combination with indacaterol (Ultibro Breezhaler) or triple with indacaterol/mometasone",
+      "Parenteral: reduction of salivary, tracheobronchial, and pharyngeal secretions preoperatively or in palliative care / ALS",
+      "Severe chronic drooling (sialorrhea) in pediatric cerebral palsy (oral solution)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to glycopyrronium or lactose",
+      "Severe urinary retention or myasthenia gravis"
+    ],
+    "warnings": [
+      "Paradoxical bronchospasm: discontinue immediately and treat with short-acting bronchodilator",
+      "Narrow-angle glaucoma: protect eyes from inhalation powder or mist (can trigger acute angle closure)",
+      "Urinary retention: use with caution in patients with prostatic hypertrophy or bladder neck obstruction",
+      "Dose adjustment required in severe renal impairment (CrCl < 30 mL/min)"
+    ],
+    "common_adverse_effects": [
+      "Dry mouth (xerostomia - most common anticholinergic effect, usually mild)",
+      "Nasopharyngitis",
+      "Insomnia",
+      "Urinary tract infection",
+      "Gastroenteritis"
+    ],
+    "serious_adverse_effects": [
+      "Paradoxical bronchospasm (immediate)",
+      "Acute angle-closure glaucoma (if powder enters eyes)",
+      "Severe urinary retention / bladder distension",
+      "Supraventricular tachycardia (rare)"
+    ],
+    "drug_interactions": [
+      "Anticholinergic agents (ipratropium, tiotropium, aclidinium - additive anticholinergic toxicity; avoid concurrent use)",
+      "Potassium chloride tablets (delayed gastric emptying increases mucosal injury)"
+    ],
+    "monitoring": [
+      "FEV1 and COPD symptom scores",
+      "Urinary stream in elderly men with prostate disease",
+      "Renal function (creatinine clearance) in elderly or renal patients"
+    ],
+    "pregnancy": "Category B; quaternary ammonium structure does NOT cross the placenta in significant amounts; safe when indicated.",
+    "lactation": "Excretion in human milk unknown; quaternary charge prevents significant infant absorption; compatible with caution.",
+    "pediatric": "Approved for severe drooling in pediatric neurological disorders (oral solution).",
+    "geriatric": "No dosage adjustment required in elderly patients with normal renal function.",
+    "renal": "Renal clearance accounts for 60-70%: in severe renal impairment (CrCl < 30 mL/min) or ESRD on dialysis, monitor closely for anticholinergic side effects.",
+    "hepatic": "No dosage adjustment required in hepatic impairment.",
+    "advantages": [
+      "Quaternary ammonium charge prevents penetration into the brain: ZERO central anticholinergic confusion, delirium, or drowsiness",
+      "Fast onset of action within 5 minutes, significantly faster than tiotropium",
+      "High kinetic selectivity for M3 receptors over M2 receptors ensures minimal cardiac heart rate stimulation"
+    ],
+    "disadvantages": [
+      "Dry mouth in up to 5-10% of patients",
+      "Cleared predominantly by kidneys; risk of accumulation in severe renal failure"
+    ],
+    "key_points": [
+      "Inhale one capsule once daily through the Breezhaler device to keep your breathing tubes open all day and night",
+      "Do NOT swallow the capsule; keep the powder away from your eyes"
+    ],
+    "memory_trick": "GLYCOPYRRO-nium: Guard against M3 spasms; Low CNS penetration (quaternary charge); Rapid 5-minute onset; Once daily.",
+    "key_suffix": "-nium",
+    "pronunciation_en": "glye-koe-pye-ROE-nee-um",
+    "pronunciation_hi": "\u0917\u094d\u0932\u093e\u0907\u0915\u094b\u092a\u093f\u0930\u094b-\u0928\u093f\u092f\u092e",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "aclidinium",
+    "generic_name": "Aclidinium",
+    "display_name": "Aclidinium Bromide Inhalation Powder (Tudorza Pressair)",
+    "active_ingredient": "Aclidinium bromide",
+    "salt": "Aclidinium bromide",
+    "category": "Respiratory",
+    "description": "A long-acting muscarinic antagonist (LAMA) rapidly hydrolyzed in human plasma by butyrylcholinesterase, providing potent local bronchodilation with near-zero systemic anticholinergic side effects.",
+    "strengths": [
+      "400 mcg per actuation"
+    ],
+    "dosage_forms": [
+      "Dry Powder Inhaler (Pressair / Genuair)"
+    ],
+    "routes": [
+      "Inhalation"
+    ],
+    "mechanism_of_action": "Competitively and reversibly inhibits muscarinic M3 receptors in airway smooth muscle, blocking acetylcholine-mediated bronchoconstriction; possesses prolonged residence time at M3 receptors, but is rapidly broken down by esterases once it enters systemic circulation.",
+    "pharmacodynamics": "Produces sustained bronchodilation twice daily, improves daytime and nighttime COPD symptoms, reduces exacerbations; rapid enzymatic breakdown in human plasma prevents systemic anticholinergic adverse effects (dry mouth, urinary retention, cardiac arrhythmias).",
+    "absorption": "Inhaled fraction reaches lung; systemic bioavailability of inhaled aclidinium is exceptionally low (<5%); swallowed drug is completely hydrolyzed in the GI tract.",
+    "distribution": "Apparent volume of distribution approx. 300 L; systemic plasma levels are barely detectable due to rapid plasma hydrolysis; >85% bound to plasma proteins.",
+    "metabolism": "RAPID ENZYMATIC HYDROLYSIS IN HUMAN PLASMA: Extensively and immediately cleaved by plasma esterases and butyrylcholinesterase into inactive alcohol and acid metabolites; minimal CYP450 involvement.",
+    "excretion": "Excreted predominantly as inactive metabolites in urine (approx. 54-65%) and faeces (approx. 20-33%); <1% unchanged parent drug.",
+    "bioavailability": "<5% (negligible systemic bioavailability)",
+    "half_life": "Plasma half-life of parent drug is extremely short: 2 to 3 minutes; biological M3 duration in lungs is 12 hours",
+    "protein_binding": ">85%",
+    "onset": "Rapid onset within 10 to 15 minutes",
+    "duration": "12 hours (dosed 400 mcg twice daily)",
+    "indications": [
+      "Long-term maintenance bronchodilator treatment to relieve symptoms of Chronic Obstructive Pulmonary Disease (COPD)",
+      "Combined with formoterol (Duaklir Pressair) for dual LAMA/LABA twice-daily therapy"
+    ],
+    "contraindications": [
+      "Severe hypersensitivity to aclidinium bromide or milk proteins (contains lactose)"
+    ],
+    "warnings": [
+      "Pressair inhaler features dual feedback (green to red window and audible click) confirming successful dose inhalation",
+      "Paradoxical bronchospasm: discontinue immediately if acute wheezing occurs",
+      "Use caution in patients with narrow-angle glaucoma or urinary retention (although systemic risk is exceptionally low due to plasma hydrolysis)"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Nasopharyngitis",
+      "Cough",
+      "Diarrhoea",
+      "Dry mouth (rare: <1-2% due to rapid plasma breakdown)"
+    ],
+    "serious_adverse_effects": [
+      "Paradoxical bronchospasm (immediate)",
+      "Acute angle-closure glaucoma (if powder enters eyes)",
+      "Urinary retention (rare)"
+    ],
+    "drug_interactions": [
+      "Anticholinergic medications (tiotropium, ipratropium - avoid concurrent use)",
+      "Zero clinically significant CYP450 drug interactions (hydrolyzed by plasma esterases)"
+    ],
+    "monitoring": [
+      "FEV1 and COPD symptom improvement",
+      "Pressair dose indicator and correct patient technique"
+    ],
+    "pregnancy": "Category B; animal reproduction studies show no fetal harm; safe when indicated.",
+    "lactation": "Excretion in human milk unknown; negligible systemic absorption makes infant harm unlikely.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in any degree of renal impairment (rapidly cleared by plasma esterases).",
+    "hepatic": "No dosage adjustment required in hepatic impairment (metabolism occurs in blood, not liver).",
+    "advantages": [
+      "Rapidly destroyed in human blood within 2 to 3 minutes by plasma esterases, virtually eliminating systemic anticholinergic side effects (lowest dry mouth rate among all LAMAs)",
+      "Twice-daily dosing provides superior control of nighttime and early morning COPD symptoms",
+      "Pressair device provides audible click and green-to-red visual confirmation that the full dose was inhaled"
+    ],
+    "disadvantages": [
+      "Requires twice-daily inhalation (morning and evening), unlike once-daily tiotropium or umeclidinium",
+      "Contains lactose; avoid in severe milk protein allergy"
+    ],
+    "key_points": [
+      "Inhale one puff twice daily (morning and evening) using the Pressair inhaler",
+      "Listen for the 'click' and watch the window turn from green to red to know your dose was received"
+    ],
+    "memory_trick": "ACLIDI-nium: Airway Cleared; LAMA with Instant Destruction in blood (esterase breakdown); Zero systemic toxicity.",
+    "key_suffix": "-nium",
+    "pronunciation_en": "ak-li-DI-nee-um",
+    "pronunciation_hi": "\u090f\u0915\u094d\u0932\u093f\u0921\u0940-\u0928\u093f\u092f\u092e",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "umeclidinium",
+    "generic_name": "Umeclidinium",
+    "display_name": "Umeclidinium Inhalation Powder (Incruse Ellipta)",
+    "active_ingredient": "Umeclidinium bromide",
+    "salt": "Umeclidinium bromide",
+    "category": "Respiratory",
+    "description": "A once-daily long-acting muscarinic antagonist (LAMA) delivered via the intuitive Ellipta dry powder inhaler, providing 24-hour bronchodilation for COPD maintenance.",
+    "strengths": [
+      "62.5 mcg per actuation"
+    ],
+    "dosage_forms": [
+      "Dry Powder Inhaler (Ellipta)"
+    ],
+    "routes": [
+      "Inhalation"
+    ],
+    "mechanism_of_action": "Long-acting muscarinic receptor antagonist (anticholinergic); competitively blocks acetylcholine from binding to muscarinic M3 receptors in bronchial smooth muscle cells, preventing calcium-dependent airway constriction.",
+    "pharmacodynamics": "Produces sustained 24-hour bronchodilation, improves lung function (trough FEV1 improvement of 115-150 mL), reduces dyspnea and rescue inhaler use, and significantly lowers COPD exacerbations; available as monotherapy (Incruse) or combined with vilanterol (Anoro) or fluticasone/vilanterol (Trelegy).",
+    "absorption": "Inhaled fraction absorbed from lung; oral bioavailability of swallowed drug is <1%; total absolute bioavailability of inhaled dose is approx. 13%.",
+    "distribution": "Apparent volume of distribution approx. 86 L; 89% bound to human plasma proteins.",
+    "metabolism": "Metabolized in the liver primarily by CYP2D6 via hydroxylation and dealkylation, followed by glucuronidation.",
+    "excretion": "Excreted predominantly in faeces (approx. 58% via biliary route) and urine (approx. 22% as metabolites); unchanged parent drug in urine is <1%.",
+    "bioavailability": "Approximately 13%",
+    "half_life": "11 hours in plasma (supports true 24-hour pharmacodynamic duration)",
+    "protein_binding": "89%",
+    "onset": "Bronchodilation begins within 15 to 30 minutes",
+    "duration": "24 hours (once daily in Ellipta device)",
+    "indications": [
+      "Long-term, once-daily maintenance bronchodilator treatment of airflow limitation in patients with Chronic Obstructive Pulmonary Disease (COPD)",
+      "Dual combination with vilanterol (Anoro Ellipta)",
+      "Triple combination with fluticasone furoate and vilanterol (Trelegy Ellipta)"
+    ],
+    "contraindications": [
+      "Severe hypersensitivity to umeclidinium or milk proteins (contains lactose)"
+    ],
+    "warnings": [
+      "Not for acute relief of sudden bronchospasm (keep rescue albuterol available)",
+      "Paradoxical bronchospasm: discontinue immediately if wheezing worsens",
+      "Worsening of narrow-angle glaucoma or urinary retention (use caution in prostatic hypertrophy)",
+      "Single once-daily inhalation at the same time each day"
+    ],
+    "common_adverse_effects": [
+      "Nasopharyngitis",
+      "Upper respiratory tract infection",
+      "Cough",
+      "Dry mouth (mild)",
+      "Arthralgia",
+      "Headache"
+    ],
+    "serious_adverse_effects": [
+      "Paradoxical bronchospasm",
+      "Acute angle-closure glaucoma",
+      "Urinary retention / bladder outlet obstruction",
+      "Atrial fibrillation / supraventricular tachycardia (rare)"
+    ],
+    "drug_interactions": [
+      "Other anticholinergics (tiotropium, ipratropium, glycopyrronium - avoid concurrent use)",
+      "CYP2D6 inhibitors (minimal clinical impact due to low systemic levels)"
+    ],
+    "monitoring": [
+      "FEV1 and COPD symptom scores",
+      "Urinary symptoms in elderly men",
+      "Ellipta dose counter verification (counts down by 1 with each opening)"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if potential benefit justifies potential risk.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in any degree of renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Once-daily 24-hour bronchodilation delivered in the single-step, highly rated Ellipta inhaler (open, inhale, close)",
+      "Can be combined seamlessly into Anoro (dual) or Trelegy (triple single-inhaler therapy)",
+      "Low systemic bioavailability (<13%) ensures minimal cardiac and urinary side effects"
+    ],
+    "disadvantages": [
+      "Not indicated for asthma as monotherapy",
+      "Dry mouth can occur in susceptible individuals"
+    ],
+    "key_points": [
+      "Inhale one puff once daily at the same time every day using the Ellipta inhaler",
+      "Do not open the cover until you are ready to inhale; the dose counter will drop by one"
+    ],
+    "memory_trick": "UMECLI-dinium: Ultra-long M3 block; Ellipta device; Clears airways for 24 hours; Low systemic absorption.",
+    "key_suffix": "-dinium",
+    "pronunciation_en": "oo-me-kli-DIN-ee-um",
+    "pronunciation_hi": "\u0909\u092e\u0947\u0915\u094d\u0932\u093f-\u0921\u093f\u0928\u093f\u092f\u092e",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "beclomethasone",
+    "generic_name": "Beclomethasone Dipropionate (BDP)",
+    "display_name": "Beclomethasone Dipropionate Inhaler",
+    "active_ingredient": "Beclomethasone dipropionate",
+    "salt": "Beclomethasone dipropionate",
+    "category": "Respiratory",
+    "description": "A synthetic halogenated glucocorticoid prodrug rapidly bioactivated in the lungs to active 17-BMP, delivered in extrafine solution aerosols for persistent asthma and allergic rhinitis.",
+    "strengths": [
+      "50 mcg",
+      "100 mcg",
+      "200 mcg per actuation (MDI)",
+      "50 mcg/actuation nasal spray"
+    ],
+    "dosage_forms": [
+      "Pressurized Metered-Dose Inhaler (pMDI)",
+      "Nasal Spray"
+    ],
+    "routes": [
+      "Inhalation",
+      "Intranasal"
+    ],
+    "mechanism_of_action": "Prodrug rapidly hydrolyzed in lung tissue by carboxylesterases to beclomethasone-17-monopropionate (17-BMP), which binds with 30-fold higher affinity to glucocorticoid receptors; translocates to the nucleus, inhibiting NF-kB and AP-1 transcription factors; down-regulates pro-inflammatory cytokines, chemokines, and adhesion molecules while up-regulating anti-inflammatory lipocortin-1 (annexin A1).",
+    "pharmacodynamics": "Suppresses airway eosinophilic inflammation, decreases bronchial hyperresponsiveness, reduces mucous gland secretion, and prevents asthma exacerbations; extrafine Modulite formulation generates sub-micron aerosol particles (1.1 micron) that reach small peripheral airways (<2 mm diameter).",
+    "absorption": "Inhaled extrafine particles reach small airways with approx. 50-60% lung deposition; swallowed fraction is extensively metabolized during first-pass; systemic bioavailability of active 17-BMP is approx. 62%.",
+    "distribution": "Volume of distribution of active 17-BMP approx. 424 L; 87% bound to plasma proteins.",
+    "metabolism": "Rapidly hydrolyzed in the lung and blood by esterases to active 17-BMP; 17-BMP is metabolized in the liver by CYP3A4 to inactive metabolites.",
+    "excretion": "Excreted predominantly in faeces (approx. 60%) via biliary elimination; approx. 12% in urine as metabolites.",
+    "bioavailability": "Approximately 62% (active 17-BMP from lung)",
+    "half_life": "2.8 hours (17-BMP in plasma)",
+    "protein_binding": "87%",
+    "onset": "Anti-inflammatory benefit begins within 24 hours; maximal control in 1 to 2 weeks",
+    "duration": "12 hours (dosed twice daily)",
+    "indications": [
+      "Maintenance and prophylactic treatment of persistent asthma in adults and children",
+      "Allergic rhinitis and vasomotor rhinitis (intranasal spray: 1-2 sprays per nostril BID)",
+      "Combined with formoterol (Fostair) for maintenance and reliever therapy (MART) in asthma and COPD"
+    ],
+    "contraindications": [
+      "Primary treatment of status asthmaticus or other acute episodes of asthma where intensive measures are required",
+      "Known hypersensitivity to beclomethasone dipropionate"
+    ],
+    "warnings": [
+      "ALWAYS RINSE MOUTH AND SPIT after each inhalation to prevent oral candidiasis (thrush) and hoarseness (dysphonia)",
+      "Adrenal suppression / growth deceleration in children: monitor height annually (lowest effective dose)",
+      "Not a rescue inhaler (keep short-acting beta agonist available unless prescribed as part of MART protocol)",
+      "Churg-Strauss / eosinophilic granulomatosis with polyangiitis during systemic steroid taper"
+    ],
+    "common_adverse_effects": [
+      "Oral candidiasis (oral thrush - white patches on tongue/pharynx in up to 5-10%)",
+      "Dysphonia (hoarseness / voice weakness due to vocal cord myopathy)",
+      "Throat irritation and cough",
+      "Epistaxis (nasal spray)"
+    ],
+    "serious_adverse_effects": [
+      "Systemic adrenal insufficiency / hypothalamic-pituitary-adrenal (HPA) axis suppression (with prolonged high doses)",
+      "Cataracts and glaucoma (with chronic high doses)",
+      "Reduced bone mineral density / osteoporosis",
+      "Growth velocity reduction in children (approx. 1 cm in year 1)"
+    ],
+    "drug_interactions": [
+      "Strong CYP3A4 inhibitors (ritonavir, cobicistat, ketoconazole - increase systemic 17-BMP levels; risk of Cushing's syndrome and adrenal suppression)",
+      "Systemic corticosteroids (additive HPA axis suppression)"
+    ],
+    "monitoring": [
+      "Peak Expiratory Flow (PEF) and spirometry",
+      "Oral examination for thrush at every clinical visit",
+      "Annual pediatric growth monitoring (standing height stadiometry)",
+      "Ophthalmologic exams in long-term high-dose therapy"
+    ],
+    "pregnancy": "Category C; extensive human clinical registry data over decades shows excellent safety profile in pregnancy; inhaled corticosteroid of choice alongside budesonide.",
+    "lactation": "Excreted in breast milk in negligible amounts; compatible with breastfeeding.",
+    "pediatric": "Approved in pediatric asthma from 4 years of age (lowest effective dose; monitor linear growth).",
+    "geriatric": "No dosage adjustment required; monitor bone density and cataracts.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Extrafine formulation (Modulite) penetrates deep into the peripheral small airways (<2 mm) that classical inhalers miss",
+      "Decades of reassuring pregnancy and pediatric safety data",
+      "Active 17-BMP metabolite has 30-fold higher glucocorticoid receptor affinity than parent drug"
+    ],
+    "disadvantages": [
+      "Requires twice-daily administration (morning and evening)",
+      "Risk of oral thrush and hoarse voice if mouth is not rinsed after use"
+    ],
+    "key_points": [
+      "Inhale twice daily (morning and night) every day to keep airway swelling down",
+      "ALWAYS rinse your mouth with water and spit it out after inhaling to prevent white mouth sores"
+    ],
+    "memory_trick": "BECLO-methasone: Bronchial Eosinophils Calmed; Lung esterases convert to 17-BMP; Oral thrush prevented by rinsing.",
+    "key_suffix": "-sone",
+    "pronunciation_en": "bek-loe-METH-a-sone",
+    "pronunciation_hi": "\u092c\u0947\u0915\u094d\u0932\u094b-\u092e\u0947\u0925\u093e\u0938\u094b\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "ciclesonide",
+    "generic_name": "Ciclesonide",
+    "display_name": "Ciclesonide Inhalation Aerosol (Alvesco / Omnaris)",
+    "active_ingredient": "Ciclesonide",
+    "salt": "Ciclesonide",
+    "category": "Respiratory",
+    "description": "An on-site lung-activated steroid prodrug bioactivated in the bronchial epithelium with near-zero oral bioavailability (<1%), providing maximal asthma control with the lowest rates of oral thrush and hoarseness.",
+    "strengths": [
+      "80 mcg",
+      "160 mcg per actuation (Alvesco pMDI)",
+      "50 mcg/actuation nasal spray (Omnaris)"
+    ],
+    "dosage_forms": [
+      "Metered-Dose Inhaler (pMDI)",
+      "Nasal Spray Suspension"
+    ],
+    "routes": [
+      "Inhalation",
+      "Intranasal"
+    ],
+    "mechanism_of_action": "Inhaled as an inactive prodrug that is selectively cleaved by intracellular esterases in human lung tissue to active desisobutyryl-ciclesonide (des-CIC); des-CIC binds with 100-fold higher affinity to glucocorticoid receptors, suppressing pro-inflammatory gene transcription (NF-kB inhibition); des-CIC reversibly conjugates with intracellular fatty acids, forming a lipophilic depot that slowly releases active drug.",
+    "pharmacodynamics": "Profoundly suppresses airway inflammation, reduces bronchial hyperresponsiveness, and prevents asthma exacerbations; because it is activated ONLY in the lungs, inactive drug deposited in the mouth and throat does NOT cause oropharyngeal candidiasis or dysphonia; swallowed drug undergoes >99% first-pass hepatic extraction (zero systemic steroid side effects).",
+    "absorption": "Inhaled fraction penetrates small and large airways; swallowed fraction has <1% oral bioavailability due to complete hepatic first-pass extraction.",
+    "distribution": "Apparent volume of distribution of active des-CIC approx. 897 L; highly bound to human plasma proteins (>99%).",
+    "metabolism": "Bioactivated on-site in airway tissue by esterases to active des-CIC; des-CIC is metabolized in the liver by CYP3A4 to inactive metabolites.",
+    "excretion": "Excreted predominantly in faeces (approx. 66% via biliary route) and urine (approx. 20%) as inactive metabolites.",
+    "bioavailability": "<1% (systemic bioavailability of swallowed drug)",
+    "half_life": "des-CIC elimination half-life is 3.5 hours; intracellular lipid conjugation extends lung duration to 24 hours",
+    "protein_binding": ">99% (des-CIC)",
+    "onset": "Improvement in lung function begins within 24 to 48 hours; peak at 2 to 4 weeks",
+    "duration": "24 hours (can be dosed once daily in mild-to-moderate asthma)",
+    "indications": [
+      "Maintenance treatment of asthma as prophylactic therapy in adult and adolescent patients 12 years and older (Alvesco: 80 to 320 mcg once or twice daily)",
+      "Treatment of symptoms of seasonal and perennial allergic rhinitis (Omnaris nasal spray)"
+    ],
+    "contraindications": [
+      "Primary treatment of status asthmaticus or acute asthma exacerbations requiring intensive measures",
+      "Hypersensitivity to ciclesonide"
+    ],
+    "warnings": [
+      "ON-SITE LUNG ACTIVATION: Inactive prodrug is activated by lung esterases; inactive in the mouth, dramatically reducing oropharyngeal candidiasis (thrush) and hoarseness compared to other inhaled steroids",
+      "Not for acute bronchospasm rescue",
+      "Once-daily dosing option in the evening provides 24-hour asthma control"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Nasopharyngitis",
+      "Sinusitis",
+      "Upper respiratory tract infection",
+      "Oral candidiasis (exceptionally low: <1-2%)"
+    ],
+    "serious_adverse_effects": [
+      "Paradoxical bronchospasm (immediate)",
+      "HPA axis suppression (only at supratherapeutic doses)",
+      "Severe hypersensitivity / angioedema (rare)"
+    ],
+    "drug_interactions": [
+      "Strong CYP3A4 inhibitors (ketoconazole, ritonavir - increase des-CIC exposure; monitor for steroid effects)",
+      "Zero significant interactions at recommended doses"
+    ],
+    "monitoring": [
+      "Asthma symptom control and FEV1/peak flows",
+      "Adolescent growth monitoring",
+      "Inhalation technique"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if potential benefit justifies potential risk.",
+    "lactation": "Excretion in human milk unknown; <1% bioavailability makes infant exposure negligible; safe during breastfeeding.",
+    "pediatric": "Approved in adolescents 12 years and older (approved down to 6 years in Europe).",
+    "geriatric": "No dosage adjustment required in elderly patients.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "True 'smart steroid' prodrug activated ONLY inside the lungs: lowest incidence of oral thrush (<1%) and hoarseness among all inhaled steroids",
+      "Reversible intracellular fatty acid conjugation creates a 24-hour drug reservoir inside lung cells, enabling once-daily dosing",
+      "Near-zero oral bioavailability (<1%) virtually eliminates systemic steroid absorption and adrenal suppression"
+    ],
+    "disadvantages": [
+      "Higher cost than older generic beclomethasone or budesonide",
+      "Not approved for acute asthma attacks"
+    ],
+    "key_points": [
+      "High-tech lung-activated steroid that prevents asthma flare-ups without causing mouth infections",
+      "Inhale once daily in the evening; rinse your mouth after use as a precaution"
+    ],
+    "memory_trick": "CICLE-sonide: Cleaved In Cells of Lung (prodrug); Exceptional safety; Lowest thrush & hoarseness; Evening once-daily.",
+    "key_suffix": "-sonide",
+    "pronunciation_en": "si-KLE-soe-nide",
+    "pronunciation_hi": "\u0938\u093f\u0915\u094d\u0932\u0947-\u0938\u094b\u0928\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "mometasone",
+    "generic_name": "Mometasone Furoate",
+    "display_name": "Mometasone Furoate Inhalation Powder / Nasal Spray",
+    "active_ingredient": "Mometasone furoate",
+    "salt": "Mometasone furoate",
+    "category": "Respiratory",
+    "description": "A potent synthetic 17-heterocyclic corticosteroid with negligible systemic bioavailability (<1%), widely used as a once-daily inhaled therapy for asthma and the premier topical spray for allergic rhinitis and nasal polyps.",
+    "strengths": [
+      "100 mcg",
+      "200 mcg per actuation (Twisthaler / pMDI)",
+      "50 mcg/actuation nasal spray (Nasonex)",
+      "0.1% topical cream/ointment (Elocon)"
+    ],
+    "dosage_forms": [
+      "Dry Powder Inhaler (Twisthaler)",
+      "Pressurized Metered-Dose Inhaler",
+      "Nasal Spray",
+      "Topical Cream / Ointment"
+    ],
+    "routes": [
+      "Inhalation",
+      "Intranasal",
+      "Topical"
+    ],
+    "mechanism_of_action": "High-potency glucocorticoid; binds with ultra-high affinity to human glucocorticoid receptors (significantly higher affinity than fluticasone, budesonide, and dexamethasone); suppresses multiple inflammatory genes via NF-kB and AP-1 inhibition; inhibits leukotriene and cytokine release from respiratory mucosal cells.",
+    "pharmacodynamics": "Profoundly reduces bronchial inflammation, improves FEV1, and prevents asthma exacerbations; intranasally shrinks nasal polyps, restores sense of smell, and provides complete 24-hour relief of allergic rhinitis nasal congestion; negligible systemic bioavailability (<1%) prevents HPA axis suppression.",
+    "absorption": "Oral inhalation and intranasal administration result in negligible systemic absorption (<1%); swallowed drug undergoes complete hepatic first-pass extraction.",
+    "distribution": "Widely distributed into respiratory tissues; highly bound to human plasma proteins (98-99%).",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 to multiple inactive metabolites; 6-beta-hydroxy-mometasone furoate is the primary metabolite.",
+    "excretion": "Excreted predominantly in faeces (approx. 74% via biliary route) and urine (approx. 8%) as inactive metabolites.",
+    "bioavailability": "<1% (virtually zero systemic bioavailability)",
+    "half_life": "5 hours in plasma (prolonged biological receptor occupancy sustains 24-hour efficacy)",
+    "protein_binding": "98% to 99%",
+    "onset": "Nasal spray: within 12 hours; Inhaler: improvement in 24 hours, peak at 1 to 2 weeks",
+    "duration": "24 hours (once daily in the evening)",
+    "indications": [
+      "Maintenance treatment of asthma as prophylactic therapy in patients aged 4 years and older (Asmanex Twisthaler: 110-440 mcg once daily in the evening)",
+      "Treatment of nasal symptoms of seasonal and perennial allergic rhinitis in adults and children 2 years and older (Nasonex)",
+      "Treatment of nasal polyps in adults aged 18 years and older (2 sprays per nostril BID)",
+      "Combined with formoterol (Dulera) for moderate-to-severe asthma",
+      "Topical dermatoses (Elocon 0.1% cream)"
+    ],
+    "contraindications": [
+      "Status asthmaticus or acute asthma attacks requiring intensive measures",
+      "Hypersensitivity to mometasone furoate or milk proteins (Twisthaler contains lactose)"
+    ],
+    "warnings": [
+      "Once-daily dosing in the evening provides 24-hour asthma control",
+      "Rinse mouth and spit after inhalation to prevent oral candidiasis",
+      "Nasal spray: inspect nasal septum periodically for ulceration or perforation",
+      "Twisthaler device locks automatically when all doses are used"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Pharyngitis / sore throat",
+      "Upper respiratory tract infection",
+      "Oral candidiasis (thrush)",
+      "Epistaxis (nasal spray)"
+    ],
+    "serious_adverse_effects": [
+      "Paradoxical bronchospasm",
+      "Nasal septal perforation (intranasal use)",
+      "Adrenal suppression / growth deceleration (rare at recommended doses)",
+      "Glaucoma / cataracts (rare)"
+    ],
+    "drug_interactions": [
+      "Strong CYP3A4 inhibitors (ketoconazole, ritonavir, clarithromycin - significantly increase mometasone plasma levels; risk of Cushing's syndrome)"
+    ],
+    "monitoring": [
+      "FEV1 and peak flow rates",
+      "Nasal mucosa inspection for ulceration in chronic nasal spray users",
+      "Pediatric standing height annually"
+    ],
+    "pregnancy": "Category C; reassuring registry data; safe during pregnancy when clinically indicated.",
+    "lactation": "Excretion in human milk unknown; <1% bioavailability makes infant absorption negligible; safe during breastfeeding.",
+    "pediatric": "Approved down to 4 years of age for asthma (Asmanex) and down to 2 years for allergic rhinitis (Nasonex).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Highest glucocorticoid receptor affinity among inhaled corticosteroids",
+      "Negligible systemic bioavailability (<1%) provides exceptional safety with near-zero adrenal suppression",
+      "Approved as once-daily evening dosing for asthma, improving patient compliance",
+      "Gold standard treatment for shrinking nasal polyps"
+    ],
+    "disadvantages": [
+      "Contains lactose carrier in dry powder Twisthaler (avoid in severe milk protein allergy)",
+      "Must rinse mouth after use to prevent thrush"
+    ],
+    "key_points": [
+      "Inhale one puff once daily in the evening to keep asthma controlled all day and night",
+      "Always rinse your mouth and spit after inhaling; for nasal spray, spray away from the middle septum"
+    ],
+    "memory_trick": "MOMETA-sone: Maximal receptor affinity; Once-daily evening dosing; Minimal absorption (<1%); Excellent for Polyps.",
+    "key_suffix": "-sone",
+    "pronunciation_en": "moe-MET-a-sone",
+    "pronunciation_hi": "\u092e\u094b\u092e\u0947\u091f\u093e-\u0938\u094b\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "roflumilast",
+    "generic_name": "Roflumilast",
+    "display_name": "Roflumilast Tablets",
+    "active_ingredient": "Roflumilast",
+    "salt": "Roflumilast",
+    "category": "Respiratory",
+    "description": "An oral once-daily selective phosphodiesterase-4 (PDE4) inhibitor that targets systemic and airway inflammation to reduce exacerbations in severe COPD associated with chronic bronchitis.",
+    "strengths": [
+      "250 mcg (starter pack)",
+      "500 mcg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively and competitively inhibits phosphodiesterase-4 (PDE4), the predominant cAMP-metabolizing enzyme in immune and inflammatory cells (neutrophils, macrophages, CD8+ T cells, bronchial smooth muscle); elevates intracellular cyclic AMP (cAMP), suppressing pro-inflammatory cytokine and chemokine release.",
+    "pharmacodynamics": "Significantly reduces sputum neutrophils, decreases bronchial wall thickness, improves post-bronchodilator FEV1 (by 50-80 mL), and reduces the rate of moderate and severe COPD exacerbations by approx. 17-20% in patients with severe COPD, chronic bronchitis, and frequent flare-ups.",
+    "absorption": "Rapidly absorbed; peak plasma concentrations of active roflumilast N-oxide in 4 to 8 hours; absolute bioavailability approx. 80%; unaffected by food.",
+    "distribution": "Apparent volume of distribution approx. 2.9 L/kg; highly bound to human plasma proteins (99% for parent; 97% for active N-oxide).",
+    "metabolism": "Extensively metabolized in the liver: converted primarily by CYP3A4 and CYP1A2 to roflumilast N-oxide (which accounts for >90% of total in vivo PDE4 inhibitory activity).",
+    "excretion": "Excreted predominantly in urine (approx. 70% as inactive metabolites) and faeces (approx. 20%); <1% unchanged parent drug in urine.",
+    "bioavailability": "Approximately 80%",
+    "half_life": "Parent drug: 17 hours; Active N-oxide: 30 hours (ideal for once-daily dosing)",
+    "protein_binding": "99%",
+    "onset": "Clinical reduction in COPD exacerbations develops over 4 to 12 weeks",
+    "duration": "24 hours (once daily)",
+    "indications": [
+      "Maintenance treatment to reduce the risk of COPD exacerbations in adult patients with severe COPD (FEV1 < 50% predicted) associated with chronic bronchitis and a history of frequent exacerbations (500 mcg once daily)"
+    ],
+    "contraindications": [
+      "Moderate to severe hepatic impairment (Child-Pugh Class B or C - black box contraindication)",
+      "Hypersensitivity to roflumilast"
+    ],
+    "warnings": [
+      "PSYCHIATRIC EVENTS: Increased risk of psychiatric adverse reactions including insomnia, anxiety, new or worsening depression, and suicidal ideation/behavior; assess mental health history before prescribing",
+      "WEIGHT LOSS: Causes progressive, unexplained weight loss in up to 7-10% (monitor body weight at every visit; discontinue if unexplained significant weight loss occurs)",
+      "NOT A BRONCHODILATOR: Do NOT use for the relief of acute bronchospasm",
+      "Start with 250 mcg once daily for 4 weeks to reduce initial GI adverse effects (diarrhea, nausea)"
+    ],
+    "common_adverse_effects": [
+      "Diarrhoea (very common in first 4 weeks: up to 10-15%)",
+      "Weight loss (mean loss 2-3 kg)",
+      "Nausea",
+      "Headache",
+      "Insomnia",
+      "Decreased appetite"
+    ],
+    "serious_adverse_effects": [
+      "Suicidal ideation and completed suicide",
+      "Severe depression / psychiatric disturbances",
+      "Severe weight loss / cachexia",
+      "Severe persistent diarrhea with dehydration"
+    ],
+    "drug_interactions": [
+      "Strong CYP inducers (rifampin, carbamazepine, phenobarbital - drastically reduce roflumilast exposure; avoid combination)",
+      "Combined CYP3A4 and CYP1A2 inhibitors (erythromycin, fluvoxamine, ketoconazole - increase roflumilast levels and side effects)",
+      "Theophylline (concurrent use not recommended due to additive PDE inhibition)"
+    ],
+    "monitoring": [
+      "Body weight at baseline and every visit (weigh patient regularly)",
+      "Mental health status, mood changes, depression, or emergence of suicidal thoughts",
+      "Frequency of moderate to severe COPD exacerbations"
+    ],
+    "pregnancy": "Category C; teratogenic in animal models; avoid during pregnancy.",
+    "lactation": "Excreted in animal milk; breastfeeding not recommended.",
+    "pediatric": "COPD is not a pediatric condition; safety and efficacy in children not established.",
+    "geriatric": "Higher susceptibility to weight loss and insomnia; monitor body weight closely.",
+    "renal": "No dosage adjustment required in renal impairment (including dialysis).",
+    "hepatic": "CONTRAINDICATED in moderate to severe hepatic impairment (Child-Pugh Class B and C); clearance is heavily liver-dependent.",
+    "advantages": [
+      "Oral pill (non-inhaler) that targets the underlying neutrophil-driven chronic inflammation of severe bronchitis",
+      "Proven in clinical trials to reduce moderate-to-severe COPD exacerbations by approx. 17-20% when added to standard inhalers",
+      "Convenient once-daily dosing without needing inhalation technique"
+    ],
+    "disadvantages": [
+      "High rate of diarrhea, nausea, and weight loss in the first 4 weeks (titrate with 250 mcg starter pack)",
+      "Black box warning for depression and suicidal thoughts",
+      "Strictly contraindicated in liver cirrhosis"
+    ],
+    "key_points": [
+      "An oral tablet taken once daily to prevent severe chest flare-ups and bronchitis hospital visits",
+      "Start with the 250 mcg starter dose for the first month to prevent diarrhea; report any mood changes or weight loss immediately"
+    ],
+    "memory_trick": "ROFLUMI-last: Reduces Outbursts of Flare-ups in Lung; Unclogs Mucus via PDE4; Causes weight loss; Liver caution; Insomnia/depression.",
+    "key_suffix": "-milast",
+    "pronunciation_en": "roe-FLUE-mi-last",
+    "pronunciation_hi": "\u0930\u094b\u092b\u094d\u0932\u0942\u092e\u093f-\u0932\u093e\u0938\u094d\u091f",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "doxofylline",
+    "generic_name": "Doxofylline",
+    "display_name": "Doxofylline Tablets / Syrup",
+    "active_ingredient": "Doxofylline",
+    "salt": "Doxofylline",
+    "category": "Respiratory",
+    "description": "A novel xanthine derivative with phosphodiesterase inhibitory and anti-inflammatory activity that lacks adenosine receptor affinity, providing bronchodilation with dramatically reduced cardiac and CNS toxicities compared to theophylline.",
+    "strengths": [
+      "400 mg",
+      "100 mg/5 mL syrup",
+      "100 mg/5 mL injection"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Oral Syrup",
+      "Solution for Injection"
+    ],
+    "routes": [
+      "Oral",
+      "Intravenous"
+    ],
+    "mechanism_of_action": "Inhibits phosphodiesterase (PDE) enzymes, elevating intracellular cAMP in airway smooth muscle; CRITICALLY LACKS AFFINITY FOR ADENOSINE (A1, A2A, A2B) RECEPTORS and does NOT block calcium channels; suppresses inflammatory cell migration and reduces airway hyperreactivity.",
+    "pharmacodynamics": "Produces potent bronchodilation and anti-inflammatory action in asthma and COPD; because it does NOT block adenosine receptors, it does NOT cause the tachycardia, cardiac arrhythmias, insomnia, gastric acid hypersecretion, or seizures characteristic of traditional theophylline.",
+    "absorption": "Rapidly and completely absorbed from GI tract (bioavailability approx. 62%); peak plasma concentration in 1 hour; unaffected by food.",
+    "distribution": "Widely distributed into tissues; volume of distribution approx. 1 L/kg; 48% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver (approx. 90%) to inactive hydroxyethyltheophylline; minimal conversion to theophylline (<2%).",
+    "excretion": "Excreted in urine (approx. 50% as metabolites) and faeces; <4% excreted unchanged in urine.",
+    "bioavailability": "Approximately 62%",
+    "half_life": "7 to 8 hours",
+    "protein_binding": "48%",
+    "onset": "30 to 60 minutes",
+    "duration": "12 hours (dosed 400 mg twice or three times daily)",
+    "indications": [
+      "Maintenance treatment of bronchial asthma",
+      "Chronic Obstructive Pulmonary Disease (COPD) with reversible bronchospasm",
+      "Asthmatic bronchitis and chronic spastic bronchitis"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to doxofylline or xanthines",
+      "Acute myocardial infarction",
+      "Severe hypotension",
+      "Lactation"
+    ],
+    "warnings": [
+      "Dramatically safer than theophylline, but use with caution in patients with severe cardiac disease, severe hypertension, or peptic ulcer disease",
+      "Do not chew or crush tablets; take with water after meals",
+      "No routine therapeutic drug monitoring (TDM) required at standard therapeutic doses (unlike theophylline)"
+    ],
+    "common_adverse_effects": [
+      "Nausea and vomiting",
+      "Headache",
+      "Epigastric pain / heartburn",
+      "Dizziness",
+      "Insomnia (much less frequent than theophylline)"
+    ],
+    "serious_adverse_effects": [
+      "Cardiac arrhythmias / tachycardia (rare at therapeutic doses)",
+      "Convulsions / seizures (only at extreme supratherapeutic overdoses)",
+      "Severe hypotension"
+    ],
+    "drug_interactions": [
+      "Erythromycin, clarithromycin, ciprofloxacin (inhibit hepatic metabolism, increasing doxofylline levels)",
+      "Cimetidine (increases doxofylline levels)",
+      "Phenytoin, rifampin (induce clearance, reducing doxofylline levels)"
+    ],
+    "monitoring": [
+      "FEV1 and peak expiratory flow rates",
+      "Heart rate and blood pressure",
+      "Symptoms of dyspepsia or nausea"
+    ],
+    "pregnancy": "Category B/C; use during pregnancy only if potential benefit justifies potential risk.",
+    "lactation": "Strictly contraindicated during lactation; excreted in breast milk.",
+    "pediatric": "Approved in children 6 years and older (syrup formulation: 6-12 mg/kg/day divided BID/TID).",
+    "geriatric": "Clearance may be decreased; start with 400 mg once or twice daily.",
+    "renal": "Use with caution and reduce dose in severe renal impairment.",
+    "hepatic": "Dose reduction required in severe hepatic cirrhosis.",
+    "advantages": [
+      "Free of adenosine receptor antagonism: 10-fold safer cardiac and CNS profile than theophylline (no sleep disturbance, no palpitations)",
+      "Does not require tedious and expensive serum blood level monitoring (TDM) like theophylline",
+      "Effective oral bronchodilator for patients who cannot master inhaler devices"
+    ],
+    "disadvantages": [
+      "Requires twice-daily oral dosing (400 mg BID)",
+      "Interacts with macrolide antibiotics and fluoroquinolones"
+    ],
+    "key_points": [
+      "Safer modern cousin of theophylline that opens breathing tubes without causing heart racing or insomnia",
+      "Take 400 mg twice daily with water after meals"
+    ],
+    "memory_trick": "DOXO-fylline: Devoid Of Xanthine toxicity; Opens airways; Zero Adenosine receptor block; Safer than theophylline.",
+    "key_suffix": "-fylline",
+    "pronunciation_en": "dox-oh-FYE-leen",
+    "pronunciation_hi": "\u0921\u094b\u0915\u094d\u0938\u094b-\u092b\u093c\u093e\u0907\u0932\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "ambroxol",
+    "generic_name": "Ambroxol",
+    "display_name": "Ambroxol Hydrochloride",
+    "active_ingredient": "Ambroxol hydrochloride",
+    "salt": "Ambroxol hydrochloride",
+    "category": "Respiratory",
+    "description": "A secretolytic and secretomotor mucolytic agent that stimulates pulmonary surfactant production, clears viscous bronchial mucus, and possesses local anesthetic and anti-inflammatory properties.",
+    "strengths": [
+      "30 mg",
+      "75 mg SR",
+      "15 mg/5 mL, 30 mg/5 mL syrup",
+      "15 mg/2 mL ampoule"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Sustained-Release Capsule",
+      "Oral Syrup",
+      "Solution for Injection / Inhalation"
+    ],
+    "routes": [
+      "Oral",
+      "Intravenous",
+      "Inhalation"
+    ],
+    "mechanism_of_action": "Cleaves acidic mucopolysaccharide fibers in bronchial mucus, fragmenting high-molecular-weight polymers; directly stimulates Clara cells and alveolar type II pneumocytes to synthesize and secrete pulmonary surfactant; enhances ciliary beat frequency (mucociliary clearance); blocks neuronal voltage-gated sodium channels, providing throat-soothing local anesthesia.",
+    "pharmacodynamics": "Reduces mucus viscosity, enhances tracheobronchial clearance, facilitates productive coughing, soothes sore throats, and enhances the penetration of amoxicillin, cefuroxime, and erythromycin into bronchial secretions.",
+    "absorption": "Rapidly and completely absorbed from GI tract; 70-80% oral bioavailability due to first-pass metabolism; peak plasma levels in 1 to 2.5 hours; take with food.",
+    "distribution": "Widely distributed into lung and respiratory tissues; 90% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver via glucuronidation and oxidation by CYP3A4 to dibromanthranilic acid.",
+    "excretion": "Excreted predominantly in urine (approx. 85-90% as metabolites and unchanged drug); less than 10% in faeces.",
+    "bioavailability": "70% to 80%",
+    "half_life": "10 hours (supports twice-daily or once-daily SR dosing)",
+    "protein_binding": "90%",
+    "onset": "Secretolytic action begins within 30 minutes",
+    "duration": "12 hours (30 mg TID or 75 mg SR once daily)",
+    "indications": [
+      "Secretolytic therapy in acute and chronic bronchopulmonary diseases associated with abnormal mucus secretion and impaired mucus transport (COPD, bronchiectasis, chronic bronchitis, asthma)",
+      "Symptomatic relief of acute sore throat (lozenges: local anesthetic action)",
+      "Respiratory Distress Syndrome (RDS) in preterm neonates (stimulates fetal surfactant synthesis)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to ambroxol or bromhexine",
+      "Active severe peptic ulcer disease (mucolytics may disrupt gastric mucosal barrier)"
+    ],
+    "warnings": [
+      "Severe skin reactions: rare cases of erythema multiforme, Stevens-Johnson Syndrome (SJS), and Toxic Epidermal Necrolysis (TEN) reported; discontinue immediately if progressive skin rash appears",
+      "Maintain adequate hydration (drink plenty of fluids to assist mucus liquefaction)",
+      "Safe for use in children from infancy"
+    ],
+    "common_adverse_effects": [
+      "Nausea",
+      "Dyspepsia / heartburn",
+      "Mild diarrhea",
+      "Altered taste (dysgeusia)",
+      "Oral numbness (with lozenges)"
+    ],
+    "serious_adverse_effects": [
+      "Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis (rare)",
+      "Severe anaphylactic shock",
+      "Angioedema"
+    ],
+    "drug_interactions": [
+      "Antibiotics (amoxicillin, cefuroxime, erythromycin, doxycycline - ambroxol significantly increases antibiotic penetration into bronchial secretions; therapeutic advantage)",
+      "Antitussives (codeine, dextromethorphan - suppressing the cough reflex leads to mucus retention; avoid combination)"
+    ],
+    "monitoring": [
+      "Sputum volume and ease of expectoration",
+      "Skin examination for emergence of rash",
+      "Respiratory sounds (rhonchi and wheezing)"
+    ],
+    "pregnancy": "Category B; extensive clinical use shows no teratogenic risk; avoid in first trimester as a general precaution.",
+    "lactation": "Excreted in breast milk in small amounts; safe during breastfeeding.",
+    "pediatric": "Approved across all pediatric age groups (syrup: 1.25-2.5 mg/kg/day).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "Dose reduction recommended in severe renal impairment (accumulation of metabolites).",
+    "hepatic": "Dose reduction recommended in severe hepatic cirrhosis.",
+    "advantages": [
+      "Triple action: thins mucus, speeds up ciliary escalator, AND stimulates lung surfactant production",
+      "Synergistically boosts antibiotic concentrations inside lung tissue and phlegm",
+      "Proven local anesthetic throat numbing relieves acute sore throat pain"
+    ],
+    "disadvantages": [
+      "Do not combine with cough suppressants (codeine) which block coughing up thinned phlegm",
+      "Rare risk of severe skin rashes (SJS/TEN)"
+    ],
+    "key_points": [
+      "Thins thick phlegm and helps you cough it up easily; drink plenty of water while taking it",
+      "Do NOT take cough-stopping syrups with this medicine (you need to cough the phlegm out)"
+    ],
+    "memory_trick": "AMBROX-ol: Alveolar Surfactant booster; Mucus Breakdown; Relieves Obstinate phlegm; eXcellent with antibiotics.",
+    "key_suffix": "-xol",
+    "pronunciation_en": "am-BROX-ol",
+    "pronunciation_hi": "\u090f\u092e\u094d\u092c\u094d\u0930\u094b\u0915\u094d\u0938\u094b\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "bromhexine",
+    "generic_name": "Bromhexine",
+    "display_name": "Bromhexine Hydrochloride",
+    "active_ingredient": "Bromhexine hydrochloride",
+    "salt": "Bromhexine hydrochloride",
+    "category": "Respiratory",
+    "description": "A classic benzylamine secretolytic mucolytic derived from the Indian plant Adhatoda vasica (Vasaka), metabolized in vivo to active ambroxol to liquefy tenaciously thick phlegm.",
+    "strengths": [
+      "8 mg",
+      "4 mg/5 mL syrup"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Oral Syrup"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Derived from the alkaloid vasicine; hydrolyzed in vivo to its primary active metabolite ambroxol; depolymerizes mucopolysaccharide protein fibers and stimulates lysosomal enzyme release from mucus-secreting goblet cells; increases serous bronchial gland secretion.",
+    "pharmacodynamics": "Decreases phlegm viscosity, enhances mucociliary transport velocity, transforms tenacious viscous mucus into fluid secretions, and promotes productive expectoration; increases bronchial antibiotic penetration.",
+    "absorption": "Rapidly and completely absorbed from GI tract; undergoes extensive first-pass hepatic metabolism; absolute oral bioavailability approx. 20%; peak plasma levels in 1 hour; take after meals.",
+    "distribution": "Widely distributed into bronchial tissues; highly bound to plasma proteins (approx. 95%).",
+    "metabolism": "Extensively metabolized in the liver to multiple metabolites, predominantly active ambroxol (approx. 20-30%) and dibromanthranilic acid.",
+    "excretion": "Excreted predominantly in urine (approx. 85-90% as metabolites within 24 hours); less than 1% unchanged drug in urine.",
+    "bioavailability": "Approximately 20% (due to high first-pass metabolism)",
+    "half_life": "12 hours (terminal elimination half-life)",
+    "protein_binding": "95%",
+    "onset": "Secretolytic effect begins within 30 minutes; full liquefaction in 2 to 3 days",
+    "duration": "6 to 8 hours (dosed 8 mg TID)",
+    "indications": [
+      "Secretolytic therapy in bronchopulmonary diseases associated with abnormal mucus secretion and impaired mucus transport (acute and chronic bronchitis, bronchiectasis, cystic fibrosis)",
+      "Facilitation of expectoration in pneumonia and COPD",
+      "Sj\u00f6gren's syndrome (stimulates tear and salivary production)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to bromhexine or ambroxol",
+      "Active gastric or duodenal peptic ulcer disease"
+    ],
+    "warnings": [
+      "Drink plenty of warm fluids throughout the day to support the thinning and clearance of mucus",
+      "Do NOT co-prescribe with cough suppressants (codeine, dextromethorphan) as retained liquefied mucus can drown small airways",
+      "Rare risk of severe allergic skin reactions (erythema multiforme, SJS)"
+    ],
+    "common_adverse_effects": [
+      "Nausea and vomiting",
+      "Diarrhoea",
+      "Epigastric discomfort",
+      "Headache",
+      "Dizziness",
+      "Sweating"
+    ],
+    "serious_adverse_effects": [
+      "Stevens-Johnson Syndrome / severe cutaneous adverse reactions",
+      "Bronchospasm in sensitive asthmatic patients",
+      "Severe anaphylaxis"
+    ],
+    "drug_interactions": [
+      "Antitussive cough suppressants (codeine - leads to dangerous mucus pooling in lungs)",
+      "Antibiotics (increases ampicillin, erythromycin, and tetracycline concentrations in sputum)"
+    ],
+    "monitoring": [
+      "Sputum viscosity, volume, and ease of expectoration",
+      "Skin for any rash"
+    ],
+    "pregnancy": "Category B; widely used for decades without evidence of teratogenicity; avoid in first trimester.",
+    "lactation": "Excreted in breast milk; avoid during breastfeeding.",
+    "pediatric": "Approved for children (syrup formulation: 2-6 years: 4 mg BID; 6-12 years: 4 mg TID).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "Dose reduction recommended in severe renal impairment.",
+    "hepatic": "Dose reduction recommended in severe hepatic disease.",
+    "advantages": [
+      "Natural plant heritage (derived from Ayurvedic Vasaka / Adhatoda vasica) with proven scientific mucolytic action",
+      "Bioactivated into ambroxol in the liver, providing prolonged dual mucolytic activity",
+      "Increases antibiotic concentrations inside bronchial phlegm"
+    ],
+    "disadvantages": [
+      "Low bioavailability (20%) requires three-times-daily dosing (8 mg TID)",
+      "Contraindicated with cough suppressants"
+    ],
+    "key_points": [
+      "Helps loosen and dissolve tough chest phlegm; take 8 mg three times daily after meals with water",
+      "Drink extra fluids and do not take cough-stopping medicines at the same time"
+    ],
+    "memory_trick": "BROM-hexine: Breakdown of Respiratory Obstruction & Mucus; Heritage from Vasaka; Expectorant; In vivo becomes ambroxol.",
+    "key_suffix": "-hexine",
+    "pronunciation_en": "brom-HEX-een",
+    "pronunciation_hi": "\u092c\u094d\u0930\u094b\u092e\u0939\u0947-\u0915\u094d\u0938\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "carbocisteine",
+    "generic_name": "Carbocisteine (Carbocysteine)",
+    "display_name": "Carbocisteine Capsules / Syrup",
+    "active_ingredient": "Carbocisteine",
+    "salt": "Carbocisteine",
+    "category": "Respiratory",
+    "description": "A mucoregulatory agent that alters glycoprotein synthesis to restore the physiological balance of sialomucins and fucomucins, proven in the landmark PEACE study to reduce COPD exacerbations.",
+    "strengths": [
+      "375 mg",
+      "750 mg",
+      "250 mg/5 mL, 750 mg/5 mL syrup"
+    ],
+    "dosage_forms": [
+      "Capsule",
+      "Oral Syrup"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Acts intracellularly on bronchial goblet cells as a mucoregulator: stimulates sialyltransferase to increase the synthesis of fluid sialomucins while suppressing the production of thick, viscous fucomucins; restores normal viscoelastic properties of bronchial secretions without breaking disulfide bonds.",
+    "pharmacodynamics": "Normalizes airway mucus rheology, restores the protective mucociliary escalator, reduces goblet cell hyperplasia, and reduces bacterial adherence to bronchial epithelium; landmark PEACE trial proved chronic carbocisteine reduced annual COPD exacerbations by 24.5%.",
+    "absorption": "Rapidly and well absorbed from GI tract; peak plasma concentrations in 1.5 to 2 hours; bioavailability approx. 10%; take with or after meals.",
+    "distribution": "Penetrates well into lung tissue and bronchial mucus; low plasma protein binding.",
+    "metabolism": "Metabolized in the liver via acetylation, decarboxylation, and sulfoxidation.",
+    "excretion": "Excreted almost entirely in urine (approx. 80% within 24 hours as unchanged drug and metabolites).",
+    "bioavailability": "Approximately 10% (systemic); acts locally on mucosal synthesis",
+    "half_life": "1.5 to 2 hours in plasma",
+    "protein_binding": "Low",
+    "onset": "Mucoregulatory benefit builds over several days; chronic prevention in 4 to 12 weeks",
+    "duration": "8 hours (initial 750 mg TID; maintenance 750 mg BID)",
+    "indications": [
+      "Long-term mucoregulatory therapy in Chronic Obstructive Pulmonary Disease (COPD) to reduce exacerbation frequency (PEACE trial: 1500 mg/day)",
+      "Adjunctive therapy of respiratory tract disorders characterized by excessive viscous mucus (chronic bronchitis, bronchiectasis, cystic fibrosis)",
+      "Glue ear (otitis media with effusion in children)"
+    ],
+    "contraindications": [
+      "Active peptic ulcer disease (mucoregulators may alter gastric mucus barrier)",
+      "Known hypersensitivity to carbocisteine"
+    ],
+    "warnings": [
+      "PEACE trial proven: long-term therapy (1 year) significantly reduces COPD exacerbations and improves quality of life",
+      "Use with caution in patients with a history of gastroduodenal ulcers",
+      "Do NOT co-administer with antitussives"
+    ],
+    "common_adverse_effects": [
+      "Nausea and dyspepsia",
+      "Diarrhoea",
+      "Gastrointestinal bleeding / epigastric pain",
+      "Headache",
+      "Skin rash"
+    ],
+    "serious_adverse_effects": [
+      "Gastrointestinal ulceration / major GI bleeding",
+      "Stevens-Johnson Syndrome / erythema multiforme",
+      "Anaphylactic reactions"
+    ],
+    "drug_interactions": [
+      "Antitussive cough suppressants (codeine - prevents clearance of mobilized mucus)",
+      "No significant CYP450 drug interactions"
+    ],
+    "monitoring": [
+      "COPD exacerbation frequency and hospitalization rates",
+      "Stool for occult blood / signs of gastric ulceration"
+    ],
+    "pregnancy": "Avoid during the first trimester; limited human clinical data.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Approved in children 2 years and older (syrup formulation).",
+    "geriatric": "No dosage adjustment required based on age alone; monitor for gastric irritation.",
+    "renal": "No dosage adjustment required in mild to moderate renal disease.",
+    "hepatic": "Use with caution in severe hepatic impairment.",
+    "advantages": [
+      "Proven disease-modifying role in COPD: landmark PEACE study demonstrated a 24.5% reduction in yearly exacerbations",
+      "True mucoregulator: repairs the biochemical composition of mucus at the cellular level rather than just dissolving it",
+      "Antioxidant and anti-inflammatory properties inhibit bacterial colonization"
+    ],
+    "disadvantages": [
+      "High initial dosing requirement (750 mg three times daily)",
+      "Potential for gastric irritation and ulceration"
+    ],
+    "key_points": [
+      "Proven to cut COPD flare-ups and hospital visits by fixing sticky lung phlegm; take with meals",
+      "Take regularly every day as long-term prevention, not just during sudden chest attacks"
+    ],
+    "memory_trick": "CARBO-cisteine: Corrects Abnormal Rheology of Bronchial Output; Outclasses exacerbations in PEACE trial.",
+    "key_suffix": "-cisteine",
+    "pronunciation_en": "kar-boe-SIS-teen",
+    "pronunciation_hi": "\u0915\u093e\u0930\u094d\u092c\u094b\u0938\u093f-\u0938\u094d\u091f\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "bilastine",
+    "generic_name": "Bilastine",
+    "display_name": "Bilastine",
+    "active_ingredient": "Bilastine",
+    "salt": "Bilastine",
+    "category": "Antihistamines",
+    "description": "A modern, highly selective, non-sedating second-generation H1-antihistamine with zero hepatic CYP metabolism and zero brain H1-receptor occupancy, used for allergic rhinitis and urticaria.",
+    "strengths": [
+      "20 mg",
+      "10 mg orally disintegrating tablet (ODT)",
+      "2.5 mg/mL oral solution"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Orally Disintegrating Tablet",
+      "Oral Solution"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Potent, highly selective, and non-competitive peripheral histamine H1-receptor antagonist; completely lacks affinity for muscarinic, adrenergic, serotonergic, or other histamine receptor subtypes; substrate for P-glycoprotein efflux at the blood-brain barrier, resulting in near-zero brain H1-receptor occupancy.",
+    "pharmacodynamics": "Rapidly suppresses histamine-mediated vascular permeability, wheal and flare reactions, nasal pruritus, rhinorrhea, and ocular itching; TRUE NON-SEDATING PROFILE: does NOT impair psychomotor performance, driving ability, or cognitive function, even at twice the therapeutic dose; zero QTc prolongation.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 1.3 hours; 61% oral bioavailability; FOOD AND FRUIT JUICES REDUCE ABSORPTION BY 30-33% (MUST BE TAKEN 1 HOUR BEFORE OR 2 HOURS AFTER FOOD OR JUICE).",
+    "distribution": "Apparent volume of distribution approx. 1.29 L/kg; does NOT cross the blood-brain barrier; 84-90% bound to plasma proteins.",
+    "metabolism": "DOES NOT UNDERGO HEPATIC METABOLISM: >95% of circulating drug is unchanged bilastine; does not interact with any cytochrome P450 enzymes.",
+    "excretion": "Excreted predominantly unchanged in faeces (approx. 67%) and urine (approx. 33%); zero liver toxicity.",
+    "bioavailability": "Approximately 61% (MUST take on an empty stomach)",
+    "half_life": "14.5 hours (ideal for true once-daily dosing)",
+    "protein_binding": "84% to 90%",
+    "onset": "Fast onset: within 30 to 60 minutes",
+    "duration": "Over 24 hours (20 mg once daily on empty stomach)",
+    "indications": [
+      "Symptomatic treatment of allergic rhinoconjunctivitis (seasonal and perennial: sneezing, nasal discharge, itching, congestion)",
+      "Chronic spontaneous urticaria (hives: relieves pruritus, wheal size and number; dose can be titrated up to 4x in refractory hives)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to bilastine"
+    ],
+    "warnings": [
+      "STRICT FOOD RULE: MUST be taken on an empty stomach (take 1 hour before breakfast or 2 hours after a meal, with water only); food or fruit juice (grapefruit/apple) decreases bioavailability by 30-33%",
+      "Truly non-sedating: approved for pilots and drivers (zero central sedation at therapeutic and supra-therapeutic doses)",
+      "Zero hepatic metabolism: ideal for patients with liver disease or polypharmacy"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Somnolence (rate identical to placebo: 1.5-3%)",
+      "Dizziness",
+      "Fatigue",
+      "Dyspepsia"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypersensitivity / anaphylaxis (rare)",
+      "Cardiac QT prolongation (NONE: clean cardiac profile)"
+    ],
+    "drug_interactions": [
+      "Fruit juices (grapefruit, apple - inhibit OATP1A2 uptake transporter, reducing bilastine levels by 30-33%; take with water only)",
+      "P-glycoprotein inhibitors (ketoconazole, erythromycin, cyclosporine - increase bilastine plasma levels; avoid in renal failure)",
+      "Zero CYP450 interactions (does not interact with warfarin, statins, or liver-cleared drugs)"
+    ],
+    "monitoring": [
+      "Allergic rhinitis symptom scores (TNSS) and urticaria activity score (UAS7)",
+      "Patient compliance with empty-stomach administration"
+    ],
+    "pregnancy": "Avoid in pregnancy; insufficient human clinical safety data.",
+    "lactation": "Excretion in breast milk unknown; use caution during breastfeeding.",
+    "pediatric": "Approved in children 6 to 11 years (10 mg ODT or oral solution once daily on an empty stomach).",
+    "geriatric": "No dosage adjustment required in elderly patients; exceptional safety profile.",
+    "renal": "No dosage adjustment required in renal impairment (avoid concurrent P-gp inhibitors if CrCl < 50 mL/min).",
+    "hepatic": "No dosage adjustment required in hepatic impairment (zero liver metabolism).",
+    "advantages": [
+      "Zero brain penetration: absolute non-sedating antihistamine that does NOT impair driving, machinery operation, or flying",
+      "Zero hepatic metabolism: safely co-prescribed with complex medications without drug-drug interactions",
+      "Can be safely up-dosed to 40-80 mg daily (up to 4x) for refractory chronic hives"
+    ],
+    "disadvantages": [
+      "MUST be taken on an empty stomach with plain water (food or juice cuts absorption by one-third)",
+      "Not for acute emergency anaphylaxis"
+    ],
+    "key_points": [
+      "Take one 20 mg tablet once daily on an empty stomach (1 hour before breakfast) with water only",
+      "Will NOT make you sleepy or groggy; safe for driving and working"
+    ],
+    "memory_trick": "BILA-stine: Brain Is Left Alone (zero sedation); Intestinal absorption requires empty stomach; Liver cleared Zero percent.",
+    "key_suffix": "-stine",
+    "pronunciation_en": "bi-LAS-teen",
+    "pronunciation_hi": "\u092c\u093f\u0932\u093e-\u0938\u094d\u091f\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "rupatadine",
+    "generic_name": "Rupatadine",
+    "display_name": "Rupatadine Fumarate",
+    "active_ingredient": "Rupatadine fumarate",
+    "salt": "Rupatadine fumarate",
+    "category": "Antihistamines",
+    "description": "A dual-action second-generation antihistamine and platelet-activating factor (PAF) receptor antagonist, providing superior relief of severe nasal congestion and allergic inflammation.",
+    "strengths": [
+      "10 mg",
+      "1 mg/mL oral solution"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Oral Solution"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Dual molecular mechanism: selectively blocks peripheral histamine H1 receptors AND antagonizes platelet-activating factor (PAF) receptors; PAF is a potent non-histamine mediator of mucosal edema, severe nasal congestion, bronchial hyperreactivity, and vascular hyperpermeability.",
+    "pharmacodynamics": "Provides rapid, potent suppression of allergic rhinitis symptoms; uniquely relieves severe nasal congestion and obstruction superior to pure antihistamines; inhibits mast cell and eosinophil degranulation and cytokine release.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 0.75 to 1 hour; bioavailability unaffected by food (high-fat meals increase AUC by 23%); can be taken with or without food.",
+    "distribution": "Apparent volume of distribution approx. 9,000 L; highly bound to human plasma proteins (98-99%).",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 to active metabolites (desloratadine and hydroxylated derivatives), which contribute to sustained efficacy.",
+    "excretion": "Excreted in faeces (approx. 60%) and urine (approx. 35% as metabolites); <1% unchanged parent drug in urine.",
+    "bioavailability": "Good oral absorption",
+    "half_life": "5.9 hours (parent drug; active metabolites sustain 24-hour action)",
+    "protein_binding": "98% to 99%",
+    "onset": "Rapid onset within 45 to 60 minutes",
+    "duration": "24 hours (10 mg once daily)",
+    "indications": [
+      "Symptomatic treatment of allergic rhinitis (seasonal and perennial) in adults and adolescents 12 years and older",
+      "Chronic spontaneous urticaria (relief of itching and hives)",
+      "Allergic rhinitis with prominent nasal obstruction / congestion"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to rupatadine",
+      "Severe hepatic or renal impairment"
+    ],
+    "warnings": [
+      "Avoid grapefruit juice (contains furanocoumarins that inhibit CYP3A4, increasing rupatadine exposure by 3.5-fold)",
+      "Avoid strong CYP3A4 inhibitors (ketoconazole, erythromycin)",
+      "Mild somnolence in up to 8-9% (take at bedtime if drowsiness occurs)"
+    ],
+    "common_adverse_effects": [
+      "Somnolence / drowsiness (approx. 8-9%)",
+      "Headache",
+      "Fatigue / asthenia",
+      "Dry mouth",
+      "Dizziness"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypersensitivity reactions",
+      "QTc prolongation (minimal at recommended doses; use caution with other QT drugs)"
+    ],
+    "drug_interactions": [
+      "Grapefruit juice (STRICTLY AVOID: increases rupatadine levels by 350%)",
+      "Strong CYP3A4 inhibitors (ketoconazole, itraconazole, clarithromycin - increase drug levels)",
+      "Alcohol / CNS depressants (additive mild sedation)"
+    ],
+    "monitoring": [
+      "Allergic rhinitis symptoms (especially nasal obstruction / congestion scores)",
+      "Assess for daytime drowsiness"
+    ],
+    "pregnancy": "Avoid in pregnancy; insufficient human clinical safety data.",
+    "lactation": "Excreted in animal milk; avoid during breastfeeding.",
+    "pediatric": "Approved in children 2 to 11 years (oral solution formulation: weight-adjusted dosing).",
+    "geriatric": "Use with caution in elderly patients; well tolerated.",
+    "renal": "Use with caution in severe renal impairment (limited clinical data).",
+    "hepatic": "Contraindicated in severe hepatic impairment (metabolized by CYP3A4).",
+    "advantages": [
+      "Dual H1-antihistamine + PAF-receptor antagonist provides superior unclogging of severe nasal congestion compared to classical antihistamines",
+      "Active metabolite includes desloratadine, extending 24-hour therapeutic coverage",
+      "Effective once-daily dosing with or without food"
+    ],
+    "disadvantages": [
+      "Avoid drinking grapefruit juice (causes 3.5-fold drug buildup)",
+      "Slightly higher rate of mild drowsiness (8-9%) than bilastine or fexofenadine"
+    ],
+    "key_points": [
+      "Dual-action allergy tablet that clears both sneezing and blocked, congested noses; take 10 mg once daily",
+      "Do NOT drink grapefruit juice while taking this medication"
+    ],
+    "memory_trick": "RUPATA-dine: Relieves Urticaria; Potent Anti-PAF + Antihistamine; Targets severe congestion; Avoid grapefruit juice.",
+    "key_suffix": "-tadine",
+    "pronunciation_en": "roo-pa-TA-deen",
+    "pronunciation_hi": "\u0930\u0942\u092a\u093e\u091f\u093e-\u0921\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "ebastine",
+    "generic_name": "Ebastine",
+    "display_name": "Ebastine Film-Coated / Fast-Dissolving Tablets",
+    "active_ingredient": "Ebastine",
+    "salt": "Ebastine",
+    "category": "Antihistamines",
+    "description": "A long-acting second-generation H1-receptor antagonist prodrug rapidly converted by CYP3A4 to active carebastine, providing 24-hour non-sedating relief of allergic rhinitis and chronic urticaria.",
+    "strengths": [
+      "10 mg",
+      "20 mg",
+      "10 mg, 20 mg orally disintegrating tablets (Fast-Tab)"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Orally Disintegrating Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Prodrug rapidly and almost completely converted in the liver by CYP3A4 to active carebastine; carebastine is a potent, long-acting, selective peripheral H1-receptor antagonist with negligible penetration into the central nervous system.",
+    "pharmacodynamics": "Suppresses histamine-induced wheal and flare, relieves sneezing, rhinorrhea, nasal pruritus, and ocular itching, and clears chronic urticaria wheals; fast-dissolving tablet melts on the tongue in seconds without water.",
+    "absorption": "Rapidly absorbed; extensively metabolized during first pass; active carebastine peaks in 2.6 to 4 hours; high-fat meals increase carebastine AUC by 50% without altering clinical efficacy.",
+    "distribution": "Carebastine is widely distributed; does not cross the blood-brain barrier; highly bound to plasma proteins (>97%).",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 to active carboxylic acid metabolite carebastine.",
+    "excretion": "Excreted in urine (approx. 66% as conjugated carebastine metabolites) and faeces; parent ebastine is undetectable in urine.",
+    "bioavailability": "Rapidly converted to active carebastine",
+    "half_life": "15 to 19 hours (carebastine elimination half-life)",
+    "protein_binding": ">97% (carebastine)",
+    "onset": "1 to 3 hours",
+    "duration": "24 hours (10-20 mg once daily)",
+    "indications": [
+      "Symptomatic treatment of seasonal and perennial allergic rhinitis",
+      "Allergic conjunctivitis",
+      "Chronic idiopathic urticaria (hives: 10 to 20 mg once daily; superior relief at 20 mg)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to ebastine or carebastine",
+      "Severe hepatic impairment (for the 20 mg dose)"
+    ],
+    "warnings": [
+      "Orally disintegrating tablet (Fast-Tab) dissolves on the tongue in seconds without water",
+      "Caution with strong CYP3A4 inhibitors (ketoconazole, erythromycin - increases carebastine levels)",
+      "Safe cardiac profile at therapeutic doses (no significant QTc prolongation)"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Somnolence (rate similar to placebo: 3-5%)",
+      "Dry mouth",
+      "Drowsiness (at 20 mg dose in sensitive patients)",
+      "Nausea"
+    ],
+    "serious_adverse_effects": [
+      "Severe allergic anaphylaxis (rare)",
+      "Cardiac arrhythmias (only with massive overdose combined with QT drugs)"
+    ],
+    "drug_interactions": [
+      "Strong CYP3A4 inhibitors (ketoconazole, itraconazole, clarithromycin - increase carebastine plasma concentrations)",
+      "Alcohol and CNS depressants (additive mild sedation)"
+    ],
+    "monitoring": [
+      "Allergic rhinitis and urticaria symptom scores",
+      "Liver function tests in chronic therapy with hepatic disease"
+    ],
+    "pregnancy": "Category B; animal studies show no teratogenicity; limited human data; use only if clearly needed.",
+    "lactation": "Excretion in human milk unknown; breastfeeding not recommended.",
+    "pediatric": "Approved in children 12 years and older (approved down to 2 years with syrup in certain countries).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Maximum dose 10 mg daily in severe hepatic impairment (Child-Pugh Class C).",
+    "advantages": [
+      "Fast-dissolving tablet (Fast-Tab) melts on the tongue in seconds without water, ideal for travel and acute allergy attacks",
+      "Active carebastine provides rock-solid 24-hour allergy relief in a single daily dose",
+      "Higher 20 mg dose provides superior control for severe, refractory chronic hives"
+    ],
+    "disadvantages": [
+      "Metabolized by CYP3A4, requiring caution with azole antifungals and macrolides",
+      "Mild drowsiness can occur at the higher 20 mg dose in sensitive patients"
+    ],
+    "key_points": [
+      "Take once daily with or without food; fast-dissolving tablet melts on the tongue without water",
+      "Provides complete 24-hour relief from sneezing, runny nose, and itchy hives"
+    ],
+    "memory_trick": "EBA-stine: Extended 24h action; Bioactivated to carebastine; Antihistamine with Fast-Tab (melts on tongue).",
+    "key_suffix": "-stine",
+    "pronunciation_en": "e-BAS-teen",
+    "pronunciation_hi": "\u090f\u092c\u093e-\u0938\u094d\u091f\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "mizolastine",
+    "generic_name": "Mizolastine",
+    "display_name": "Mizolastine Modified-Release Tablets",
+    "active_ingredient": "Mizolastine",
+    "salt": "Mizolastine",
+    "category": "Antihistamines",
+    "description": "A dual-action second-generation H1-receptor antagonist and 5-lipoxygenase (5-LOX) inhibitor, combining antihistaminic and anti-leukotriene actions for allergic rhinitis and urticaria.",
+    "strengths": [
+      "10 mg"
+    ],
+    "dosage_forms": [
+      "Modified-Release Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively and competitively blocks peripheral histamine H1 receptors; concurrently inhibits 5-lipoxygenase (5-LOX), suppressing the biosynthesis of inflammatory leukotrienes (LTB4, LTC4); also inhibits mast cell degranulation and ICAM-1 expression.",
+    "pharmacodynamics": "Provides dual anti-allergic and anti-inflammatory action; suppresses early-phase allergic symptoms (itching, sneezing) and late-phase allergic inflammation (nasal congestion, tissue eosinophilia); non-sedating at recommended doses.",
+    "absorption": "Rapidly absorbed; peak plasma concentrations in 1.5 hours; bioavailability approx. 65%; food does not impair absorption.",
+    "distribution": "Apparent volume of distribution approx. 1.4 L/kg; does not cross the blood-brain barrier; highly bound to plasma proteins (98.4%).",
+    "metabolism": "Extensively metabolized in the liver primarily by glucuronidation and by CYP1A2, CYP2C9, and CYP3A4.",
+    "excretion": "Excreted predominantly in faeces (approx. 65% via biliary elimination) and urine (approx. 10% as metabolites).",
+    "bioavailability": "Approximately 65%",
+    "half_life": "8 to 13 hours",
+    "protein_binding": "98.4%",
+    "onset": "Within 1 hour",
+    "duration": "24 hours (10 mg once daily)",
+    "indications": [
+      "Symptomatic treatment of seasonal allergic rhinoconjunctivitis (hay fever)",
+      "Perennial allergic rhinitis",
+      "Chronic idiopathic urticaria (hives)"
+    ],
+    "contraindications": [
+      "Significantly impaired hepatic function",
+      "Severe renal impairment (CrCl < 30 mL/min)",
+      "Preexisting QT interval prolongation or cardiac arrhythmias",
+      "Clinically significant bradycardia or hypokalemia",
+      "Concurrent use of macrolides, systemic azoles, or antiarrhythmics (Class I and III)"
+    ],
+    "warnings": [
+      "CARDIAC QT PROLONGATION RISK: Mizolastine can cause minor prolongation of the QTc interval; STRICTLY CONTRAINDICATED with QT-prolonging drugs, macrolides, or azole antifungals",
+      "Do not exceed the recommended dose of 10 mg once daily",
+      "Avoid in patients with cardiac disease or electrolyte imbalances"
+    ],
+    "common_adverse_effects": [
+      "Somnolence / drowsiness (approx. 7%)",
+      "Fatigue / asthenia",
+      "Headache",
+      "Dry mouth",
+      "Nausea",
+      "Weight gain / increased appetite"
+    ],
+    "serious_adverse_effects": [
+      "QTc prolongation / ventricular arrhythmias (with overdose or CYP inhibitors)",
+      "Severe hypersensitivity / angioedema",
+      "Elevated transaminases (rare)"
+    ],
+    "drug_interactions": [
+      "CYP3A4/CYP1A2 inhibitors (ketoconazole, erythromycin, cimetidine - increase mizolastine levels and QT risk; CONTRAINDICATED)",
+      "QT-prolonging drugs (amiodarone, sotalol, quinidine - CONTRAINDICATED)",
+      "Alcohol (additive sedation)"
+    ],
+    "monitoring": [
+      "Baseline 12-lead ECG in patients with cardiovascular risk factors",
+      "Serum potassium and magnesium",
+      "Allergic rhinitis and urticaria symptom scores"
+    ],
+    "pregnancy": "Avoid in pregnancy; insufficient human clinical safety data.",
+    "lactation": "Excreted in animal milk; contraindicated during breastfeeding.",
+    "pediatric": "Safety and efficacy in children under 12 years not established.",
+    "geriatric": "Use with caution in elderly patients; assess cardiac history and ECG.",
+    "renal": "Contraindicated in severe renal impairment (CrCl < 30 mL/min).",
+    "hepatic": "Contraindicated in significant hepatic impairment.",
+    "advantages": [
+      "Dual-action: blocks histamine H1 receptors AND suppresses 5-lipoxygenase (leukotrienes), attacking allergy from two pathways",
+      "Modified-release tablet provides continuous 24-hour relief with a single morning tablet",
+      "Relieves both watery drainage and inflammatory nasal blockage"
+    ],
+    "disadvantages": [
+      "Risk of cardiac QT prolongation requires strict screening and avoidance of macrolides/azoles",
+      "Contraindicated in severe liver or kidney disease"
+    ],
+    "key_points": [
+      "Take one 10 mg tablet once daily in the morning with water",
+      "Do NOT take this medication if you have heart rhythm issues or are taking erythromycin/ketoconazole"
+    ],
+    "memory_trick": "MIZOLA-stine: Multi-action (H1 block + 5-Lipoxygenase inhibition); Once daily; Zero macrolides (QT risk).",
+    "key_suffix": "-stine",
+    "pronunciation_en": "mye-ZOE-las-teen",
+    "pronunciation_hi": "\u092e\u093f\u091c\u093c\u094b\u0932\u093e-\u0938\u094d\u091f\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "olopatadine",
+    "generic_name": "Olopatadine",
+    "display_name": "Olopatadine Ophthalmic Solution / Nasal Spray",
+    "active_ingredient": "Olopatadine hydrochloride",
+    "salt": "Olopatadine hydrochloride",
+    "category": "Antihistamines",
+    "description": "A dual-action mast cell stabilizer and selective H1-antihistamine, serving as the gold standard topical agent for allergic conjunctivitis and allergic rhinitis.",
+    "strengths": [
+      "0.1% eye drops (Patanol - BID)",
+      "0.2% eye drops (Pataday - once daily)",
+      "0.7% eye drops (Pazeo - once daily)",
+      "0.6% nasal spray (Patanase)"
+    ],
+    "dosage_forms": [
+      "Ophthalmic Solution",
+      "Nasal Spray Solution"
+    ],
+    "routes": [
+      "Ophthalmic",
+      "Intranasal"
+    ],
+    "mechanism_of_action": "Dual pharmacological action: selectively and competitively antagonizes histamine H1 receptors, AND stabilizes mast cell membranes, preventing antigen-induced degranulation and release of histamine, leukotrienes, and pro-inflammatory cytokines; inhibits human conjunctival epithelial cell cytokine release.",
+    "pharmacodynamics": "Rapidly halts ocular itching within 3 minutes of eye drop instillation and provides 24-hour comfort (0.2% and 0.7% formulations); intranasally relieves sneezing, rhinorrhea, and itchy nose within 30 minutes; topical application produces minimal systemic exposure.",
+    "absorption": "Minimal systemic absorption following ocular instillation (plasma levels generally below quantification limit); nasal spray produces low systemic bioavailability (approx. 57%).",
+    "distribution": "Acts locally in the conjunctiva and nasal mucosa; 55% bound to plasma proteins.",
+    "metabolism": "Minimally metabolized in the liver; primary metabolites are N-desmethyl and N-oxide olopatadine.",
+    "excretion": "Excreted predominantly unchanged in urine (approx. 60-70%) via glomerular filtration.",
+    "bioavailability": "Minimal systemic (ocular); 57% (nasal)",
+    "half_life": "8 to 12 hours in plasma; ocular receptor residence provides 16 to 24 hours of symptom relief",
+    "protein_binding": "55%",
+    "onset": "Immediate (ocular itching stops within 3 minutes); Nasal: 30 minutes",
+    "duration": "16 to 24 hours (0.2% and 0.7% eye drops once daily)",
+    "indications": [
+      "Treatment of ocular itching associated with allergic conjunctivitis (Patanol 0.1% BID; Pataday 0.2% once daily; Pazeo 0.7% once daily)",
+      "Relief of symptoms of seasonal allergic rhinitis in adults and children 6 years and older (Patanase 0.6% nasal spray)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to olopatadine hydrochloride or benzalkonium chloride (preservative)"
+    ],
+    "warnings": [
+      "CONTACT LENS PRECAUTION: Contains benzalkonium chloride, which can be absorbed by soft contact lenses; remove contact lenses before instilling eye drops and wait at least 10-15 minutes before reinserting",
+      "Do not touch the dropper tip to any surface or the eye (prevents bacterial contamination)",
+      "Nasal spray: spray away from the nasal septum to prevent epistaxis and bitter taste"
+    ],
+    "common_adverse_effects": [
+      "Ocular burning / stinging upon instillation (transient)",
+      "Bitter taste in mouth (dysgeusia - especially with nasal spray in up to 12%)",
+      "Dry eye sensation",
+      "Epistaxis (nasal spray)",
+      "Headache"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypersensitivity / contact blepharitis",
+      "Nasal septal ulceration (nasal spray)"
+    ],
+    "drug_interactions": [
+      "No clinically significant drug interactions due to low systemic absorption"
+    ],
+    "monitoring": [
+      "Relief of ocular redness, itching, and chemosis",
+      "Nasal mucosa inspection in chronic nasal spray users"
+    ],
+    "pregnancy": "Category C; negligible systemic exposure following eye drops; safe when clinically needed in pregnancy.",
+    "lactation": "Excretion in human milk unknown; negligible systemic absorption makes infant risk unlikely.",
+    "pediatric": "Approved in children 2 years and older for allergic conjunctivitis (Pataday).",
+    "geriatric": "No dosage adjustment required based on age alone; well tolerated.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in hepatic impairment.",
+    "advantages": [
+      "Dual-action: immediately blocks histamine AND permanently stabilizes mast cells to prevent future allergic attacks",
+      "Fastest ocular relief: stops intense eye itching within 3 minutes of putting in the drop",
+      "Once-daily formulation (Pataday 0.2% / Pazeo 0.7%) provides 24 hours of clear, itch-free eyes"
+    ],
+    "disadvantages": [
+      "Contains benzalkonium chloride (must remove contact lenses for 15 minutes)",
+      "Nasal spray can cause a bitter taste in the back of the throat"
+    ],
+    "key_points": [
+      "Put 1 drop in each itchy eye once daily in the morning; stops eye itching within 3 minutes",
+      "Take out contact lenses before putting the drops in; wait 15 minutes before putting lenses back in"
+    ],
+    "memory_trick": "OLOPATA-dine: Ocular allergy relief; Lasts 24 hours (once daily); Opposes histamine + Stabilizes mast cells.",
+    "key_suffix": "-tadine",
+    "pronunciation_en": "oh-loe-PAT-a-deen",
+    "pronunciation_hi": "\u0913\u0932\u094b\u092a\u0947\u091f\u093e-\u0921\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "azelastine",
+    "generic_name": "Azelastine",
+    "display_name": "Azelastine Ophthalmic Solution / Nasal Spray",
+    "active_ingredient": "Azelastine hydrochloride",
+    "salt": "Azelastine hydrochloride",
+    "category": "Antihistamines",
+    "description": "A fast-acting, second-generation topical H1-antihistamine and mast cell stabilizer that relieves nasal symptoms within 15 minutes, co-formulated with fluticasone propionate (Dymista) for severe allergic rhinitis.",
+    "strengths": [
+      "0.1% nasal spray (137 mcg/spray)",
+      "0.15% nasal spray (205.5 mcg/spray)",
+      "0.05% eye drops"
+    ],
+    "dosage_forms": [
+      "Nasal Spray Solution",
+      "Ophthalmic Solution"
+    ],
+    "routes": [
+      "Intranasal",
+      "Ophthalmic"
+    ],
+    "mechanism_of_action": "Multiple anti-allergic actions: potent, competitive antagonist at peripheral histamine H1 receptors; stabilizes mast cell membranes, inhibiting antigen-triggered histamine release; down-regulates ICAM-1 expression and inhibits pro-inflammatory leukotriene and endothelin-1 generation.",
+    "pharmacodynamics": "Produces ultra-rapid relief of nasal congestion, rhinorrhea, sneezing, and nasal itching within 15 minutes of nasal spray administration (faster than oral antihistamines and nasal steroids); combined with fluticasone propionate (Dymista) to provide synergistic, gold-standard relief of moderate-to-severe allergic rhinitis.",
+    "absorption": "Intranasal administration delivers drug directly to the nasal mucosa; systemic bioavailability from nasal spray is approx. 40%; ophthalmic absorption is minimal.",
+    "distribution": "Apparent volume of distribution approx. 14.5 L/kg; 88% bound to human plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4, CYP2D6, and CYP2C19 to active metabolite desmethylazelastine (equally potent at H1 receptors).",
+    "excretion": "Excreted predominantly in faeces (approx. 75% via biliary elimination) and urine (approx. 25%); <10% unchanged drug in urine.",
+    "bioavailability": "Approximately 40% (nasal)",
+    "half_life": "22 hours (parent drug; active desmethyl metabolite half-life is 54 hours)",
+    "protein_binding": "88%",
+    "onset": "Ultra-rapid: nasal relief begins within 15 minutes",
+    "duration": "12 to 24 hours (1-2 sprays per nostril BID or once daily)",
+    "indications": [
+      "Symptomatic relief of seasonal allergic rhinitis in adults and children 2 years and older",
+      "Perennial allergic rhinitis and vasomotor / non-allergic rhinitis",
+      "Combined with fluticasone propionate (Dymista) for moderate-to-severe allergic rhinitis refractory to monotherapy",
+      "Ocular itching associated with allergic conjunctivitis (0.05% eye drops)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to azelastine hydrochloride"
+    ],
+    "warnings": [
+      "BITTER TASTE (DYSGEUSIA): Up to 20% experience a bitter metallic taste; PREVENT BY PROPER TECHNIQUE: keep head tilted slightly DOWNWARD during spraying, do NOT tilt head backward, and do NOT inhale deeply through the nose",
+      "Mild somnolence in up to 2-5% due to systemic nasal absorption (caution when driving)",
+      "Avoid alcohol and CNS depressants (additive sedation)"
+    ],
+    "common_adverse_effects": [
+      "Bitter taste in mouth (dysgeusia - very common if sprayed incorrectly: up to 20%)",
+      "Nasal burning / stinging",
+      "Somnolence / drowsiness (mild: 2-5%)",
+      "Epistaxis",
+      "Headache"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypersensitivity / angioedema",
+      "Nasal mucosal ulceration (with improper technique)"
+    ],
+    "drug_interactions": [
+      "Alcohol and CNS depressants (additive somnolence and impaired psychomotor function)",
+      "Cimetidine (increases azelastine plasma levels by 65%)"
+    ],
+    "monitoring": [
+      "Allergic rhinitis symptom scores (TNSS)",
+      "Nasal mucosal integrity",
+      "Patient technique to eliminate bitter taste"
+    ],
+    "pregnancy": "Category C; safe when indicated; negligible fetal risk from topical application.",
+    "lactation": "Excreted in human milk in low amounts; use caution during breastfeeding.",
+    "pediatric": "Approved in children 2 years and older for seasonal allergic rhinitis (0.1% nasal spray).",
+    "geriatric": "No dosage adjustment required in elderly patients; well tolerated.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in hepatic disease.",
+    "advantages": [
+      "Fastest-acting allergy nasal spray: relieves nasal congestion and sneezing in just 15 minutes",
+      "Effective for both allergic rhinitis AND non-allergic / vasomotor rhinitis",
+      "Co-formulated with fluticasone (Dymista) as the number-one recommended prescription spray for severe allergic rhinitis"
+    ],
+    "disadvantages": [
+      "Bitter taste in the throat if sprayed with head tilted back (technique must be taught)",
+      "Can cause mild drowsiness in sensitive individuals"
+    ],
+    "key_points": [
+      "Spray into each nostril with your chin tilted slightly down toward your chest; do not sniff hard to prevent a bitter taste",
+      "Relieves stuffy and runny nose within 15 minutes"
+    ],
+    "memory_trick": "AZELA-stine: Action in Zero time (15 min); Excellent for Non-allergic rhinitis; Look down to avoid bitter taste.",
+    "key_suffix": "-stine",
+    "pronunciation_en": "a-ZEL-a-steen",
+    "pronunciation_hi": "\u090f\u091c\u093c\u0947\u0932\u093e-\u0938\u094d\u091f\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  }
+]

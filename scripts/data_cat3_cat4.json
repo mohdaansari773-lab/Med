@@ -1,0 +1,909 @@
+[
+  {
+    "slug": "daclatasvir",
+    "generic_name": "Daclatasvir",
+    "display_name": "Daclatasvir Dihydrochloride",
+    "active_ingredient": "Daclatasvir dihydrochloride",
+    "salt": "Daclatasvir dihydrochloride",
+    "category": "Antivirals",
+    "description": "A potent direct-acting antiviral targeting HCV non-structural protein 5A (NS5A), combined with sofosbuvir for pan-genotypic Hepatitis C cures.",
+    "strengths": [
+      "30 mg",
+      "60 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Binds to the N-terminus of Domain I of the HCV NS5A replication complex, inhibiting both viral RNA replication and virion assembly.",
+    "pharmacodynamics": "Rapid decline in HCV RNA viral load; pan-genotypic activity against genotypes 1 through 6.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 1 to 2 hours; high oral bioavailability (67%).",
+    "distribution": "Volume of distribution approx. 47 L; 99% bound to plasma proteins.",
+    "metabolism": "Metabolized in the liver by CYP3A4 to inactive metabolites.",
+    "excretion": "Excreted predominantly in faeces (approx. 88%) via biliary elimination; less than 7% in urine.",
+    "bioavailability": "67%",
+    "half_life": "12 to 15 hours",
+    "protein_binding": "99%",
+    "onset": "Rapid viral load suppression within days",
+    "duration": "24 hours (once daily)",
+    "indications": [
+      "Chronic Hepatitis C virus infection genotypes 1, 2, 3, 4, and 6 (combined with sofosbuvir)",
+      "HCV in patients with HIV-1 co-infection",
+      "HCV in liver transplant recipients"
+    ],
+    "contraindications": [
+      "Concurrent use with strong CYP3A4 inducers (carbamazepine, rifampin, St. John's wort)"
+    ],
+    "warnings": [
+      "Risk of Hepatitis B reactivation during HCV clearance (screen for HBV prior to therapy)",
+      "Dose adjustment required with moderate CYP3A4 inhibitors (reduce to 30 mg) or inducers (increase to 90 mg)"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Fatigue",
+      "Nausea",
+      "Diarrhoea"
+    ],
+    "serious_adverse_effects": [
+      "Hepatitis B reactivation / acute liver failure",
+      "Severe bradycardia (when combined with sofosbuvir and amiodarone)"
+    ],
+    "drug_interactions": [
+      "CYP3A4 inhibitors (reduce daclatasvir to 30 mg daily)",
+      "CYP3A4 inducers (increase daclatasvir to 90 mg daily)",
+      "Amiodarone (fatal bradycardia risk)"
+    ],
+    "monitoring": [
+      "HBsAg and anti-HBc before starting therapy",
+      "HCV RNA at baseline, week 4, end of treatment, and week 12 (SVR12)",
+      "Liver enzymes"
+    ],
+    "pregnancy": "Category B; if paired with ribavirin, ribavirin category X contraindication applies.",
+    "lactation": "Excreted in animal milk; use caution.",
+    "pediatric": "Safety and efficacy in pediatric patients under 18 years not established.",
+    "geriatric": "No dose adjustment based on age.",
+    "renal": "No dosage adjustment required in any degree of renal impairment.",
+    "hepatic": "No dosage adjustment required in mild, moderate, or severe hepatic impairment.",
+    "advantages": [
+      "Pan-genotypic NS5A inhibitor paired successfully with sofosbuvir",
+      "No dose adjustment in severe renal impairment",
+      "High cure rates (>95% SVR12)"
+    ],
+    "disadvantages": [
+      "CYP3A4 interactions require dose titration to 30 mg or 90 mg",
+      "Requires combination therapy; cannot be used alone"
+    ],
+    "key_points": [
+      "Standard dose is 60 mg once daily with sofosbuvir 400 mg for 12 weeks",
+      "Adjust dose to 30 mg with CYP3A4 inhibitors, or 90 mg with CYP3A4 inducers"
+    ],
+    "memory_trick": "DACLA-tasvir: Direct-Acting Cure Linking with Sofosbuvir for All HCV genotypes.",
+    "key_suffix": "-asvir",
+    "pronunciation_en": "da-KLA-tas-veer",
+    "pronunciation_hi": "\u0921\u093e\u0915\u094d\u0932\u093e-\u091f\u093e\u0938\u0935\u093f\u0930",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "tenofovir-alafenamide",
+    "generic_name": "Tenofovir Alafenamide (TAF)",
+    "display_name": "Tenofovir Alafenamide Fumarate",
+    "active_ingredient": "Tenofovir alafenamide fumarate",
+    "salt": "Tenofovir alafenamide fumarate",
+    "category": "Antivirals",
+    "description": "A targeted nucleotide reverse transcriptase inhibitor (NRTI) prodrug delivering higher intracellular levels with 90% lower systemic tenofovir exposure, reducing renal and bone toxicities.",
+    "strengths": [
+      "25 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Hydrolyzed intracellularly by carboxylesterase 1 (CES1) and cathepsin A in PBMCs and hepatocytes to tenofovir, which is diphosphorylated to tenofovir diphosphate; inhibits HBV reverse transcriptase and HIV-1 reverse transcriptase by chain termination.",
+    "pharmacodynamics": "Potent suppression of Hepatitis B virus DNA replication with negligible renal tubular or bone mineral density toxicity compared to TDF.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 0.5 hours; take with food to optimize bioavailability.",
+    "distribution": "High intracellular uptake into hepatocytes and lymphocytes; 80% plasma protein binding.",
+    "metabolism": "Intracellularly cleaved to tenofovir; minor CYP3A4 metabolism of parent drug.",
+    "excretion": "Excreted predominantly in faeces (>31%) and urine (<1% parent drug).",
+    "bioavailability": "High intracellular delivery",
+    "half_life": "Plasma half-life 0.5 hours; intracellular tenofovir diphosphate half-life 150-180 hours",
+    "protein_binding": "80%",
+    "onset": "Rapid onset of viral suppression",
+    "duration": "24 hours",
+    "indications": [
+      "Chronic Hepatitis B virus (HBV) infection in adults and pediatric patients \u226512 years with compensated liver disease",
+      "HIV-1 infection (in combination antiretroviral regimens)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to tenofovir alafenamide"
+    ],
+    "warnings": [
+      "Black box warning: Severe acute exacerbations of hepatitis B after discontinuation (monitor liver function for several months post-cessation)",
+      "Lactic acidosis and severe hepatomegaly with steatosis",
+      "HIV resistance testing required before treatment"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Abdominal pain",
+      "Fatigue",
+      "Cough",
+      "Nausea"
+    ],
+    "serious_adverse_effects": [
+      "Severe acute exacerbation of HBV after discontinuation",
+      "Lactic acidosis / hepatic steatosis",
+      "Proximal renal tubulopathy (rare compared to TDF)"
+    ],
+    "drug_interactions": [
+      "P-gp inducers (rifampin, carbamazepine - avoid combination)",
+      "P-gp inhibitors (increase TAF absorption)"
+    ],
+    "monitoring": [
+      "Serum HBV DNA viral load",
+      "ALT and AST regularly",
+      "Renal function (eGFR, serum creatinine, urine protein) at baseline and periodically"
+    ],
+    "pregnancy": "Favorable safety profile; pregnancy registry data shows no increase in birth defects.",
+    "lactation": "Compatible with breastfeeding.",
+    "pediatric": "Approved for pediatric patients 12 years and older weighing \u226535 kg.",
+    "geriatric": "No dose adjustment based on age alone.",
+    "renal": "No dosage adjustment required if CrCl \u2265 15 mL/min; safe on chronic hemodialysis (administer post-dialysis).",
+    "hepatic": "No dosage adjustment in mild hepatic impairment; not recommended in decompensated cirrhosis.",
+    "advantages": [
+      "90% lower systemic plasma tenofovir exposure than older tenofovir disoproxil (TDF)",
+      "Significantly lower incidence of renal tubular dysfunction and bone mineral loss",
+      "Safe in patients with mild-to-moderate renal impairment without dose modification"
+    ],
+    "disadvantages": [
+      "Higher cost than generic TDF",
+      "Slightly more weight gain and LDL cholesterol elevation than TDF"
+    ],
+    "key_points": [
+      "First-line oral treatment for chronic Hepatitis B (25 mg once daily with food)",
+      "Protects kidneys and bones much better than older tenofovir disoproxil"
+    ],
+    "memory_trick": "TAF: Targeted Alafenamide Formulation; Thwarts HBV; Tremendous Avoidance of Fractures/nephropathy.",
+    "key_suffix": "-fovir",
+    "pronunciation_en": "te-NOE-foe-veer a-la-FEN-a-mide",
+    "pronunciation_hi": "\u091f\u0940\u0928\u094b\u092b\u093c\u094b\u0935\u093f\u0930 \u0905\u0932\u093e\u092b\u093c\u0947\u0928\u093e\u092e\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "adefovir",
+    "generic_name": "Adefovir Dipivoxil",
+    "display_name": "Adefovir Dipivoxil",
+    "active_ingredient": "Adefovir dipivoxil",
+    "salt": "Adefovir dipivoxil",
+    "category": "Antivirals",
+    "description": "An oral acyclic nucleotide analogue used for chronic Hepatitis B, particularly effective against lamivudine-resistant YMDD mutant HBV strains.",
+    "strengths": [
+      "10 mg"
+    ],
+    "dosage_forms": [
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Diester prodrug converted intracellularly by esterases to adefovir, which is phosphorylated to adefovir diphosphate; competitively inhibits HBV DNA polymerase and causes chain termination.",
+    "pharmacodynamics": "Antiviral suppression of wild-type and lamivudine-resistant (YMDD motif mutant) HBV; low potency compared to entecavir and tenofovir.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 1.75 hours; 59% oral bioavailability.",
+    "distribution": "Low protein binding (<4%); distributes widely into total body water.",
+    "metabolism": "Not metabolized by CYP450 enzymes; prodrug de-esterified to parent adefovir.",
+    "excretion": "Excreted predominantly unchanged in urine via active tubular secretion and glomerular filtration (approx. 45% in 24 hours).",
+    "bioavailability": "59%",
+    "half_life": "7.5 hours (elimination half-life)",
+    "protein_binding": "<4%",
+    "onset": "1 to 2 hours",
+    "duration": "24 hours",
+    "indications": [
+      "Chronic Hepatitis B in adults with evidence of active viral replication and persistent transaminitis",
+      "Lamivudine-resistant HBV infection"
+    ],
+    "contraindications": [
+      "Hypersensitivity to adefovir dipivoxil"
+    ],
+    "warnings": [
+      "Black box warning: Nephrotoxicity (proximal tubular dysfunction, Fanconi syndrome, hypophosphatemia) with prolonged use",
+      "Severe acute exacerbations of hepatitis B after discontinuation",
+      "Lactic acidosis and severe hepatomegaly with steatosis",
+      "HIV resistance risk if undiagnosed HIV co-infection exists"
+    ],
+    "common_adverse_effects": [
+      "Asthenia",
+      "Headache",
+      "Abdominal pain",
+      "Nausea",
+      "Flatulence"
+    ],
+    "serious_adverse_effects": [
+      "Renal tubular toxicity / Fanconi syndrome (hypophosphatemia, glycosuria, proteinuria)",
+      "Acute kidney injury",
+      "Lactic acidosis"
+    ],
+    "drug_interactions": [
+      "Nephrotoxic drugs (aminoglycosides, NSAIDs, cyclosporine - additive renal toxicity)",
+      "Drugs eliminated by active tubular secretion"
+    ],
+    "monitoring": [
+      "Serum creatinine and eGFR at baseline and every 3 months",
+      "Serum phosphorus every 3 months (screen for Fanconi syndrome)",
+      "HBV DNA viral load and ALT"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if potential benefit justifies potential risk.",
+    "lactation": "Excretion in human milk unknown; avoid breastfeeding.",
+    "pediatric": "Safety and efficacy in pediatric patients under 12 years not established.",
+    "geriatric": "Monitor renal clearance closely.",
+    "renal": "Strict dose reduction mandatory: CrCl 30-49 mL/min: 10 mg q48h; CrCl 10-29 mL/min: 10 mg q72h; hemodialysis: 10 mg every 7 days post-dialysis.",
+    "hepatic": "No dosage adjustment required in hepatic impairment.",
+    "advantages": [
+      "Active against lamivudine-resistant YMDD mutant HBV strains",
+      "Fewer gastrointestinal side effects than interferon"
+    ],
+    "disadvantages": [
+      "Dose-dependent nephrotoxicity and Fanconi syndrome with prolonged therapy",
+      "Much lower antiviral potency than tenofovir or entecavir"
+    ],
+    "key_points": [
+      "Largely superseded by tenofovir, but useful historical salvage for lamivudine resistance",
+      "Check serum creatinine and phosphorus every 3 months (Fanconi syndrome risk)"
+    ],
+    "memory_trick": "ADEFO-vir: Alternative Drug for Entecavir/lamivudine failure; Danger: Fanconi's Osmotic wasting.",
+    "key_suffix": "-fovir",
+    "pronunciation_en": "a-DEF-oh-veer",
+    "pronunciation_hi": "\u0905\u0921\u0947\u092b\u093c\u094b-\u0935\u093f\u0930",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "lamivudine",
+    "generic_name": "Lamivudine (3TC)",
+    "display_name": "Lamivudine",
+    "active_ingredient": "Lamivudine",
+    "salt": "Lamivudine",
+    "category": "Antivirals",
+    "description": "A classical cytidine nucleoside reverse transcriptase inhibitor (NRTI) used in combination regimens for HIV-1 infection and as a lower-dose agent for chronic Hepatitis B.",
+    "strengths": [
+      "100 mg (HBV)",
+      "150 mg",
+      "300 mg (HIV)",
+      "10 mg/mL oral solution"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Oral Solution"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Phosphorylated intracellularly to lamivudine 5'-triphosphate, which competitively inhibits HIV-1 reverse transcriptase and HBV DNA polymerase, causing viral DNA chain termination.",
+    "pharmacodynamics": "Potent suppression of HIV-1 and HBV viral replication; low genetic barrier to resistance (M184V mutation in HIV; M204I/V YMDD mutation in HBV).",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 1 hour; 86% oral bioavailability; food does not affect absorption.",
+    "distribution": "Distributes into total body water; crosses into CSF (CSF/plasma ratio approx. 0.12); <36% bound to plasma albumin.",
+    "metabolism": "Minor hepatic metabolism (<10%) to a trans-sulfoxide metabolite; cleared predominantly as unchanged drug.",
+    "excretion": "Excreted predominantly unchanged in urine via active organic cation transport and glomerular filtration (approx. 70%).",
+    "bioavailability": "86%",
+    "half_life": "5 to 7 hours in plasma; intracellular triphosphate half-life 16 to 19 hours",
+    "protein_binding": "<36%",
+    "onset": "1 hour",
+    "duration": "12 to 24 hours",
+    "indications": [
+      "HIV-1 infection (in combination with other antiretroviral agents: 300 mg once daily or 150 mg twice daily)",
+      "Chronic Hepatitis B infection (100 mg once daily)",
+      "Post-exposure prophylaxis (PEP) for occupational and non-occupational HIV exposure"
+    ],
+    "contraindications": [
+      "Hypersensitivity to lamivudine"
+    ],
+    "warnings": [
+      "Black box warning: Do NOT use the 100 mg HBV dose in HIV-coinfected patients (causes rapid emergence of M184V HIV resistance)",
+      "Severe acute exacerbation of hepatitis B after discontinuation",
+      "Lactic acidosis and severe hepatomegaly with steatosis"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Nausea",
+      "Fatigue",
+      "Diarrhoea",
+      "Nasal symptoms / cough"
+    ],
+    "serious_adverse_effects": [
+      "Lactic acidosis / hepatic steatosis",
+      "Acute exacerbation of HBV on cessation",
+      "Pancreatitis (especially in pediatric patients)",
+      "Severe peripheral neuropathy"
+    ],
+    "drug_interactions": [
+      "Co-trimoxazole (trimethoprim increases lamivudine levels by 40%)",
+      "Emtricitabine (same cytidine analogue mechanism; do not combine)",
+      "Cladribine (antagonizes phosphorylation)"
+    ],
+    "monitoring": [
+      "HIV RNA viral load and CD4 count",
+      "HBV DNA viral load and ALT in Hepatitis B",
+      "Renal function (adjust dose for CrCl < 50 mL/min)"
+    ],
+    "pregnancy": "Category C; reassuring registry data; widely used in maternal prevention of mother-to-child HIV transmission.",
+    "lactation": "Excreted in breast milk; compatible with caution where breastfeeding with viral suppression is practiced.",
+    "pediatric": "Approved for pediatric patients 3 months and older; dosed by body weight.",
+    "geriatric": "Monitor renal function; adjust dosing interval in renal impairment.",
+    "renal": "Dose reduction required: CrCl 30-49 mL/min: 150 mg once daily; CrCl 15-29 mL/min: 150 mg day 1 then 100 mg once daily; CrCl 5-14 mL/min: 150 mg day 1 then 50 mg once daily; CrCl < 5 mL/min: 50 mg day 1 then 25 mg once daily.",
+    "hepatic": "No dosage adjustment required in hepatic impairment.",
+    "advantages": [
+      "Cornerstone antiretroviral with unmatched safety and tolerability over 25 years",
+      "Available in numerous low-cost fixed-dose combination generic tablets",
+      "Safe in pregnancy and across pediatric age groups"
+    ],
+    "disadvantages": [
+      "Low genetic barrier to resistance (single M184V point mutation confers total resistance)",
+      "High rate of YMDD mutation in Hepatitis B (>70% resistance at 5 years)"
+    ],
+    "key_points": [
+      "100 mg daily for Hepatitis B; 300 mg daily for HIV (never use 100 mg if patient has HIV)",
+      "Adjust dose when kidney function (CrCl) drops below 50 mL/min"
+    ],
+    "memory_trick": "LAMI-vudine: Low-toxicity Anti-HIV/HBV Medicine; Mutation (M184V) is the main weakness.",
+    "key_suffix": "-vudine",
+    "pronunciation_en": "la-MI-vyoo-deen",
+    "pronunciation_hi": "\u0932\u0948\u092e\u0940-\u0935\u094d\u092f\u0941\u0921\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "praziquantel",
+    "generic_name": "Praziquantel",
+    "display_name": "Praziquantel",
+    "active_ingredient": "Praziquantel",
+    "salt": "Praziquantel",
+    "category": "Antiparasitics",
+    "description": "The global broad-spectrum anthelmintic of choice for schistosomiasis, liver and lung flukes, and cestode (tapeworm) infections including neurocysticercosis.",
+    "strengths": [
+      "600 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Scored Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Increases cell membrane permeability to calcium ions in platyhelminths, producing rapid calcium influx, massive muscular contraction, paralysis, and tegumental vacuolization; dislodges parasites, exposing them to host immune attack.",
+    "pharmacodynamics": "Lethal against all human Schistosoma species (S. haematobium, S. mansoni, S. japonicum), food-borne trematodes (Clonorchis, Opisthorchis, Paragonimus), and cestodes (Taenia solium, Taenia saginata, Hymenolepis nana).",
+    "absorption": "Rapidly absorbed (approx. 80%); undergoes substantial hepatic first-pass metabolism; food significantly increases bioavailability.",
+    "distribution": "Widely distributed into tissues and crosses the blood-brain barrier (effective for neurocysticercosis); 80% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 to inactive hydroxylated metabolites.",
+    "excretion": "Excreted predominantly in urine (approx. 70-80% as metabolites within 24 hours); approx. 15-35% in faeces.",
+    "bioavailability": "Approximately 80% absorbed; systemic bioavailability lower due to extensive first-pass metabolism",
+    "half_life": "0.8 to 1.5 hours (parent); active metabolites 4 to 5 hours",
+    "protein_binding": "80%",
+    "onset": "Paralysis of parasites within minutes",
+    "duration": "4 to 6 hours",
+    "indications": [
+      "Schistosomiasis (bilharzia) caused by all Schistosoma species (single dose 40-60 mg/kg)",
+      "Neurocysticercosis caused by the larval form of Taenia solium (pork tapeworm)",
+      "Intestinal tapeworm infections (Taenia saginata, Taenia solium, Hymenolepis nana)",
+      "Clonorchiasis, opisthorchiasis, and paragonimiasis (liver and lung flukes)"
+    ],
+    "contraindications": [
+      "Ocular cysticercosis (destroying parasites in the eye triggers inflammatory blindness)",
+      "Concomitant use of strong CYP inducers (rifampin drastically reduces efficacy)"
+    ],
+    "warnings": [
+      "In neurocysticercosis, killing cysticerci causes local cerebral inflammation, seizures, and cerebral oedema (always co-administer corticosteroids)",
+      "Avoid chewing tablets due to an extremely bitter taste that triggers vomiting",
+      "Somnolence: avoid driving on treatment days"
+    ],
+    "common_adverse_effects": [
+      "Dizziness",
+      "Headache",
+      "Abdominal discomfort",
+      "Nausea",
+      "Drowsiness",
+      "Urticaria / pruritus"
+    ],
+    "serious_adverse_effects": [
+      "Seizures / intracranial hypertension (during neurocysticercosis treatment)",
+      "Severe hypersensitivity / anaphylaxis",
+      "Cardiac arrhythmias (rare)"
+    ],
+    "drug_interactions": [
+      "CYP3A4 inducers (rifampin, carbamazepine, phenytoin - reduce praziquantel levels up to 80-99%)",
+      "CYP3A4 inhibitors (cimetidine, ketoconazole - increase praziquantel levels)",
+      "Dexamethasone (reduces levels, but necessary in neurocysticercosis)"
+    ],
+    "monitoring": [
+      "Stool examination for ova and parasites at 4 to 6 weeks post-treatment",
+      "Neurological examination and MRI/CT in neurocysticercosis",
+      "Liver function tests in severe hepatic disease"
+    ],
+    "pregnancy": "Category B; widely used in pregnant women in endemic schistosomiasis regions with high safety profile.",
+    "lactation": "Excreted in low levels in breast milk; avoid breastfeeding on the day of treatment and for 72 hours thereafter.",
+    "pediatric": "Approved for pediatric schistosomiasis and tapeworm infections; tablets can be crushed and mixed with sweet food.",
+    "geriatric": "No specific dose adjustments; assess hepatic function.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Dose reduction and caution required in severe liver disease (portal hypertension reduces first-pass clearance).",
+    "advantages": [
+      "Single-dose curative efficacy for schistosomiasis (40 mg/kg single day treatment)",
+      "Pan-fluke and pan-tapeworm coverage against virtually all flatworms",
+      "World Health Organization essential medicine for global neglected disease control"
+    ],
+    "disadvantages": [
+      "Extremely bitter taste causes gagging and vomiting if chewed",
+      "Requires mandatory corticosteroid co-administration for neurocysticercosis"
+    ],
+    "key_points": [
+      "Drug of choice for schistosomiasis and tapeworms",
+      "Never chew the tablets (extremely bitter); swallow whole with a full glass of water with food"
+    ],
+    "memory_trick": "PRAZI-quantel: Paralyzes flatworms with Rapid Calcium Influx; Swallowed whole with food.",
+    "key_suffix": "-quantel",
+    "pronunciation_en": "pra-zi-KWAN-tel",
+    "pronunciation_hi": "\u092a\u094d\u0930\u093e\u091c\u093c\u0940-\u0915\u094d\u0935\u093e\u0902\u091f\u0947\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "ornidazole",
+    "generic_name": "Ornidazole",
+    "display_name": "Ornidazole",
+    "active_ingredient": "Ornidazole",
+    "salt": "Ornidazole",
+    "category": "Antiparasitics",
+    "description": "A 5-nitroimidazole derivative with a longer half-life (14 hours) and lower neurotoxicity than metronidazole, widely used in India for amoebiasis, giardiasis, and anaerobic infections.",
+    "strengths": [
+      "500 mg",
+      "500 mg/100 mL IV infusion"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Solution for Infusion"
+    ],
+    "routes": [
+      "Oral",
+      "Intravenous"
+    ],
+    "mechanism_of_action": "Enters microbial cells by passive diffusion; nitro group is reduced by ferredoxin oxidoreductase into toxic free radicals that bind to bacterial and protozoan DNA, causing strand breakage and cell death.",
+    "pharmacodynamics": "Potent antiprotozoal activity against Entamoeba histolytica, Giardia lamblia, and Trichomonas vaginalis; bactericidal against anaerobic bacteria (Bacteroides, Clostridium).",
+    "absorption": "Rapidly and almost completely absorbed from GI tract (>90% bioavailability); peak plasma concentration in 2 to 3 hours.",
+    "distribution": "Widely distributed into tissues, CSF, and body fluids; less than 15% bound to plasma proteins.",
+    "metabolism": "Metabolized in the liver (approx. 85%) mainly by conjugation and hydroxylation to active and inactive metabolites.",
+    "excretion": "Excreted in urine (approx. 60-70%) and faeces (approx. 20-25%) as metabolites; less than 4% unchanged.",
+    "bioavailability": ">90%",
+    "half_life": "12 to 14 hours (longer half-life than metronidazole, allowing twice-daily or once-daily dosing)",
+    "protein_binding": "<15%",
+    "onset": "1 to 2 hours",
+    "duration": "12 to 24 hours",
+    "indications": [
+      "Amoebiasis (intestinal and hepatic amoebic liver abscess)",
+      "Giardiasis",
+      "Trichomoniasis of genitourinary tract",
+      "Anaerobic bacterial infections and surgical prophylaxis"
+    ],
+    "contraindications": [
+      "Hypersensitivity to ornidazole or nitroimidazoles",
+      "Preexisting active central nervous system diseases (epilepsy, multiple sclerosis)"
+    ],
+    "warnings": [
+      "Central nervous system toxicity (dizziness, tremor, ataxia, convulsions, peripheral neuropathy with prolonged use)",
+      "Disulfiram-like ethanol intolerance (milder than metronidazole, but avoid alcohol)",
+      "Severe hepatic impairment requires 50% dose reduction"
+    ],
+    "common_adverse_effects": [
+      "Metallic taste in mouth",
+      "Nausea",
+      "Epigastric distress",
+      "Dizziness",
+      "Headache",
+      "Somnolence"
+    ],
+    "serious_adverse_effects": [
+      "Peripheral neuropathy (numbness, paresthesias in extremities)",
+      "Epileptiform seizures",
+      "Encephalopathy / cerebellar ataxia",
+      "Leukopenia"
+    ],
+    "drug_interactions": [
+      "Alcohol / ethanol (mild disulfiram-like flushing, nausea, tachycardia)",
+      "Coumarin anticoagulants / warfarin (potentiates anticoagulant effect)",
+      "Phenobarbital (decreases ornidazole half-life)",
+      "Lithium"
+    ],
+    "monitoring": [
+      "Complete blood counts in courses exceeding 10 days",
+      "Neurological evaluation for paresthesias or ataxia",
+      "Stool microscopy for cysts/trophozoites"
+    ],
+    "pregnancy": "Avoid in first trimester of pregnancy; use in 2nd and 3rd trimesters only if clearly indicated.",
+    "lactation": "Excreted in breast milk; withhold breastfeeding during therapy and for 48 hours after final dose.",
+    "pediatric": "Approved for pediatric amoebiasis and giardiasis (dosed at 30-40 mg/kg/day once daily for 3 days).",
+    "geriatric": "Assess renal and hepatic function; monitor for dizziness.",
+    "renal": "No dosage adjustment required in mild to moderate renal failure; dose post-hemodialysis.",
+    "hepatic": "Extend dosing interval to 24 hours in severe hepatic cirrhosis (half-life prolonged to 22 hours).",
+    "advantages": [
+      "Longer half-life (14 hours) allows convenient once-daily or twice-daily dosing compared to metronidazole TID",
+      "Significantly lower incidence of metallic taste, nausea, and vomiting than metronidazole",
+      "Better patient compliance for amoebiasis and giardiasis"
+    ],
+    "disadvantages": [
+      "Risk of peripheral neuropathy and ataxia with prolonged courses",
+      "Cross-allergenicity with metronidazole"
+    ],
+    "key_points": [
+      "Superior tolerability to metronidazole with twice-daily dosing (500 mg BID for 5 days in amoebiasis)",
+      "Avoid alcohol during and for 48 hours after completing the course"
+    ],
+    "memory_trick": "ORNI-dazole: One-or-two doses daily (14h half-life); Outperforms metronidazole in gut tolerability.",
+    "key_suffix": "-dazole",
+    "pronunciation_en": "or-NI-da-zole",
+    "pronunciation_hi": "\u0913\u0930\u094d\u0928\u093f\u0921\u093e-\u091c\u093c\u094b\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "pyrantel-pamoate",
+    "generic_name": "Pyrantel Pamoate",
+    "display_name": "Pyrantel Pamoate",
+    "active_ingredient": "Pyrantel pamoate",
+    "salt": "Pyrantel pamoate",
+    "category": "Antiparasitics",
+    "description": "A depolarizing neuromuscular blocking anthelmintic that paralyzes pinworms, roundworms, and hookworms in the intestinal lumen, expelled safely by normal peristalsis.",
+    "strengths": [
+      "250 mg",
+      "50 mg/mL oral suspension"
+    ],
+    "dosage_forms": [
+      "Chewable Tablet",
+      "Oral Suspension"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Acts as a depolarizing neuromuscular junction blocker and nicotinic acetylcholine receptor agonist in nematodes; causes persistent muscular depolarization, spastic paralysis, and detachment from the intestinal wall.",
+    "pharmacodynamics": "Paralyzes Enterobius vermicularis (pinworm), Ascaris lumbricoides (roundworm), and Ancylostoma duodenale / Necator americanus (hookworms); completely inactive against whipworm (Trichuris) and flukes.",
+    "absorption": "Poorly absorbed from the gastrointestinal tract (<15%); acts locally within the intestinal lumen.",
+    "distribution": "Confined primarily to the gut lumen; absorbed trace amounts are bound to plasma proteins.",
+    "metabolism": "Partially metabolized in the liver; bulk of drug passes through gut unaltered.",
+    "excretion": "Excreted predominantly unchanged in faeces (>50%); trace absorbed fraction eliminated in urine (<7%).",
+    "bioavailability": "<15% (desirable for luminal parasite clearance)",
+    "half_life": "1.75 hours (absorbed fraction)",
+    "protein_binding": "Low",
+    "onset": "Paralysis of intestinal worms occurs within 2 to 4 hours",
+    "duration": "24 hours",
+    "indications": [
+      "Enterobiasis (pinworm / threadworm infection - single dose of 11 mg/kg, repeat in 2 weeks)",
+      "Ascariasis (common roundworm infection - single dose)",
+      "Ancylostomiasis and necatoriasis (hookworm infection - daily for 3 days)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to pyrantel pamoate",
+      "Severe preexisting liver impairment"
+    ],
+    "warnings": [
+      "Pinworm eggs survive in household dust: treat ALL household members simultaneously to prevent reinfection",
+      "Repeat dose after 2 weeks in pinworm infections to eradicate newly hatched larvae",
+      "Stains stools bright red/orange"
+    ],
+    "common_adverse_effects": [
+      "Abdominal cramps",
+      "Nausea",
+      "Vomiting",
+      "Diarrhoea",
+      "Transient headache"
+    ],
+    "serious_adverse_effects": [
+      "Transient elevation in AST/ALT",
+      "Severe hypersensitivity rash (rare)"
+    ],
+    "drug_interactions": [
+      "Piperazine (directly antagonizes pyrantel pamoate mechanism of action; do not co-administer)"
+    ],
+    "monitoring": [
+      "Visual inspection of stool or perianal cellophane tape test (Scotch tape test) for pinworm eggs"
+    ],
+    "pregnancy": "Category C; use in pregnancy only if clearly needed (prefer mebendazole/albendazole in 2nd/3rd trimester).",
+    "lactation": "Minimal systemic absorption; compatible with breastfeeding.",
+    "pediatric": "Approved for children 2 years of age and older (11 mg/kg single dose, max 1 g); pleasant-tasting suspension.",
+    "geriatric": "No dosage adjustment required.",
+    "renal": "No dosage adjustment required (luminal agent).",
+    "hepatic": "Use with caution in patients with preexisting severe hepatic disease.",
+    "advantages": [
+      "Acts locally in the gut lumen with minimal (<15%) systemic absorption, providing exceptional safety",
+      "Single-dose cure for pinworms and roundworms",
+      "Available as pleasant chewable tablets and liquid suspensions ideal for children"
+    ],
+    "disadvantages": [
+      "Completely ineffective against Trichuris trichiura (whipworm) and tapeworms",
+      "Must repeat dose in 2 weeks for pinworms to break the autoinfection cycle"
+    ],
+    "key_points": [
+      "First-line over-the-counter treatment for pinworms in children and families",
+      "Treat the entire family simultaneously, wash bedsheets in hot water, and repeat in 2 weeks"
+    ],
+    "memory_trick": "PYRANTEL: Paralyzes Pinworms; Yields Rapid expulsion; Repeat After 2 weeks; Never mix with Piperazine.",
+    "key_suffix": "-antel",
+    "pronunciation_en": "pye-RAN-tel PAM-oh-ate",
+    "pronunciation_hi": "\u092a\u093e\u092f\u0930\u0947\u0928\u094d\u091f\u0947\u0932 \u092a\u0948\u092e\u094b\u090f\u091f",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "ciclopirox",
+    "generic_name": "Ciclopirox",
+    "display_name": "Ciclopirox Olamine",
+    "active_ingredient": "Ciclopirox olamine",
+    "salt": "Ciclopirox olamine",
+    "category": "Antifungals",
+    "description": "A broad-spectrum hydroxypyridone antifungal with a unique metal ion-chelating mechanism, anti-inflammatory and antibacterial activity, used for onychomycosis, seborrheic dermatitis, and tinea.",
+    "strengths": [
+      "8% nail lacquer",
+      "1% cream",
+      "1% shampoo",
+      "0.77% gel"
+    ],
+    "dosage_forms": [
+      "Nail Lacquer",
+      "Topical Cream",
+      "Medicated Shampoo",
+      "Topical Gel"
+    ],
+    "routes": [
+      "Topical"
+    ],
+    "mechanism_of_action": "Chelates polyvalent cations (Fe3+ and Al3+), inhibiting metal-dependent enzymes (cytochromes, catalase, peroxidase) in fungal mitochondria; disrupts membrane transport and electron transport chains.",
+    "pharmacodynamics": "Fungicidal against dermatophytes (Trichophyton, Microsporum), Candida, and Malassezia; intrinsic antibacterial activity against Gram-positive and Gram-negative bacteria; anti-inflammatory activity via 5-lipoxygenase inhibition.",
+    "absorption": "Nail lacquer penetrates deep through keratinized nail plate; minimal systemic absorption (<5%).",
+    "distribution": "Concentrates heavily in the stratum corneum, hair follicles, and nail plate; negligible systemic distribution.",
+    "metabolism": "Minimal systemically absorbed drug is metabolized in the liver by glucuronidation.",
+    "excretion": "Excreted in urine (approx. 1-2% of applied topical dose) as glucuronide conjugate.",
+    "bioavailability": "<5% systemic absorption",
+    "half_life": "Systemic elimination half-life 1.7 hours",
+    "protein_binding": "94% to 97%",
+    "onset": "Symptomatic improvement in skin within 1 week; nail cure requires 6 to 12 months",
+    "duration": "24 hours (applied daily)",
+    "indications": [
+      "Mild to moderate onychomycosis of fingernails and toenails without lunula involvement (8% nail lacquer)",
+      "Seborrheic dermatitis of the scalp (1% shampoo twice weekly)",
+      "Tinea pedis, tinea cruris, and tinea corporis (cream or gel)",
+      "Cutaneous candidiasis and tinea versicolor"
+    ],
+    "contraindications": [
+      "Hypersensitivity to ciclopirox or olamine components",
+      "Ophthalmic or intravaginal application"
+    ],
+    "warnings": [
+      "Nail lacquer: apply daily over previous coats, remove with alcohol every 7 days, and trim nails monthly",
+      "Avoid open flames during lacquer application (flammable solvent)",
+      "Local irritation and periungual erythema"
+    ],
+    "common_adverse_effects": [
+      "Application site burning or stinging",
+      "Periungual erythema",
+      "Local pruritus",
+      "Nail shape changes / brittle nails"
+    ],
+    "serious_adverse_effects": [
+      "Allergic contact dermatitis",
+      "Severe periungual blistering (rare)"
+    ],
+    "drug_interactions": [
+      "No clinically significant drug interactions reported due to minimal systemic absorption"
+    ],
+    "monitoring": [
+      "Clinical examination of nail growth from nail fold",
+      "Scalp inspection for reduction in scaling and erythema"
+    ],
+    "pregnancy": "Category B; minimal systemic absorption, safe for localized topical use in pregnancy.",
+    "lactation": "Excreted in human milk in trace amounts; compatible with breastfeeding (avoid applying to breast).",
+    "pediatric": "Approved for pediatric patients 10 years and older for onychomycosis; 16 years and older for seborrheic dermatitis.",
+    "geriatric": "No dosage adjustment required.",
+    "renal": "No dosage adjustment required (topical).",
+    "hepatic": "No dosage adjustment required (topical).",
+    "advantages": [
+      "Unique metal chelation mechanism prevents development of fungal cross-resistance with azoles",
+      "Triple antifungal, antibacterial, and anti-inflammatory action ideal for seborrheic dermatitis",
+      "Non-toxic alternative to oral antifungals for superficial nail fungus"
+    ],
+    "disadvantages": [
+      "Requires daily nail lacquer application for up to 48 weeks for complete cure",
+      "Lower mycological cure rates than oral terbinafine for thick toenails"
+    ],
+    "key_points": [
+      "Apply 8% nail lacquer daily to infected nails for 6-12 months; wipe off with alcohol every 7 days",
+      "1% shampoo used twice weekly clears stubborn dandruff and seborrheic dermatitis"
+    ],
+    "memory_trick": "CICLO-pirox: Chelates Iron; Cleans Out nail fungus; Calms Itchy Seborrheic Scalp.",
+    "key_suffix": "-pirox",
+    "pronunciation_en": "sye-kloe-PEER-ox",
+    "pronunciation_hi": "\u0938\u093f\u0915\u094d\u0932\u094b-\u092a\u093f\u0930\u0949\u0915\u094d\u0938",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "nystatin",
+    "generic_name": "Nystatin",
+    "display_name": "Nystatin",
+    "active_ingredient": "Nystatin",
+    "salt": "Nystatin",
+    "category": "Antifungals",
+    "description": "A classical polyene macrolide antifungal not absorbed from the gastrointestinal tract, serving as the gold standard topical and oral suspension treatment for oral candidiasis (thrush).",
+    "strengths": [
+      "100,000 units/mL oral suspension",
+      "100,000 units/g topical cream",
+      "100,000 units vaginal tablet"
+    ],
+    "dosage_forms": [
+      "Oral Suspension",
+      "Topical Cream",
+      "Topical Ointment",
+      "Vaginal Tablet"
+    ],
+    "routes": [
+      "Oral (Topical Swish and Swallow)",
+      "Topical",
+      "Vaginal"
+    ],
+    "mechanism_of_action": "Binds irreversibly to ergosterol in the fungal cell membrane, forming transmembrane pores and barrel-like channels that leak potassium and essential cellular constituents, causing fungal cell death.",
+    "pharmacodynamics": "Fungicidal and fungistatic against Candida albicans and other Candida species; completely inactive against bacteria, viruses, and dermatophytes.",
+    "absorption": "Not absorbed from intact skin, mucous membranes, or the gastrointestinal tract; acts purely locally.",
+    "distribution": "Confined entirely to the lumen of the gastrointestinal tract or the site of topical application; zero systemic distribution.",
+    "metabolism": "Not metabolized; passes through the gastrointestinal tract unchanged.",
+    "excretion": "Excreted 100% unchanged in the faeces following oral administration.",
+    "bioavailability": "0% (negligible gastrointestinal absorption)",
+    "half_life": "Not applicable (not absorbed systemically)",
+    "protein_binding": "Not applicable",
+    "onset": "Local antifungal relief within 24 to 48 hours",
+    "duration": "6 hours (administered 4 times daily)",
+    "indications": [
+      "Oral candidiasis (oral thrush in infants, children, and adults - 'swish and swallow')",
+      "Denture stomatitis and angular cheilitis",
+      "Cutaneous candidiasis (diaper dermatitis, intertrigo)",
+      "Vulvovaginal candidiasis (topical ovules)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to nystatin or formulation excipients"
+    ],
+    "warnings": [
+      "Oral suspension should be retained in the mouth as long as possible before swallowing ('swish and swallow')",
+      "In infants, apply half dose to each side of the mouth after feeding",
+      "Not for the treatment of systemic fungal infections"
+    ],
+    "common_adverse_effects": [
+      "Nausea",
+      "Diarrhoea (with large oral doses)",
+      "Vomiting",
+      "Oral irritation",
+      "Mild skin burning"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypersensitivity / contact dermatitis (rare)",
+      "Stevens-Johnson syndrome (extremely rare)"
+    ],
+    "drug_interactions": [
+      "No systemic drug-drug interactions because the drug is not absorbed into the bloodstream"
+    ],
+    "monitoring": [
+      "Visual inspection of oral cavity for resolution of white plaques (curds)"
+    ],
+    "pregnancy": "Category C; virtually zero systemic absorption, widely considered safe in pregnancy for oral and vaginal thrush.",
+    "lactation": "Compatible with breastfeeding; not absorbed into maternal circulation.",
+    "pediatric": "First-line treatment of choice for neonatal and pediatric oral thrush (100,000 units four times daily).",
+    "geriatric": "No dosage adjustment required; excellent safety in elderly denture wearers.",
+    "renal": "No dosage adjustment required in renal failure (not absorbed).",
+    "hepatic": "No dosage adjustment required in hepatic disease (not absorbed).",
+    "advantages": [
+      "Zero systemic absorption guarantees an exceptional safety profile with zero organ toxicity",
+      "First-line gold standard for infant oral thrush and denture stomatitis",
+      "Virtually zero emergence of fungal resistance despite decades of use"
+    ],
+    "disadvantages": [
+      "Completely ineffective for systemic fungal infections",
+      "Requires frequent dosing (four times daily) and must be swished in the mouth"
+    ],
+    "key_points": [
+      "First-line treatment for oral thrush: 'Swish and swallow' 4 times daily for 7 to 14 days",
+      "Safe in newborns and elderly patients because it is not absorbed into the blood"
+    ],
+    "memory_trick": "NYSTATIN: New York State lab discovery; No Systemic absorption; Treats All Thrush In Neonates.",
+    "key_suffix": "-statin",
+    "pronunciation_en": "nye-STAT-in",
+    "pronunciation_hi": "\u0928\u093e\u0907\u0938\u094d\u091f\u0948\u091f\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "favipiravir",
+    "generic_name": "Favipiravir",
+    "display_name": "Favipiravir",
+    "active_ingredient": "Favipiravir",
+    "salt": "Favipiravir",
+    "category": "Antivirals",
+    "description": "An oral pyrazinecarboxamide antiviral prodrug that selectively inhibits viral RNA-dependent RNA polymerase (RdRp), approved for novel or re-emerging pandemic influenza strains.",
+    "strengths": [
+      "200 mg",
+      "400 mg",
+      "800 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Phosphoribosylated intracellularly to active favipiravir ribofuranosyltriphosphate (favipiravir-RTP), which selectively inhibits viral RNA-dependent RNA polymerase (RdRp) or incorporates into viral RNA, causing chain termination and lethal mutagenesis.",
+    "pharmacodynamics": "Broad antiviral activity against RNA viruses including Influenza A, B, and C viruses, Arenaviruses, Bunyaviruses, Filoviruses (Ebola), and Coronaviruses.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 1 hour; 97% oral bioavailability; food slightly delays absorption.",
+    "distribution": "Apparent volume of distribution approx. 15 to 20 L; 54% bound to plasma proteins.",
+    "metabolism": "Metabolized in the liver primarily by aldehyde oxidase (AO) and to a lesser extent by xanthine oxidase to inactive T-705M1; not cleared by CYP enzymes.",
+    "excretion": "Excreted almost entirely in urine (approx. 90%) as the inactive hydroxylated metabolite T-705M1.",
+    "bioavailability": "97%",
+    "half_life": "2 to 5.5 hours (dose-dependent saturable kinetics)",
+    "protein_binding": "54%",
+    "onset": "1 hour",
+    "duration": "12 hours (dosed twice daily after loading dose)",
+    "indications": [
+      "Treatment of novel or re-emerging pandemic influenza virus infections refractory to standard neuraminidase inhibitors",
+      "Investigational use in severe emerging RNA virus outbreaks (Ebola, Lassa fever)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to favipiravir",
+      "Pregnancy and lactation (STRICTLY CONTRAINDICATED due to high teratogenic and embryotoxic risk)",
+      "Severe hepatic failure"
+    ],
+    "warnings": [
+      "Black box warning: Teratogenicity and early embryonic lethality; verified negative pregnancy test mandatory; reliable contraception required for women and men during and for 7 days post-treatment",
+      "Hyperuricemia: elevates blood uric acid levels substantially (use caution in gout)",
+      "Elevated liver transaminases (ALT/AST)"
+    ],
+    "common_adverse_effects": [
+      "Hyperuricemia (increased serum uric acid in up to 15-20% of patients)",
+      "Diarrhoea",
+      "Elevated ALT and AST",
+      "Nausea",
+      "Decreased neutrophil count"
+    ],
+    "serious_adverse_effects": [
+      "Severe teratogenic fetal malformations",
+      "Acute gouty arthritis attack",
+      "Drug-induced hepatitis / jaundice"
+    ],
+    "drug_interactions": [
+      "Theophylline (favipiravir increases theophylline blood levels)",
+      "Pyrazinamide (additive hyperuricemic effect)",
+      "Repaglinide (CYP2C8 inhibition increases repaglinide levels)"
+    ],
+    "monitoring": [
+      "Serum pregnancy test prior to initiation in all females of reproductive potential",
+      "Serum uric acid at baseline and during therapy",
+      "Liver function tests (ALT/AST)"
+    ],
+    "pregnancy": "Strictly contraindicated (Category X); produces severe fetal anatomical malformations, limb defects, and embryo-fetal death.",
+    "lactation": "Contraindicated; excreted into breast milk.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "Dose reduction and close monitoring required due to age-related renal and hepatic clearance changes.",
+    "renal": "Uric acid accumulates in renal impairment; monitor serum uric acid and eGFR.",
+    "hepatic": "Dose reduction required in moderate hepatic impairment; contraindicated in severe cirrhosis.",
+    "advantages": [
+      "Broad antiviral activity against diverse RNA virus families that carry resistant RdRp mutations",
+      "Near 100% oral bioavailability with rapid cellular uptake",
+      "Effective against oseltamivir-resistant influenza strains"
+    ],
+    "disadvantages": [
+      "Severe teratogenicity restricts use to emergency pandemic situations",
+      "Substantial elevations in blood uric acid trigger acute gout"
+    ],
+    "key_points": [
+      "Oral antiviral for pandemic influenza resistant to Tamiflu",
+      "STRICTLY CONTRAINDICATED IN PREGNANCY (causes severe birth defects); raises uric acid"
+    ],
+    "memory_trick": "FAVI-piravir: Fast Acting Viral RdRp Inhibitor; Fatal to Fetus (teratogenic); Avoid In gout.",
+    "key_suffix": "-piravir",
+    "pronunciation_en": "fa-vi-PEER-a-veer",
+    "pronunciation_hi": "\u092b\u093c\u093e\u0935\u093f-\u092a\u093f\u0930\u093e\u0935\u093f\u0930",
+    "status": "active",
+    "verification_status": "verified"
+  }
+]

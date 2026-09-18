@@ -1,0 +1,2309 @@
+[
+  {
+    "slug": "lansoprazole",
+    "generic_name": "Lansoprazole",
+    "display_name": "Lansoprazole Delayed-Release",
+    "active_ingredient": "Lansoprazole",
+    "salt": "Lansoprazole",
+    "category": "Gastrointestinal",
+    "description": "A substituted benzimidazole proton pump inhibitor (PPI) that suppresses gastric acid secretion, used for GERD, peptic ulcers, and H. pylori eradication.",
+    "strengths": [
+      "15 mg",
+      "30 mg",
+      "30 mg orally disintegrating tablet (ODT)"
+    ],
+    "dosage_forms": [
+      "Delayed-Release Capsule",
+      "Orally Disintegrating Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Accumulates in the acidic secretory canaliculi of parietal cells and converts to active sulfenamide; irreversibly binds via disulfide bonds to the H+/K+-ATPase proton pump, blocking the final step of acid secretion.",
+    "pharmacodynamics": "Inhibits both basal and stimulated gastric acid secretion by >80-90%; elevates intragastric pH above 4, promoting mucosal ulcer healing and enhancing antibiotic efficacy against H. pylori.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 1.5 to 2 hours; 80-85% bioavailability on first dose; food reduces absorption by 50% (MUST BE TAKEN 30-60 MINUTES BEFORE BREAKFAST).",
+    "distribution": "Apparent volume of distribution approx. 0.4 L/kg; 97% bound to human plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver by CYP2C19 and CYP3A4 to inactive 5-hydroxylansoprazole and lansoprazole sulfone.",
+    "excretion": "Excreted in faeces (approx. 67% via biliary elimination) and urine (approx. 33% as metabolites); zero unchanged drug in urine.",
+    "bioavailability": "80% to 85% (fasting; take before breakfast)",
+    "half_life": "1.5 hours in plasma; biological pump inhibition lasts 24 to 48 hours",
+    "protein_binding": "97%",
+    "onset": "Acid suppression begins within 1 to 2 hours",
+    "duration": "24 hours",
+    "indications": [
+      "Erosive esophagitis and gastroesophageal reflux disease (GERD)",
+      "Gastric and duodenal ulcers",
+      "Helicobacter pylori eradication (combined with clarithromycin and amoxicillin)",
+      "NSAID-induced gastric ulcer healing and prevention",
+      "Zollinger-Ellison syndrome (hypersecretory states)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to lansoprazole or substituted benzimidazoles",
+      "Concomitant use with rilpivirine-containing products"
+    ],
+    "warnings": [
+      "Must take 30-60 minutes before breakfast for maximal acid pump activation",
+      "Long-term use risks: hypomagnesemia, vitamin B12 deficiency, Clostridioides difficile-associated diarrhoea, and bone fractures",
+      "Do not crush or chew delayed-release granules (ODT tablets dissolve on tongue)"
+    ],
+    "common_adverse_effects": [
+      "Diarrhoea",
+      "Abdominal pain",
+      "Nausea",
+      "Headache",
+      "Constipation",
+      "Flatulence"
+    ],
+    "serious_adverse_effects": [
+      "Clostridioides difficile colitis",
+      "Severe hypomagnesemia / tetany (with >1 year therapy)",
+      "Acute interstitial nephritis (AIN)",
+      "Subacute cutaneous lupus erythematosus (SCLE)"
+    ],
+    "drug_interactions": [
+      "Clopidogrel (CYP2C19 competition may modestly reduce active metabolite formation; lower interaction than omeprazole)",
+      "Ketoconazole, itraconazole, atazanavir (reduced gastric acid impairs antifungal/antiretroviral absorption)",
+      "Methotrexate (PPIs increase methotrexate levels)"
+    ],
+    "monitoring": [
+      "Serum magnesium levels prior to starting and annually in long-term therapy",
+      "Serum vitamin B12 in chronic therapy (>2-3 years)",
+      "Bone mineral density in high-risk osteoporosis patients"
+    ],
+    "pregnancy": "Category B; reassuring human pregnancy registry data; safe when clinically indicated.",
+    "lactation": "Excreted in human milk in low amounts; compatible with breastfeeding.",
+    "pediatric": "Approved in children 1 year and older for GERD and erosive esophagitis (ODT formulation ideal for pediatric swallowing).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Dose reduction to 15 mg daily recommended in severe hepatic cirrhosis.",
+    "advantages": [
+      "Orally disintegrating tablet (ODT) formulation dissolves on the tongue without water, ideal for pediatrics, dysphagia, and bedridden patients",
+      "Highest first-dose bioavailability (80-85%) among classical PPIs",
+      "Safer CYP2C19 interaction profile than omeprazole"
+    ],
+    "disadvantages": [
+      "Requires strict pre-meal timing (30-60 minutes before breakfast)",
+      "Long-term use carries risks of low magnesium, bone fractures, and gut infections"
+    ],
+    "key_points": [
+      "Take 30 minutes before your morning meal for best acid relief",
+      "Orally disintegrating tablet melts on the tongue without needing water"
+    ],
+    "memory_trick": "LANSO-prazole: Lasts 24 hours; Absorbs best before breakfast; Novel Orally disintegrating tablet available.",
+    "key_suffix": "-prazole",
+    "pronunciation_en": "lan-SOE-pra-zole",
+    "pronunciation_hi": "\u0932\u0948\u0928\u094d\u0938\u094b-\u092a\u094d\u0930\u093e\u091c\u093c\u094b\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "dexlansoprazole",
+    "generic_name": "Dexlansoprazole",
+    "display_name": "Dexlansoprazole Dual Delayed Release",
+    "active_ingredient": "Dexlansoprazole",
+    "salt": "Dexlansoprazole",
+    "category": "Gastrointestinal",
+    "description": "An R-enantiomer proton pump inhibitor featuring Dual Delayed Release (DDR) technology, providing two distinct drug releases over 24 hours and flexible dosing without regard to meals.",
+    "strengths": [
+      "30 mg",
+      "60 mg"
+    ],
+    "dosage_forms": [
+      "Dual Delayed-Release Capsule"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Pure (R)-enantiomer of lansoprazole; selectively inhibits gastric H+/K+-ATPase in parietal cells; unique Dual Delayed Release formulation contains two types of enteric-coated granules: the first release occurs in the duodenum at pH 5.5 (1-2 hours post-dose), and the second release occurs in the distal ileum at pH 6.75 (4-5 hours post-dose).",
+    "pharmacodynamics": "Produces a dual-peaked plasma concentration profile, extending the duration of acid suppression throughout the day and night; maintains intragastric pH > 4 for over 17 hours daily, effectively healing severe reflux esophagitis and relieving nocturnal heartburn.",
+    "absorption": "Dual enteric release: first peak in 1 to 2 hours; second peak in 4 to 5 hours; CAN BE TAKEN WITHOUT REGARD TO FOOD (unique among PPIs).",
+    "distribution": "Apparent volume of distribution approx. 40 L; highly bound to human plasma proteins (96-99%).",
+    "metabolism": "Extensively metabolized in the liver by CYP2C19 (hydroxylation) and CYP3A4 (sulfone formation).",
+    "excretion": "Excreted in urine (approx. 51%) and faeces (approx. 48%) as inactive metabolites; zero unchanged parent drug.",
+    "bioavailability": "High dual-phase bioavailability (unaffected by food)",
+    "half_life": "1 to 2 hours in plasma; dual release provides 24-hour acid suppression",
+    "protein_binding": "96% to 99%",
+    "onset": "Rapid within 1 to 2 hours",
+    "duration": "24 hours (dual peak)",
+    "indications": [
+      "Healing of all grades of erosive esophagitis (60 mg once daily for up to 8 weeks)",
+      "Maintenance of healed erosive esophagitis and relief of heartburn (30 mg once daily)",
+      "Treatment of symptomatic non-erosive gastroesophageal reflux disease (GERD - 30 mg once daily)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to dexlansoprazole or PPIs",
+      "Concurrent use with rilpivirine"
+    ],
+    "warnings": [
+      "Can be taken WITHOUT REGARD TO MEALS (unique convenience advantage over other PPIs)",
+      "Long-term risks: hypomagnesemia, C. difficile colitis, bone fractures, vitamin B12 deficiency",
+      "Capsules may be opened and sprinkled on applesauce if swallowing is difficult"
+    ],
+    "common_adverse_effects": [
+      "Diarrhoea (most common)",
+      "Abdominal pain",
+      "Nausea",
+      "Upper respiratory tract infection",
+      "Flatulence"
+    ],
+    "serious_adverse_effects": [
+      "Clostridioides difficile-associated diarrhoea",
+      "Hypomagnesemia / cardiac arrhythmias",
+      "Bone fractures / osteoporosis (with high-dose chronic use)",
+      "Acute interstitial nephritis"
+    ],
+    "drug_interactions": [
+      "Methotrexate (elevates methotrexate levels)",
+      "Drugs dependent on gastric pH (ketoconazole, atazanavir, iron salts - decreased absorption)",
+      "Warfarin (monitor INR)",
+      "Tacrolimus"
+    ],
+    "monitoring": [
+      "Serum magnesium prior to starting and periodically during prolonged therapy",
+      "Symptomatic relief of nocturnal heartburn and GERD",
+      "Liver enzymes in hepatic impairment"
+    ],
+    "pregnancy": "Category B; animal studies show no teratogenicity; safe when clearly needed.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Approved for pediatric patients 12 years and older for GERD and erosive esophagitis.",
+    "geriatric": "No dosage adjustment required in elderly patients.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No adjustment needed in mild hepatic impairment; maximum 30 mg daily in moderate hepatic impairment (Child-Pugh Class B); not recommended in severe cirrhosis.",
+    "advantages": [
+      "Only PPI with Dual Delayed Release (DDR) technology, producing two distinct plasma peaks that eliminate nocturnal acid breakthrough",
+      "Dose can be taken AT ANY TIME OF DAY WITHOUT REGARD TO MEALS",
+      "Superior healing rates for severe erosive esophagitis (Grade C and D)"
+    ],
+    "disadvantages": [
+      "Higher cost than older generic omeprazole/pantoprazole",
+      "Same class-wide long-term risks (low magnesium, fracture risk)"
+    ],
+    "key_points": [
+      "The only acid pill you can take ANY time of day, with or without food",
+      "Dual-release beads keep acid blocked all day and through the entire night"
+    ],
+    "memory_trick": "DEXLANSO-prazole: Dual Enteric X-release; Day & Night acid control; Any time dosing (no food rule).",
+    "key_suffix": "-prazole",
+    "pronunciation_en": "dex-lan-SOE-pra-zole",
+    "pronunciation_hi": "\u0921\u0947\u0915\u094d\u0938\u0932\u0948\u0928\u094d\u0938\u094b-\u092a\u094d\u0930\u093e\u091c\u093c\u094b\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "ilaprazole",
+    "generic_name": "Ilaprazole",
+    "display_name": "Ilaprazole",
+    "active_ingredient": "Ilaprazole",
+    "salt": "Ilaprazole",
+    "category": "Gastrointestinal",
+    "description": "A novel third-generation proton pump inhibitor with an extended plasma half-life and non-enzymatic clearance, providing superior nocturnal acid suppression and minimal CYP2C19 drug interactions.",
+    "strengths": [
+      "5 mg",
+      "10 mg"
+    ],
+    "dosage_forms": [
+      "Enteric-Coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Irreversibly inhibits the gastric parietal H+/K+-ATPase pump; contains a pyrrole ring substituent that prolongs binding to sulfhydryl groups on the enzyme, conferring slow dissociation and prolonged antisecretory action.",
+    "pharmacodynamics": "Produces potent, dose-dependent, and sustained inhibition of gastric acid secretion; achieves higher 24-hour and nocturnal intragastric pH than omeprazole 20 mg; cleared predominantly by non-CYP pathways, minimizing genetic variability between extensive and poor metabolizers.",
+    "absorption": "Rapidly absorbed from small intestine; peak plasma concentration in 3 to 4 hours; take 30 minutes before breakfast.",
+    "distribution": "Extensively distributed into gastric mucosa; >95% bound to plasma proteins.",
+    "metabolism": "Metabolized in the liver primarily by CYP3A4/5 and non-enzymatic sulfoxidation; MINIMAL INVOLVEMENT OF CYP2C19 (eliminates genetic polymorphism differences).",
+    "excretion": "Excreted in faeces (approx. 70%) and urine (approx. 25-30%) as metabolites.",
+    "bioavailability": "Approximately 70%",
+    "half_life": "3 to 4 hours in plasma (longer than omeprazole's 0.7h half-life)",
+    "protein_binding": ">95%",
+    "onset": "1 to 2 hours",
+    "duration": "Over 24 hours",
+    "indications": [
+      "Duodenal and gastric peptic ulcers",
+      "Erosive and non-erosive gastroesophageal reflux disease (GERD)",
+      "Nocturnal gastric acid breakthrough in refractory GERD patients"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to ilaprazole or substituted benzimidazoles",
+      "Concurrent use with atazanavir or rilpivirine"
+    ],
+    "warnings": [
+      "Take 30 minutes before breakfast",
+      "Swallow tablets whole; do not chew or crush",
+      "Safe in CYP2C19 poor and rapid metabolizers due to non-CYP2C19 clearance"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Dizziness",
+      "Diarrhoea",
+      "Nausea",
+      "Abdominal distension"
+    ],
+    "serious_adverse_effects": [
+      "Clostridioides difficile colitis",
+      "Severe hypomagnesemia (chronic use)",
+      "Acute interstitial nephritis (rare)"
+    ],
+    "drug_interactions": [
+      "Clopidogrel (SAFE: does NOT compete with CYP2C19, preserving clopidogrel antiplatelet activation)",
+      "pH-dependent drugs (ketoconazole, iron salts - reduced absorption)"
+    ],
+    "monitoring": [
+      "Clinical ulcer healing on endoscopy or symptom resolution",
+      "Serum magnesium in chronic therapy"
+    ],
+    "pregnancy": "Avoid in pregnancy due to limited human data; use established Category B PPIs (pantoprazole/lansoprazole).",
+    "lactation": "Excretion in human milk unknown; avoid during breastfeeding.",
+    "pediatric": "Safety and efficacy in children not established.",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Use with caution in moderate to severe hepatic impairment.",
+    "advantages": [
+      "Minimal CYP2C19 metabolism: safe to combine with clopidogrel without impairing antiplatelet activation",
+      "Longer plasma half-life (3-4 hours) provides superior nocturnal acid control",
+      "Small 10 mg tablet provides potent acid suppression"
+    ],
+    "disadvantages": [
+      "Limited availability in Western markets (widely approved in Asia, India, and China)",
+      "Less long-term pregnancy safety data than omeprazole"
+    ],
+    "key_points": [
+      "Advanced acid blocker that works safely with heart blood thinners like clopidogrel",
+      "Take once daily 30 minutes before breakfast"
+    ],
+    "memory_trick": "ILA-prazole: Improved Long-acting Acid blocker; Independent of CYP2C19; Ideal with clopidogrel.",
+    "key_suffix": "-prazole",
+    "pronunciation_en": "eye-LA-pra-zole",
+    "pronunciation_hi": "\u0907\u0932\u093e-\u092a\u094d\u0930\u093e\u091c\u093c\u094b\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "roxatidine",
+    "generic_name": "Roxatidine",
+    "display_name": "Roxatidine Acetate Hydrochloride",
+    "active_ingredient": "Roxatidine acetate hydrochloride",
+    "salt": "Roxatidine acetate hydrochloride",
+    "category": "Gastrointestinal",
+    "description": "A potent, competitive histamine H2-receptor antagonist with high oral bioavailability (95-100%) and zero antiandrogenic or CYP450 inhibitory actions, used for peptic ulcers and reflux esophagitis.",
+    "strengths": [
+      "75 mg",
+      "150 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Sustained-Release Capsule"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "De-acetylated in the liver and small intestine to active roxatidine, which competitively and selectively blocks histamine H2 receptors on the basolateral membrane of gastric parietal cells; prevents histamine-induced adenylate cyclase activation and cAMP-mediated gastric acid secretion.",
+    "pharmacodynamics": "Inhibits basal, nocturnal, food-stimulated, and pentagastrin-stimulated gastric acid and pepsin secretion; does NOT inhibit cytochrome P450 enzymes and does NOT possess antiandrogenic activity (zero gynecomastia or impotence).",
+    "absorption": "Rapidly and completely absorbed from GI tract; near 100% oral bioavailability; peak plasma levels in 1 to 2 hours; food has no effect.",
+    "distribution": "Widely distributed into tissues; low plasma protein binding (approx. 6-7%); volume of distribution approx. 1.5 L/kg.",
+    "metabolism": "Rapidly hydrolyzed in the liver by esterases to active roxatidine; minor glucuronidation.",
+    "excretion": "Excreted predominantly in urine (approx. 90% within 24 hours, with 50-60% as active roxatidine and remainder as metabolites).",
+    "bioavailability": "95% to 100% (highest bioavailability in H2RA class)",
+    "half_life": "6 hours (active metabolite)",
+    "protein_binding": "6% to 7%",
+    "onset": "30 to 60 minutes",
+    "duration": "12 to 24 hours (75 mg BID or 150 mg at bedtime)",
+    "indications": [
+      "Gastric and duodenal peptic ulcers",
+      "Gastroesophageal reflux disease (GERD) and reflux esophagitis",
+      "Prevention of stress ulcers and NSAID-associated gastropathy",
+      "Zollinger-Ellison syndrome adjunct"
+    ],
+    "contraindications": [
+      "Hypersensitivity to roxatidine or H2-receptor antagonists"
+    ],
+    "warnings": [
+      "Dose reduction mandatory in renal failure (CrCl < 50 mL/min) to prevent CNS confusion",
+      "H2-receptor antagonists develop pharmacodynamic tolerance (tachyphylaxis) after 2-4 weeks of continuous use",
+      "Does not interfere with liver CYP enzymes (clean drug interaction profile)"
+    ],
+    "common_adverse_effects": [
+      "Constipation or diarrhoea",
+      "Headache",
+      "Dizziness",
+      "Fatigue",
+      "Dry mouth"
+    ],
+    "serious_adverse_effects": [
+      "Reversible mental confusion / hallucinations (in elderly patients with renal failure)",
+      "Agranulocytosis / thrombocytopenia (rare)",
+      "Cardiac arrhythmias / bradycardia (rare)"
+    ],
+    "drug_interactions": [
+      "Free of CYP450 interactions (does NOT interact with warfarin, phenytoin, or theophylline, unlike cimetidine)",
+      "Drugs requiring acidic gastric pH (ketoconazole, itraconazole, atazanavir - reduced absorption)"
+    ],
+    "monitoring": [
+      "Renal function (creatinine clearance) prior to therapy",
+      "Relief of nocturnal dyspepsia / epigastric pain"
+    ],
+    "pregnancy": "Category B; limited data; use only if clearly needed (prefer famotidine).",
+    "lactation": "Excreted in human milk; compatible with caution or alternative H2RA.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "Higher susceptibility to CNS confusion; reduce dose and monitor mental status.",
+    "renal": "Dose reduction required: CrCl 20-50 mL/min: 75 mg once daily at bedtime; CrCl < 20 mL/min: 75 mg every other day.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Near 100% oral bioavailability guarantees predictable acid suppression",
+      "Completely free of CYP450 drug interactions and free of antiandrogenic side effects (unlike cimetidine)",
+      "Convenient single bedtime dose (150 mg) for peptic ulcer healing"
+    ],
+    "disadvantages": [
+      "Develops tachyphylaxis (tolerance) with chronic continuous use",
+      "Less potent acid suppression than proton pump inhibitors"
+    ],
+    "key_points": [
+      "Safe stomach acid reducer that does not interfere with other medications or liver enzymes",
+      "Take 75 mg twice daily or 150 mg once at bedtime"
+    ],
+    "memory_trick": "ROXA-tidine: Reliable 100% absorption; Outperforms cimetidine (zero CYP block); eXcellent for Night acid.",
+    "key_suffix": "-tidine",
+    "pronunciation_en": "rox-A-ti-deen",
+    "pronunciation_hi": "\u0930\u094b\u0915\u094d\u0938\u093e-\u091f\u093f\u0921\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "cimetidine",
+    "generic_name": "Cimetidine",
+    "display_name": "Cimetidine",
+    "active_ingredient": "Cimetidine",
+    "salt": "Cimetidine",
+    "category": "Gastrointestinal",
+    "description": "The historical prototype histamine H2-receptor antagonist, characterized by potent CYP450 enzyme inhibition and antiandrogenic properties, now largely superseded by cleaner H2 blockers.",
+    "strengths": [
+      "200 mg",
+      "400 mg",
+      "800 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Competitively blocks histamine H2 receptors on parietal cells, reducing basal, nocturnal, and meal-stimulated gastric acid production; also binds to imidazole receptors and inhibits cytochrome P450 monooxygenases.",
+    "pharmacodynamics": "Reduces gastric acid output; uniquely possesses antiandrogenic activity (displaces dihydrotestosterone from androgen receptors and inhibits estrogen breakdown) and stimulates cell-mediated immunity (used off-label for recalcitrant viral warts).",
+    "absorption": "Rapidly absorbed (60-70%); peak plasma concentration in 1 to 2 hours; food slightly delays absorption.",
+    "distribution": "Widely distributed; volume of distribution approx. 1 L/kg; crosses blood-brain barrier and placenta; 15-20% protein bound.",
+    "metabolism": "Partially metabolized in the liver (approx. 30-40%) by CYP enzymes to cimetidine sulfoxide.",
+    "excretion": "Excreted in urine (approx. 60-70% within 24 hours as unchanged parent drug); remainder in faeces.",
+    "bioavailability": "60% to 70%",
+    "half_life": "2 hours (prolonged in renal failure to 5-8 hours)",
+    "protein_binding": "15% to 20%",
+    "onset": "30 to 60 minutes",
+    "duration": "4 to 8 hours (requires 2-4 times daily dosing)",
+    "indications": [
+      "Gastric and duodenal ulcers (acute healing and maintenance)",
+      "Gastroesophageal reflux disease (GERD)",
+      "Pathological hypersecretory conditions (Zollinger-Ellison syndrome)",
+      "Off-label: recalcitrant cutaneous warts in children (immunomodulatory role)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to cimetidine"
+    ],
+    "warnings": [
+      "POTENT CYTOCHROME P450 INHIBITOR: Inhibits CYP1A2, CYP2C9, CYP2D6, and CYP3A4, causing dangerous elevations of warfarin, theophylline, phenytoin, and lidocaine",
+      "ANTIANDROGENIC EFFECTS: High-dose or long-term therapy causes gynecomastia, galactorrhea, decreased libido, and erectile dysfunction in men (fully reversible)",
+      "CNS toxicity (confusion, delirium, hallucinations) in elderly and renal patients"
+    ],
+    "common_adverse_effects": [
+      "Gynecomastia and breast tenderness in men (with chronic therapy)",
+      "Decreased libido / erectile dysfunction",
+      "Diarrhoea",
+      "Dizziness",
+      "Headache",
+      "Fatigue"
+    ],
+    "serious_adverse_effects": [
+      "Severe mental confusion / delirium in elderly patients",
+      "Agranulocytosis / neutropenia (rare)",
+      "Bradycardia / hypotension (with rapid IV injection)"
+    ],
+    "drug_interactions": [
+      "Warfarin (CYP2C9 inhibition doubles INR; severe bleeding risk)",
+      "Theophylline (CYP1A2 inhibition causes theophylline toxicity)",
+      "Phenytoin (CYP2C9 inhibition causes phenytoin toxicity)",
+      "Lidocaine (increases lidocaine levels)"
+    ],
+    "monitoring": [
+      "Mental status in elderly or renal patients",
+      "Serum creatinine and eGFR",
+      "Prothrombin time (INR) if patient is taking warfarin"
+    ],
+    "pregnancy": "Category B; crosses placenta; widely used historically with no documented teratogenicity.",
+    "lactation": "Excreted in high concentrations in breast milk; compatible with caution or prefer famotidine.",
+    "pediatric": "Approved for pediatric ulcer disease and off-label for viral warts (20-40 mg/kg/day).",
+    "geriatric": "High risk of CNS confusion and drug interactions; start at reduced dose (200-400 mg daily).",
+    "renal": "Dose reduction mandatory: CrCl 20-40 mL/min: 300 mg q12h; CrCl < 20 mL/min: 300 mg q24h.",
+    "hepatic": "Dose reduction required in severe hepatic cirrhosis.",
+    "advantages": [
+      "Historical landmark drug that revolutionized the medical treatment of peptic ulcers in 1976",
+      "Immunomodulatory properties make it an effective, painless oral treatment for pediatric viral warts",
+      "Multiple daily dosing options"
+    ],
+    "disadvantages": [
+      "Potent CYP450 inhibitor causing dangerous drug interactions with warfarin, theophylline, and phenytoin",
+      "Causes painful breast enlargement (gynecomastia) and impotence in men"
+    ],
+    "key_points": [
+      "Historical acid blocker with many drug interactions; inform your doctor of all your other medications",
+      "Can cause breast swelling or tenderness in men with long-term use"
+    ],
+    "memory_trick": "CIMETI-dine: Classic H2 blocker; Inhibits Cytochrome P450 (interacts with Warfarin); Men get gynecomastia; Elderly get confused.",
+    "key_suffix": "-tidine",
+    "pronunciation_en": "sye-MET-i-deen",
+    "pronunciation_hi": "\u0938\u093f\u092e\u0947\u091f\u0940-\u0921\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "levosulpiride",
+    "generic_name": "Levosulpiride",
+    "display_name": "Levosulpiride",
+    "active_ingredient": "Levosulpiride",
+    "salt": "Levosulpiride",
+    "category": "Gastrointestinal",
+    "description": "The levorotatory enantiomer of sulpiride with dual enteric dopamine D2-receptor antagonism and 5-HT4 receptor agonism, widely used in India for functional dyspepsia and diabetic gastroparesis.",
+    "strengths": [
+      "25 mg",
+      "75 mg SR",
+      "25 mg/2 mL injection"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Sustained-Release Capsule",
+      "Solution for Injection"
+    ],
+    "routes": [
+      "Oral",
+      "Intramuscular",
+      "Intravenous"
+    ],
+    "mechanism_of_action": "Selectively blocks enteric and central dopamine D2 receptors, removing the inhibitory effect of dopamine on gastrointestinal motility; concurrently acts as an agonist at 5-HT4 receptors on enteric cholinergic motor neurons, stimulating acetylcholine release from the myenteric plexus.",
+    "pharmacodynamics": "Accelerates gastric emptying, improves antroduodenal coordination, enhances lower esophageal sphincter (LES) tone, and reduces visceral gastrointestinal hypersensitivity; relieves postprandial fullness and bloating in functional dyspepsia.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 1 to 2 hours; absolute oral bioavailability approx. 30-40%; take 30 minutes before meals.",
+    "distribution": "Distributes into gastrointestinal tract and brain; low plasma protein binding (<40%); crosses blood-brain barrier.",
+    "metabolism": "Minimally metabolized in the liver (<10%); does not significantly inhibit or induce CYP enzymes.",
+    "excretion": "Excreted predominantly unchanged in urine via glomerular filtration and tubular secretion (approx. 70-80%).",
+    "bioavailability": "30% to 40%",
+    "half_life": "4 to 6 hours",
+    "protein_binding": "<40%",
+    "onset": "30 to 60 minutes",
+    "duration": "8 to 12 hours (25 mg TID before meals, or 75 mg SR once daily)",
+    "indications": [
+      "Functional dyspepsia (postprandial distress syndrome: bloating, early satiety, epigastric fullness)",
+      "Diabetic gastroparesis (delayed gastric emptying)",
+      "Gastroesophageal reflux disease (GERD - combined with PPIs)",
+      "Non-ulcer dyspepsia refractory to acid suppression"
+    ],
+    "contraindications": [
+      "Hypersensitivity to levosulpiride",
+      "Pheochromocytoma (dopamine antagonists can trigger hypertensive crises)",
+      "Gastrointestinal bleeding, mechanical intestinal obstruction, or perforation",
+      "Epilepsy or patients in manic states",
+      "Hyperprolactinemia, prolactinoma, or hormone-dependent breast carcinoma"
+    ],
+    "warnings": [
+      "HYPERPROLACTINEMIA: Blocks dopamine D2 receptors in the pituitary gland, removing dopamine's tonic inhibition on prolactin; causes galactorrhea, amenorrhea, gynecomastia, and loss of libido",
+      "EXTRAPYRAMIDAL SYMPTOMS: Can trigger drug-induced parkinsonism, acute dystonia, tremor, and tardive dyskinesia with prolonged use",
+      "Drowsiness / somnolence (avoid driving)",
+      "Limit therapy to 4-8 weeks to avoid neurological and endocrine side effects"
+    ],
+    "common_adverse_effects": [
+      "Somnolence / drowsiness",
+      "Fatigue",
+      "Amenorrhea (missed menstrual periods in females)",
+      "Galactorrhea (breast milk leakage)",
+      "Gynecomastia in males",
+      "Weight gain"
+    ],
+    "serious_adverse_effects": [
+      "Drug-induced parkinsonism / severe tremors",
+      "Acute dystonic reactions (facial spasms, oculogyric crisis)",
+      "Tardive dyskinesia (with prolonged use >3-6 months)",
+      "Neuroleptic Malignant Syndrome (extremely rare)"
+    ],
+    "drug_interactions": [
+      "Anticholinergic drugs (atropine, dicyclomine - directly antagonize the prokinetic action of levosulpiride)",
+      "Central nervous system depressants, alcohol (additive sedation)",
+      "Dopamine agonists (levodopa, bromocriptine - mutual antagonism)"
+    ],
+    "monitoring": [
+      "Monitor for galactorrhea, menstrual irregularities, or breast tenderness at every visit",
+      "Examine for tremor, rigidity, or facial muscle spasms (discontinue immediately if extrapyramidal signs appear)",
+      "Serum prolactin levels if symptoms develop"
+    ],
+    "pregnancy": "Contraindicated in pregnancy; dopamine antagonists cross placenta and alter fetal neurodevelopment.",
+    "lactation": "Contraindicated during breastfeeding; excreted in human milk and stimulates excessive lactation.",
+    "pediatric": "Safety and efficacy in pediatric patients under 18 years not established.",
+    "geriatric": "High susceptibility to drug-induced parkinsonism, tremor, and falls; use lowest effective dose (25 mg BID) for short durations.",
+    "renal": "Dose reduction required: CrCl 30-50 mL/min: reduce dose by 50%; CrCl < 30 mL/min: reduce dose by 70%.",
+    "hepatic": "No dosage adjustment required in hepatic impairment.",
+    "advantages": [
+      "Dual D2 antagonism + 5-HT4 agonism provides superior prokinetic relief for postprandial fullness and bloating compared to older agents",
+      "Enhances PPI efficacy in refractory GERD when used as fixed-dose combination (e.g., Pantoprazole + Levosulpiride SR)",
+      "Low cardiac arrhythmia risk compared to cisapride"
+    ],
+    "disadvantages": [
+      "Causes breast milk leakage (galactorrhea), missed periods, and gynecomastia due to elevated prolactin",
+      "Can cause drug-induced Parkinson's tremors and facial spasms with long-term use"
+    ],
+    "key_points": [
+      "Take 25 mg 30 minutes before meals for stomach bloating and fullness",
+      "Stop the drug and call your doctor if you notice breast milk leakage, missed periods, or hand tremors"
+    ],
+    "memory_trick": "LEVO-sulpiride: Lower Enteric Velocity Overcome; Prokinetic D2 block; Prolactin surge (galactorrhea/amenorrhea); Parkinsonism risk.",
+    "key_suffix": "-sulpiride",
+    "pronunciation_en": "lee-voe-SUL-pi-ride",
+    "pronunciation_hi": "\u0932\u0947\u0935\u094b-\u0938\u0932\u094d\u092a\u093f\u0930\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "cinitapride",
+    "generic_name": "Cinitapride",
+    "display_name": "Cinitapride Hydrogen Tartrate",
+    "active_ingredient": "Cinitapride hydrogen tartrate",
+    "salt": "Cinitapride hydrogen tartrate",
+    "category": "Gastrointestinal",
+    "description": "A benzamide prokinetic with dual 5-HT4 agonism and 5-HT2 / D2 antagonism, used for functional dyspepsia and GERD with lower extrapyramidal risk than metoclopramide.",
+    "strengths": [
+      "1 mg",
+      "3 mg ER"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Extended-Release Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Stimulates gastrointestinal 5-HT4 receptors, promotes acetylcholine release from myenteric plexus neurons, and blocks inhibitory 5-HT2 and dopamine D2 receptors; enhances gastrointestinal motor coordination.",
+    "pharmacodynamics": "Accelerates gastric emptying, increases lower esophageal sphincter (LES) resting pressure, improves intestinal transit, and reduces gastroesophageal reflux; does NOT prolong the QTc interval at therapeutic doses.",
+    "absorption": "Rapidly absorbed from GI tract; peak plasma concentrations in 2 hours; take 15 minutes before meals.",
+    "distribution": "Widely distributed; 82% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 and to a lesser extent CYP2C8.",
+    "excretion": "Excreted in faeces (approx. 60%) via biliary elimination and urine (approx. 30%).",
+    "bioavailability": "Approximately 60%",
+    "half_life": "3 to 5 hours",
+    "protein_binding": "82%",
+    "onset": "30 to 60 minutes",
+    "duration": "8 hours (1 mg TID before meals; 3 mg ER once daily)",
+    "indications": [
+      "Functional dyspepsia (postprandial fullness, early satiety, epigastric bloating)",
+      "Gastroesophageal reflux disease (GERD - add-on to PPIs)",
+      "Delayed gastric emptying (gastroparesis)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to cinitapride",
+      "Gastrointestinal hemorrhage, mechanical obstruction, or perforation",
+      "Patients with a history of neuroleptic-induced tardive dyskinesia"
+    ],
+    "warnings": [
+      "Take 15 minutes before meals",
+      "Avoid concurrent strong CYP3A4 inhibitors (ketoconazole, erythromycin - increases cinitapride levels)",
+      "Mild sedation and drowsiness may occur"
+    ],
+    "common_adverse_effects": [
+      "Diarrhoea",
+      "Mild drowsiness / sedation",
+      "Nausea",
+      "Headache",
+      "Abdominal colic"
+    ],
+    "serious_adverse_effects": [
+      "Extrapyramidal reactions / acute dystonia (much less frequent than metoclopramide)",
+      "Hyperprolactinemia (rare)",
+      "Severe hypersensitivity rash"
+    ],
+    "drug_interactions": [
+      "Strong CYP3A4 inhibitors (ketoconazole, itraconazole, clarithromycin - increase cinitapride exposure)",
+      "Anticholinergics (atropine - antagonize prokinetic effect)",
+      "CNS depressants / alcohol (additive sedation)"
+    ],
+    "monitoring": [
+      "Symptomatic improvement in postprandial bloating and early satiety",
+      "Screen for tremor or muscle stiffness"
+    ],
+    "pregnancy": "Avoid in pregnancy; limited human clinical safety data.",
+    "lactation": "Excretion in human milk unknown; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "Initiate with standard or reduced dose; well tolerated in senior patients.",
+    "renal": "No dosage adjustment required in mild to moderate renal disease.",
+    "hepatic": "Use with caution in severe hepatic impairment (metabolized by CYP3A4).",
+    "advantages": [
+      "Lower risk of extrapyramidal symptoms and hyperprolactinemia compared to metoclopramide and levosulpiride",
+      "Does not cause cardiac QT prolongation, unlike cisapride",
+      "Convenient 3 mg once-daily extended-release formulation"
+    ],
+    "disadvantages": [
+      "Requires dosing 15 minutes before meals TID for standard tablets",
+      "CYP3A4 metabolic interactions with azole antifungals and macrolides"
+    ],
+    "key_points": [
+      "Prokinetic tablet that helps your stomach empty faster without causing breast swelling or spasms",
+      "Take 1 mg 15 minutes before breakfast, lunch, and dinner"
+    ],
+    "memory_trick": "CINITA-pride: Clears Indigestion; Normalizes Intestinal Transit; Action via 5-HT4; Pride without QT prolongation.",
+    "key_suffix": "-pride",
+    "pronunciation_en": "si-NI-ta-pride",
+    "pronunciation_hi": "\u0938\u093f\u0928\u093f\u091f\u093e-\u092a\u094d\u0930\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "mosapride",
+    "generic_name": "Mosapride",
+    "display_name": "Mosapride Citrate",
+    "active_ingredient": "Mosapride citrate",
+    "salt": "Mosapride citrate",
+    "category": "Gastrointestinal",
+    "description": "A selective gastroprokinetic 5-HT4 receptor agonist completely devoid of dopamine D2 and 5-HT1/5-HT2 affinity, providing pure prokinetic relief without extrapyramidal or cardiac QT toxicities.",
+    "strengths": [
+      "5 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively and potently stimulates 5-HT4 receptors on enteric cholinergic interneurons and motor neurons, stimulating intrinsic acetylcholine release from the myenteric plexus; lacks dopamine D2-receptor antagonist properties and does NOT block HERG potassium channels.",
+    "pharmacodynamics": "Enhances antral and duodenal contractile amplitude, accelerates gastric emptying, and coordinates upper GI motility; zero risk of extrapyramidal reactions (no D2 blockade) and zero risk of cardiac QT prolongation or Torsades de pointes (unlike cisapride).",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 0.8 to 1 hour; bioavailability approx. 30%; take before or after meals.",
+    "distribution": "Widely distributed; highly bound to human serum albumin (>99%).",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 to active des-4-fluorobenzyl metabolite (M-1).",
+    "excretion": "Excreted in faeces (approx. 60%) and urine (approx. 30-40% as metabolites); <1% unchanged parent drug in urine.",
+    "bioavailability": "Approximately 30%",
+    "half_life": "1.5 to 2 hours",
+    "protein_binding": ">99%",
+    "onset": "30 minutes",
+    "duration": "8 hours (5 mg TID)",
+    "indications": [
+      "Functional dyspepsia (postprandial distress syndrome: fullness, belching, nausea)",
+      "Chronic gastritis with impaired gastric emptying",
+      "Gastroesophageal reflux disease (GERD - combined with PPI therapy)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to mosapride citrate",
+      "Gastrointestinal hemorrhage, obstruction, or perforation"
+    ],
+    "warnings": [
+      "Liver function: rare cases of fulminant hepatitis and elevated liver transaminases reported (discontinue if jaundice appears)",
+      "Do not use for prolonged periods if dyspeptic symptoms do not improve after 2 weeks",
+      "Take consistently before or after meals"
+    ],
+    "common_adverse_effects": [
+      "Diarrhoea and loose stools (most common)",
+      "Dry mouth",
+      "Abdominal pain",
+      "Nausea",
+      "Headache"
+    ],
+    "serious_adverse_effects": [
+      "Fulminant hepatitis / severe drug-induced liver injury",
+      "Eosinophilia (rare)",
+      "Anaphylaxis"
+    ],
+    "drug_interactions": [
+      "Anticholinergic agents (scopolamine, dicyclomine - reduce mosapride efficacy)",
+      "Strong CYP3A4 inhibitors (erythromycin, ketoconazole - increase mosapride blood levels)"
+    ],
+    "monitoring": [
+      "Liver function tests (AST, ALT, total bilirubin) prior to long-term therapy",
+      "Symptomatic response in dyspepsia at 2 weeks"
+    ],
+    "pregnancy": "Avoid in pregnancy; insufficient safety data.",
+    "lactation": "Excreted in animal milk; avoid breastfeeding during therapy.",
+    "pediatric": "Safety and efficacy in children not established.",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Use with caution and monitor liver enzymes in preexisting hepatic disease.",
+    "advantages": [
+      "Pure 5-HT4 receptor agonist with ZERO dopamine D2 blockade: ZERO risk of tremors, facial spasms, or breast milk leakage",
+      "ZERO cardiotoxicity: does not block HERG potassium channels or cause fatal arrhythmias (safe alternative to cisapride)",
+      "Rapid onset of action within 30 to 60 minutes"
+    ],
+    "disadvantages": [
+      "Short half-life requires dosing three times daily (5 mg TID)",
+      "Rare reports of liver enzyme elevation requiring monitoring"
+    ],
+    "key_points": [
+      "Safest stomach emptying pill: will NOT cause muscle tremors, stiff face, or breast milk leakage",
+      "Take one 5 mg tablet three times daily before or after meals"
+    ],
+    "memory_trick": "MOSA-pride: Motility Organizer; Selective Agonist at 5-HT4; Pure prokinetic; Zero D2 spasms; Zero QT prolongation.",
+    "key_suffix": "-pride",
+    "pronunciation_en": "MOE-sa-pride",
+    "pronunciation_hi": "\u092e\u094b\u0938\u093e-\u092a\u094d\u0930\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "granisetron",
+    "generic_name": "Granisetron",
+    "display_name": "Granisetron Hydrochloride",
+    "active_ingredient": "Granisetron hydrochloride",
+    "salt": "Granisetron hydrochloride",
+    "category": "Antiemetics",
+    "description": "A potent, highly selective second-generation 5-HT3 receptor antagonist with a 9-hour half-life, used to prevent nausea and vomiting from emetogenic chemotherapy and radiotherapy.",
+    "strengths": [
+      "1 mg",
+      "2 mg",
+      "1 mg/mL IV ampoule",
+      "3.1 mg/24h transdermal patch"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Solution for Injection",
+      "Transdermal Patch"
+    ],
+    "routes": [
+      "Oral",
+      "Intravenous",
+      "Transdermal"
+    ],
+    "mechanism_of_action": "Selectively and competitively blocks serotonin 5-HT3 receptors on vagal afferents in the gastrointestinal tract and centrally in the chemoreceptor trigger zone (CTZ) and solitary tract nucleus (NTS); blocks peripheral and central serotonin emetic signaling.",
+    "pharmacodynamics": "Suppresses acute chemotherapy-induced nausea and vomiting (CINV) and radiation-induced nausea and vomiting (RINV); exhibits a longer half-life (9 hours) and higher 5-HT3 selectivity than ondansetron.",
+    "absorption": "Rapidly absorbed; 60% oral bioavailability; peak plasma concentration in 2 hours; unaffected by food.",
+    "distribution": "Apparent volume of distribution approx. 3 L/kg; 65% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver by CYP3A4 via N-demethylation and aromatic ring oxidation.",
+    "excretion": "Excreted in urine (approx. 12% unchanged parent drug; 38% as metabolites) and faeces (approx. 38% as metabolites).",
+    "bioavailability": "Approximately 60%",
+    "half_life": "9 hours in cancer patients (longer than ondansetron's 3-4 hours)",
+    "protein_binding": "65%",
+    "onset": "Oral: 1 hour; IV: within minutes",
+    "duration": "24 hours (1-2 mg once or twice daily; transdermal patch lasts 7 days)",
+    "indications": [
+      "Prevention of chemotherapy-induced nausea and vomiting (CINV - moderately and highly emetogenic chemotherapy)",
+      "Prevention and treatment of radiation-induced nausea and vomiting (RINV)",
+      "Prevention and treatment of postoperative nausea and vomiting (PONV)"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to granisetron or 5-HT3 antagonists"
+    ],
+    "warnings": [
+      "Dose-dependent QTc prolongation: use caution in patients with preexisting congenital long QT syndrome or hypokalemia/hypomagnesemia",
+      "Severe constipation: slows colonic transit (monitor for bowel obstruction)",
+      "Transdermal patch: apply 24-48 hours before chemotherapy; provides 7 days of continuous antiemetic coverage"
+    ],
+    "common_adverse_effects": [
+      "Headache (very common: up to 15-20%)",
+      "Constipation (due to GI 5-HT3 blockade)",
+      "Asthenia / fatigue",
+      "Somnolence",
+      "Transient transaminase elevation"
+    ],
+    "serious_adverse_effects": [
+      "Severe QTc prolongation / Torsades de pointes (rare)",
+      "Serotonin syndrome (when combined with SSRIs, SNRIs, or MAOIs)",
+      "Severe bowel obstruction / fecal impaction"
+    ],
+    "drug_interactions": [
+      "Serotonergic drugs (SSRIs, SNRIs, triptans - risk of serotonin syndrome)",
+      "CYP3A4 inducers (phenobarbital, carbamazepine - increase granisetron clearance)",
+      "QT-prolonging agents"
+    ],
+    "monitoring": [
+      "Baseline ECG for QTc interval in high-risk patients",
+      "Serum potassium and magnesium before chemotherapy",
+      "Stool frequency for constipation"
+    ],
+    "pregnancy": "Category B; widely used in pregnancy for refractory hyperemesis gravidarum without teratogenic harm.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Approved in pediatric oncology patients 2 years and older (10-40 mcg/kg IV).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment; clearance is lower in severe liver disease but well tolerated.",
+    "advantages": [
+      "Longer half-life (9 hours vs. 3-4 hours for ondansetron) allows once-daily or twice-daily dosing",
+      "Transdermal patch (Sancuso) provides 7 days of continuous needle-free antiemetic protection during multi-day chemotherapy",
+      "Higher selectivity for 5-HT3 receptors than ondansetron"
+    ],
+    "disadvantages": [
+      "Headache and constipation are common",
+      "Slight risk of QT prolongation"
+    ],
+    "key_points": [
+      "Take 1-2 mg one hour before chemotherapy to prevent severe nausea and vomiting",
+      "Transdermal patch can be placed on the upper arm for 7 days of continuous protection"
+    ],
+    "memory_trick": "GRANI-setron: Greater Receptor Affinity; Nine-hour half-life; Injection, oral & 7-day Patch; Stops emesis.",
+    "key_suffix": "-setron",
+    "pronunciation_en": "gra-NI-se-tron",
+    "pronunciation_hi": "\u0917\u094d\u0930\u0948\u0928\u093f-\u0938\u0947\u091f\u094d\u0930\u0949\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "palonosetron",
+    "generic_name": "Palonosetron",
+    "display_name": "Palonosetron Hydrochloride",
+    "active_ingredient": "Palonosetron hydrochloride",
+    "salt": "Palonosetron hydrochloride",
+    "category": "Antiemetics",
+    "description": "A potent second-generation 5-HT3 receptor antagonist with a 40-hour half-life and unique receptor allosteric binding, uniquely effective for both acute AND delayed chemotherapy-induced nausea and vomiting.",
+    "strengths": [
+      "0.5 mg capsule",
+      "0.25 mg/5 mL IV vial"
+    ],
+    "dosage_forms": [
+      "Soft Gelatin Capsule",
+      "Solution for Injection"
+    ],
+    "routes": [
+      "Oral",
+      "Intravenous"
+    ],
+    "mechanism_of_action": "High-affinity competitive and allosteric 5-HT3 receptor antagonist (binds with 100-fold higher affinity than ondansetron and granisetron); induces 5-HT3 receptor internalization and cross-talk inhibition with substance P (NK1) pathways.",
+    "pharmacodynamics": "Long-lasting suppression of both acute (day 1) and delayed (days 2-5) chemotherapy-induced nausea and vomiting (CINV); single IV dose provides 5 full days of antiemetic efficacy.",
+    "absorption": "Rapidly absorbed; 97% oral bioavailability; peak plasma concentration in 5 hours; unaffected by food.",
+    "distribution": "Apparent volume of distribution approx. 8.3 L/kg; 62% bound to human plasma proteins.",
+    "metabolism": "Metabolized in the liver (approx. 50%) by CYP2D6, and to a lesser extent CYP3A4 and CYP1A2, to inactive metabolites.",
+    "excretion": "Excreted in urine (approx. 80%, with 40% as unchanged parent drug) and faeces.",
+    "bioavailability": "Approximately 97%",
+    "half_life": "40 hours (prolonged terminal half-life provides 5 days of antiemetic protection)",
+    "protein_binding": "62%",
+    "onset": "IV: immediate; Oral: 1 to 2 hours",
+    "duration": "Over 72 to 120 hours (5 full days)",
+    "indications": [
+      "Prevention of acute and delayed chemotherapy-induced nausea and vomiting (CINV) associated with initial and repeat courses of moderately and highly emetogenic chemotherapy",
+      "Prevention of postoperative nausea and vomiting (PONV) for up to 24 hours following surgery"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to palonosetron or 5-HT3 antagonists"
+    ],
+    "warnings": [
+      "Single dose covers BOTH acute and delayed nausea: DO NOT REDOSE on subsequent days of the chemotherapy cycle",
+      "Constipation and headache",
+      "Serotonin syndrome when combined with multiple serotonergic agents"
+    ],
+    "common_adverse_effects": [
+      "Headache (most common)",
+      "Constipation",
+      "Dizziness",
+      "Fatigue",
+      "Transient transaminitis"
+    ],
+    "serious_adverse_effects": [
+      "Severe serotonin syndrome (rare)",
+      "Severe hypersensitivity / anaphylaxis",
+      "Bowel obstruction / fecal impaction (rare)"
+    ],
+    "drug_interactions": [
+      "Serotonergic drugs (SSRIs, SNRIs - risk of serotonin syndrome)",
+      "CYP2D6 / CYP3A4 inhibitors (minimal clinical impact)"
+    ],
+    "monitoring": [
+      "Stool frequency and bowel movements",
+      "Signs of serotonin syndrome (mental status changes, hyperreflexia, clonus)"
+    ],
+    "pregnancy": "Category B; animal studies show no teratogenicity; use only if clearly needed.",
+    "lactation": "Excretion in human milk unknown; breastfeeding not recommended.",
+    "pediatric": "Approved in pediatric patients 1 month and older for CINV (weight-based IV dosing: 20 mcg/kg).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in any degree of renal impairment.",
+    "hepatic": "No dosage adjustment required in hepatic impairment.",
+    "advantages": [
+      "Only 5-HT3 antagonist proven effective for DELAYED nausea (days 2 to 5) as well as acute nausea",
+      "Ultra-long 40-hour half-life allows a single dose to cover the entire chemotherapy cycle",
+      "No significant QTc prolongation at clinical doses (cleanest cardiac safety profile among setrons)"
+    ],
+    "disadvantages": [
+      "Higher cost than older generic ondansetron",
+      "Headache and constipation"
+    ],
+    "key_points": [
+      "A single IV dose given 30 minutes before chemo protects against nausea for 5 whole days",
+      "Does not need to be repeated every day of chemotherapy"
+    ],
+    "memory_trick": "PALONO-setron: Prolonged 40-hour Action; Lasts Over 5 days; Neutralizes delayed emesis; Once per chemo cycle.",
+    "key_suffix": "-setron",
+    "pronunciation_en": "pa-loe-NOE-se-tron",
+    "pronunciation_hi": "\u092a\u0948\u0932\u094b\u0928\u094b-\u0938\u0947\u091f\u094d\u0930\u0949\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "rolapitant",
+    "generic_name": "Rolapitant",
+    "display_name": "Rolapitant Hydrochloride",
+    "active_ingredient": "Rolapitant hydrochloride",
+    "salt": "Rolapitant hydrochloride",
+    "category": "Antiemetics",
+    "description": "A long-acting neurokinin-1 (NK1) receptor antagonist with an ultra-long 169-hour (7-day) half-life that does not inhibit CYP3A4, combined with a 5-HT3 antagonist and dexamethasone for highly emetogenic chemotherapy.",
+    "strengths": [
+      "90 mg (two tablets = 180 mg)"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively and competitively blocks substance P from binding to neurokinin-1 (NK1) receptors in the chemoreceptor trigger zone (CTZ) and solitary tract nucleus in the brainstem; does NOT inhibit or induce CYP3A4.",
+    "pharmacodynamics": "Profoundly suppresses delayed nausea and vomiting (days 2-5) caused by substance P release following cisplatin, anthracycline/cyclophosphamide chemotherapy; unique lack of CYP3A4 inhibition eliminates the need to reduce dexamethasone doses.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 4 hours; absolute oral bioavailability approx. 100%; unaffected by food.",
+    "distribution": "Volume of distribution approx. 460 L; highly bound to human plasma proteins (99.8%).",
+    "metabolism": "Metabolized in the liver primarily by CYP2C9 to active metabolite M19 (C4-pyrrolidine-hydroxylated rolapitant, which also possesses NK1 antagonism).",
+    "excretion": "Excreted in faeces (approx. 73%) and urine (approx. 14% as metabolites); zero unchanged drug in urine.",
+    "bioavailability": "Approximately 100%",
+    "half_life": "169 hours (approx. 7 days; active metabolite half-life 158 hours)",
+    "protein_binding": "99.8%",
+    "onset": "4 hours",
+    "duration": "Over 7 to 10 days (single dose per 2-week chemo cycle)",
+    "indications": [
+      "Prevention of delayed nausea and vomiting associated with initial and repeat courses of moderately and highly emetogenic cancer chemotherapy (combined with a 5-HT3 antagonist and dexamethasone)"
+    ],
+    "contraindications": [
+      "Concurrent use of thioridazine (strong CYP2D6 substrate - risk of fatal ventricular arrhythmias / QT prolongation)",
+      "Known hypersensitivity to rolapitant"
+    ],
+    "warnings": [
+      "DO NOT READMINISTER within a 2-week interval (ultra-long 7-day half-life provides multi-day receptor blockade; minimum interval between doses is 14 days)",
+      "MODERATE CYP2D6 INHIBITOR: Inhibits CYP2D6 for at least 7 days post-dose (increases levels of CYP2D6 substrates: dextromethorphan, nebivolol, thioridazine)",
+      "DOES NOT INHIBIT CYP3A4: unlike aprepitant, NO dose reduction of oral dexamethasone is needed"
+    ],
+    "common_adverse_effects": [
+      "Constipation",
+      "Fatigue / asthenia",
+      "Headache",
+      "Decreased appetite",
+      "Dizziness",
+      "Stomatitis"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypersensitivity / anaphylaxis",
+      "Severe ventricular arrhythmias (if combined with thioridazine)",
+      "Neutropenia (chemotherapy-related)"
+    ],
+    "drug_interactions": [
+      "Thioridazine (STRICTLY CONTRAINDICATED: CYP2D6 inhibition elevates thioridazine to lethal QT-prolonging levels)",
+      "CYP2D6 substrates (dextromethorphan, pimozide, encainide - increased drug levels)",
+      "Strong CYP3A4 inducers (rifampin - significantly reduces rolapitant levels)"
+    ],
+    "monitoring": [
+      "Chemotherapy-induced delayed nausea frequency on days 2 to 5",
+      "Screen for concomitant CYP2D6 medications"
+    ],
+    "pregnancy": "Avoid in pregnancy; insufficient human clinical safety data.",
+    "lactation": "Excreted in animal milk; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in any degree of renal impairment (including hemodialysis).",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment; not studied in severe cirrhosis.",
+    "advantages": [
+      "Ultra-long 7-day half-life: a single 180 mg dose before chemotherapy covers the entire delayed emesis window",
+      "DOES NOT INHIBIT CYP3A4 (unlike aprepitant): no need to adjust dexamethasone or chemotherapy doses",
+      "100% oral bioavailability"
+    ],
+    "disadvantages": [
+      "Must NOT be readministered sooner than every 14 days",
+      "Inhibits CYP2D6, interacting with drugs like thioridazine and dextromethorphan"
+    ],
+    "key_points": [
+      "Take 2 tablets (180 mg) once, 1 to 2 hours before your chemotherapy starts",
+      "Protects against delayed nausea for 7 full days; never repeat within 2 weeks"
+    ],
+    "memory_trick": "ROLA-pitant: Remains Over 7 days (169h half-life); Outclasses aprepitant (no CYP3A4 block); Lasting Anti-vomiting.",
+    "key_suffix": "-pitant",
+    "pronunciation_en": "roe-LA-pi-tant",
+    "pronunciation_hi": "\u0930\u094b\u0932\u093e-\u092a\u093f\u091f\u0947\u0902\u091f",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "polyethylene-glycol",
+    "generic_name": "Polyethylene Glycol 3350 (PEG 3350)",
+    "display_name": "PEG 3350 Powder for Oral Solution",
+    "active_ingredient": "Polyethylene glycol 3350",
+    "salt": "Polyethylene glycol 3350",
+    "category": "Gastrointestinal",
+    "description": "An unabsorbable, non-fermentable osmotic laxative that retains water in the intestinal lumen, serving as the gold standard first-line treatment for chronic constipation and bowel preparation.",
+    "strengths": [
+      "17 g powder sachet",
+      "119 g, 255 g, 510 g bulk powder bottles"
+    ],
+    "dosage_forms": [
+      "Powder for Oral Solution"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "High molecular weight linear polymer of ethylene glycol that forms hydrogen bonds with water molecules; remains entirely within the intestinal lumen without being absorbed, metabolized, or fermented by gut microbiota; creates an osmotic gradient that retains water inside the stool.",
+    "pharmacodynamics": "Hydrates, softens, and increases stool volume, restoring normal physiological bowel motility; does NOT cause electrolyte shifts, systemic dehydration, abdominal cramping, or bacterial flatulence (unlike lactulose).",
+    "absorption": "Negligible gastrointestinal absorption (<0.2%); acts purely locally in the bowel lumen.",
+    "distribution": "Confined 100% to the gastrointestinal tract; zero systemic tissue distribution.",
+    "metabolism": "Not metabolized by human enzymes; not fermented by colonic bacterial flora (zero gas production).",
+    "excretion": "Excreted 100% unchanged in the faeces; the trace absorbed fraction (<0.2%) is excreted in urine.",
+    "bioavailability": "0% (negligible systemic absorption)",
+    "half_life": "Not applicable (not absorbed)",
+    "protein_binding": "Not applicable",
+    "onset": "Produces bowel movement in 24 to 72 hours (chronic constipation); 1 to 3 hours (colonoscopy high-volume prep)",
+    "duration": "Active while passing through bowel",
+    "indications": [
+      "Chronic constipation (first-line gold standard medical therapy: 17 g powder dissolved in 120-240 mL water once daily)",
+      "Fecal impaction in children and adults (high-dose regimen)",
+      "Colonoscopy bowel preparation and radiological cleansing (large-volume solutions combined with electrolytes)"
+    ],
+    "contraindications": [
+      "Known or suspected mechanical bowel obstruction",
+      "Bowel perforation or toxic megacolon",
+      "Severe active inflammatory bowel disease (Crohn's, toxic colitis)"
+    ],
+    "warnings": [
+      "Dissolve powder completely in 120 to 240 mL of water, juice, tea, or soda before drinking",
+      "May take 24 to 72 hours (1-3 days) to produce a soft bowel movement",
+      "Not for acute emergency relief of severe impaction (use enema first)",
+      "Safe for daily long-term use without dependency or tolerance"
+    ],
+    "common_adverse_effects": [
+      "Abdominal bloating / fullness",
+      "Mild nausea",
+      "Cramping",
+      "Loose stools / diarrhoea (with excessive doses)"
+    ],
+    "serious_adverse_effects": [
+      "Severe diarrhea with dehydration and electrolyte depletion (rare)",
+      "Aspiration pneumonia (with large-volume colon prep in obtunded patients)"
+    ],
+    "drug_interactions": [
+      "No pharmacokinetic systemic drug interactions; may transiently decrease absorption of other oral medications taken simultaneously (separate by 2 hours)"
+    ],
+    "monitoring": [
+      "Stool frequency and consistency (Bristol Stool Scale)",
+      "Fluid intake and hydration status"
+    ],
+    "pregnancy": "Category C; virtually zero systemic absorption; gold standard safe laxative in pregnancy.",
+    "lactation": "Not absorbed into maternal circulation; completely safe during breastfeeding.",
+    "pediatric": "Approved and first-line choice for pediatric chronic functional constipation (0.4 to 0.8 g/kg/day).",
+    "geriatric": "First-line laxative of choice in the elderly (does not cause electrolyte depletion or gas).",
+    "renal": "No dosage adjustment required in renal failure (not absorbed).",
+    "hepatic": "No dosage adjustment required in hepatic disease (not absorbed).",
+    "advantages": [
+      "Gold standard first-line laxative globally: produces gentle, natural, predictable bowel movements without cramping",
+      "Not fermented by gut bacteria, causing significantly less gas and bloating than lactulose",
+      "Safe for long-term daily use without causing bowel dependence, tolerance, or electrolyte disturbances"
+    ],
+    "disadvantages": [
+      "Slow onset: takes 1 to 3 days to produce a bowel movement in chronic constipation",
+      "Requires dissolving 17 grams in a full glass of liquid daily"
+    ],
+    "key_points": [
+      "Mix 1 capful (17 grams) in a glass of water or juice once daily; completely tasteless",
+      "Softens stool gently over 1 to 3 days without painful cramping or bloating"
+    ],
+    "memory_trick": "PEG-3350: Purely Enteric Gradient; Pulls water into stool; Eliminates Constipation; Zero gas; Zero absorption.",
+    "key_suffix": "-glycol",
+    "pronunciation_en": "pol-ee-ETH-i-leen GLYE-kol",
+    "pronunciation_hi": "\u092a\u0949\u0932\u0940\u090f\u0925\u093f\u0932\u0940\u0928 \u0917\u094d\u0932\u093e\u0907\u0915\u0949\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "sodium-picosulfate",
+    "generic_name": "Sodium Picosulfate",
+    "display_name": "Sodium Picosulfate Oral Solution / Drops",
+    "active_ingredient": "Sodium picosulfate",
+    "salt": "Sodium picosulfate",
+    "category": "Gastrointestinal",
+    "description": "A locally acting stimulant laxative prodrug converted by colonic bacteria to active bis-(p-hydroxyphenyl)-pyridyl-2-methane (BHPM), used for constipation and bowel cleansing.",
+    "strengths": [
+      "5 mg",
+      "10 mg",
+      "7.5 mg/mL oral drops"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Oral Drops",
+      "Powder for Oral Solution (with Magnesium Citrate)"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Inert prodrug that traverses the stomach and small intestine unabsorbed; converted specifically in the colon by bacterial arylsulfatases into active bis-(p-hydroxyphenyl)-pyridyl-2-methane (BHPM); stimulates mucosal nerve endings (myenteric plexus), accelerating colonic peristalsis and reducing water absorption.",
+    "pharmacodynamics": "Produces targeted colonic propulsive peristalsis and fluid accumulation, resulting in soft, formed bowel movements; when combined with magnesium citrate (Prepopik / Picoprep), provides low-volume, highly effective colonoscopy bowel cleansing.",
+    "absorption": "Poorly absorbed from upper GI tract; active metabolite BHPM acts locally in the colon; minimal systemic absorption (<5%).",
+    "distribution": "Confined primarily to the colonic lumen; absorbed trace metabolites undergo enterohepatic circulation.",
+    "metabolism": "Bioactivated in the colon by bacterial enzymes; absorbed fraction is glucuronidated in the liver.",
+    "excretion": "Excreted predominantly in faeces as active metabolite and parent drug; trace absorbed glucuronide excreted in urine.",
+    "bioavailability": "Minimal (<5% systemic absorption)",
+    "half_life": "Active colonic effect 6 to 12 hours post-dose",
+    "protein_binding": "Low",
+    "onset": "Oral drops: 6 to 12 hours (taken at bedtime for morning relief)",
+    "duration": "Active for 1 bowel movement",
+    "indications": [
+      "Short-term treatment of acute or chronic constipation (5 to 10 mg at bedtime)",
+      "Colon cleansing prior to colonoscopy, barium enema, or colorectal surgery (combined with magnesium citrate)"
+    ],
+    "contraindications": [
+      "Known or suspected mechanical bowel obstruction or ileus",
+      "Acute surgical abdomen (acute appendicitis, perforation)",
+      "Severe acute inflammatory bowel disease / toxic megacolon",
+      "Severe dehydration"
+    ],
+    "warnings": [
+      "Take at bedtime to produce a predictable bowel movement the following morning (6-12 hours later)",
+      "Adequate fluid intake is mandatory during colonoscopy bowel cleansing to prevent severe dehydration and hyponatremia",
+      "Not for indefinite daily use (stimulant laxative habituation risk)"
+    ],
+    "common_adverse_effects": [
+      "Abdominal cramps (colicky griping pain)",
+      "Diarrhoea",
+      "Nausea",
+      "Vomiting",
+      "Dizziness"
+    ],
+    "serious_adverse_effects": [
+      "Severe dehydration and hypokalemia / hyponatremia (especially with bowel prep regimens)",
+      "Syncope / vasovagal collapse during defecation"
+    ],
+    "drug_interactions": [
+      "Antibiotics (broad-spectrum oral antibiotics may destroy colonic flora, preventing bioactivation of sodium picosulfate)",
+      "Diuretics and corticosteroids (additive hypokalemia risk)"
+    ],
+    "monitoring": [
+      "Stool consistency and frequency",
+      "Serum electrolytes (sodium, potassium, BUN) when used for colonoscopy bowel cleansing"
+    ],
+    "pregnancy": "Avoid in the first trimester; limited safety data; use only if osmotic laxatives fail.",
+    "lactation": "Not excreted in breast milk (active metabolite is not absorbed); compatible with breastfeeding.",
+    "pediatric": "Approved in children 4 years and older (weight-adjusted oral drops: 2.5-5 mg at bedtime).",
+    "geriatric": "Higher risk of dehydration and electrolyte shifts; ensure adequate fluid intake.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in hepatic disease (activated by gut bacteria).",
+    "advantages": [
+      "Targeted colonic bioactivation prevents small intestinal cramping and irritation",
+      "Convenient oral drops allow precise dose titration in children and adults",
+      "Combined with magnesium citrate, provides low-volume, palatable bowel prep for colonoscopy"
+    ],
+    "disadvantages": [
+      "Requires 6 to 12 hours for bacterial activation (not for instant relief)",
+      "Colic and abdominal cramping can occur"
+    ],
+    "key_points": [
+      "Take at bedtime with water to produce a gentle bowel movement the next morning",
+      "Oral drops allow you to adjust the dose drop-by-drop to find your ideal relief"
+    ],
+    "memory_trick": "PICO-sulfate: Prodrug for Intestinal Cleansing; Colonic bacteria convert to active form; Overnight relief.",
+    "key_suffix": "-sulfate",
+    "pronunciation_en": "SOE-dee-um pye-koe-SUL-fate",
+    "pronunciation_hi": "\u0938\u094b\u0921\u093f\u092f\u092e \u092a\u093f\u0915\u094b-\u0938\u0932\u094d\u092b\u093c\u0947\u091f",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "prucalopride",
+    "generic_name": "Prucalopride",
+    "display_name": "Prucalopride Succinate",
+    "active_ingredient": "Prucalopride succinate",
+    "salt": "Prucalopride succinate",
+    "category": "Gastrointestinal",
+    "description": "A first-in-class, highly selective 5-HT4 receptor agonist that stimulates high-amplitude propagating contractions (HAPCs), serving as the premier enterokinetic agent for chronic idiopathic constipation.",
+    "strengths": [
+      "1 mg",
+      "2 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively and potently binds to 5-HT4 receptors on enteric neurons (with >150-fold selectivity over all other 5-HT and dopamine receptors); triggers proximal colonic high-amplitude propagating contractions (HAPCs) and enhances colonic mass movements.",
+    "pharmacodynamics": "Restores normal physiological colonic transit, accelerates whole-gut transit, increases complete spontaneous bowel movements (CSBMs), and relieves abdominal bloating and straining; does NOT block HERG potassium channels (zero QT prolongation or cardiotoxicity).",
+    "absorption": "Rapidly and almost completely absorbed (>90%); peak plasma concentration in 2 to 3 hours; unaffected by food.",
+    "distribution": "Apparent volume of distribution approx. 567 L; low plasma protein binding (approx. 30%).",
+    "metabolism": "Minimally metabolized in the liver (approx. 15-20%) to eight minor metabolites; does not inhibit or induce CYP enzymes.",
+    "excretion": "Excreted predominantly unchanged in urine via active secretion and filtration (approx. 60-65%); approx. 13% in faeces.",
+    "bioavailability": ">90%",
+    "half_life": "18 to 20 hours (ideal for true once-daily dosing)",
+    "protein_binding": "30%",
+    "onset": "Accelerates colonic transit within 2 to 4 hours; bowel movement usually on day 1",
+    "duration": "24 hours (once daily)",
+    "indications": [
+      "Treatment of chronic idiopathic constipation (CIC) in adults when laxatives fail to provide adequate relief (2 mg once daily; 1 mg in elderly/renal patients)",
+      "Opioid-induced constipation (second-line)",
+      "Intestinal pseudo-obstruction (refractory motility failure)"
+    ],
+    "contraindications": [
+      "Renal impairment requiring dialysis",
+      "Intestinal perforation or mechanical bowel obstruction",
+      "Severe active inflammatory conditions of the GI tract (Crohn's, ulcerative colitis, toxic megacolon)",
+      "Hypersensitivity to prucalopride"
+    ],
+    "warnings": [
+      "Transient headache and nausea: occurs in up to 25% on Day 1 of therapy, but spontaneously resolves within 1 to 2 days (encourage patient to continue)",
+      "Suicidal ideation / depression: monitor for worsening mood or emergence of suicidal thoughts",
+      "Dose must be reduced to 1 mg daily in moderate-to-severe renal impairment (CrCl < 50 mL/min)"
+    ],
+    "common_adverse_effects": [
+      "Headache (very common on day 1; resolves in 24-48 hours)",
+      "Nausea",
+      "Diarrhoea",
+      "Abdominal pain",
+      "Fatigue"
+    ],
+    "serious_adverse_effects": [
+      "Severe depression / suicidal ideation (rare)",
+      "Severe diarrhoea causing dehydration",
+      "Severe hypersensitivity rash"
+    ],
+    "drug_interactions": [
+      "Minimal CYP450 interactions; erythromycin and ketoconazole increase prucalopride levels slightly without clinical significance",
+      "Atropine and anticholinergics (antagonize prokinetic efficacy)"
+    ],
+    "monitoring": [
+      "Bowel movement frequency (number of complete spontaneous bowel movements per week)",
+      "Monitor for mood changes, depression, or suicidal ideation",
+      "Renal function (eGFR) to adjust dose"
+    ],
+    "pregnancy": "Avoid in pregnancy; limited human data; animal studies show no teratogenicity.",
+    "lactation": "Excreted in breast milk in low concentrations; compatible with caution.",
+    "pediatric": "Approved in children 6 months and older in Europe for refractory chronic constipation.",
+    "geriatric": "Start with 1 mg once daily in patients >65 years; titrate to 2 mg if needed.",
+    "renal": "Dose reduction mandatory: if CrCl < 50 mL/min, reduce dose to 1 mg once daily; contraindicated in dialysis.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment; use 1 mg in severe cirrhosis.",
+    "advantages": [
+      "True enterokinetic agent that triggers natural giant migrating contractions in the colon, restoring physiological defecation",
+      "Exceptional selectivity for 5-HT4 receptors: ZERO cardiotoxicity, ZERO QT prolongation, and ZERO extrapyramidal effects",
+      "Once-daily oral tablet taken at any time with or without food"
+    ],
+    "disadvantages": [
+      "Headache and nausea are very common on Day 1 (affects 1 in 4 patients, but resolves by Day 2-3)",
+      "High prescription cost compared to standard osmotic laxatives"
+    ],
+    "key_points": [
+      "High-tech nerve stimulator for the colon that restarts sluggish bowels; take 2 mg once daily",
+      "A mild headache on the first day is very common and disappears completely by the second day"
+    ],
+    "memory_trick": "PRUCALO-pride: Premier Propulsive Colonic Agonist; Pure 5-HT4; Resolves Obstinate constipation; Day-1 headache.",
+    "key_suffix": "-pride",
+    "pronunciation_en": "proo-KAL-oh-pride",
+    "pronunciation_hi": "\u092a\u094d\u0930\u0941\u0915\u093e\u0932\u094b-\u092a\u094d\u0930\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "linaclotide",
+    "generic_name": "Linaclotide",
+    "display_name": "Linaclotide Capsules",
+    "active_ingredient": "Linaclotide",
+    "salt": "Linaclotide",
+    "category": "Gastrointestinal",
+    "description": "A 14-amino acid synthetic peptide guanylate cyclase-C (GC-C) agonist that increases intestinal fluid secretion and decreases visceral pain, used for IBS with constipation (IBS-C).",
+    "strengths": [
+      "72 mcg",
+      "145 mcg",
+      "290 mcg"
+    ],
+    "dosage_forms": [
+      "Capsule"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Binds to and activates guanylate cyclase-C (GC-C) receptors on the luminal surface of intestinal enterocytes, elevating intracellular cyclic GMP (cGMP); cGMP activates CFTR (cystic fibrosis transmembrane conductance regulator), stimulating secretion of chloride and bicarbonate into the lumen, pulling water into the bowel; extracellular cGMP inhibits pain-sensing visceral nociceptive nerves.",
+    "pharmacodynamics": "Accelerates colonic transit, softens stools, increases bowel movement frequency, and directly relieves chronic abdominal pain and visceral hypersensitivity in IBS-C (significantly superior to placebo across all endpoints).",
+    "absorption": "Negligible systemic absorption (<0.1%); acts purely locally on the luminal surface of the gut; MUST BE TAKEN ON AN EMPTY STOMACH AT LEAST 30 MINUTES BEFORE THE FIRST MEAL OF THE DAY.",
+    "distribution": "Confined entirely to the gastrointestinal tract lumen; zero systemic distribution; zero plasma protein binding.",
+    "metabolism": "Degraded enzymatically within the gastrointestinal lumen into an active metabolite (MM-419447) and smaller inactive peptides by loss of the terminal tyrosine.",
+    "excretion": "Excreted 100% in faeces as degraded peptide fragments; zero renal elimination.",
+    "bioavailability": "0% (negligible systemic absorption)",
+    "half_life": "Not applicable (acts locally in gut lumen)",
+    "protein_binding": "Not applicable",
+    "onset": "Increases bowel frequency within 24 to 48 hours; abdominal pain relief peaks at 8 to 12 weeks",
+    "duration": "Active throughout gut transit",
+    "indications": [
+      "Irritable Bowel Syndrome with Constipation (IBS-C) in adults (290 mcg once daily on an empty stomach)",
+      "Chronic Idiopathic Constipation (CIC) in adults (72 mcg or 145 mcg once daily)"
+    ],
+    "contraindications": [
+      "Known or suspected mechanical gastrointestinal obstruction",
+      "PEDIATRIC PATIENTS UNDER 2 YEARS OF AGE (black box contraindication: high risk of fatal dehydration due to hyperactivation of fluid secretion)"
+    ],
+    "warnings": [
+      "Black box warning: CONTRAINDICATED IN CHILDREN UNDER 2 YEARS OF AGE; avoided in children under 18 years due to risk of severe, life-threatening dehydration",
+      "DIARRHOEA: Diarrhoea is the primary adverse reaction (occurs in up to 16-20%); severe diarrhea reported in 2% (withhold dose if severe diarrhea develops)",
+      "MUST BE TAKEN ON AN EMPTY STOMACH: Taking with or after meals significantly increases diarrhea risk",
+      "Keep in original protective bottle with desiccant (extremely moisture-sensitive)"
+    ],
+    "common_adverse_effects": [
+      "Diarrhoea (most common adverse effect: up to 16-20%)",
+      "Abdominal pain and cramping",
+      "Flatulence",
+      "Abdominal distension",
+      "Viral gastroenteritis"
+    ],
+    "serious_adverse_effects": [
+      "Severe dehydrating diarrhea",
+      "Severe hypokalemia / electrolyte collapse (with uncorrected severe diarrhea)",
+      "Bowel obstruction / fecal impaction (rare)"
+    ],
+    "drug_interactions": [
+      "No systemic pharmacokinetic drug interactions (not absorbed into circulation)",
+      "Concomitant laxatives may increase the frequency and severity of diarrhoea"
+    ],
+    "monitoring": [
+      "Stool frequency and consistency (monitor for severe watery diarrhea)",
+      "Abdominal pain scores on validated IBS scales",
+      "Patient compliance with taking 30 minutes before breakfast"
+    ],
+    "pregnancy": "Category C; virtually zero systemic absorption; animal studies show no teratogenicity; use only if clearly needed.",
+    "lactation": "Not absorbed into maternal bloodstream; compatible with breastfeeding.",
+    "pediatric": "BLACK BOX CONTRAINDICATION: Strictly contraindicated in children under 2 years of age; not approved under 18 years.",
+    "geriatric": "Higher susceptibility to dehydration from diarrhea; start with lowest dose (72 mcg daily).",
+    "renal": "No dosage adjustment required in any degree of renal impairment (not absorbed).",
+    "hepatic": "No dosage adjustment required in hepatic disease (not absorbed).",
+    "advantages": [
+      "Dual-action: accelerates bowel transit AND directly shuts off pain signals in visceral nerve fibers, relieving severe IBS stomach pain",
+      "Zero systemic absorption eliminates all liver, kidney, cardiac, and drug-drug interactions",
+      "FDA-approved for both IBS-C and chronic constipation"
+    ],
+    "disadvantages": [
+      "High rate of diarrhea (affects up to 20% of patients)",
+      "Must be taken 30 minutes before breakfast on an empty stomach",
+      "Black box warning against use in young children"
+    ],
+    "key_points": [
+      "Take once daily on an empty stomach at least 30 minutes before breakfast",
+      "Relieves both constipation and chronic stomach cramps by pulling fluid into the bowel and calming gut nerves"
+    ],
+    "memory_trick": "LINA-clotide: Luminal GC-C agonist; Increases cGMP; No Absorption (safe); Abdominal pain relief in IBS-C.",
+    "key_suffix": "-clotide",
+    "pronunciation_en": "li-na-KLOE-tide",
+    "pronunciation_hi": "\u0932\u093f\u0928\u093e-\u0915\u094d\u0932\u094b\u091f\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "lubiprostone",
+    "generic_name": "Lubiprostone",
+    "display_name": "Lubiprostone Soft Gelatin Capsules",
+    "active_ingredient": "Lubiprostone",
+    "salt": "Lubiprostone",
+    "category": "Gastrointestinal",
+    "description": "A bicyclic fatty acid prostaglandin E1 derivative that selectively activates type-2 chloride channels (ClC-2), stimulating mucosal fluid secretion for chronic constipation, IBS-C, and opioid constipation.",
+    "strengths": [
+      "8 mcg",
+      "24 mcg"
+    ],
+    "dosage_forms": [
+      "Soft Gelatin Capsule"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Selectively activates type-2 chloride channels (ClC-2) on the apical membrane of human intestinal epithelial cells, triggering active chloride and passive sodium/water efflux into the intestinal lumen; promotes mucosal healing and restores tight junction barrier integrity.",
+    "pharmacodynamics": "Increases intestinal fluid secretion without altering serum electrolyte concentrations, accelerates colonic transit, softens stool, and relieves straining and bloating in chronic constipation and opioid-induced constipation.",
+    "absorption": "Low systemic bioavailability; peak plasma concentrations of active metabolite (M3) in 1.1 hours; MUST BE TAKEN WITH FOOD AND WATER to prevent nausea.",
+    "distribution": "Acts locally in the gut lumen; active metabolite M3 is 94% bound to plasma proteins.",
+    "metabolism": "Rapidly metabolized locally in the stomach and jejunum by carbonyl reductase to active metabolite M3 (15-hydroxy-lubiprostone).",
+    "excretion": "Excreted in urine (approx. 60% as inactive metabolites) and faeces (approx. 30%); parent drug undetectable in plasma.",
+    "bioavailability": "Negligible parent drug; active M3 bioavailability is low",
+    "half_life": "M3 metabolite half-life is 0.9 to 1.4 hours",
+    "protein_binding": "94% (M3)",
+    "onset": "Increases bowel movements within 24 to 48 hours",
+    "duration": "12 hours (dosed twice daily with food)",
+    "indications": [
+      "Chronic idiopathic constipation in adults (24 mcg twice daily with food)",
+      "Irritable Bowel Syndrome with Constipation (IBS-C) in adult women (8 mcg twice daily with food)",
+      "Opioid-Induced Constipation (OIC) in adults with chronic non-cancer pain (24 mcg twice daily with food)"
+    ],
+    "contraindications": [
+      "Known or suspected mechanical gastrointestinal obstruction",
+      "Severe diarrhea",
+      "Known hypersensitivity to lubiprostone"
+    ],
+    "warnings": [
+      "NAUSEA: Nausea is the most common side effect (occurs in up to 30%); TAKE WITH FOOD AND A FULL GLASS OF WATER to significantly minimize nausea",
+      "DYSPNEA: Causes acute, transient sensation of chest tightness or shortness of breath within 30-60 minutes of the first dose, resolving within 3 hours",
+      "Severe diarrhea: discontinue if severe watery diarrhea develops"
+    ],
+    "common_adverse_effects": [
+      "Nausea (very common: up to 30% without food)",
+      "Diarrhoea",
+      "Abdominal pain",
+      "Headache",
+      "Flatulence",
+      "Transient dyspnea"
+    ],
+    "serious_adverse_effects": [
+      "Severe dehydrating diarrhea",
+      "Severe chest tightness / acute dyspnea",
+      "Syncope / hypotension"
+    ],
+    "drug_interactions": [
+      "Diphenylheptane opioids (methadone may potentially decrease lubiprostone efficacy via ClC-2 inhibition)",
+      "No significant CYP450 drug interactions"
+    ],
+    "monitoring": [
+      "Stool frequency and consistency",
+      "Assess for nausea (ensure taking with meals)",
+      "Evaluate for chest tightness post-dose"
+    ],
+    "pregnancy": "Category C; use during pregnancy only if potential benefit justifies risk (avoid in first trimester).",
+    "lactation": "Excreted in animal milk in low levels; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "No dosage adjustment required based on age alone; monitor for nausea.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Dose reduction required in moderate to severe hepatic impairment: moderate (Child-Pugh B): reduce to 16 mcg BID for CIC/OIC, 8 mcg BID for IBS-C; severe (Child-Pugh C): reduce to 8 mcg BID/OD.",
+    "advantages": [
+      "First-line secretagogue approved across three major indications: chronic constipation, IBS-C, and opioid-induced constipation",
+      "Stimulates natural chloride secretion without creating systemic electrolyte depletion",
+      "Enhances intestinal mucosal barrier repair"
+    ],
+    "disadvantages": [
+      "High incidence of nausea (affects up to 30% of patients; must take with meals)",
+      "Can cause frightening but harmless chest tightness/shortness of breath within 1 hour of dosing",
+      "Twice-daily dosing required"
+    ],
+    "key_points": [
+      "Take twice daily WITH MEALS and a full glass of water to prevent stomach upset",
+      "A mild feeling of chest tightness may occur after the first dose but fades in a few hours"
+    ],
+    "memory_trick": "LUBI-prostone: Luminal Chloride-2 channel activator; Unclogs Bowels in IBS-C & Opioids; Ingest with food (stops nausea).",
+    "key_suffix": "-prostone",
+    "pronunciation_en": "loo-bi-PROS-tone",
+    "pronunciation_hi": "\u0932\u0941\u092c\u093f-\u092a\u094d\u0930\u094b\u0938\u094d\u091f\u094b\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "racecadotril",
+    "generic_name": "Racecadotril (Acetorphan)",
+    "display_name": "Racecadotril Capsules / Sachets",
+    "active_ingredient": "Racecadotril",
+    "salt": "Racecadotril",
+    "category": "Gastrointestinal",
+    "description": "An oral enkephalinase inhibitor prodrug that prevents the breakdown of endogenous enkephalins, acting as a pure antisecretory antidiarrheal without slowing intestinal transit or causing rebound constipation.",
+    "strengths": [
+      "10 mg sachet",
+      "30 mg sachet",
+      "100 mg capsule"
+    ],
+    "dosage_forms": [
+      "Capsule",
+      "Oral Granules Sachet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Prodrug rapidly hydrolyzed by systemic esterases to thiorphan, an active inhibitor of neutral endopeptidase (enkephalinase); prevents the degradation of endogenous opioid enkephalins in the intestinal mucosal wall; elevated enkephalins activate delta-opioid receptors, selectively suppressing cholera toxin- and rotavirus-induced hypersecretion of water and electrolytes.",
+    "pharmacodynamics": "Halts intestinal water and chloride hypersecretion without altering intestinal motility, transit time, or smooth muscle tone; does NOT cause abdominal distension, bacterial stagnation, rebound constipation, or central nervous system depression.",
+    "absorption": "Rapidly absorbed; peak plasma concentration of active thiorphan in 1 hour; bioavailability unaffected by food.",
+    "distribution": "Confined primarily to peripheral tissues; 90% bound to plasma proteins (mainly albumin).",
+    "metabolism": "Rapidly hydrolyzed in tissues and blood to active thiorphan; thiorphan is further metabolized to inactive disulfide metabolites.",
+    "excretion": "Excreted in urine (approx. 81%) and faeces (approx. 8%) as inactive metabolites.",
+    "bioavailability": "Rapidly converted to active thiorphan",
+    "half_life": "3 hours (active thiorphan)",
+    "protein_binding": "90%",
+    "onset": "Antisecretory antidiarrheal action begins within 30 minutes",
+    "duration": "8 hours (dosed 100 mg TID; pediatric sachets 1.5 mg/kg TID)",
+    "indications": [
+      "Complementary symptomatic treatment of acute watery diarrhoea in infants (>3 months), children, and adults, alongside oral rehydration therapy (ORT)",
+      "Acute secretory diarrhoea due to rotavirus, cholera, or bacterial enterotoxins",
+      "Traveller's diarrhoea (secretory type)"
+    ],
+    "contraindications": [
+      "Hypersensitivity to racecadotril",
+      "Pregnancy and lactation",
+      "Renal or hepatic impairment (due to lack of clinical data)"
+    ],
+    "warnings": [
+      "NOT A SUBSTITUTE FOR ORAL REHYDRATION: Must ALWAYS be co-administered with Oral Rehydration Salts (ORS) solution",
+      "Angioedema risk: contains thiorphan which inhibits enkephalinase and ACE; avoid in patients taking ACE inhibitors",
+      "Do not use in invasive bacterial dysentery with bloody stools and high fever (requires antibiotics)"
+    ],
+    "common_adverse_effects": [
+      "Headache",
+      "Tonsillitis",
+      "Vomiting",
+      "Skin rash / erythema",
+      "Constipation (rare: <1%)"
+    ],
+    "serious_adverse_effects": [
+      "Angioedema / facial swelling (especially in patients on ACE inhibitors)",
+      "Severe bullous erythema multiforme / Stevens-Johnson syndrome (rare)",
+      "Anaphylaxis"
+    ],
+    "drug_interactions": [
+      "ACE inhibitors (ramipril, enalapril - dual inhibition of ACE and neutral endopeptidase increases bradykinin, causing severe angioedema; avoid combination)"
+    ],
+    "monitoring": [
+      "Hydration status and stool frequency",
+      "Signs of facial swelling or breathing difficulty"
+    ],
+    "pregnancy": "Contraindicated in pregnancy due to lack of human safety data.",
+    "lactation": "Contraindicated during breastfeeding.",
+    "pediatric": "Extensively used and approved in infants from 3 months of age (tasty pediatric granules sachets mixed with food/water: 1.5 mg/kg TID).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "Use with caution; clinical data limited in renal impairment.",
+    "hepatic": "Use with caution; clinical data limited in hepatic impairment.",
+    "advantages": [
+      "Pure antisecretory antidiarrheal: stops fluid loss WITHOUT paralyzing the bowel (unlike loperamide)",
+      "Zero risk of toxic megacolon or bacterial overgrowth because it preserves natural gut transit",
+      "Approved and exceptionally safe in infants from 3 months of age"
+    ],
+    "disadvantages": [
+      "Must be paired with oral rehydration solution (ORS); does not cure dehydration alone",
+      "Risk of angioedema when combined with ACE inhibitors"
+    ],
+    "key_points": [
+      "Safe antidiarrheal for children and adults that stops watery diarrhea without causing constipation",
+      "Always drink Oral Rehydration Solution (ORS) alongside this medicine"
+    ],
+    "memory_trick": "RACE-cadotril: Reduces Aqueous Cl- Excretion; Enkephalinase inhibitor; Continues normal motility; Essential with ORS.",
+    "key_suffix": "-cadotril",
+    "pronunciation_en": "ra-se-KA-doe-tril",
+    "pronunciation_hi": "\u0930\u0947\u0938\u0947\u0915\u093e-\u0921\u094b\u091f\u094d\u0930\u093f\u0932",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "dicyclomine",
+    "generic_name": "Dicyclomine (Dicycloverine)",
+    "display_name": "Dicyclomine Hydrochloride",
+    "active_ingredient": "Dicyclomine hydrochloride",
+    "salt": "Dicyclomine hydrochloride",
+    "category": "Gastrointestinal",
+    "description": "A dual-action anticholinergic and direct smooth muscle relaxant antispasmodic, used for intestinal colic, biliary colic, and abdominal cramping in irritable bowel syndrome.",
+    "strengths": [
+      "10 mg",
+      "20 mg",
+      "10 mg/5 mL syrup",
+      "10 mg/mL injection"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Capsule",
+      "Oral Syrup",
+      "Solution for Injection"
+    ],
+    "routes": [
+      "Oral",
+      "Intramuscular"
+    ],
+    "mechanism_of_action": "Acts via a dual mechanism: competitively antagonizes muscarinic M1, M2, and M3 acetylcholine receptors on visceral smooth muscle, AND exerts a direct, non-competitive musculotropic spasmolytic effect on smooth muscle fibers.",
+    "pharmacodynamics": "Relieves visceral smooth muscle spasm, stops painful hypermotility, reduces gastrointestinal cramping, and alleviates functional bowel spasms; possesses classical anticholinergic adverse effects.",
+    "absorption": "Rapidly absorbed from GI tract; peak plasma concentrations in 1 to 1.5 hours; absolute oral bioavailability approx. 67%.",
+    "distribution": "Widely distributed; crosses blood-brain barrier; volume of distribution approx. 3.6 L/kg; 80% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver via hydroxylation and glucuronidation.",
+    "excretion": "Excreted predominantly in urine (approx. 80%) and faeces (approx. 10%).",
+    "bioavailability": "Approximately 67%",
+    "half_life": "9 to 10 hours",
+    "protein_binding": "80%",
+    "onset": "30 to 60 minutes",
+    "duration": "4 to 6 hours (dosed 10-20 mg TID or QID)",
+    "indications": [
+      "Symptomatic treatment of abdominal cramps and spasm in Irritable Bowel Syndrome (IBS)",
+      "Intestinal colic and functional gastrointestinal cramping",
+      "Biliary and renal colic spasm (adjunct analgesic antispasmodic)"
+    ],
+    "contraindications": [
+      "INFANTS UNDER 6 MONTHS OF AGE (black box contraindication: fatal respiratory arrest, seizures, syncope, and coma)",
+      "Severe ulcerative colitis or toxic megacolon",
+      "Obstructive uropathy / benign prostatic hyperplasia with urinary retention",
+      "Glaucoma (narrow-angle)",
+      "Myasthenia gravis",
+      "Paralytic ileus or GI obstruction"
+    ],
+    "warnings": [
+      "Black box warning: STRICTLY CONTRAINDICATED IN INFANTS UNDER 6 MONTHS (causes apnea, respiratory collapse, seizures, and death; do NOT use for infant colic)",
+      "Heat prostration: suppresses sweating; risk of heat stroke and hyperpyrexia in high ambient temperatures",
+      "Anticholinergic CNS side effects: drowsiness, blurred vision, confusion in the elderly",
+      "Never administer intravenously (IM only for injection)"
+    ],
+    "common_adverse_effects": [
+      "Dry mouth (xerostomia - very common)",
+      "Blurred vision",
+      "Dizziness",
+      "Drowsiness",
+      "Constipation",
+      "Urinary hesitancy"
+    ],
+    "serious_adverse_effects": [
+      "Fatal respiratory collapse / apnea (in infants <6 months)",
+      "Acute angle-closure glaucoma",
+      "Urinary retention / bladder distension",
+      "Heat stroke / hyperthermia"
+    ],
+    "drug_interactions": [
+      "Antihistamines, tricyclic antidepressants, phenothiazines (additive anticholinergic toxicity)",
+      "Potassium chloride tablets (delayed gastric emptying increases ulceration)",
+      "Digoxin (increased digoxin absorption)"
+    ],
+    "monitoring": [
+      "Intraocular pressure in patients with glaucoma",
+      "Urinary output in elderly males",
+      "Signs of heat intolerance and sweat suppression"
+    ],
+    "pregnancy": "Category B; widely used with no documented teratogenic harm.",
+    "lactation": "BLACK BOX CONTRAINDICATION: Strictly contraindicated during breastfeeding (excreted in milk and causes fatal infant respiratory arrest).",
+    "pediatric": "BLACK BOX CONTRAINDICATION in infants <6 months; approved in older children with weight-adjusted dosing.",
+    "geriatric": "High risk of acute urinary retention, glaucoma attacks, confusion, and falls; avoid or use lowest dose.",
+    "renal": "No dosage adjustment required; monitor urinary output.",
+    "hepatic": "Use with caution in hepatic disease.",
+    "advantages": [
+      "Dual antimuscarinic and direct smooth muscle relaxant action relieves severe colicky abdominal cramps within 30 minutes",
+      "Available in tablets, syrups, and intramuscular injections for acute emergency colic",
+      "Affordable, widely available antispasmodic"
+    ],
+    "disadvantages": [
+      "LETHAL in infants under 6 months of age (causes respiratory arrest)",
+      "High rate of anticholinergic side effects (dry mouth, blurred vision, dizziness)"
+    ],
+    "key_points": [
+      "Quick relief for painful stomach cramps and intestinal spasms; take before meals as needed",
+      "NEVER give to infants under 6 months of age (can cause breathing to stop)"
+    ],
+    "memory_trick": "DICYCLO-mine: Dual action (muscarinic + direct muscle); Decreases intestinal colic; Danger: Fatal in infants under 6 months.",
+    "key_suffix": "-mine",
+    "pronunciation_en": "dye-SYE-kloe-meen",
+    "pronunciation_hi": "\u0921\u093e\u0907\u0938\u093e\u0907\u0915\u094d\u0932\u094b-\u092e\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "drotaverine",
+    "generic_name": "Drotaverine",
+    "display_name": "Drotaverine Hydrochloride",
+    "active_ingredient": "Drotaverine hydrochloride",
+    "salt": "Drotaverine hydrochloride",
+    "category": "Gastrointestinal",
+    "description": "A selective phosphodiesterase-4 (PDE4) inhibitor antispasmodic that relaxes visceral smooth muscle without anticholinergic side effects, widely used for biliary, renal, and gastrointestinal colic.",
+    "strengths": [
+      "40 mg",
+      "80 mg",
+      "40 mg/2 mL IV/IM ampoule"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Solution for Injection"
+    ],
+    "routes": [
+      "Oral",
+      "Intramuscular",
+      "Intravenous"
+    ],
+    "mechanism_of_action": "Selectively inhibits phosphodiesterase type 4 (PDE4) in visceral smooth muscle cells, preventing cyclic AMP (cAMP) breakdown; elevated intracellular cAMP phosphorylates myosin light-chain kinase (MLCK), inactivating it and causing smooth muscle relaxation; completely lacks antimuscarinic activity.",
+    "pharmacodynamics": "Rapidly relieves spasm and hypermotility of the gastrointestinal, biliary, and urogenital smooth muscle; does NOT cause dry mouth, blurred vision, urinary retention, or glaucoma exacerbations (unlike dicyclomine and atropine).",
+    "absorption": "Rapidly and completely absorbed from GI tract (approx. 90%); peak plasma concentration in 45 minutes; bioavailability approx. 65% due to first-pass metabolism.",
+    "distribution": "Widely distributed into smooth muscle and visceral organs; 95-98% bound to plasma proteins (predominantly albumin and beta-globulins).",
+    "metabolism": "Extensively metabolized in the liver to glucuronide and phenolic metabolites.",
+    "excretion": "Excreted in urine (approx. 50%) and faeces (approx. 30%) as metabolites; zero unchanged parent drug.",
+    "bioavailability": "Approximately 65%",
+    "half_life": "16 to 22 hours",
+    "protein_binding": "95% to 98%",
+    "onset": "Oral: 30 minutes; IV: 3 to 5 minutes",
+    "duration": "8 to 12 hours (dosed 40-80 mg TID)",
+    "indications": [
+      "Spasms of smooth muscle associated with biliary tract diseases (cholelithiasis, cholecystitis, cholangitis)",
+      "Spasms of the urinary tract (nephrolithiasis, ureterolithiasis, renal colic, cystitis)",
+      "Gastrointestinal smooth muscle spasms (spastic colon, IBS cramps, gastritis, peptic ulcer spasm)",
+      "Dysmenorrhea / severe uterine menstrual cramping",
+      "Cervical dilation facilitation during labour"
+    ],
+    "contraindications": [
+      "Severe hepatic, renal, or cardiac failure (cardiogenic shock, AV block)",
+      "Known hypersensitivity to drotaverine hydrochloride"
+    ],
+    "warnings": [
+      "Safe in glaucoma and benign prostatic hyperplasia (completely free of anticholinergic properties)",
+      "Rapid IV injection can cause severe hypotension, collapse, and cardiac arrhythmias (administer slowly over 3-5 minutes with patient recumbent)",
+      "Use caution in patients with baseline hypotension"
+    ],
+    "common_adverse_effects": [
+      "Dizziness / vertigo",
+      "Headache",
+      "Nausea",
+      "Palpitations",
+      "Hypotension (with rapid IV administration)"
+    ],
+    "serious_adverse_effects": [
+      "Severe circulatory collapse / shock (with rapid IV push)",
+      "Cardiac arrhythmias / AV block",
+      "Anaphylaxis (rare)"
+    ],
+    "drug_interactions": [
+      "Levodopa (drotaverine significantly antagonizes the antiparkinsonian effect of levodopa, worsening tremors and rigidity)"
+    ],
+    "monitoring": [
+      "Blood pressure and heart rate during IV administration",
+      "Relief of colicky abdominal, renal, or menstrual pain"
+    ],
+    "pregnancy": "Avoid in pregnancy unless clearly needed (safe for cervical dilation during active labor under obstetric supervision).",
+    "lactation": "Excretion in breast milk unknown; avoid during breastfeeding.",
+    "pediatric": "Approved in children 1 year and older (weight-adjusted dosing: 20-40 mg TID).",
+    "geriatric": "No dosage adjustment required; safe in elderly patients with glaucoma or prostate enlargement.",
+    "renal": "Contraindicated in severe renal failure; no adjustment in mild to moderate impairment.",
+    "hepatic": "Contraindicated in severe hepatic failure; monitor in liver disease.",
+    "advantages": [
+      "Selectively inhibits PDE4: zero anticholinergic side effects (no dry mouth, no blurred vision, no constipation)",
+      "Completely safe in patients with glaucoma and enlarged prostate (BPH) where dicyclomine is contraindicated",
+      "Rapid onset within 30 minutes orally and 3 minutes intravenously for acute kidney stone colic"
+    ],
+    "disadvantages": [
+      "Rapid IV injection causes severe blood pressure drop",
+      "Directly counteracts Parkinson's medications (levodopa)"
+    ],
+    "key_points": [
+      "Cramp-relieving medicine that does NOT dry your mouth or blur your vision",
+      "Safe for patients with glaucoma and enlarged prostate"
+    ],
+    "memory_trick": "DROT-averine: Direct Relaxation of Tubules; PDE4 inhibitor; No Anticholinergic dryness; Safe in glaucoma/prostate.",
+    "key_suffix": "-averine",
+    "pronunciation_en": "droe-TAV-e-reen",
+    "pronunciation_hi": "\u0921\u094d\u0930\u094b\u0924\u093e\u0935\u0947-\u0930\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "mebeverine",
+    "generic_name": "Mebeverine",
+    "display_name": "Mebeverine Hydrochloride",
+    "active_ingredient": "Mebeverine hydrochloride",
+    "salt": "Mebeverine hydrochloride",
+    "category": "Gastrointestinal",
+    "description": "A musculotropic antispasmodic with dual sodium-channel blocking and intracellular calcium store-depleting actions, specifically normalizing colonic motility in irritable bowel syndrome without systemic anticholinergic effects.",
+    "strengths": [
+      "135 mg",
+      "200 mg SR"
+    ],
+    "dosage_forms": [
+      "Tablet",
+      "Modified-Release Capsule"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Exerts a direct musculotropic antispasmodic action on gastrointestinal smooth muscle cells: blocks voltage-operated fast sodium channels (inhibiting spasm) AND inhibits calcium influx and intracellular calcium release from sarcoplasmic reticulum; also blocks noradrenaline reuptake locally.",
+    "pharmacodynamics": "Normalizes dysregulated, spastic colonic motor activity in irritable bowel syndrome without completely paralyzing normal peristalsis; zero systemic anticholinergic effects (does NOT cause dry mouth, urinary retention, or blurred vision).",
+    "absorption": "Rapidly and completely absorbed from GI tract; undergoes rapid and complete first-pass hydrolysis (parent drug undetectable in plasma); modified-release (SR) capsule provides sustained 12-hour plasma concentrations; take 20 minutes before meals.",
+    "distribution": "Widely distributed into intestinal tissues; 75% bound to plasma albumin.",
+    "metabolism": "Extensively hydrolyzed in the liver by esterases to mebeverine alcohol and veratric acid; mebeverine alcohol is metabolized to active demethylated metabolites.",
+    "excretion": "Excreted almost entirely in urine (approx. 95% as metabolites within 24 hours); zero parent drug excreted.",
+    "bioavailability": "Rapidly metabolized; sustained release provides 12-hour coverage",
+    "half_life": "5.8 hours (active metabolite mebeveric acid)",
+    "protein_binding": "75%",
+    "onset": "1 to 2 hours",
+    "duration": "12 hours (200 mg SR capsule dosed twice daily 20 minutes before meals)",
+    "indications": [
+      "Symptomatic relief of abdominal pain, cramps, bowel spasms, and intestinal discomfort in Irritable Bowel Syndrome (IBS)",
+      "Gastrointestinal spasm secondary to organic abdominal diseases"
+    ],
+    "contraindications": [
+      "Hypersensitivity to mebeverine hydrochloride",
+      "Paralytic ileus"
+    ],
+    "warnings": [
+      "Take 20 minutes before meals with a full glass of water",
+      "Swallow modified-release capsules whole; do not chew or crush (damages enteric release membrane)",
+      "Safe in patients with glaucoma and benign prostatic hypertrophy (BPH)"
+    ],
+    "common_adverse_effects": [
+      "Dizziness",
+      "Headache",
+      "Nausea",
+      "Mild cutaneous rash",
+      "Constipation"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypersensitivity reactions / angioedema",
+      "Urticaria / systemic exanthema",
+      "Anaphylactic shock (rare)"
+    ],
+    "drug_interactions": [
+      "No clinically significant drug interactions reported (does not interact with CYP450 enzymes)"
+    ],
+    "monitoring": [
+      "Relief of abdominal cramping and normalization of stool frequency in IBS"
+    ],
+    "pregnancy": "Avoid in pregnancy due to limited clinical safety data.",
+    "lactation": "Excreted in breast milk in negligible amounts; compatible with caution.",
+    "pediatric": "Safety and efficacy in children under 10 years not established.",
+    "geriatric": "No dosage adjustment required based on age alone; well tolerated in senior patients.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in mild to moderate hepatic impairment.",
+    "advantages": [
+      "Targeted colonic antispasmodic that normalizes bowel spasms without causing anticholinergic dry mouth, constipation, or blurred vision",
+      "Safe in patients with glaucoma and enlarged prostate (BPH)",
+      "Modified-release 200 mg capsule taken twice daily provides consistent 24-hour IBS symptom control"
+    ],
+    "disadvantages": [
+      "Must be taken 20 minutes before meals for optimal antispasmodic benefit",
+      "Cannot be chewed or crushed"
+    ],
+    "key_points": [
+      "Gold standard antispasmodic for Irritable Bowel Syndrome (IBS) stomach pain and cramping",
+      "Take one capsule 20 minutes before breakfast and dinner; swallow whole"
+    ],
+    "memory_trick": "MEBE-verine: Motility Equalizer for Bowel spasm in IBS; Exactly targets gut muscle; Zero anticholinergic dryness.",
+    "key_suffix": "-verine",
+    "pronunciation_en": "me-BEV-er-een",
+    "pronunciation_hi": "\u092e\u0947\u092c\u0947\u0935\u0947-\u0930\u0940\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "otilonium-bromide",
+    "generic_name": "Otilonium Bromide",
+    "display_name": "Otilonium Bromide",
+    "active_ingredient": "Otilonium bromide",
+    "salt": "Otilonium bromide",
+    "category": "Gastrointestinal",
+    "description": "A quaternary ammonium antispasmodic with dual L-type calcium channel and tachykinin NK2 receptor antagonism, acting locally in the gut lumen with near-zero systemic absorption for IBS.",
+    "strengths": [
+      "40 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Triple action: blocks L-type and T-type voltage-gated calcium channels in intestinal smooth muscle cells, antagonizes tachykinin neurokinin-2 (NK2) receptors, and mildly antagonizes muscarinic M3 receptors in the colon wall.",
+    "pharmacodynamics": "Suppresses colonic hypermotility, relieves painful intestinal spasms, and reduces visceral pain sensitivity; acts locally within the gastrointestinal tract with negligible (<3%) systemic absorption, eliminating systemic anticholinergic and cardiovascular side effects.",
+    "absorption": "Poorly absorbed from the gastrointestinal tract (<3% systemic bioavailability); acts locally on colonic smooth muscle; take 20 minutes before meals.",
+    "distribution": "Confined primarily to the intestinal wall; trace absorbed drug is bound to plasma proteins.",
+    "metabolism": "Extensively metabolized locally in the gut and trace absorbed fraction in the liver.",
+    "excretion": "Excreted predominantly in faeces via biliary and fecal elimination (approx. 95-97%); <1% in urine.",
+    "bioavailability": "<3% (acts purely locally in the bowel)",
+    "half_life": "Terminal half-life of trace absorbed fraction is 4 to 6 hours",
+    "protein_binding": "Low",
+    "onset": "30 to 60 minutes",
+    "duration": "8 hours (40 mg dosed 2 to 3 times daily before meals)",
+    "indications": [
+      "Treatment of irritable bowel syndrome (IBS - relief of spastic abdominal pain and distension)",
+      "Painful spastic conditions of the distal gastrointestinal tract"
+    ],
+    "contraindications": [
+      "Known hypersensitivity to otilonium bromide",
+      "Mechanical intestinal obstruction or paralytic ileus"
+    ],
+    "warnings": [
+      "Take 20 minutes before meals",
+      "Virtually free of systemic side effects due to near-zero absorption",
+      "Safe in elderly patients"
+    ],
+    "common_adverse_effects": [
+      "Mild nausea",
+      "Epigastric discomfort",
+      "Dry mouth (mild, rare)",
+      "Fatigue"
+    ],
+    "serious_adverse_effects": [
+      "Severe hypersensitivity rash (rare)"
+    ],
+    "drug_interactions": [
+      "No clinically significant systemic drug interactions due to negligible systemic absorption"
+    ],
+    "monitoring": [
+      "Reduction in abdominal pain intensity and weekly bowel spasm episodes"
+    ],
+    "pregnancy": "Avoid in pregnancy; insufficient human safety data.",
+    "lactation": "Excretion in human milk unknown; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy in children not established.",
+    "geriatric": "No dosage adjustment required; excellent tolerability in elderly patients.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "No dosage adjustment required in hepatic disease.",
+    "advantages": [
+      "Virtually zero systemic absorption (<3%) guarantees exceptional safety with zero heart, brain, or urinary side effects",
+      "Dual calcium channel and NK2 receptor blockade directly shuts down visceral pain transmission in the colon",
+      "Proven long-term reduction in IBS abdominal pain and relapse rates"
+    ],
+    "disadvantages": [
+      "Requires dosing 2 to 3 times daily before meals",
+      "Not available in all Western markets (widely used in Europe, Asia, and India)"
+    ],
+    "key_points": [
+      "Targeted colon spasm pill that stays inside the bowel without entering your bloodstream",
+      "Take one 40 mg tablet 20 minutes before meals"
+    ],
+    "memory_trick": "OTILON-ium: Only Targets Intestinal Lumen; Negligible absorption (<3%); Relieves IBS spasms via calcium block.",
+    "key_suffix": "-ium",
+    "pronunciation_en": "oh-ti-LOE-nee-um BROE-mide",
+    "pronunciation_hi": "\u0913\u091f\u093f\u0932\u094b\u0928\u093f\u092f\u092e \u092c\u094d\u0930\u094b\u092e\u093e\u0907\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "chlordiazepoxide-clidinium",
+    "generic_name": "Chlordiazepoxide and Clidinium Bromide (Librax)",
+    "display_name": "Chlordiazepoxide 5 mg + Clidinium 2.5 mg Capsules",
+    "active_ingredient": "Chlordiazepoxide and clidinium bromide",
+    "salt": "Chlordiazepoxide hydrochloride and clidinium bromide",
+    "category": "Gastrointestinal",
+    "description": "A synergistic fixed-dose combination of a central anxiolytic benzodiazepine and a peripheral anticholinergic antispasmodic, used for stress-triggered irritable bowel syndrome and peptic ulcer disease.",
+    "strengths": [
+      "5 mg chlordiazepoxide + 2.5 mg clidinium bromide"
+    ],
+    "dosage_forms": [
+      "Capsule"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Chlordiazepoxide enhances GABA-A receptor opening frequency in the limbic system, dampening brain-gut stress axis activation and central anxiety; clidinium bromide competitively blocks muscarinic M3 receptors on gastrointestinal smooth muscle and secretory glands, suppressing bowel spasms and gastric acid.",
+    "pharmacodynamics": "Simultaneously calms visceral anxiety and relieves intestinal hypermotility and spasm; breaks the vicious cycle of emotional stress triggering severe IBS flare-ups and spastic colon.",
+    "absorption": "Chlordiazepoxide is rapidly and completely absorbed (>90%); clidinium bromide is a quaternary ammonium compound with low and variable absorption (approx. 20-30%); take 30 to 60 minutes before meals and at bedtime.",
+    "distribution": "Chlordiazepoxide distributes widely into the brain (96% protein bound); clidinium bromide distributes to peripheral muscarinic receptors.",
+    "metabolism": "Chlordiazepoxide is extensively metabolized in the liver by CYP3A4 to active metabolites (desmethylchlordiazepoxide, demoxepam, oxazepam); clidinium undergoes ester hydrolysis.",
+    "excretion": "Excreted in urine (approx. 50-60%) and faeces.",
+    "bioavailability": "Chlordiazepoxide: >90%; Clidinium: 20-30%",
+    "half_life": "Chlordiazepoxide: 24 to 48 hours (active metabolites up to 100 hours); Clidinium: 2 to 4 hours",
+    "protein_binding": "96% (chlordiazepoxide)",
+    "onset": "30 to 60 minutes",
+    "duration": "8 to 12 hours (dosed 1 capsule 3-4 times daily before meals and at bedtime)",
+    "indications": [
+      "Irritable bowel syndrome (IBS) exacerbated by stress, tension, and emotional anxiety",
+      "Peptic ulcer disease (adjunct antispasmodic therapy)",
+      "Acute enterocolitis and spastic colon with high anxiety"
+    ],
+    "contraindications": [
+      "Glaucoma (narrow-angle)",
+      "Prostatic hypertrophy / urinary retention",
+      "Severe respiratory depression, sleep apnea, or severe COPD",
+      "Myasthenia gravis",
+      "Pregnancy (all trimesters)",
+      "Concurrent use with opioids (black box warning)"
+    ],
+    "warnings": [
+      "Black box warning: CONCOMITANT USE WITH OPIOIDS increases the risk of profound sedation, respiratory depression, coma, and death",
+      "Black box warning: Physical dependence, abuse, and withdrawal seizures with chronic use (taper gradually)",
+      "Anticholinergic risks: dry mouth, blurred vision, urinary retention, and constipation",
+      "Avoid alcohol completely (severe CNS depression)"
+    ],
+    "common_adverse_effects": [
+      "Drowsiness / sedation (very common)",
+      "Dry mouth (very common)",
+      "Blurred vision",
+      "Constipation",
+      "Dizziness",
+      "Urinary hesitancy"
+    ],
+    "serious_adverse_effects": [
+      "Respiratory depression / coma (especially when combined with opioids or alcohol)",
+      "Acute angle-closure glaucoma",
+      "Urinary retention / bladder distension",
+      "Benzodiazepine withdrawal syndrome / seizures upon sudden cessation"
+    ],
+    "drug_interactions": [
+      "Opioids (black box warning: fatal respiratory arrest; avoid combination)",
+      "Alcohol and CNS depressants (severe sedation and coma)",
+      "CYP3A4 inhibitors (ketoconazole, cimetidine - increase chlordiazepoxide levels)"
+    ],
+    "monitoring": [
+      "Signs of physical dependence, tolerance, or misuse",
+      "Assess mental alertness, drowsiness, and fall risk",
+      "Intraocular pressure and urinary stream in elderly males"
+    ],
+    "pregnancy": "Strictly contraindicated in pregnancy (Category D/X); benzodiazepines cause neonatal respiratory depression, floppiness, and withdrawal.",
+    "lactation": "Contraindicated during breastfeeding; excreted in breast milk.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "High risk of severe sedation, confusion, falls, urinary retention, and cognitive impairment; generally avoided or used with extreme caution.",
+    "renal": "Dose reduction required in renal impairment.",
+    "hepatic": "Dose reduction mandatory in severe hepatic impairment (chlordiazepoxide clearance is heavily liver-dependent).",
+    "advantages": [
+      "Combines central anxiety relief with peripheral gut spasm relief, breaking the stress-IBS connection",
+      "Fast-acting relief for acute emotional-induced irritable bowel flare-ups",
+      "Established clinical efficacy over decades"
+    ],
+    "disadvantages": [
+      "Black box warnings for addiction, dependence, and fatal overdose with opioids",
+      "High rate of drowsiness, dry mouth, blurred vision, and urinary retention",
+      "Cannot be stopped abruptly (causes withdrawal)"
+    ],
+    "key_points": [
+      "Calms both nervous tension and stomach cramps; take before meals and at bedtime",
+      "Never drink alcohol or take opioid painkillers while using this medication; can cause drowsiness"
+    ],
+    "memory_trick": "LIBRAX: Links Intestine & Brain; Relieves Anxiety (chlordiazepoxide) & X-terminates cramps (clidinium).",
+    "key_suffix": "-poxide",
+    "pronunciation_en": "klor-dye-az-e-POX-ide kli-DI-nee-um",
+    "pronunciation_hi": "\u0915\u094d\u0932\u094b\u0930\u094d\u0921\u093f\u092f\u093e\u091c\u093c\u0947\u092a\u0949\u0915\u094d\u0938\u093e\u0907\u0921 \u0915\u094d\u0932\u093f\u0921\u0940\u0928\u093f\u092f\u092e",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "ursodeoxycholic-acid",
+    "generic_name": "Ursodeoxycholic Acid (UDCA / Ursodiol)",
+    "display_name": "Ursodeoxycholic Acid",
+    "active_ingredient": "Ursodeoxycholic acid",
+    "salt": "Ursodeoxycholic acid",
+    "category": "Hepatology",
+    "description": "A naturally occurring hydrophilic tertiary bile acid that displaces toxic hydrophobic bile salts, serving as the gold standard first-line disease-modifying treatment for primary biliary cholangitis (PBC).",
+    "strengths": [
+      "150 mg",
+      "300 mg",
+      "600 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet",
+      "Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Multiple hepatoprotective mechanisms: replaces toxic hydrophobic bile acids (cholic, deoxycholic, chenodeoxycholic acid) in the circulating bile acid pool; stimulates hepatobiliary secretion and bicarbonate secretion ('bicarbonate umbrella'); suppresses hepatocyte and cholangiocyte apoptosis; solubilizes cholesterol into liquid-crystalline mesophases, promoting dissolution of cholesterol gallstones.",
+    "pharmacodynamics": "Significantly slows disease progression, reduces serum bilirubin and alkaline phosphatase, prevents hepatic cirrhosis, and delays or eliminates the need for liver transplantation in primary biliary cholangitis (PBC); dissolves radiolucent gallstones in patients refusing cholecystectomy.",
+    "absorption": "Well absorbed from small intestine (approx. 90%); undergoes extensive hepatic first-pass extraction (approx. 50-70%); take with meals to improve biliary secretion.",
+    "distribution": "Concentrates heavily in bile, liver, and biliary tree; low systemic plasma concentrations; approx. 70% bound to plasma proteins.",
+    "metabolism": "Conjugated in the liver with glycine and taurine, then excreted into bile; undergoes extensive enterohepatic recirculation; small fraction 7-dehydroxylated by colonic bacteria to lithocholic acid (a hepatotoxic metabolite detoxified by sulfation).",
+    "excretion": "Excreted predominantly in faeces (approx. 99% via biliary route); less than 1% in urine.",
+    "bioavailability": "Approximately 90% (fasting/meals)",
+    "half_life": "3.5 to 5.8 days (biological elimination half-life in bile acid pool)",
+    "protein_binding": "70%",
+    "onset": "Biliary enrichment reaches plateau within 3 to 4 weeks; gallstone dissolution requires 6 to 24 months",
+    "duration": "Continuous while administered",
+    "indications": [
+      "Primary Biliary Cholangitis (PBC - gold standard first-line treatment: 13-15 mg/kg/day divided BID or once daily)",
+      "Dissolution of radiolucent, non-calcified gallstones <20 mm in patients who are high surgical risks or refuse cholecystectomy",
+      "Intrahepatic Cholestasis of Pregnancy (ICP - relieves intense maternal pruritus and normalizes bile acids)",
+      "Primary sclerosing cholangitis (symptomatic biochemical improvement; high doses >28 mg/kg avoided)",
+      "Cystic fibrosis-associated hepatobiliary disease"
+    ],
+    "contraindications": [
+      "Complete mechanical biliary obstruction",
+      "Acute cholecystitis, cholangitis, or gallstone pancreatitis",
+      "Calcified radiopaque gallstones or non-functioning gallbladder",
+      "Severe hypersensitivity to bile acids"
+    ],
+    "warnings": [
+      "Long-term therapy required: gallstone dissolution takes 6 to 24 months (ultrasound every 6 months); gallstones recur in 50% within 5 years after stopping",
+      "Avoid high doses in Primary Sclerosing Cholangitis (>28-30 mg/kg/day increased mortality in trials)",
+      "Monitor liver enzymes regularly during therapy"
+    ],
+    "common_adverse_effects": [
+      "Diarrhoea and loose stools (most common: up to 5-10%)",
+      "Nausea",
+      "Abdominal discomfort",
+      "Pruritus (rare; usually relieves pruritus)",
+      "Alopecia / hair thinning (rare)"
+    ],
+    "serious_adverse_effects": [
+      "Worsening of cholestasis / hepatotoxicity (rare in PBC)",
+      "Calcification of preexisting cholesterol gallstones",
+      "Severe allergic rash"
+    ],
+    "drug_interactions": [
+      "Bile acid sequestrants (cholestyramine, colestipol - bind UDCA in the gut; separate by at least 4 to 5 hours)",
+      "Aluminum-based antacids (bind bile acids; separate by 2 hours)",
+      "Estrogens, oral contraceptives, and fibrates (increase biliary cholesterol secretion, counteracting gallstone dissolution)"
+    ],
+    "monitoring": [
+      "Liver function tests (serum alkaline phosphatase, ALT, AST, total bilirubin) every 3 months for the first year, then every 6 months",
+      "Biliary ultrasound every 6 months for gallstone dissolution monitoring",
+      "Serum bile acid levels in intrahepatic cholestasis of pregnancy"
+    ],
+    "pregnancy": "Category B; drug of choice and international standard of care for Intrahepatic Cholestasis of Pregnancy (ICP: relieves severe itching and reduces fetal risks).",
+    "lactation": "Excreted in human milk in negligible amounts; safe during breastfeeding.",
+    "pediatric": "Approved in children for cystic fibrosis-associated hepatobiliary disease (20 mg/kg/day).",
+    "geriatric": "No dosage adjustment required based on age alone.",
+    "renal": "No dosage adjustment required in renal impairment (cleared 99% by biliary route).",
+    "hepatic": "First-line treatment for chronic cholestatic liver disease; no dose adjustment needed; monitor liver panels.",
+    "advantages": [
+      "Disease-modifying gold standard that halts the progression of Primary Biliary Cholangitis and prolongs transplant-free survival",
+      "First-line safe therapy for Intrahepatic Cholestasis of Pregnancy (ICP), protecting both mother and unborn fetus",
+      "Non-surgical oral option for dissolving small cholesterol gallstones"
+    ],
+    "disadvantages": [
+      "Dissolving gallstones takes 6 to 24 months and stones often recur after stopping",
+      "Ineffective for calcified or pigmented gallstones"
+    ],
+    "key_points": [
+      "Essential liver-protecting medicine for primary biliary cholangitis and liver cholestasis",
+      "Take with meals; do not take at the same time as antacids or cholesterol-binding resins"
+    ],
+    "memory_trick": "URSO-deoxycholic: Unclogs Biliary Stasis; Replaces toxic bile; Safe in pregnancy itching (ICP); Outclasses surgery.",
+    "key_suffix": "-cholic",
+    "pronunciation_en": "ur-soe-dee-ox-ee-KOE-lik AS-id",
+    "pronunciation_hi": "\u0909\u0930\u094d\u0938\u094b-\u0921\u093f\u0911\u0915\u094d\u0938\u0940\u0915\u094b\u0932\u093f\u0915 \u090f\u0938\u093f\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "obeticholic-acid",
+    "generic_name": "Obeticholic Acid (OCA)",
+    "display_name": "Obeticholic Acid",
+    "active_ingredient": "Obeticholic acid",
+    "salt": "Obeticholic acid",
+    "category": "Hepatology",
+    "description": "A potent semi-synthetic farnesoid X receptor (FXR) agonist that suppresses bile acid synthesis and enhances biliary output, used for primary biliary cholangitis unresponsive to UDCA.",
+    "strengths": [
+      "5 mg",
+      "10 mg"
+    ],
+    "dosage_forms": [
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Binds directly and potently to the nuclear farnesoid X receptor (FXR) with 100-fold higher affinity than chenodeoxycholic acid; activation of FXR down-regulates cholesterol 7-alpha-hydroxylase (CYP7A1), the rate-limiting enzyme in bile acid synthesis, and up-regulates bile salt export pump (BSEP) and fibroblast growth factor 19 (FGF19).",
+    "pharmacodynamics": "Dramatically reduces toxic intracellular bile acid accumulation in hepatocytes, suppresses hepatic inflammation, and inhibits hepatic stellate cell fibrogenesis; significantly reduces serum alkaline phosphatase and total bilirubin in PBC patients failing UDCA.",
+    "absorption": "Rapidly absorbed; peak plasma concentration in 1.5 hours; absolute bioavailability not established; take with or without food.",
+    "distribution": "Apparent volume of distribution approx. 618 L; highly bound to human plasma proteins (>99%).",
+    "metabolism": "Conjugated in the liver with glycine and taurine to active glyco- and tauro-obeticholic acid, which possess equal FXR agonist activity; undergoes enterohepatic recirculation.",
+    "excretion": "Excreted predominantly in faeces (approx. 87% via biliary elimination); less than 3% in urine.",
+    "bioavailability": "High biliary uptake",
+    "half_life": "24 hours (conjugated metabolites half-life prolonged in enterohepatic cycle)",
+    "protein_binding": ">99%",
+    "onset": "Reduces alkaline phosphatase within 2 to 4 weeks",
+    "duration": "24 hours (once daily)",
+    "indications": [
+      "Treatment of Primary Biliary Cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in adults intolerant to UDCA"
+    ],
+    "contraindications": [
+      "DECOMPENSATED CIRRHOSIS (Child-Pugh Class B or C, or patients with prior decompensation events, ascites, or variceal bleeding - black box contraindication: causes fatal hepatic failure)",
+      "Complete biliary obstruction",
+      "Known hypersensitivity to obeticholic acid"
+    ],
+    "warnings": [
+      "Black box warning: HEPATIC DECOMPENSATION AND FAILURE IN CIRRHOTIC PBC PATIENTS: Inadvertently high or daily dosing in patients with moderate to severe hepatic impairment has resulted in liver failure and death; STRICTLY CONTRAINDICATED in decompensated cirrhosis",
+      "SEVERE PRURITUS: Dose-dependent, intense pruritus occurs in up to 60-70% of patients (manage with bile acid resins, antihistamines, or dose reduction)",
+      "Elevates LDL cholesterol and reduces HDL cholesterol"
+    ],
+    "common_adverse_effects": [
+      "Severe pruritus (intense itching in up to 60-70% of patients)",
+      "Fatigue",
+      "Abdominal pain and discomfort",
+      "Arthralgia",
+      "Constipation",
+      "Dizziness"
+    ],
+    "serious_adverse_effects": [
+      "Fatal hepatic decompensation / acute liver failure",
+      "Severe intractable pruritus requiring discontinuation",
+      "Marked dyslipidemia / cardiovascular risk"
+    ],
+    "drug_interactions": [
+      "Bile acid sequestrants (cholestyramine, colesevelam - bind obeticholic acid; separate by at least 4 to 6 hours)",
+      "Warfarin (obeticholic acid may decrease INR; monitor prothrombin time)",
+      "CYP1A2 substrates (theophylline, tizanidine - increases drug levels)"
+    ],
+    "monitoring": [
+      "Serum alkaline phosphatase and total bilirubin regularly",
+      "Liver function and clinical signs of decompensation (ascites, jaundice, encephalopathy) - STOP IMMEDIATELY if decompensation occurs",
+      "Lipid profile (LDL, HDL, triglycerides) at baseline and periodically"
+    ],
+    "pregnancy": "Avoid in pregnancy; limited human data; animal studies show fetal toxicity at maternal toxic doses.",
+    "lactation": "Excretion in human milk unknown; breastfeeding not recommended.",
+    "pediatric": "Safety and efficacy in pediatric patients not established.",
+    "geriatric": "No dosage adjustment required based on age alone; monitor liver function closely.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "BLACK BOX CONTRAINDICATION: Strictly contraindicated in decompensated cirrhosis (Child-Pugh B and C); in compensated cirrhosis, start at 5 mg once weekly, not daily.",
+    "advantages": [
+      "Potent nuclear FXR agonist that lowers toxic bile acid synthesis at the genetic transcription level",
+      "Second-line lifeline for patients with Primary Biliary Cholangitis failing ursodeoxycholic acid",
+      "Proven significant reduction in alkaline phosphatase and fibrosis markers"
+    ],
+    "disadvantages": [
+      "BLACK BOX WARNING: Triggers fatal liver failure if given to patients with advanced or decompensated cirrhosis",
+      "Severe, intense itching (pruritus) in up to 70% of patients"
+    ],
+    "key_points": [
+      "Second-line liver medication for primary biliary cholangitis when UDCA alone is not enough",
+      "DANGER: Strictly forbidden in advanced liver cirrhosis; report worsening jaundice or belly swelling immediately"
+    ],
+    "memory_trick": "OBETI-cholic: Operates on Bile via FXR; Exclusively for non-decompensated PBC; Terrible itching (pruritus); Inappropriate in cirrhosis.",
+    "key_suffix": "-cholic",
+    "pronunciation_en": "oh-BET-i-KOE-lik AS-id",
+    "pronunciation_hi": "\u0913\u092c\u0947\u091f\u093f\u0915\u094b\u0932\u093f\u0915 \u090f\u0938\u093f\u0921",
+    "status": "active",
+    "verification_status": "verified"
+  },
+  {
+    "slug": "silymarin",
+    "generic_name": "Silymarin (Milk Thistle Extract)",
+    "display_name": "Silymarin Capsules / Tablets",
+    "active_ingredient": "Silymarin (flavonolignans: silybin, silychristin, silydianin)",
+    "salt": "Silymarin extract",
+    "category": "Hepatology",
+    "description": "A standardized botanical extract of Silybum marianum containing flavonolignans (silybin) with potent antioxidant, membrane-stabilizing, and antifibrotic hepatoprotective properties.",
+    "strengths": [
+      "70 mg",
+      "140 mg"
+    ],
+    "dosage_forms": [
+      "Capsule",
+      "Film-coated Tablet"
+    ],
+    "routes": [
+      "Oral"
+    ],
+    "mechanism_of_action": "Multiple hepatoprotective actions: scavenges free radicals, prevents lipid peroxidation of hepatocyte membranes, stimulates RNA polymerase I to accelerate ribosomal protein synthesis and liver regeneration, and inhibits nuclear factor-kappa B (NF-kB) to suppress inflammatory cytokines and hepatic stellate cell activation.",
+    "pharmacodynamics": "Inhibits toxin penetration into hepatocytes (protects against death-cap mushroom Amanita phalloides poisoning by blocking amatoxin entry); reduces liver enzymes (ALT, AST) in non-alcoholic fatty liver disease (NAFLD) and toxic liver injury.",
+    "absorption": "Poorly absorbed from GI tract (20-50% bioavailability) due to low water solubility; take with meals to enhance absorption.",
+    "distribution": "Rapidly taken up by hepatocytes; low systemic distribution; 75-90% bound to plasma proteins.",
+    "metabolism": "Extensively metabolized in the liver via glucuronidation and sulfation; undergoes enterohepatic recirculation.",
+    "excretion": "Excreted predominantly in bile and faeces (approx. 80%); only 3-8% excreted in urine.",
+    "bioavailability": "20% to 50%",
+    "half_life": "6 hours (elimination half-life of free silybin)",
+    "protein_binding": "75% to 90%",
+    "onset": "Antioxidant and hepatoprotective effects develop over 4 to 8 weeks",
+    "duration": "8 hours (dosed 140 mg TID with meals)",
+    "indications": [
+      "Supportive adjuvant therapy in chronic liver diseases (non-alcoholic fatty liver disease - NAFLD/NASH, alcoholic liver disease, chronic viral hepatitis)",
+      "Protection against hepatotoxins and drug-induced liver injury",
+      "Intravenous silybin is the specific emergency antidote for Amanita phalloides (death cap mushroom) poisoning"
+    ],
+    "contraindications": [
+      "Hypersensitivity to silymarin or plants of the Asteraceae / Compositae family (daisies, ragweed, marigolds)"
+    ],
+    "warnings": [
+      "Botanical adjuvant therapy: NOT a substitute for eliminating root causes (alcohol cessation, weight loss in NAFLD, or antiviral therapy in Hepatitis B/C)",
+      "Mild laxative effect at higher doses (due to increased bile secretion)",
+      "Allergic reactions in ragweed-sensitive patients"
+    ],
+    "common_adverse_effects": [
+      "Mild diarrhoea / loose stools",
+      "Bloating and flatulence",
+      "Nausea",
+      "Dyspepsia",
+      "Headache"
+    ],
+    "serious_adverse_effects": [
+      "Severe allergic anaphylaxis (in patients with Asteraceae / ragweed allergy - rare)"
+    ],
+    "drug_interactions": [
+      "Mild inhibition of CYP2C9 and CYP3A4 at high concentrations; monitor narrow-index substrates (warfarin, phenytoin)",
+      "Metronidazole (may modestly decrease metronidazole exposure)"
+    ],
+    "monitoring": [
+      "Serum transaminases (ALT, AST) and ultrasound for hepatic steatosis resolution",
+      "Tolerance and gastrointestinal symptoms"
+    ],
+    "pregnancy": "Avoid in pregnancy due to limited clinical safety data.",
+    "lactation": "Excretion in breast milk unknown; use caution during breastfeeding.",
+    "pediatric": "Safety and efficacy in young children not established.",
+    "geriatric": "No dosage adjustment required based on age alone; excellent tolerability.",
+    "renal": "No dosage adjustment required in renal impairment.",
+    "hepatic": "Safe supportive agent across chronic liver conditions; no dose adjustment required.",
+    "advantages": [
+      "Natural antioxidant and hepatoprotective agent with an exceptional safety profile over decades of use",
+      "Proven live-saving parenteral antidote for fatal Amanita phalloides mushroom poisoning",
+      "Stimulates hepatic protein synthesis and natural liver cellular repair mechanisms"
+    ],
+    "disadvantages": [
+      "Low oral bioavailability requires taking capsules three times daily with meals",
+      "Acts as an adjuvant; cannot replace medical treatment for viral hepatitis or alcohol abstinence"
+    ],
+    "key_points": [
+      "Natural milk thistle liver protector that shields liver cells from toxins and oxidative stress",
+      "Take one 140 mg capsule three times daily with meals"
+    ],
+    "memory_trick": "SILY-marin: Shield for Liver; Inhibits lipid peroxidation; Life-saving in Amanita mushroom poisoning; Yeast/plant derived.",
+    "key_suffix": "-marin",
+    "pronunciation_en": "sil-i-MA-rin",
+    "pronunciation_hi": "\u0938\u093f\u0932\u0940-\u092e\u093e\u0930\u093f\u0928",
+    "status": "active",
+    "verification_status": "verified"
+  }
+]

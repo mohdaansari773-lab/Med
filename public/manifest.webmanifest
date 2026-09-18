@@ -1,0 +1,10 @@
+{
+  "name": "MediVault India",
+  "short_name": "MediVault",
+  "description": "Medicine, pharmacology, learning and reference for medicines used in India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fbfb",
+  "theme_color": "#0f766e",
+  "icons": [{ "src": "/favicon.ico", "sizes": "48x48", "type": "image/x-icon" }]
+}
