@@ -3,6 +3,41 @@ import { createClient } from "@supabase/supabase-js";
 import type { Database } from "./types";
 import { brokeredPreviewStorage } from "./previewAuthStorage";
 
+function sanitizeSupabaseUrl(rawUrl?: unknown): string | null {
+  if (typeof rawUrl !== "string" || !rawUrl.trim()) return null;
+  let val = rawUrl.trim();
+  // If user or environment variable got pasted with "NAME=https://..."
+  const urlMatch = val.match(/https?:\/\/[^\s"',;]+/);
+  if (urlMatch) {
+    val = urlMatch[0];
+  }
+  try {
+    const parsed = new URL(val);
+    if (parsed.protocol === "http:" || parsed.protocol === "https:") {
+      return parsed.origin;
+    }
+  } catch {
+    // invalid URL format
+  }
+  return null;
+}
+
+function sanitizeSupabaseKey(rawKey?: unknown): string | null {
+  if (typeof rawKey !== "string" || !rawKey.trim()) return null;
+  let val = rawKey.trim();
+  // Strip variable name prefix like "KEY="
+  if (val.includes("=")) {
+    val = val.split("=").pop()?.trim() || val;
+  }
+  // If someone passed the URL as the key, ignore it
+  if (val.startsWith("http://") || val.startsWith("https://")) {
+    return null;
+  }
+  // Remove quotes or stray semicolons
+  val = val.replace(/^['"]+|['";]+$/g, "").trim();
+  return val.length > 5 ? val : null;
+}
+
 function isNewSupabaseApiKey(value: string): boolean {
   return value.startsWith("sb_publishable_") || value.startsWith("sb_secret_");
 }
@@ -31,19 +66,34 @@ function createSupabaseFetch(supabaseKey: string): typeof fetch {
 }
 
 function createSupabaseClient() {
-  // Use import.meta.env for client-side (Vite build-time replacement)
-  // Fall back to process.env for SSR (server-side rendering)
-  const SUPABASE_URL = import.meta.env["VITE_SUPABASE_URL"] || process.env["SUPABASE_URL"];
-  const SUPABASE_PUBLISHABLE_KEY =
-    import.meta.env["VITE_SUPABASE_PUBLISHABLE_KEY"] || process.env["SUPABASE_PUBLISHABLE_KEY"];
+  // Candidate URLs from client-side or server-side envs
+  const rawUrlCandidate =
+    (typeof process !== "undefined" && process.env?.["NEXT_PUBLIC_SUPABASE_URL"]) ||
+    import.meta.env["NEXT_PUBLIC_SUPABASE_URL"] ||
+    import.meta.env["VITE_SUPABASE_URL"] ||
+    (typeof process !== "undefined" && process.env?.["SUPABASE_URL"]) ||
+    (typeof process !== "undefined" && process.env?.["VITE_SUPABASE_URL"]);
 
-  if (!SUPABASE_URL || !SUPABASE_PUBLISHABLE_KEY) {
-    const missing = [
-      ...(!SUPABASE_URL ? ["SUPABASE_URL"] : []),
-      ...(!SUPABASE_PUBLISHABLE_KEY ? ["SUPABASE_PUBLISHABLE_KEY"] : []),
-    ];
+  // Candidate Keys from client-side or server-side envs
+  const rawKeyCandidate =
+    (typeof process !== "undefined" && process.env?.["NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY"]) ||
+    import.meta.env["NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY"] ||
+    import.meta.env["VITE_SUPABASE_PUBLISHABLE_KEY"] ||
+    (typeof process !== "undefined" && process.env?.["SUPABASE_PUBLISHABLE_KEY"]) ||
+    (typeof process !== "undefined" && process.env?.["VITE_SUPABASE_PUBLISHABLE_KEY"]);
+
+  let validUrl = sanitizeSupabaseUrl(rawUrlCandidate);
+  let validKey = sanitizeSupabaseKey(rawKeyCandidate);
+
+  // If variables were swapped, recover gracefully
+  if (!validUrl && sanitizeSupabaseUrl(rawKeyCandidate)) {
+    validUrl = sanitizeSupabaseUrl(rawKeyCandidate);
+    validKey = sanitizeSupabaseKey(rawUrlCandidate);
+  }
+
+  if (!validUrl || !validKey) {
     console.warn(
-      `[Supabase] Missing Supabase environment variable(s): ${missing.join(", ")}. Using offline fallback client.`,
+      `[Supabase] Missing or invalid Supabase URL/Key. Using safe fallback client.`,
     );
     return createClient<Database>("https://placeholder.supabase.co", "placeholder-key", {
       global: {
@@ -60,9 +110,9 @@ function createSupabaseClient() {
     });
   }
 
-  return createClient<Database>(SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY, {
+  return createClient<Database>(validUrl, validKey, {
     global: {
-      fetch: createSupabaseFetch(SUPABASE_PUBLISHABLE_KEY),
+      fetch: createSupabaseFetch(validKey),
     },
     auth: {
       storage: brokeredPreviewStorage(),

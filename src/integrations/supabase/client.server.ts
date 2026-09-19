@@ -5,6 +5,37 @@
 import { createClient } from "@supabase/supabase-js";
 import type { Database } from "./types";
 
+function sanitizeSupabaseUrl(rawUrl?: unknown): string | null {
+  if (typeof rawUrl !== "string" || !rawUrl.trim()) return null;
+  let val = rawUrl.trim();
+  const urlMatch = val.match(/https?:\/\/[^\s"',;]+/);
+  if (urlMatch) {
+    val = urlMatch[0];
+  }
+  try {
+    const parsed = new URL(val);
+    if (parsed.protocol === "http:" || parsed.protocol === "https:") {
+      return parsed.origin;
+    }
+  } catch {
+    // invalid URL format
+  }
+  return null;
+}
+
+function sanitizeSupabaseKey(rawKey?: unknown): string | null {
+  if (typeof rawKey !== "string" || !rawKey.trim()) return null;
+  let val = rawKey.trim();
+  if (val.includes("=")) {
+    val = val.split("=").pop()?.trim() || val;
+  }
+  if (val.startsWith("http://") || val.startsWith("https://")) {
+    return null;
+  }
+  val = val.replace(/^['"]+|['";]+$/g, "").trim();
+  return val.length > 5 ? val : null;
+}
+
 function isNewSupabaseApiKey(value: string): boolean {
   return value.startsWith("sb_publishable_") || value.startsWith("sb_secret_");
 }
@@ -33,17 +64,19 @@ function createSupabaseFetch(supabaseKey: string): typeof fetch {
 }
 
 function createSupabaseAdminClient() {
-  const SUPABASE_URL = process.env["SUPABASE_URL"] || process.env["VITE_SUPABASE_URL"];
-  const SUPABASE_SECRET =
+  const rawUrl =
+    process.env["NEXT_PUBLIC_SUPABASE_URL"] ||
+    process.env["SUPABASE_URL"] ||
+    process.env["VITE_SUPABASE_URL"];
+  const rawSecret =
     process.env["SUPABASE_SECRET_KEY"] || process.env["SUPABASE_SERVICE_ROLE_KEY"];
 
-  if (!SUPABASE_URL || !SUPABASE_SECRET) {
-    const missing = [
-      ...(!SUPABASE_URL ? ["SUPABASE_URL / VITE_SUPABASE_URL"] : []),
-      ...(!SUPABASE_SECRET ? ["SUPABASE_SECRET_KEY / SUPABASE_SERVICE_ROLE_KEY"] : []),
-    ];
+  const validUrl = sanitizeSupabaseUrl(rawUrl);
+  const validSecret = sanitizeSupabaseKey(rawSecret);
+
+  if (!validUrl || !validSecret) {
     console.warn(
-      `[Supabase] Missing Supabase environment variable(s): ${missing.join(", ")}. Using offline fallback admin client.`,
+      `[Supabase] Missing or invalid Supabase admin URL/Key. Using safe fallback admin client.`,
     );
     return createClient<Database>("https://placeholder.supabase.co", "placeholder-service-key", {
       global: {
@@ -61,9 +94,9 @@ function createSupabaseAdminClient() {
     });
   }
 
-  return createClient<Database>(SUPABASE_URL, SUPABASE_SECRET, {
+  return createClient<Database>(validUrl, validSecret, {
     global: {
-      fetch: createSupabaseFetch(SUPABASE_SECRET),
+      fetch: createSupabaseFetch(validSecret),
     },
     auth: {
       storage: undefined,

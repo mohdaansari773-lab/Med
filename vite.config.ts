@@ -27,6 +27,7 @@ export default defineConfig({
     server: { entry: "server" },
   },
   vite: {
+    envPrefix: ["VITE_", "NEXT_PUBLIC_"],
     plugins: [silenceDirectivesPlugin()],
     build: {
       rollupOptions: {
